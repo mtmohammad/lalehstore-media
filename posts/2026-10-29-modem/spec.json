@@ -1,0 +1,12 @@
+{
+  "format": "post", "seed": 29,
+  "hook": {"l1": "کدوم مودم", "l2": "برای خونه تو؟", "images": ["dsl124.webp", "w8961n.webp", "w9960.webp"]},
+  "steps": [
+    {"title": "خط تلفنت ADSL هست؟",
+     "products": [{"img": "w8961n.webp", "caption": "TD-W8961N"}, {"img": "dsl124.webp", "caption": "DSL-124"}],
+     "notes": ["سرعت وای فای تا 300Mbps", "2 آنتن 5dBi و 4 پورت LAN"], "tag": "انتخاب خوب"},
+    {"title": "سرویس VDSL داری؟", "products": [{"img": "w9960.webp", "caption": "TD-W9960"}],
+     "notes": ["هم VDSL هم ADSL", "مناسب ارتقای سرویس در آینده"]}
+  ],
+  "outro": {"l1": "نمی دونی خطت چیه؟", "l2": "دایرکت بده تا راهنماییت کنیم", "warranty": "36 ماه ضمانت"}
+}
