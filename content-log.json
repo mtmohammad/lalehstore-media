@@ -1,25 +1,124 @@
 {
   "_note": "History of everything published or scheduled on Instagram @lalehstoree. The daily job MUST read this before choosing content and MUST append to it after scheduling. Never repeat a topic/angle; a product may reappear only after 30 days and only with a new angle.",
   "feed": [
-    {"date": "2026-10-25", "type": "carousel", "topic": "محصولات جدید سیستم صوتی خودرو", "products": ["JBL Club 64C", "JBL GX9638", "Infinity Reference 6530CX", "JBL Stage 122"], "style": "light"},
-    {"date": "2026-10-26", "type": "reel", "topic": "راهنمای سیستم صوتی ماشین: چه سیستمی ببندیم؟", "products": ["JBL Club 64C", "JBL GX9638", "JBL Concert A704", "Infinity Alpha 2804A", "JBL Stage 102", "JBL Stage 122"], "style": "light"},
-    {"date": "2026-10-27", "type": "carousel", "topic": "میکروفون های یقه ای بویا", "products": ["BOYA Magic-05", "BOYA Mini 2-02", "BOYA Omic U", "BOYA BY-V20"], "style": "light"},
-    {"date": "2026-10-28", "type": "reel", "topic": "محافظ برق رو اشتباه نخر! (کدوم محافظ برای کدوم وسیله)", "products": ["محافظ یخچال 2 خانه پارت الکتریک", "محافظ کولر گازی 16 آمپر", "محافظ پکیج 10 آمپر", "محافظ 4 خانه کامپیوتر"], "style": "collage", "folder": "posts/2026-10-28-power"},
-    {"date": "2026-10-29", "type": "post-video", "topic": "کدوم مودم برای خونه تو؟ ADSL یا VDSL", "products": ["TP-Link TD-W8961N", "D-Link DSL-124", "TP-Link TD-W9960"], "style": "collage", "folder": "posts/2026-10-29-modem"},
-    {"date": "2026-10-30", "type": "post-video", "topic": "مقاله: Aura Studio 5 یا Aura Studio 4", "products": ["Harman Kardon Aura Studio 5"], "article": "https://lalehstore.com/aura-studio-5-vs-4/", "style": "collage", "folder": "posts/2026-10-30-aura"}
+    {
+      "date": "2026-10-25",
+      "type": "carousel",
+      "topic": "محصولات جدید سیستم صوتی خودرو",
+      "products": [
+        "JBL Club 64C",
+        "JBL GX9638",
+        "Infinity Reference 6530CX",
+        "JBL Stage 122"
+      ],
+      "style": "light"
+    },
+    {
+      "date": "2026-10-26",
+      "type": "reel",
+      "topic": "راهنمای سیستم صوتی ماشین: چه سیستمی ببندیم؟",
+      "products": [
+        "JBL Club 64C",
+        "JBL GX9638",
+        "JBL Concert A704",
+        "Infinity Alpha 2804A",
+        "JBL Stage 102",
+        "JBL Stage 122"
+      ],
+      "style": "light"
+    },
+    {
+      "date": "2026-10-27",
+      "type": "carousel",
+      "topic": "میکروفون های یقه ای بویا",
+      "products": [
+        "BOYA Magic-05",
+        "BOYA Mini 2-02",
+        "BOYA Omic U",
+        "BOYA BY-V20"
+      ],
+      "style": "light"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "reel",
+      "topic": "محافظ برق رو اشتباه نخر! (کدوم محافظ برای کدوم وسیله)",
+      "products": [
+        "محافظ یخچال 2 خانه پارت الکتریک",
+        "محافظ کولر گازی 16 آمپر",
+        "محافظ پکیج 10 آمپر",
+        "محافظ 4 خانه کامپیوتر"
+      ],
+      "style": "collage",
+      "folder": "posts/2026-10-28-power"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "post-video",
+      "topic": "مقاله: Aura Studio 5 یا Aura Studio 4",
+      "products": [
+        "Harman Kardon Aura Studio 5"
+      ],
+      "article": "https://lalehstore.com/aura-studio-5-vs-4/",
+      "style": "collage",
+      "folder": "posts/2026-10-30-aura"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "post-video",
+      "topic": "کدوم مودم برای خونه تو؟ ADSL یا VDSL",
+      "products": [
+        "TP-Link TD-W8961N",
+        "D-Link DSL-124",
+        "TP-Link TD-W9960"
+      ],
+      "style": "collage",
+      "folder": "posts/2026-10-29-modem",
+      "note": "moved from 2026-10-29 (Thursday is not a post day)"
+    }
   ],
   "stories": [
-    {"date": "2026-10-28", "product": "JBL Club 64CSQ", "url": "https://lalehstore.com/jbl-club-64csq/"}
+    {
+      "date": "2026-10-28",
+      "product": "JBL Club 64CSQ",
+      "url": "https://lalehstore.com/jbl-club-64csq/"
+    }
   ],
-  "articles_used": ["https://lalehstore.com/aura-studio-5-vs-4/"],
+  "articles_used": [
+    "https://lalehstore.com/aura-studio-5-vs-4/"
+  ],
   "planned_next": [
-    {"date": "2026-10-31", "idea": "قطعی برق؟ چراغ و پرژکتور شارژی/خورشیدی", "products": ["KEYANG KY-200W", "Porodo PD-LSSLRLMP", "Porodo PD-LSMLJTFL"]},
-    {"idea": "مقاله: بهترین میکروفون بویا برای آیفون و اندروید", "article": "https://lalehstore.com/best-boya-microphones-iphone-android-2025/"},
-    {"idea": "مقاله: معرفی برند بویا", "article": "https://lalehstore.com/boya-brand-introduction/"},
-    {"idea": "سوئیچ شبکه تی پی لینک LS1005G / LS1008G: کی لازمه؟"},
-    {"idea": "باند بیضی 6×9 یا 16 سانت؟ (Infinity Primus 693M، JBL Club 6520)"},
-    {"idea": "ساب ووفر 10 یا 12 اینچ؟ (از زاویه جدید، نه تکرار ریل راهنما)"},
-    {"idea": "کاربردهای اسپیکر هارمن کاردن در خانه"},
-    {"idea": "اعتمادسازی: بسته بندی و ارسال سفارش (نیاز به فیلم واقعی از محمد)"}
-  ]
+    {
+      "idea": "قطعی برق؟ چراغ و پرژکتور شارژی/خورشیدی",
+      "products": [
+        "KEYANG KY-200W",
+        "Porodo PD-LSSLRLMP",
+        "Porodo PD-LSMLJTFL"
+      ]
+    },
+    {
+      "idea": "مقاله: بهترین میکروفون بویا برای آیفون و اندروید",
+      "article": "https://lalehstore.com/best-boya-microphones-iphone-android-2025/"
+    },
+    {
+      "idea": "مقاله: معرفی برند بویا",
+      "article": "https://lalehstore.com/boya-brand-introduction/"
+    },
+    {
+      "idea": "سوئیچ شبکه تی پی لینک LS1005G / LS1008G: کی لازمه؟"
+    },
+    {
+      "idea": "باند بیضی 6×9 یا 16 سانت؟ (Infinity Primus 693M، JBL Club 6520)"
+    },
+    {
+      "idea": "ساب ووفر 10 یا 12 اینچ؟ (از زاویه جدید، نه تکرار ریل راهنما)"
+    },
+    {
+      "idea": "کاربردهای اسپیکر هارمن کاردن در خانه"
+    },
+    {
+      "idea": "اعتمادسازی: بسته بندی و ارسال سفارش (نیاز به فیلم واقعی از محمد)"
+    }
+  ],
+  "schedule_rule": "Feed posts only on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. No feed post on Thursday or Saturday. Stories every day."
 }
