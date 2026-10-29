@@ -1,12 +1,12 @@
 """lalehstore cinematic paper-collage renderer (smooth 30 fps motion + kinetic typography).
 
-Same JSON spec as collage.py (hook / steps / outro), plus an optional "music" block that is
-only used when scheduling (Instagram audio), never rendered into the file:
+Same JSON spec as collage.py (hook / steps / outro), plus an optional "music" block. The film gets
+an instrumental bed made by music.py (no copyright, cut to the scene changes); mood "none" = silent:
 
 {
   "format": "reel" | "post",
   "seed": 30,
-  "music": {"query": "song title or artist", "audioVolume": 70},
+  "music": {"mood": "lofi" | "house" | "pop" | "none"},   # synthesized royalty-free bed (music.py)
   "hook":  {"l1": "...", "l2": "...", "sub": "...", "images": ["a.webp"]},
   "steps": [{"title": "...", "products": [{"img": "a.webp", "caption": "..."}],
              "notes": ["...", "..."], "tag": "..."}],
@@ -475,11 +475,26 @@ def main():
         print(f"preview {len(times)} frames, {total:.1f}s")
         return
     n = int(total * FPS)
+    spec = json.loads(spec_path.read_text(encoding="utf-8"))
+    mu = spec.get("music", {})
+    if mu.get("mood") == "none":
+        audio_in = ["-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100"]
+        afilter = []
+    else:   # royalty-free bed synthesized in code, cut to the scene changes
+        import music
+        cuts = [s.start for s in STATE["scenes"][1:]]
+        st, info = music.make(total, cuts, mu.get("mood"), int(spec.get("seed", 7)))
+        wav = str(out).replace(".mp4", "-music.wav")
+        music.write_wav(wav, st)
+        print("music", info)
+        audio_in = ["-i", wav]
+        afilter = ["-af", "loudnorm=I=-14:TP=-1.5:LRA=11"]
     cmd = ["ffmpeg", "-y", "-loglevel", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
-           "-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100", "-shortest",
-           "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p",
-           "-profile:v", "high", "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", str(out)]
+           *audio_in, "-shortest", *afilter,
+           "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p",
+           "-profile:v", "high", "-c:a", "aac", "-b:a", "160k", "-ar", "44100",
+           "-movflags", "+faststart", str(out)]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     with Pool(max(1, min(4, __import__("os").cpu_count() or 1)), initializer=_init, initargs=(str(spec_path),)) as pool:
         for buf in pool.imap(_job, range(n), chunksize=6):
