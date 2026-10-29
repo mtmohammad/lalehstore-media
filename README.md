@@ -5,7 +5,8 @@ Files here are public on purpose: Metricool downloads them from
 `https://raw.githubusercontent.com/mtmohammad/lalehstore-media/main/...` and keeps its own copy.
 
 ## Layout
-- `tools/collage.py` — paper-collage stop-motion renderer (reel 1080x1920 or post video 1080x1350) from a JSON spec. See the docstring.
+- `tools/cinema.py` — CURRENT style: cinematic paper-collage (smooth 30 fps motion, kinetic type, paper wipes) + `tools/music.py` royalty-free fallback music bed. Same spec as collage.py plus `music.mood`.
+- `tools/collage.py` — older paper-collage stop-motion renderer (its parts are reused by cinema.py) (reel 1080x1920 or post video 1080x1350) from a JSON spec. See the docstring.
 - `tools/story.py` — daily story (1080x1920 JPG) in the light brand style.
 - `tools/fonts/` — Vazirmatn, Lalezar (Arabic subset, Persian-only text) and Quicksand (wordmark). All OFL.
 - `posts/YYYY-MM-DD-slug/` — spec.json, product images, rendered `*.mp4` and `*-cover.jpg`.
