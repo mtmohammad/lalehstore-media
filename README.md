@@ -10,6 +10,8 @@ Files here are public on purpose: Metricool downloads them from
 - `tools/fonts/` — Vazirmatn, Lalezar (Arabic subset, Persian-only text) and Quicksand (wordmark). All OFL.
 - `posts/YYYY-MM-DD-slug/` — spec.json, product images, rendered `*.mp4` and `*-cover.jpg`.
 - `stories/YYYY-MM-DD/` — spec.json, product image, `story.jpg`.
+- `blog/` — weekly blog articles for lalehstore.com (car-audio pillar/cluster plan): workflow in `blog/README.md`, log in `blog/blog-log.json`.
+- `tools/blog/` — `sysgfx.py` (article cover, product/system/comparison banners via Playwright) and `prodimg.py` (product cutouts).
 - `content-log.json` — everything already published/scheduled. Read before choosing; append after scheduling.
 
 ## Run
