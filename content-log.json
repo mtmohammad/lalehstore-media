@@ -90,6 +90,11 @@
       "date": "2026-10-29",
       "product": "Porodo SoundTec Soul",
       "url": "https://lalehstore.com/%d8%a7%d8%b3%d9%be%db%8c%da%a9%d8%b1-%d8%a8%d9%84%d9%88%d8%aa%d9%88%d8%ab%db%8c-%d9%82%d8%a7%d8%a8%d9%84-%d8%ad%d9%85%d9%84-%d8%b3%d8%a7%d9%86%d8%af%d8%aa%da%a9-%d9%be%d8%b1%d9%88%d8%af%d9%88-%d9%85%d8%af%d9%84-soundtec-soul/"
+    },
+    {
+      "date": "2026-10-30",
+      "product": "BOYA Mini 2-01",
+      "url": "https://lalehstore.com/boya-mini-2-01/"
     }
   ],
   "articles_used": [
@@ -129,6 +134,16 @@
     },
     {
       "idea": "اسپیکر قابل حمل برای سفر و دورهمی: کدوم پرودو ساندتک؟ (Soul / PD-STVBPSPK)"
+    },
+    {
+      "idea": "میکروفون یقه ای تک یا دوتایی؟ (BOYA BY-V10 در برابر BOYA Mini 2-01)",
+      "products": [
+        "BOYA BY-V10 V2.0",
+        "BOYA Mini 2-01"
+      ]
+    },
+    {
+      "idea": "تلویزیون معمولی رو هوشمند کن: اندروید باکس (دسته android-tv-box، فقط موجودها)"
     }
   ],
   "schedule_rule": "Feed posts only on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. No feed post on Thursday or Saturday. Stories every day."
