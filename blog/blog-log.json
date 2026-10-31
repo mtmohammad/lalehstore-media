@@ -1,4 +1,39 @@
 {
  "note": "Published blog articles of the car-audio plan. Append one object per article after publishing.",
- "articles": []
+ "articles": [
+  {
+   "number": 1,
+   "title": "بهترین ساب ووفر ماشین در سال ۱۴۰۵؛ راهنمای انتخاب ساب جی بی ال، اینفینیتی و ساب اکتیو",
+   "type": "pillar",
+   "pillar": "ساب",
+   "post_id": 57141,
+   "url": "https://lalehstore.com/best-car-subwoofer/",
+   "date": "2026-10-31",
+   "jalali": "1405-08-09",
+   "focus_keyword": "بهترین ساب ووفر ماشین",
+   "words": 2917,
+   "products_linked": [
+    56420,
+    56421,
+    56611,
+    56610,
+    56609,
+    56422,
+    56419,
+    56418,
+    56612,
+    57054,
+    56617,
+    57028,
+    57031
+   ],
+   "images": {
+    "best-car-subwoofer-1405-cover": 57137,
+    "tube-box-vs-active-subwoofer": 57138,
+    "jbl-a1500hi-vs-infinity-alpha-121w": 57139,
+    "subwoofer-system-4ch-amp-bridge": 57140
+   },
+   "related_list": "«مقالات مرتبط» H2 + ul in post; append cluster <li> there"
+  }
+ ]
 }

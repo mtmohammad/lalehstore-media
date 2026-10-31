@@ -1,6 +1,6 @@
 {
  "number": 1,
- "status": "ready, not published (WordPress showed the login page on 2026-10-31)",
+ "status": "published 2026-10-31 (post 57141)",
  "type": "pillar",
  "pillar": "ساب",
  "title": "بهترین ساب ووفر ماشین در سال ۱۴۰۵؛ راهنمای انتخاب ساب جی بی ال، اینفینیتی و ساب اکتیو",
@@ -9,7 +9,9 @@
  "rank_math_title": "بهترین ساب ووفر ماشین ۱۴۰۵ | راهنمای انتخاب ساب و آمپ - لاله استور",
  "rank_math_description": "بهترین ساب ووفر ماشین را بر اساس صندوق، آمپ و بودجه انتخاب کنید؛ مقایسه ساب های جی بی ال، اینفینیتی و ساب اکتیو با قیمت روز و آمپ مناسب هر ساب.",
  "excerpt": "راهنمای انتخاب بهترین ساب ووفر ماشین: انواع ساب، معیارهای انتخاب، جدول مقایسه ساب های موجود و آمپ مناسب هر ساب.",
- "categories": [1543],
+ "categories": [
+  1543
+ ],
  "featured": "best-car-subwoofer-1405-cover.webp",
  "images": {
   "best-car-subwoofer-1405-cover": "بهترین ساب ووفر ماشین؛ ساب اینفینیتی، ساب باکس جی بی ال و ساب اکتیو ناکامیچی",
@@ -19,5 +21,19 @@
  },
  "content_placeholders": "{{IMG:<name>}} in article.html -> uploaded media URL; add class wp-image-<id> to each img",
  "prices_date": "۹ آبان ۱۴۰۵ — re-check prices and stock right before publishing",
- "products_linked": [56420,56421,56611,56610,56609,56422,56419,56418,56612,57054,56617,57028,57031]
+ "products_linked": [
+  56420,
+  56421,
+  56611,
+  56610,
+  56609,
+  56422,
+  56419,
+  56418,
+  56612,
+  57054,
+  56617,
+  57028,
+  57031
+ ]
 }
