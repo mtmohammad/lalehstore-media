@@ -66,6 +66,19 @@
    "note": "replaced stop-motion version with cinema.py version on 2026-10-29"
   },
   {
+   "date": "2026-10-31",
+   "type": "reel",
+   "manual": true,
+   "topic": "باند ماشین رو اشتباه نخر: آمپ داری یا نه؟",
+   "products": [
+    "Zenon ZN-967",
+    "Kenwood KFC-PS1797"
+   ],
+   "style": "cinema",
+   "music": "suggested in app: house/drive instrumental",
+   "folder": "posts/2026-10-31-speakers"
+  },
+  {
    "date": "2026-11-01",
    "type": "post-video",
    "topic": "کدوم مودم برای خونه تو؟ ADSL یا VDSL",
@@ -106,13 +119,6 @@
   "https://lalehstore.com/aura-studio-5-vs-4/"
  ],
  "planned_next": [
-  {
-   "idea": "باند ماشین رو اشتباه نخر: 2Way یا 4Way، 16 سانت یا بیضی؟ (قلاب «اشتباه نخر»، فقط موجودها مثل Kenwood KFC-PS1797 و Zenon ZN-967)",
-   "products": [
-    "Kenwood KFC-PS1797",
-    "Zenon ZN-967"
-   ]
-  },
   {
    "idea": "قطعی برق؟ چراغ و پرژکتور شارژی/خورشیدی",
    "products": [
@@ -164,7 +170,7 @@
    ]
   }
  ],
- "schedule_rule": "Feed posts only on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. No feed post on Thursday or Saturday. Stories every day.",
+ "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day.",
  "insights": [
   {
    "date": "2026-10-31",
