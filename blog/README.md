@@ -20,7 +20,7 @@ Every `<table>` must be wrapped so it never overflows the phone screen, and its 
 - every th/td: `padding:8px 10px;text-align:center;vertical-align:middle;white-space:nowrap;border-bottom:1px solid #e3e3e3`
   (th also `background:#f4f4f4;font-weight:700`); first column of each row `text-align:right;white-space:normal;min-width:120px;max-width:170px` (long
   names wrap; extra notes like «کم عمق» go on a second line as `<br><small>`), so 3+ columns are visible on a phone.
-- units go in the header («توان RMS (وات)», «قیمت امروز (تومان)»), cells hold only the number, so columns stay narrow.
+- units go in the header («توان RMS (وات)», «مقاومت (اهم)»), cells hold only the number, so columns stay narrow.
 - max 6 columns; before publishing, screenshot the live post at 390 px width (Playwright, is_mobile) and check
   the page has no horizontal overflow (`document.documentElement.scrollWidth == innerWidth`) and rows are aligned.
 
@@ -48,8 +48,8 @@ Every `<table>` must be wrapped so it never overflows the phone screen, and its 
    - Links: pillar ↔ cluster (anchor = pillar keyword), 1–2 sibling clusters, the matching category page
      (anchor = category keyword), 2–5 PUBLISHED in-stock products. Never link a draft or out-of-stock product.
    - Conventions: 3Way/2Way (first mention «سه راهه (3Way)»), «ساب ووفر» and «یقه ای» without ZWNJ,
-     minimal ZWNJ (only «می‌» and «‌ها»), warranty text exactly as on the product page, prices in Toman with
-     «قیمت امروز (<date>)» wording, no «نمایندگی رسمی» claims, Carozeria/Zenon are not amplifier speakers.
+     minimal ZWNJ (only «می‌» and «‌ها»), warranty text exactly as on the product page, NO fixed prices anywhere
+     (no Toman figures, no price column, no «قیمت امروز», no «ارزان ترین/هم قیمت» claims; say «قیمت روز را در صفحه محصول ببینید»), no «نمایندگی رسمی» claims, Carozeria/Zenon are not amplifier speakers.
    - No invented tests, installs, customer quotes, reviews or statistics.
 4. Images (all original, from the site's own high-quality product photos; never stock, never upscaled, never
    low-res): `tools/blog/sysgfx.py` (Playwright → WebP).

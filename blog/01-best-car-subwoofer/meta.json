@@ -7,7 +7,7 @@
  "slug": "best-car-subwoofer",
  "focus_keyword": "بهترین ساب ووفر ماشین",
  "rank_math_title": "بهترین ساب ووفر ماشین ۱۴۰۵ | راهنمای انتخاب ساب و آمپ - لاله استور",
- "rank_math_description": "بهترین ساب ووفر ماشین را بر اساس صندوق، آمپ و بودجه انتخاب کنید؛ مقایسه ساب های جی بی ال، اینفینیتی و ساب اکتیو با قیمت روز و آمپ مناسب هر ساب.",
+ "rank_math_description": "بهترین ساب ووفر ماشین را بر اساس صندوق، آمپ و بودجه انتخاب کنید؛ مقایسه ساب های جی بی ال، اینفینیتی و ساب اکتیو و آمپ مناسب برای هر ساب.",
  "excerpt": "راهنمای انتخاب بهترین ساب ووفر ماشین: انواع ساب، معیارهای انتخاب، جدول مقایسه ساب های موجود و آمپ مناسب هر ساب.",
  "categories": [
   1543
@@ -16,11 +16,10 @@
  "images": {
   "best-car-subwoofer-1405-cover": "بهترین ساب ووفر ماشین؛ ساب اینفینیتی، ساب باکس جی بی ال و ساب اکتیو ناکامیچی",
   "tube-box-vs-active-subwoofer": "مقایسه ساب باکس لوله ای جی بی ال GT-X1500THI با ساب اکتیو زیر صندلی ناکامیچی NBF8.1A",
-  "jbl-a1500hi-vs-infinity-alpha-121w": "مقایسه مشخصات ساب جی بی ال A1500HI و اینفینیتی Alpha 121W",
-  "subwoofer-system-4ch-amp-bridge": "چیدمان سیستم صوتی ماشین با آمپ ۴ کانال جی بی ال A704 و ساب جی بی ال GX1200 در حالت بریج"
+  "subwoofer-system-4ch-amp-bridge": "چیدمان سیستم صوتی ماشین با آمپ ۴ کانال جی بی ال A704 و ساب جی بی ال GX1200 در حالت بریج",
+  "jbl-a1500hi-vs-infinity-alpha-121w-v2": "مقایسه مشخصات ساب جی بی ال A1500HI و اینفینیتی Alpha 121W"
  },
  "content_placeholders": "{{IMG:<name>}} in article.html -> uploaded media URL; add class wp-image-<id> to each img",
- "prices_date": "۹ آبان ۱۴۰۵ — re-check prices and stock right before publishing",
  "products_linked": [
   56420,
   56421,
