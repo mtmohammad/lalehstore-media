@@ -74,9 +74,10 @@
     "Zenon ZN-967",
     "Kenwood KFC-PS1797"
    ],
-   "style": "cinema",
+   "style": "studio",
    "music": "suggested in app: house/drive instrumental",
-   "folder": "posts/2026-10-31-speakers"
+   "folder": "posts/2026-10-31-speakers",
+   "video": "speakers-studio.mp4"
   },
   {
    "date": "2026-11-01",
@@ -87,10 +88,11 @@
     "D-Link DSL-124",
     "TP-Link TD-W9960"
    ],
-   "style": "collage",
+   "style": "studio",
    "folder": "posts/2026-10-29-modem",
    "note": "moved from 2026-10-29 (Thursday is not a post day)",
-   "music": "Flow State — Lightbox Music"
+   "music": "Flow State — Lightbox Music",
+   "video": "modem-studio.mp4"
   }
  ],
  "stories": [
@@ -178,5 +180,6 @@
    "finding": "Best: power-protector 'mistake' reel (reach 234, 5 saves, 3 shares, view rate 43.9%, avg watch 8.4s). Weakest: Aura Studio article reel (reach 41, view rate 30%, avg watch 4.7s). Carousels reached 94-157.",
    "apply": "Prefer problem/mistake hooks tied to a household or car need («X رو اشتباه نخر», «کدوم X برای کدوم ...») over plain comparisons; first frame must state the problem; keep reels ~15s."
   }
- ]
+ ],
+ "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push) + 3D product models built from the store's own photos (depth relief, perspective turn, light sweep, reflection)."
 }
