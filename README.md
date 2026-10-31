@@ -5,7 +5,7 @@ Files here are public on purpose: Metricool downloads them from
 `https://raw.githubusercontent.com/mtmohammad/lalehstore-media/main/...` and keeps its own copy.
 
 ## Layout
-- `tools/studio.py` — CURRENT style (since 2026-10-31): light story look + cinematic motion + 3D product models from the store photos (MiDaS depth, downloaded once to ~/.cache/lalehstore; dome fallback). Same spec as cinema.py. `python3 -I studio.py spec.json out.mp4 [--preview DIR]`.
+- `tools/studio.py` — CURRENT style (since 2026-10-31): light story look + cinematic motion; products are flat cut-outs that slide in and float (no 3D). Same spec as cinema.py. `python3 -I studio.py spec.json out.mp4 [--preview DIR]`.
 - `tools/highlights.py` — Instagram highlight covers (see highlights/README.md).
 - `tools/cinema.py` — previous style: cinematic paper-collage (smooth 30 fps motion, kinetic type, paper wipes) + `tools/music.py` royalty-free fallback music bed. Same spec as collage.py plus `music.mood`.
 - `tools/collage.py` — older paper-collage stop-motion renderer (its parts are reused by cinema.py) (reel 1080x1920 or post video 1080x1350) from a JSON spec. See the docstring.

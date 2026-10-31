@@ -69,15 +69,16 @@
    "date": "2026-10-31",
    "type": "reel",
    "manual": true,
-   "topic": "باند ماشین رو اشتباه نخر: آمپ داری یا نه؟",
+   "topic": "باند بیضی 6×9: جی بی ال یا کاروزریا؟ (آمپ داری یا نه)",
    "products": [
-    "Zenon ZN-967",
-    "Kenwood KFC-PS1797"
+    "JBL Stage3 9637",
+    "Carozzeria CRX-6970"
    ],
    "style": "studio",
    "music": "suggested in app: house/drive instrumental",
-   "folder": "posts/2026-10-31-speakers",
-   "video": "speakers-studio.mp4"
+   "folder": "posts/2026-10-31-oval",
+   "video": "oval-reel.mp4",
+   "note": "replaced the Zenon/Kenwood reel at Mohammad's request"
   },
   {
    "date": "2026-11-01",
@@ -92,7 +93,7 @@
    "folder": "posts/2026-10-29-modem",
    "note": "moved from 2026-10-29 (Thursday is not a post day)",
    "music": "Flow State — Lightbox Music",
-   "video": "modem-studio.mp4"
+   "video": "modem-v3.mp4"
   }
  ],
  "stories": [
@@ -121,6 +122,12 @@
   "https://lalehstore.com/aura-studio-5-vs-4/"
  ],
  "planned_next": [
+  {
+   "idea": "باند 16 سانت ماشین رو اشتباه نخر: آمپ داری یا نه؟ (Kenwood KFC-PS1797 در برابر یک مدل مخصوص پخش)",
+   "products": [
+    "Kenwood KFC-PS1797"
+   ]
+  },
   {
    "idea": "قطعی برق؟ چراغ و پرژکتور شارژی/خورشیدی",
    "products": [
@@ -181,5 +188,5 @@
    "apply": "Prefer problem/mistake hooks tied to a household or car need («X رو اشتباه نخر», «کدوم X برای کدوم ...») over plain comparisons; first frame must state the problem; keep reels ~15s."
   }
  ],
- "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push) + 3D product models built from the store's own photos (depth relief, perspective turn, light sweep, reflection)."
+ "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it)."
 }

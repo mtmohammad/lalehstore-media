@@ -1,4 +1,4 @@
-"""lalehstore STUDIO renderer: the light story look + cinematic motion + 3D products.
+"""lalehstore STUDIO renderer: the light story look + cinematic motion (flat animated products).
 
 Same JSON spec as cinema.py / collage.py (hook / steps / outro / music / seed / format).
 
@@ -7,12 +7,8 @@ lalehstore lockup, brand-gradient pills, white rounded cards, Vazirmatn type.
 Motion (kept from cinema.py): word-by-word kinetic typography (right to left), eased entrances,
 slow camera push with parallax, and a full-screen torn-paper wipe between scenes (the sheets are
 now white / brand gradient / soft pink / soft blue with the logo).
-3D products: each product photo becomes a 3D relief model. A monocular depth map (MiDaS small,
-ONNX, downloaded once from the MiDaS GitHub release; a geometric dome is used if that fails) gives
-every pixel a depth, the edge gets a side wall (thickness), and the model is rendered with real
-perspective while it turns (yaw/pitch spring in, then a slow turntable sway), lit by a moving key
-light with a specular sweep, with a floor reflection and a contact shadow. Nothing is invented:
-the surface is the store's own photo.
+Products: the store's own photo, cut out, on a spotlight with a soft shadow; it slides and scales
+in, then floats and slowly pushes in (flat 2D, no 3D — Mohammad's choice, 2026-10-31).
 
 Usage:
   python3 -I studio.py spec.json out.mp4 [--preview DIR]
@@ -23,7 +19,6 @@ import os
 import random
 import subprocess
 import sys
-import urllib.request
 from multiprocessing import Pool
 from pathlib import Path
 
@@ -51,8 +46,6 @@ SOFT_PINK = (253, 226, 235)
 SOFT_BLUE = (222, 236, 255)
 PHONE, SITE = "021-33917554", "lalehstore.com"
 SS = 2
-MIDAS_URL = "https://github.com/isl-org/MiDaS/releases/download/v2_1/model-small.onnx"
-CACHE = Path(os.environ.get("LALEH_CACHE", Path.home() / ".cache" / "lalehstore"))
 
 
 # ------------------------------------------------------------------ easing
@@ -252,193 +245,58 @@ def background():
     return bg, blur_rgba(big, 220)
 
 
-# ------------------------------------------------------------------ 3D product model
-_SESS = {}
+# ------------------------------------------------------------------ product (flat, animated)
+def cutout(img):
+    """Product photo with the background removed (keeps an existing transparent background)."""
+    im = img.convert("RGBA")
+    if np.asarray(im.getchannel("A")).min() > 250:      # opaque photo → cut the white away
+        im = mp.remove_white_bg(im.convert("RGB"))
+    return mp.trim(im)
 
 
-def _midas():
-    if "s" in _SESS:
-        return _SESS["s"]
-    sess = None
-    try:
-        import onnxruntime as ort
-        f = CACHE / "midas_small.onnx"
-        if not f.exists():
-            CACHE.mkdir(parents=True, exist_ok=True)
-            urllib.request.urlretrieve(MIDAS_URL, str(f) + ".part")
-            os.replace(str(f) + ".part", f)
-        opt = ort.SessionOptions()
-        opt.intra_op_num_threads = 1
-        sess = ort.InferenceSession(str(f), opt, providers=["CPUExecutionProvider"])
-    except Exception as e:   # no network / no onnxruntime → geometric fallback
-        print("depth model unavailable, using dome depth:", e, file=sys.stderr)
-    _SESS["s"] = sess
-    return sess
-
-
-def depth_map(rgba):
-    import cv2
-    a = rgba[..., 3]
-    inside = a > 0.5
-    dt = cv2.distanceTransform(inside.astype(np.uint8), cv2.DIST_L2, 5)
-    dome = np.sqrt(np.clip(dt / (dt.max() + 1e-6), 0, 1))         # rounded body
-    sess = _midas()
-    if sess is None:
-        return dome * a
-    rgb = cv2.resize(rgba[..., :3] * a[..., None] + (1 - a[..., None]), (256, 256),
-                     interpolation=cv2.INTER_AREA)
-    x = ((rgb - [0.485, 0.456, 0.406]) / [0.229, 0.224, 0.225]).transpose(2, 0, 1)[None]
-    d = sess.run(None, {sess.get_inputs()[0].name: x.astype(np.float32)})[0][0]
-    d = cv2.resize(d, (rgba.shape[1], rgba.shape[0]), interpolation=cv2.INTER_CUBIC)
-    v = d[inside]
-    d = np.clip((d - np.percentile(v, 2)) / (np.ptp(v) + 1e-6), 0, 1)
-    d = cv2.GaussianBlur(d, (0, 0), 2.0)
-    return (0.6 * d + 0.4 * dome) * a
-
-
-class Model3D:
-    """Relief model of a product photo. render(yaw, pitch, light) → RGBA image."""
-
-    def __init__(self, img, box_w, box_h, relief=0.16, thick=0.07):
-        import cv2
-        im = img.convert("RGBA")
-        if np.asarray(im.getchannel("A")).min() > 250:      # opaque photo → cut the white away
-            im = mp.remove_white_bg(im.convert("RGB"))
-        im = mp.trim(im)
-        im = mp.fit(im, box_w, box_h)
-        rgba = np.asarray(im).astype(np.float32) / 255
-        # pull the cut-out edge in by ~2px so no white halo from the photo background remains
-        a0 = (rgba[..., 3] > 0.5).astype(np.uint8)
-        a0 = cv2.erode(a0, np.ones((3, 3), np.uint8))
-        rgba[..., 3] = cv2.GaussianBlur(a0.astype(np.float32), (0, 0), 0.8) * (rgba[..., 3] > 0.02)
-        h, w = rgba.shape[:2]
-        dep = depth_map(rgba)
-        al = rgba[..., 3]
-        ys, xs = np.nonzero(al > 0.02)
-        size = max(w, h)
-        z = dep[ys, xs] * relief * size
-        # normals from the depth (for lighting)
-        gy, gx = np.gradient(dep * relief * size)
-        n = np.stack([-gx, -gy, np.ones_like(gx)], -1)
-        n /= np.linalg.norm(n, axis=-1, keepdims=True)
-        col = rgba[ys, xs, :3]
-        pts = [np.stack([xs - w / 2, ys - h / 2, z], -1)]
-        cols = [col]
-        nrm = [n[ys, xs]]
-        alp = [al[ys, xs]]
-        # side wall: the silhouette edge extruded backwards
-        er = cv2.erode((al > 0.5).astype(np.uint8), np.ones((3, 3), np.uint8))
-        edge = ((al > 0.5) & (er == 0))
-        ey, ex = np.nonzero(edge)
-        mean = rgba[al > 0.5, :3].mean(0) if (al > 0.5).any() else np.array([0.3, 0.3, 0.3])
-        base = np.repeat(mean[None], len(ey), 0)
-        T = thick * size
-        steps = max(4, int(T / 1.2))
-        cx_, cy_ = w / 2, h / 2
-        ang = np.arctan2(ey - cy_, ex - cx_)
-        side_n = np.stack([np.cos(ang), np.sin(ang), np.zeros_like(ang)], -1)
-        for k in range(1, steps + 1):
-            zz = dep[ey, ex] * relief * size * 0.3 - T * k / steps
-            pts.append(np.stack([ex - w / 2, ey - h / 2, zz], -1))
-            cols.append(base * 0.42 + 0.04)
-            nrm.append(side_n)
-            alp.append(np.ones(len(ey)))
-        self.P = np.concatenate(pts).astype(np.float32)
-        self.C = np.concatenate(cols).astype(np.float32)
-        self.N = np.concatenate(nrm).astype(np.float32)
-        self.A = np.concatenate(alp).astype(np.float32)
-        self.w, self.h = w, h
-        self.f = size * 3.2
-        self.cache = {}
-
-    def render(self, yaw, pitch=0.0, light=0.0, scale=1.0):
-        key = (round(yaw, 1), round(pitch, 1), round(light, 2), round(scale, 3))
-        if key in self.cache:
-            return self.cache[key]
-        cy, sy = math.cos(math.radians(yaw)), math.sin(math.radians(yaw))
-        cp, sp = math.cos(math.radians(pitch)), math.sin(math.radians(pitch))
-        Ry = np.array([[cy, 0, sy], [0, 1, 0], [-sy, 0, cy]], np.float32)
-        Rx = np.array([[1, 0, 0], [0, cp, -sp], [0, sp, cp]], np.float32)
-        R = Rx @ Ry
-        P = self.P @ R.T
-        N = self.N @ R.T
-        s = self.f / (self.f - P[:, 2])
-        k = SS_3D = 1                                   # noqa: F841
-        u = P[:, 0] * s * scale
-        v = P[:, 1] * s * scale
-        mw = int(max(self.w, self.h) * 1.25 * scale) + 8
-        mh = int(self.h * 1.25 * scale + abs(sy) * 40) + 8
-        ox, oy = mw / 2, mh / 2
-        ui = np.clip((u + ox).astype(np.int32), 0, mw - 2)
-        vi = np.clip((v + oy).astype(np.int32), 0, mh - 2)
-        # lighting: key light sweeps with `light`, plus a specular glint
-        lx = math.sin(light) * 0.75
-        L = np.array([lx, -0.45, 0.62], np.float32)
-        L /= np.linalg.norm(L)
-        lam = np.clip(N @ L, 0, 1)
-        Hh = L + np.array([0, 0, 1], np.float32)
-        Hh /= np.linalg.norm(Hh)
-        spec = np.clip(N @ Hh, 0, 1) ** 40
-        shade = 0.80 + 0.30 * lam
-        C = np.clip(self.C * shade[:, None] + spec[:, None] * 0.35, 0, 1)
-        order = np.argsort(P[:, 2], kind="stable")      # far first, near last wins
-        img = np.zeros((mh, mw, 4), np.float32)
-        for dx, dy in ((0, 0), (1, 0), (0, 1), (1, 1)):
-            o = order
-            img[vi[o] + dy, ui[o] + dx, :3] = C[o]
-            img[vi[o] + dy, ui[o] + dx, 3] = np.maximum(img[vi[o] + dy, ui[o] + dx, 3], self.A[o])
-        out = Image.fromarray((img * 255).astype(np.uint8), "RGBA")
-        r, g, b, a = out.split()
-        out = Image.merge("RGBA", (r, g, b, a.filter(ImageFilter.GaussianBlur(0.9))))
-        if len(self.cache) < 400:
-            self.cache[key] = out
-        return out
-
-
-class Product3D:
-    """A 3D product on a spotlight with reflection + contact shadow, spring-in then sway."""
+class Product:
+    """Flat product photo on a spotlight with a soft contact shadow.
+    Enters with a slide + scale (side=1 from the right, -1 from the left), then floats gently
+    with a slow push-in, so the image is always moving."""
 
     def __init__(self, img, box_w, box_h, seed=1, side=1):
-        self.m = Model3D(img, box_w, box_h)
+        self.im = mp.fit(cutout(img), box_w, box_h)
         self.spot = spotlight(int(box_w * 1.15), int(box_h * 0.95))
         self.phase = random.Random(seed).uniform(0, 6.28)
         self.side = side
+        w, h = self.im.size
+        sh = Image.new("RGBA", (int(w * 0.9) + 120, 160), (0, 0, 0, 0))
+        ImageDraw.Draw(sh).ellipse((60, 55, int(w * 0.9) + 60, 105), fill=(30, 30, 60, 85))
+        self.shadow = blur_rgba(sh, 18)
+        self.cache = {}
 
     def frame(self, t, scale=1.0):
         if t <= 0:
             return None, 0
-        p = spring(t * 1.15)
-        yaw = (1 - p) * 70 * self.side + math.sin(t * 1.1 + self.phase) * 13 * clamp(t - 0.6)
-        pitch = 8 + (1 - p) * 10 + math.sin(t * 0.8 + self.phase) * 3
-        light = t * 0.9 + self.phase
-        sc = scale * (0.82 + 0.18 * out_expo(pr(t, 0, 0.7)))
-        im = self.m.render(yaw, pitch, light, sc)
-        a = clamp(t / 0.25)
-        bb = im.getchannel("A").getbbox() or (0, 0, im.width, im.height)
-        bottom = bb[3]
-        pad = 40
-        out = Image.new("RGBA", (max(im.width, self.spot.width) + 2 * pad,
-                                 int(im.height * 1.45) + 2 * pad), (0, 0, 0, 0))
-        cx = out.width // 2
-        oy = pad + int((im.height - bottom) * 0.0)
-        # spotlight behind
-        out.alpha_composite(with_alpha(self.spot, a), (cx - self.spot.width // 2, oy + im.height // 2 - self.spot.height // 2))
-        # contact shadow
-        sw = int((bb[2] - bb[0]) * 0.9)
-        sh_ = Image.new("RGBA", (sw + 120, 160), (0, 0, 0, 0))
-        ImageDraw.Draw(sh_).ellipse((60, 55, sw + 60, 105), fill=(30, 30, 60, int(90 * a)))
-        sh_ = blur_rgba(sh_, 18)
-        out.alpha_composite(sh_, (cx - sh_.width // 2, oy + bottom - 80))
-        # reflection
-        refl = im.crop((0, bb[1], im.width, bottom)).transpose(Image.FLIP_TOP_BOTTOM)
-        rh = int(refl.height * 0.3)
-        refl = refl.crop((0, 0, refl.width, rh))
-        grad = Image.linear_gradient("L").resize((refl.width, rh)).point(lambda v: int((255 - v) * 0.22 * a))
-        ra = Image.fromarray(np.minimum(np.asarray(refl.getchannel("A")), np.asarray(grad)))
-        refl.putalpha(ra)
-        out.alpha_composite(refl, (cx - im.width // 2, oy + bottom + 6))
-        out.alpha_composite(with_alpha(im, a), (cx - im.width // 2, oy))
-        return out, oy + bottom
+        p = out_expo(pr(t, 0, 0.8))
+        a = clamp(t / 0.3)
+        s = scale * (0.86 + 0.14 * p) * (1 + 0.025 * clamp((t - 0.8) / 4))
+        dx = (1 - p) * 320 * self.side
+        dy = math.sin(t * 1.6 + self.phase) * 7 * clamp(t - 0.6)
+        rot = (1 - p) * 6 * self.side + math.sin(t * 1.1 + self.phase) * 0.6 * clamp(t - 0.6)
+        key = (round(s, 3), round(rot, 1))
+        im = self.cache.get(key)
+        if im is None:
+            im = self.im.resize((max(1, int(self.im.width * s)), max(1, int(self.im.height * s))), Image.BICUBIC)
+            if abs(rot) > 0.05:
+                im = im.rotate(rot, expand=True, resample=Image.BICUBIC)
+            if len(self.cache) < 300:
+                self.cache[key] = im
+        pad = 60
+        W_ = max(im.width, self.spot.width) + 2 * pad + 700
+        H_ = max(im.height, self.spot.height) + 2 * pad + 60
+        out = Image.new("RGBA", (W_, H_), (0, 0, 0, 0))
+        cx, cy = W_ // 2, H_ // 2
+        out.alpha_composite(with_alpha(self.spot, a), (cx - self.spot.width // 2, cy - self.spot.height // 2))
+        out.alpha_composite(with_alpha(self.shadow, a), (cx - self.shadow.width // 2 + int(dx * 0.6),
+                                                         cy + im.height // 2 - 90))
+        out.alpha_composite(with_alpha(im, a), (int(cx - im.width / 2 + dx), int(cy - im.height / 2 + dy)))
+        return out, cy + im.height // 2
 
 
 # ------------------------------------------------------------------ stage
@@ -501,20 +359,23 @@ def kt(text, px, color=INK, weight="Black", max_w=None, lines=2):
 
 
 def product_el(path, x, y, box_w, box_h, t_in, seed, side=1, depth=1.2):
-    pm = Product3D(Image.open(path), box_w, box_h, seed=seed, side=side)
+    pm = Product(Image.open(path), box_w, box_h, seed=seed, side=side)
 
     def src(lt):
         im, _ = pm.frame(lt)
         return im
-    return El(src, x, y + box_h * 0.3, t_in, enter="none", depth=depth)
+    return El(src, x, y, t_in, enter="none", depth=depth)
 
 
 def caption_img(text):
     """Product caption under the model: brand in gradient, model in ink (like the story)."""
     parts = text.split()
-    if len(parts) >= 2 and is_fa(parts[0]):
-        b = mp.gradient_text(parts[0], "Black", 40, rtl=True)
-        m = mp.text_img(" ".join(parts[1:]), "Black", 56, INK, rtl=is_fa(" ".join(parts[1:])))
+    k = 0
+    while k < len(parts) and is_fa(parts[k]):
+        k += 1
+    if 0 < k < len(parts):
+        b = mp.gradient_text(" ".join(parts[:k]), "Black", 40, rtl=True)
+        m = mp.text_img(" ".join(parts[k:]), "Black", 56, INK, rtl=False)
         out = Image.new("RGBA", (max(b.width, m.width), b.height + m.height + 12), (0, 0, 0, 0))
         out.alpha_composite(b, ((out.width - b.width) // 2, 0))
         out.alpha_composite(m, ((out.width - m.width) // 2, b.height + 12))
@@ -555,7 +416,7 @@ def build(spec, base: Path):
     ims = hk.get("images", [])[:3]
     n = len(ims)
     if n:
-        area_top, area_bot = y + 40, H - (300 if reel else 110)
+        area_top, area_bot = y + 110, H - (300 if reel else 110)
         cyp = (area_top + area_bot) / 2
         if n == 1:
             spots = [(W / 2, cyp, 820, 640 if reel else 470)]
@@ -592,8 +453,8 @@ def build(spec, base: Path):
         if len(prods) == 1:
             bh = min(560, avail - cap_h - 120)
             spots = [(W / 2, area_top + 30 + bh / 2, 860, bh)]
-        elif len(prods) == 2 and reel and avail > 820:
-            bh = min(360, (avail - 2 * cap_h - 120) / 2)
+        elif len(prods) == 2 and reel and avail > 600:
+            bh = min(360, (avail - 2 * cap_h - 60) / 2)
             y1 = area_top + 20 + bh / 2
             y2 = y1 + bh + cap_h + 70
             spots = [(W / 2, y1, 820, bh), (W / 2, y2, 820, bh)]
@@ -721,7 +582,6 @@ def _job(k):
 
 def main():
     spec_path, out = Path(sys.argv[1]), sys.argv[2]
-    _midas()          # download the depth model once, before the worker pool starts
     _init(spec_path)
     total = STATE["total"]
     if "--preview" in sys.argv:
