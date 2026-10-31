@@ -1,150 +1,176 @@
 {
-  "_note": "History of everything published or scheduled on Instagram @lalehstoree. The daily job MUST read this before choosing content and MUST append to it after scheduling. Never repeat a topic/angle; a product may reappear only after 30 days and only with a new angle.",
-  "feed": [
-    {
-      "date": "2026-10-25",
-      "type": "carousel",
-      "topic": "محصولات جدید سیستم صوتی خودرو",
-      "products": [
-        "JBL Club 64C",
-        "JBL GX9638",
-        "Infinity Reference 6530CX",
-        "JBL Stage 122"
-      ],
-      "style": "light"
-    },
-    {
-      "date": "2026-10-26",
-      "type": "reel",
-      "topic": "راهنمای سیستم صوتی ماشین: چه سیستمی ببندیم؟",
-      "products": [
-        "JBL Club 64C",
-        "JBL GX9638",
-        "JBL Concert A704",
-        "Infinity Alpha 2804A",
-        "JBL Stage 102",
-        "JBL Stage 122"
-      ],
-      "style": "light"
-    },
-    {
-      "date": "2026-10-27",
-      "type": "carousel",
-      "topic": "میکروفون های یقه ای بویا",
-      "products": [
-        "BOYA Magic-05",
-        "BOYA Mini 2-02",
-        "BOYA Omic U",
-        "BOYA BY-V20"
-      ],
-      "style": "light"
-    },
-    {
-      "date": "2026-10-28",
-      "type": "reel",
-      "topic": "محافظ برق رو اشتباه نخر! (کدوم محافظ برای کدوم وسیله)",
-      "products": [
-        "محافظ یخچال 2 خانه پارت الکتریک",
-        "محافظ کولر گازی 16 آمپر",
-        "محافظ پکیج 10 آمپر",
-        "محافظ 4 خانه کامپیوتر"
-      ],
-      "style": "collage",
-      "folder": "posts/2026-10-28-power"
-    },
-    {
-      "date": "2026-10-30",
-      "type": "post-video",
-      "topic": "مقاله: Aura Studio 5 یا Aura Studio 4",
-      "products": [
-        "Harman Kardon Aura Studio 5"
-      ],
-      "article": "https://lalehstore.com/aura-studio-5-vs-4/",
-      "style": "cinema",
-      "folder": "posts/sample-cinema",
-      "music": "Lofi Sunset — Neko Fuzz",
-      "note": "replaced stop-motion version with cinema.py version on 2026-10-29"
-    },
-    {
-      "date": "2026-11-01",
-      "type": "post-video",
-      "topic": "کدوم مودم برای خونه تو؟ ADSL یا VDSL",
-      "products": [
-        "TP-Link TD-W8961N",
-        "D-Link DSL-124",
-        "TP-Link TD-W9960"
-      ],
-      "style": "collage",
-      "folder": "posts/2026-10-29-modem",
-      "note": "moved from 2026-10-29 (Thursday is not a post day)",
-      "music": "Flow State — Lightbox Music"
-    }
-  ],
-  "stories": [
-    {
-      "date": "2026-10-28",
-      "product": "JBL Club 64CSQ",
-      "url": "https://lalehstore.com/jbl-club-64csq/"
-    },
-    {
-      "date": "2026-10-29",
-      "product": "Porodo SoundTec Soul",
-      "url": "https://lalehstore.com/%d8%a7%d8%b3%d9%be%db%8c%da%a9%d8%b1-%d8%a8%d9%84%d9%88%d8%aa%d9%88%d8%ab%db%8c-%d9%82%d8%a7%d8%a8%d9%84-%d8%ad%d9%85%d9%84-%d8%b3%d8%a7%d9%86%d8%af%d8%aa%da%a9-%d9%be%d8%b1%d9%88%d8%af%d9%88-%d9%85%d8%af%d9%84-soundtec-soul/"
-    },
-    {
-      "date": "2026-10-30",
-      "product": "BOYA Mini 2-01",
-      "url": "https://lalehstore.com/boya-mini-2-01/"
-    }
-  ],
-  "articles_used": [
-    "https://lalehstore.com/aura-studio-5-vs-4/"
-  ],
-  "planned_next": [
-    {
-      "idea": "قطعی برق؟ چراغ و پرژکتور شارژی/خورشیدی",
-      "products": [
-        "KEYANG KY-200W",
-        "Porodo PD-LSSLRLMP",
-        "Porodo PD-LSMLJTFL"
-      ]
-    },
-    {
-      "idea": "مقاله: بهترین میکروفون بویا برای آیفون و اندروید",
-      "article": "https://lalehstore.com/best-boya-microphones-iphone-android-2025/"
-    },
-    {
-      "idea": "مقاله: معرفی برند بویا",
-      "article": "https://lalehstore.com/boya-brand-introduction/"
-    },
-    {
-      "idea": "سوئیچ شبکه تی پی لینک LS1005G / LS1008G: کی لازمه؟"
-    },
-    {
-      "idea": "باند بیضی 6×9 یا 16 سانت؟ (Infinity Primus 693M، JBL Club 6520)"
-    },
-    {
-      "idea": "ساب ووفر 10 یا 12 اینچ؟ (از زاویه جدید، نه تکرار ریل راهنما)"
-    },
-    {
-      "idea": "کاربردهای اسپیکر هارمن کاردن در خانه"
-    },
-    {
-      "idea": "اعتمادسازی: بسته بندی و ارسال سفارش (نیاز به فیلم واقعی از محمد)"
-    },
-    {
-      "idea": "اسپیکر قابل حمل برای سفر و دورهمی: کدوم پرودو ساندتک؟ (Soul / PD-STVBPSPK)"
-    },
-    {
-      "idea": "میکروفون یقه ای تک یا دوتایی؟ (BOYA BY-V10 در برابر BOYA Mini 2-01)",
-      "products": [
-        "BOYA BY-V10 V2.0",
-        "BOYA Mini 2-01"
-      ]
-    },
-    {
-      "idea": "تلویزیون معمولی رو هوشمند کن: اندروید باکس (دسته android-tv-box، فقط موجودها)"
-    }
-  ],
-  "schedule_rule": "Feed posts only on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. No feed post on Thursday or Saturday. Stories every day."
+ "_note": "History of everything published or scheduled on Instagram @lalehstoree. The daily job MUST read this before choosing content and MUST append to it after scheduling. Never repeat a topic/angle; a product may reappear only after 30 days and only with a new angle.",
+ "feed": [
+  {
+   "date": "2026-10-25",
+   "type": "carousel",
+   "topic": "محصولات جدید سیستم صوتی خودرو",
+   "products": [
+    "JBL Club 64C",
+    "JBL GX9638",
+    "Infinity Reference 6530CX",
+    "JBL Stage 122"
+   ],
+   "style": "light"
+  },
+  {
+   "date": "2026-10-26",
+   "type": "reel",
+   "topic": "راهنمای سیستم صوتی ماشین: چه سیستمی ببندیم؟",
+   "products": [
+    "JBL Club 64C",
+    "JBL GX9638",
+    "JBL Concert A704",
+    "Infinity Alpha 2804A",
+    "JBL Stage 102",
+    "JBL Stage 122"
+   ],
+   "style": "light"
+  },
+  {
+   "date": "2026-10-27",
+   "type": "carousel",
+   "topic": "میکروفون های یقه ای بویا",
+   "products": [
+    "BOYA Magic-05",
+    "BOYA Mini 2-02",
+    "BOYA Omic U",
+    "BOYA BY-V20"
+   ],
+   "style": "light"
+  },
+  {
+   "date": "2026-10-28",
+   "type": "reel",
+   "topic": "محافظ برق رو اشتباه نخر! (کدوم محافظ برای کدوم وسیله)",
+   "products": [
+    "محافظ یخچال 2 خانه پارت الکتریک",
+    "محافظ کولر گازی 16 آمپر",
+    "محافظ پکیج 10 آمپر",
+    "محافظ 4 خانه کامپیوتر"
+   ],
+   "style": "collage",
+   "folder": "posts/2026-10-28-power"
+  },
+  {
+   "date": "2026-10-30",
+   "type": "post-video",
+   "topic": "مقاله: Aura Studio 5 یا Aura Studio 4",
+   "products": [
+    "Harman Kardon Aura Studio 5"
+   ],
+   "article": "https://lalehstore.com/aura-studio-5-vs-4/",
+   "style": "cinema",
+   "folder": "posts/sample-cinema",
+   "music": "Lofi Sunset — Neko Fuzz",
+   "note": "replaced stop-motion version with cinema.py version on 2026-10-29"
+  },
+  {
+   "date": "2026-11-01",
+   "type": "post-video",
+   "topic": "کدوم مودم برای خونه تو؟ ADSL یا VDSL",
+   "products": [
+    "TP-Link TD-W8961N",
+    "D-Link DSL-124",
+    "TP-Link TD-W9960"
+   ],
+   "style": "collage",
+   "folder": "posts/2026-10-29-modem",
+   "note": "moved from 2026-10-29 (Thursday is not a post day)",
+   "music": "Flow State — Lightbox Music"
+  }
+ ],
+ "stories": [
+  {
+   "date": "2026-10-28",
+   "product": "JBL Club 64CSQ",
+   "url": "https://lalehstore.com/jbl-club-64csq/"
+  },
+  {
+   "date": "2026-10-29",
+   "product": "Porodo SoundTec Soul",
+   "url": "https://lalehstore.com/%d8%a7%d8%b3%d9%be%db%8c%da%a9%d8%b1-%d8%a8%d9%84%d9%88%d8%aa%d9%88%d8%ab%db%8c-%d9%82%d8%a7%d8%a8%d9%84-%d8%ad%d9%85%d9%84-%d8%b3%d8%a7%d9%86%d8%af%d8%aa%da%a9-%d9%be%d8%b1%d9%88%d8%af%d9%88-%d9%85%d8%af%d9%84-soundtec-soul/"
+  },
+  {
+   "date": "2026-10-30",
+   "product": "BOYA Mini 2-01",
+   "url": "https://lalehstore.com/boya-mini-2-01/"
+  },
+  {
+   "date": "2026-10-31",
+   "product": "Pioneer DMH-AP6650BT",
+   "url": "https://lalehstore.com/pioneer-dmh-ap6650bt/"
+  }
+ ],
+ "articles_used": [
+  "https://lalehstore.com/aura-studio-5-vs-4/"
+ ],
+ "planned_next": [
+  {
+   "idea": "باند ماشین رو اشتباه نخر: 2Way یا 4Way، 16 سانت یا بیضی؟ (قلاب «اشتباه نخر»، فقط موجودها مثل Kenwood KFC-PS1797 و Zenon ZN-967)",
+   "products": [
+    "Kenwood KFC-PS1797",
+    "Zenon ZN-967"
+   ]
+  },
+  {
+   "idea": "قطعی برق؟ چراغ و پرژکتور شارژی/خورشیدی",
+   "products": [
+    "KEYANG KY-200W",
+    "Porodo PD-LSSLRLMP",
+    "Porodo PD-LSMLJTFL"
+   ]
+  },
+  {
+   "idea": "مقاله: بهترین میکروفون بویا برای آیفون و اندروید",
+   "article": "https://lalehstore.com/best-boya-microphones-iphone-android-2025/"
+  },
+  {
+   "idea": "مقاله: معرفی برند بویا",
+   "article": "https://lalehstore.com/boya-brand-introduction/"
+  },
+  {
+   "idea": "سوئیچ شبکه تی پی لینک LS1005G / LS1008G: کی لازمه؟"
+  },
+  {
+   "idea": "باند بیضی 6×9 یا 16 سانت؟ (Infinity Primus 693M، JBL Club 6520)"
+  },
+  {
+   "idea": "ساب ووفر 10 یا 12 اینچ؟ (از زاویه جدید، نه تکرار ریل راهنما)"
+  },
+  {
+   "idea": "کاربردهای اسپیکر هارمن کاردن در خانه"
+  },
+  {
+   "idea": "اعتمادسازی: بسته بندی و ارسال سفارش (نیاز به فیلم واقعی از محمد)"
+  },
+  {
+   "idea": "اسپیکر قابل حمل برای سفر و دورهمی: کدوم پرودو ساندتک؟ (Soul / PD-STVBPSPK)"
+  },
+  {
+   "idea": "میکروفون یقه ای تک یا دوتایی؟ (BOYA BY-V10 در برابر BOYA Mini 2-01)",
+   "products": [
+    "BOYA BY-V10 V2.0",
+    "BOYA Mini 2-01"
+   ]
+  },
+  {
+   "idea": "تلویزیون معمولی رو هوشمند کن: اندروید باکس (دسته android-tv-box، فقط موجودها)"
+  },
+  {
+   "idea": "ساب زیر صندلی یا ساب صندوقی؟ (Nakamichi NBF8.1A — ساب اکتیو 8 اینچ، ارتفاع 79 میلی متر)",
+   "products": [
+    "Nakamichi NBF8.1A"
+   ]
+  }
+ ],
+ "schedule_rule": "Feed posts only on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. No feed post on Thursday or Saturday. Stories every day.",
+ "insights": [
+  {
+   "date": "2026-10-31",
+   "period": "2026-10-24..31",
+   "finding": "Best: power-protector 'mistake' reel (reach 234, 5 saves, 3 shares, view rate 43.9%, avg watch 8.4s). Weakest: Aura Studio article reel (reach 41, view rate 30%, avg watch 4.7s). Carousels reached 94-157.",
+   "apply": "Prefer problem/mistake hooks tied to a household or car need («X رو اشتباه نخر», «کدوم X برای کدوم ...») over plain comparisons; first frame must state the problem; keep reels ~15s."
+  }
+ ]
 }
