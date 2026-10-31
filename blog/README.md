@@ -14,7 +14,8 @@ Every `<table>` must be wrapped so it never overflows the phone screen, and its 
 - wrapper: `<div class="ls-table-scroll" style="overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:100%;margin:0 0 1.5em">`
 - table: `style="width:100%;border-collapse:collapse;font-size:14px;line-height:1.7;margin:0"`
 - every th/td: `padding:8px 10px;text-align:center;vertical-align:middle;white-space:nowrap;border-bottom:1px solid #e3e3e3`
-  (th also `background:#f4f4f4;font-weight:700`); first column of each row `text-align:right`.
+  (th also `background:#f4f4f4;font-weight:700`); first column of each row `text-align:right;white-space:normal;min-width:120px;max-width:170px` (long
+  names wrap; extra notes like «کم عمق» go on a second line as `<br><small>`), so 3+ columns are visible on a phone.
 - units go in the header («توان RMS (وات)», «قیمت امروز (تومان)»), cells hold only the number, so columns stay narrow.
 - max 6 columns; before publishing, screenshot the live post at 390 px width (Playwright, is_mobile) and check
   the page has no horizontal overflow (`document.documentElement.scrollWidth == innerWidth`) and rows are aligned.
