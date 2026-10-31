@@ -9,6 +9,10 @@ Sections «ساختار پیلار و کلاستر» and «قواعد جلوگی
 `blog-log.json` (this folder) = what was published: number, title, post id, URL, date, pillar, products linked,
 images. Read it first; append after publishing. Pillar URLs are taken from here when writing clusters.
 
+## Justified text — required in every article (Mohammad, 1405-08-09)
+Every `<p>` and `<li>` of the body gets `style="text-align:justify;text-justify:inter-word"` so lines are flush on both
+sides (headings, figures and table cells keep their own alignment). Check it on the 390 px screenshot.
+
 ## Tables (mobile) — required in every article (Mohammad, 1405-08-09)
 Every `<table>` must be wrapped so it never overflows the phone screen, and its rows must line up:
 - wrapper: `<div class="ls-table-scroll" style="overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:100%;margin:0 0 1.5em">`
