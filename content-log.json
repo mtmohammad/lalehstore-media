@@ -188,5 +188,64 @@
    "apply": "Prefer problem/mistake hooks tied to a household or car need («X رو اشتباه نخر», «کدوم X برای کدوم ...») over plain comparisons; first frame must state the problem; keep reels ~15s."
   }
  ],
- "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it)."
+ "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it).",
+ "daily_stats": [
+  {
+   "date": "2026-10-25",
+   "account_reach": 71,
+   "views": 164,
+   "accounts_engaged": 4,
+   "followers_gained": 0,
+   "followers_lost": 3
+  },
+  {
+   "date": "2026-10-26",
+   "account_reach": 61,
+   "views": 134,
+   "accounts_engaged": 4,
+   "followers_gained": 1,
+   "followers_lost": 3
+  },
+  {
+   "date": "2026-10-27",
+   "account_reach": 74,
+   "views": 177,
+   "accounts_engaged": 5,
+   "followers_gained": 1,
+   "followers_lost": 1
+  },
+  {
+   "date": "2026-10-28",
+   "account_reach": 247,
+   "views": 435,
+   "accounts_engaged": 9,
+   "followers_gained": 4,
+   "followers_lost": 1
+  },
+  {
+   "date": "2026-10-29",
+   "account_reach": 38,
+   "views": 60,
+   "accounts_engaged": 0,
+   "followers_gained": 2,
+   "followers_lost": 1
+  },
+  {
+   "date": "2026-10-30",
+   "account_reach": 152,
+   "views": 198,
+   "accounts_engaged": 6,
+   "followers_gained": 1,
+   "followers_lost": 1
+  },
+  {
+   "date": "2026-10-31",
+   "account_reach": 152,
+   "views": 198,
+   "accounts_engaged": 6,
+   "followers_gained": null,
+   "followers_lost": null
+  }
+ ],
+ "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average."
 }
