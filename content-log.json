@@ -116,6 +116,11 @@
    "date": "2026-10-31",
    "product": "Pioneer DMH-AP6650BT",
    "url": "https://lalehstore.com/pioneer-dmh-ap6650bt/"
+  },
+  {
+   "date": "2026-11-01",
+   "product": "KEYANG KY-200W solar projector",
+   "url": "https://lalehstore.com/kiang-ky-200w-solar-projector/"
   }
  ],
  "articles_used": [
@@ -177,6 +182,14 @@
    "products": [
     "Nakamichi NBF8.1A"
    ]
+  },
+  {
+   "idea": "قطعی برق: چراغ خورشیدی یا پرژکتور شارژی؟ (کدوم برای خونه، کدوم برای سفر) — KEYANG KY-200W، پرودو PD-LSMLJTFL، لامپ دیواری پرودو PD-LSSLRLMP",
+   "products": [
+    "KEYANG KY-200W",
+    "Porodo PD-LSMLJTFL",
+    "Porodo PD-LSSLRLMP"
+   ]
   }
  ],
  "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day.",
@@ -186,6 +199,11 @@
    "period": "2026-10-24..31",
    "finding": "Best: power-protector 'mistake' reel (reach 234, 5 saves, 3 shares, view rate 43.9%, avg watch 8.4s). Weakest: Aura Studio article reel (reach 41, view rate 30%, avg watch 4.7s). Carousels reached 94-157.",
    "apply": "Prefer problem/mistake hooks tied to a household or car need («X رو اشتباه نخر», «کدوم X برای کدوم ...») over plain comparisons; first frame must state the problem; keep reels ~15s."
+  },
+  {
+   "date": "2026-11-01",
+   "finding": "Yesterday (10-31) reach 152 / views 198 vs 6-day avg 107 / 195 (+42% / +2%), but identical to 10-30 so possibly incomplete; followers 10-31 no data; last 7 days +9 gained −12 lost. Manual oval comparison reel (JBL vs Carozzeria, 'amp or no amp' problem hook): best view rate yet 49.2%, avg watch 7.0s, reach 127, but 0 saves/0 shares. Power-protector mistake reel still top (reach 246, 3 saves, 5 shares). Aura article reel grew to reach 158 with 3 comments. Story reach returned 0 (data unreliable).",
+   "apply": "Problem hooks hold attention; comparisons need a stronger save/share trigger: end frame with a one-line rule-of-thumb + «ذخیره کن», and share-worthy household topics (power, home network, outages). Today's modem post already scheduled; apply to next post. Tip: re-share the modem reel to story with a poll «خطت ADSL یا VDSL؟» and answer comments in the first hour."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it).",
@@ -244,7 +262,8 @@
    "views": 198,
    "accounts_engaged": 6,
    "followers_gained": null,
-   "followers_lost": null
+   "followers_lost": null,
+   "note": "Metricool returned the same reach/views/engaged as 2026-10-30 and no follower data; may be incomplete"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average."
