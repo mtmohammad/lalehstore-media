@@ -94,6 +94,21 @@
    "note": "moved from 2026-10-29 (Thursday is not a post day)",
    "music": "Flow State — Lightbox Music",
    "video": "modem-v3.mp4"
+  },
+  {
+   "date": "2026-11-02",
+   "type": "reel",
+   "topic": "برق رفت؟ چراغ شارژی اشتباه نخر (کدوم چراغ برای کجا: داخل خونه / حیاط / قطعی طولانی و سفر)",
+   "products": [
+    "Porodo PD-LSMLJTFL",
+    "Porodo PD-LSSLRLMP",
+    "KEYANG KY-200W"
+   ],
+   "style": "studio",
+   "music": "Power On (Instrumental) — Giulio Cercato",
+   "folder": "posts/2026-11-02-outage",
+   "video": "outage-reel.mp4",
+   "metricool_id": 413631860
   }
  ],
  "stories": [
@@ -121,6 +136,11 @@
    "date": "2026-11-01",
    "product": "KEYANG KY-200W solar projector",
    "url": "https://lalehstore.com/kiang-ky-200w-solar-projector/"
+  },
+  {
+   "date": "2026-11-02",
+   "product": "BOYA BY-V10 V2.0",
+   "url": "https://lalehstore.com/%d9%85%db%8c%da%a9%d8%b1%d9%88%d9%81%d9%88%d9%86-%db%8c%d9%82%d9%87-%d8%a7%db%8c-%d8%a8%d9%88%db%8c%d8%a7-%d9%85%d8%af%d9%84-by-v10-v2/"
   }
  ],
  "articles_used": [
@@ -131,14 +151,6 @@
    "idea": "باند 16 سانت ماشین رو اشتباه نخر: آمپ داری یا نه؟ (Kenwood KFC-PS1797 در برابر یک مدل مخصوص پخش)",
    "products": [
     "Kenwood KFC-PS1797"
-   ]
-  },
-  {
-   "idea": "قطعی برق؟ چراغ و پرژکتور شارژی/خورشیدی",
-   "products": [
-    "KEYANG KY-200W",
-    "Porodo PD-LSSLRLMP",
-    "Porodo PD-LSMLJTFL"
    ]
   },
   {
@@ -184,12 +196,10 @@
    ]
   },
   {
-   "idea": "قطعی برق: چراغ خورشیدی یا پرژکتور شارژی؟ (کدوم برای خونه، کدوم برای سفر) — KEYANG KY-200W، پرودو PD-LSMLJTFL، لامپ دیواری پرودو PD-LSSLRLMP",
-   "products": [
-    "KEYANG KY-200W",
-    "Porodo PD-LSMLJTFL",
-    "Porodo PD-LSSLRLMP"
-   ]
+   "idea": "پاوربانک رو اشتباه نخر: کدوم ظرفیت برای گوشی، کدوم برای سفر و قطعی برق (فقط مدل های موجود)"
+  },
+  {
+   "idea": "سوئیچ شبکه یا مودم دوم؟ کی سوئیچ تی پی لینک لازمه (ادامه پست مودم، فرمت ریل 9:16)"
   }
  ],
  "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day.",
@@ -204,6 +214,11 @@
    "date": "2026-11-01",
    "finding": "Yesterday (10-31) reach 152 / views 198 vs 6-day avg 107 / 195 (+42% / +2%), but identical to 10-30 so possibly incomplete; followers 10-31 no data; last 7 days +9 gained −12 lost. Manual oval comparison reel (JBL vs Carozzeria, 'amp or no amp' problem hook): best view rate yet 49.2%, avg watch 7.0s, reach 127, but 0 saves/0 shares. Power-protector mistake reel still top (reach 246, 3 saves, 5 shares). Aura article reel grew to reach 158 with 3 comments. Story reach returned 0 (data unreliable).",
    "apply": "Problem hooks hold attention; comparisons need a stronger save/share trigger: end frame with a one-line rule-of-thumb + «ذخیره کن», and share-worthy household topics (power, home network, outages). Today's modem post already scheduled; apply to next post. Tip: re-share the modem reel to story with a poll «خطت ADSL یا VDSL؟» and answer comments in the first hour."
+  },
+  {
+   "date": "2026-11-02",
+   "finding": "Metricool revised 10-31 to reach 576 / views 988 / engaged 18 (7-day avg 177 / 314) and repeats it for 11-01 (likely incomplete); followers 11366. Format split is clear: 9:16 reels (power 604 reach, VR 51.6%; oval 520 reach, VR 53.6%) beat 4:5 post-videos (Aura 162, VR 35.5%; modem 130 after ~14h, VR 36.3%, avg watch 4.8s, 0 saves). Oval comparison drove the 10-31 spike but only 2 saves/0 shares; power-protector mistake reel still the only one with real shares (5).",
+   "apply": "Use 9:16 reel format by default (override the reel/post alternation) until a 4:5 video reaches comparable view rate. Today: household mistake-hook reel «برق رفت؟ چراغ شارژی اشتباه نخر» (3 lights, 3 places) with save CTA on the end frame. Tip for Mohammad: share the reel to story with a poll «برق محله تون زیاد میره؟» and answer comments in the first hour."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it).",
@@ -250,20 +265,32 @@
   },
   {
    "date": "2026-10-30",
-   "account_reach": 152,
-   "views": 198,
-   "accounts_engaged": 6,
+   "account_reach": 170,
+   "views": 241,
+   "accounts_engaged": 7,
    "followers_gained": 1,
-   "followers_lost": 1
+   "followers_lost": 1,
+   "followers": 11365
   },
   {
    "date": "2026-10-31",
-   "account_reach": 152,
-   "views": 198,
-   "accounts_engaged": 6,
+   "account_reach": 576,
+   "views": 988,
+   "accounts_engaged": 18,
    "followers_gained": null,
    "followers_lost": null,
-   "note": "Metricool returned the same reach/views/engaged as 2026-10-30 and no follower data; may be incomplete"
+   "note": "Updated 2026-11-02: Metricool now reports 576/988/18 (was 152/198); followers gained/lost still no data",
+   "followers": 11366
+  },
+  {
+   "date": "2026-11-01",
+   "account_reach": 576,
+   "views": 988,
+   "accounts_engaged": 18,
+   "followers_gained": null,
+   "followers_lost": null,
+   "followers": null,
+   "note": "Identical to 2026-10-31 (Metricool repeats the previous day until updated) — likely incomplete"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average."
