@@ -10,8 +10,13 @@ now white / brand gradient / soft pink / soft blue with the logo).
 Products: the store's own photo, cut out, on a spotlight with a soft shadow; it slides and scales
 in, then floats and slowly pushes in (flat 2D, no 3D — Mohammad's choice, 2026-10-31).
 
+Text-only content (tech news / education, no product photo): leave out hook "images" and step
+"products" and give "big" (+ optional "big_sub") instead — a huge gradient key word/number on a
+white card, e.g. {"title": "...", "big": "Wi-Fi 7", "big_sub": "...", "notes": [...]}.
+
 Usage:
   python3 -I studio.py spec.json out.mp4 [--preview DIR]
+  python3 -I studio.py spec.json x.mp4 --slides DIR     # carousel stills (slide_01.jpg ...), use "format": "post"
 """
 import json
 import math
@@ -229,6 +234,37 @@ def note_card(text, w_max):
     return soft_shadow(c, 18, 34, (0, 10))
 
 
+def big_card(text, sub=None, w_max=900, px=150):
+    """Text-only visual for news / education (no product): white rounded card with a huge
+    gradient key word or number (e.g. «Wi-Fi 7», «IP66», «۳ ثانیه») and an optional muted line."""
+    rtl = is_fa(text)
+    t = mp.gradient_text(text, "Black", px, rtl=rtl)
+    while t.width > w_max - 120 and px > 60:
+        px = int(px * 0.9)
+        t = mp.gradient_text(text, "Black", px, rtl=rtl)
+    st = mp.text_img(sub, "Bold", 40, MUTED, rtl=is_fa(sub)) if sub else None
+    if st is not None and st.width > w_max - 120:
+        st = mp.fit(st, w_max - 120, st.height)
+    w = max(t.width, st.width if st else 0) + 120
+    h = t.height + (st.height + 30 if st else 0) + 110
+    c = mp.rounded(w, h, 48, WHITE + (255,))
+    c.alpha_composite(t, ((w - t.width) // 2, 55))
+    if st is not None:
+        c.alpha_composite(st, ((w - st.width) // 2, 55 + t.height + 30))
+    return soft_shadow(c, 26, 40, (0, 14))
+
+
+def big_el(text, sub, x, y, t_in, w_max=900):
+    card = big_card(text, sub, w_max)
+
+    def src(lt):
+        f = 1 + 0.012 * math.sin(lt * 1.6)
+        if abs(f - 1) < 0.002:
+            return card
+        return card.resize((int(card.width * f), int(card.height * f)), Image.BICUBIC)
+    return El(src, x, y, t_in, enter="pop", dur=0.6, depth=1.15)
+
+
 def spotlight(w, h):
     s = Image.new("RGBA", (w + 300, h + 300), (0, 0, 0, 0))
     ImageDraw.Draw(s).ellipse((150, 150, w + 150, h + 150), fill=(255, 255, 255, 235))
@@ -428,6 +464,9 @@ def build(spec, base: Path):
                      if reel else [(W * 0.78, cyp, 320, 330), (W * 0.5, cyp, 320, 330), (W * 0.22, cyp, 320, 330)])
         for i, (p, (sx, sy, bw, bh)) in enumerate(zip(ims, spots)):
             els.append(product_el(base / p, sx, sy, bw, bh, 0.25 + i * 0.22, rs(), side=1 if i % 2 == 0 else -1))
+    elif hk.get("big"):
+        area_top, area_bot = y + 60, H - (300 if reel else 90)
+        els.append(big_el(hk["big"], hk.get("big_sub"), W / 2, (area_top + area_bot) / 2, 0.3))
     scenes.append(Scene(t0, 3.4, els, pans[0]))
     t0 += 3.4
 
@@ -463,6 +502,8 @@ def build(spec, base: Path):
             spots = [(W * 0.73, area_top + 30 + bh / 2, 470, bh), (W * 0.27, area_top + 30 + bh / 2, 470, bh)]
         else:
             spots = []
+            if st.get("big"):
+                els.append(big_el(st["big"], st.get("big_sub"), W / 2, (area_top + area_bot) / 2, 0.3))
         for i, (pd, (sx, sy, bw_, bh_)) in enumerate(zip(prods, spots)):
             els.append(product_el(base / pd["img"], sx, sy, bw_, bh_, 0.3 + i * 0.25, rs(),
                                   side=1 if (i + k) % 2 == 0 else -1))
@@ -593,6 +634,14 @@ def main():
         for T in times:
             Image.fromarray(frame_at(T)).save(d / f"k_{T:05.2f}.jpg", quality=86)
         print(f"preview {len(times)} frames, {total:.1f}s")
+        return
+    if "--slides" in sys.argv:
+        # carousel: the settled last moment of every scene as a still (use format "post" = 1080x1350)
+        d = Path(sys.argv[sys.argv.index("--slides") + 1])
+        d.mkdir(parents=True, exist_ok=True)
+        for i, s in enumerate(STATE["scenes"], start=1):
+            Image.fromarray(frame_at(s.start + s.dur - WIPE - 0.12)).save(d / f"slide_{i:02d}.jpg", quality=93)
+        print(f"slides {len(STATE['scenes'])} -> {d}")
         return
     n = int(total * FPS)
     spec = json.loads(spec_path.read_text(encoding="utf-8"))
