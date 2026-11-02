@@ -125,7 +125,7 @@
    "music": "suggested: lofi chill",
    "folder": "posts/2026-11-02-news-buds-on",
    "video": "news-reel.mp4",
-   "time": "13:00"
+   "time": "18:00 (today only; 13:00 had passed when the slot was created)"
   }
  ],
  "stories": [
@@ -310,5 +310,27 @@
    "note": "Identical to 2026-10-31 (Metricool repeats the previous day until updated) — likely incomplete"
   }
  ],
- "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average."
+ "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
+ "planned_midday": [
+  {
+   "idea": "آموزش: توان RMS یا حداکثر توان؟ عدد روی جعبه باند رو درست بخون",
+   "type": "reel"
+  },
+  {
+   "idea": "آموزش: IP44، IP66 یعنی چی؟ (ضد آب بودن گجت ها)",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: ظرفیت پاوربانک؛ چرا 10000mAh گوشی رو 3 بار شارژ نمی کنه؟ (mAh و Wh)",
+   "type": "reel"
+  },
+  {
+   "idea": "آموزش: مودم رو کجای خونه بذاریم تا وای فای قوی تر بشه؟",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: صدای ویدیوی گوشی رو با میکروفون یقه ای حرفه ای کن (فاصله، نویز، تست)",
+   "type": "reel"
+  }
+ ]
 }
