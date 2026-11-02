@@ -126,7 +126,7 @@
    "video": "news-reel.mp4",
    "time": "18:00 (today only; 13:00 had passed when the slot was created)",
    "slides": "slides/slide_01..05.jpg",
-   "note": "first made as news-reel.mp4, replaced by an image carousel (Mohammad 2026-11-02: news/education = image carousels, not reels)"
+   "note": "first made as news-reel.mp4, replaced by an image carousel (Mohammad 2026-11-02: news/education = image carousels, not reels); news posts dropped afterwards at Mohammad's request (education only)"
   },
   {
    "date": "2026-11-02",
@@ -239,7 +239,7 @@
    "idea": "سوئیچ شبکه یا مودم دوم؟ کی سوئیچ تی پی لینک لازمه (ادامه پست مودم، فرمت ریل 9:16)"
   }
  ],
- "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20.",
+ "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
  "insights": [
   {
    "date": "2026-10-31",
@@ -346,6 +346,14 @@
   },
   {
    "idea": "آموزش: صدای ویدیوی گوشی رو با میکروفون یقه ای حرفه ای کن (فاصله، نویز، تست)",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: کابل شارژ سریع؛ چرا هر کابلی فست شارژ نمی کنه؟",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: باند 2Way و 3Way چه فرقی دارن؟",
    "type": "carousel"
   }
  ]
