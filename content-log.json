@@ -113,7 +113,7 @@
   {
    "date": "2026-11-02",
    "slot": "midday",
-   "type": "reel",
+   "type": "carousel",
    "manual": true,
    "category": "news",
    "topic": "خبر تکنولوژی: سامسونگ Galaxy Buds On، اولین هندزفری گیره ای (Open-Ear)",
@@ -122,10 +122,30 @@
     "https://audioxpress.com/news/samsung-expands-galaxy-buds-family-with-first-open-ear-clip-design"
    ],
    "style": "studio",
-   "music": "suggested: lofi chill",
    "folder": "posts/2026-11-02-news-buds-on",
    "video": "news-reel.mp4",
-   "time": "18:00 (today only; 13:00 had passed when the slot was created)"
+   "time": "18:00 (today only; 13:00 had passed when the slot was created)",
+   "slides": "slides/slide_01..05.jpg",
+   "note": "first made as news-reel.mp4, replaced by an image carousel (Mohammad 2026-11-02: news/education = image carousels, not reels)"
+  },
+  {
+   "date": "2026-11-02",
+   "slot": "midday",
+   "type": "carousel",
+   "manual": true,
+   "category": "education",
+   "topic": "آموزش: عدد IP روی گجت ها یعنی چی؟ (IP44 و IP66)",
+   "products": [
+    "KEYANG KY-200W (photo)",
+    "Porodo PD-LSMLJTFL (photo)"
+   ],
+   "sources": [
+    "IEC 60529"
+   ],
+   "style": "slides",
+   "folder": "posts/2026-11-02-edu-ip",
+   "slides": "slides/slide_01..05.jpg",
+   "note": "sample of the education style; Mohammad posts it when he likes (e.g. 2026-11-03 13:00 next to that day's news)"
   }
  ],
  "stories": [
@@ -238,7 +258,7 @@
    "apply": "Use 9:16 reel format by default (override the reel/post alternation) until a 4:5 video reaches comparable view rate. Today: household mistake-hook reel «برق رفت؟ چراغ شارژی اشتباه نخر» (3 lights, 3 places) with save CTA on the end frame. Tip for Mohammad: share the reel to story with a poll «برق محله تون زیاد میره؟» and answer comments in the first hour."
   }
  ],
- "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it).",
+ "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
  "daily_stats": [
   {
    "date": "2026-10-25",
@@ -314,15 +334,11 @@
  "planned_midday": [
   {
    "idea": "آموزش: توان RMS یا حداکثر توان؟ عدد روی جعبه باند رو درست بخون",
-   "type": "reel"
-  },
-  {
-   "idea": "آموزش: IP44، IP66 یعنی چی؟ (ضد آب بودن گجت ها)",
    "type": "carousel"
   },
   {
    "idea": "آموزش: ظرفیت پاوربانک؛ چرا 10000mAh گوشی رو 3 بار شارژ نمی کنه؟ (mAh و Wh)",
-   "type": "reel"
+   "type": "carousel"
   },
   {
    "idea": "آموزش: مودم رو کجای خونه بذاریم تا وای فای قوی تر بشه؟",
@@ -330,7 +346,7 @@
   },
   {
    "idea": "آموزش: صدای ویدیوی گوشی رو با میکروفون یقه ای حرفه ای کن (فاصله، نویز، تست)",
-   "type": "reel"
+   "type": "carousel"
   }
  ]
 }
