@@ -146,6 +146,41 @@
    "folder": "posts/2026-11-02-edu-ip",
    "slides": "slides/slide_01..05.jpg",
    "note": "sample of the education style; Mohammad posts it when he likes (e.g. 2026-11-03 13:00 next to that day's news)"
+  },
+  {
+   "date": "2026-11-03",
+   "slot": "midday",
+   "type": "carousel",
+   "manual": true,
+   "category": "education",
+   "topic": "آموزش: وای فای ضعیفه؟ جای مودم رو عوض کن (وسط خونه، ارتفاع، آنتن عمودی/30 درجه، دور از مایکروویو و کمد)",
+   "products": [
+    "TP-Link TD-W9960 (photo)",
+    "TP-Link TD-W8961N (photo)"
+   ],
+   "sources": [
+    "https://www.tp-link.com/support/faq/455/"
+   ],
+   "style": "slides",
+   "folder": "posts/2026-11-03-edu-router",
+   "slides": "slides/slide_01..05.jpg",
+   "time": "13:00"
+  },
+  {
+   "date": "2026-11-03",
+   "slot": "evening",
+   "type": "reel",
+   "category": "product",
+   "topic": "باند ماشین رو اشتباه نخر: آمپ داری یا نه؟ (بدون آمپ: حساسیت بالا / با آمپ: RMS بالا)",
+   "products": [
+    "JBL Club 6520",
+    "Kenwood KFC-PS1797"
+   ],
+   "style": "studio",
+   "music": "Roadtrip (Instrumental) — Sugartapes",
+   "folder": "posts/2026-11-03-amp",
+   "video": "amp-reel.mp4",
+   "metricool_id": 414919556
   }
  ],
  "stories": [
@@ -178,18 +213,17 @@
    "date": "2026-11-02",
    "product": "BOYA BY-V10 V2.0",
    "url": "https://lalehstore.com/%d9%85%db%8c%da%a9%d8%b1%d9%88%d9%81%d9%88%d9%86-%db%8c%d9%82%d9%87-%d8%a7%db%8c-%d8%a8%d9%88%db%8c%d8%a7-%d9%85%d8%af%d9%84-by-v10-v2/"
+  },
+  {
+   "date": "2026-11-03",
+   "product": "JBL Concert A704",
+   "url": "https://lalehstore.com/jbl-concert-a704/"
   }
  ],
  "articles_used": [
   "https://lalehstore.com/aura-studio-5-vs-4/"
  ],
  "planned_next": [
-  {
-   "idea": "باند 16 سانت ماشین رو اشتباه نخر: آمپ داری یا نه؟ (Kenwood KFC-PS1797 در برابر یک مدل مخصوص پخش)",
-   "products": [
-    "Kenwood KFC-PS1797"
-   ]
-  },
   {
    "idea": "مقاله: بهترین میکروفون بویا برای آیفون و اندروید",
    "article": "https://lalehstore.com/best-boya-microphones-iphone-android-2025/"
@@ -233,10 +267,24 @@
    ]
   },
   {
-   "idea": "پاوربانک رو اشتباه نخر: کدوم ظرفیت برای گوشی، کدوم برای سفر و قطعی برق (فقط مدل های موجود)"
+   "idea": "پاوربانک رو اشتباه نخر: کدوم ظرفیت برای گوشی، کدوم برای سفر و قطعی برق (فقط مدل های موجود)",
+   "note": "2026-11-03: all power banks on the site out of stock — skip until restocked"
   },
   {
    "idea": "سوئیچ شبکه یا مودم دوم؟ کی سوئیچ تی پی لینک لازمه (ادامه پست مودم، فرمت ریل 9:16)"
+  },
+  {
+   "idea": "آمپ 4 کانال یا 2 کانال؟ کدوم آمپ برای کدوم سیستم (JBL Concert A704 و یک مدل 2 کانال موجود)",
+   "products": [
+    "JBL Concert A704"
+   ]
+  },
+  {
+   "idea": "باند 13 سانت یا 16 سانت؟ اول جای باند ماشینت رو بشناس (Kenwood KFC-S1366 / KFC-S1666)",
+   "products": [
+    "Kenwood KFC-S1366",
+    "Kenwood KFC-S1666"
+   ]
   }
  ],
  "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
@@ -256,6 +304,11 @@
    "date": "2026-11-02",
    "finding": "Metricool revised 10-31 to reach 576 / views 988 / engaged 18 (7-day avg 177 / 314) and repeats it for 11-01 (likely incomplete); followers 11366. Format split is clear: 9:16 reels (power 604 reach, VR 51.6%; oval 520 reach, VR 53.6%) beat 4:5 post-videos (Aura 162, VR 35.5%; modem 130 after ~14h, VR 36.3%, avg watch 4.8s, 0 saves). Oval comparison drove the 10-31 spike but only 2 saves/0 shares; power-protector mistake reel still the only one with real shares (5).",
    "apply": "Use 9:16 reel format by default (override the reel/post alternation) until a 4:5 video reaches comparable view rate. Today: household mistake-hook reel «برق رفت؟ چراغ شارژی اشتباه نخر» (3 lights, 3 places) with save CTA on the end frame. Tip for Mohammad: share the reel to story with a poll «برق محله تون زیاد میره؟» and answer comments in the first hour."
+  },
+  {
+   "date": "2026-11-03",
+   "finding": "11-01 (last complete day): reach 675 / views 2104 / +1 −0, vs 7-day avg ~120 / ~208 (×5.6 / ×10). 11-02 likely incomplete (reach repeats 675; views 1041). Power-protector mistake reel exploded late: reach 1610, views 1913, 20 saves, 23 shares, VR 55.1%, avg watch 7.7s — the household 'which X for which device' list is our most shareable format. Oval comparison 1232 reach, 4 saves. Modem 4:5 post weakest (178 reach, VR 33.3%). Outage reel slow start (reach 25 after ~14h, VR 43.3%). Midday carousels of 11-02 (IP, Buds On) not in Metricool data → not posted yet. Story reach 0 on 11-02.",
+   "apply": "Keep the 9:16 'mistake + which X for which situation' list format with a closing rule-of-thumb frame (save trigger). Today: evening «باند ماشین رو اشتباه نخر: آمپ داری یا نه؟» ending on a one-line rule; midday household Wi-Fi tip carousel (share-worthy). Power banks all out of stock, so that idea is parked. Tip for Mohammad: post the 13:00 carousel on time and re-share the power-protector reel to story (it is still growing)."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -311,23 +364,33 @@
   },
   {
    "date": "2026-10-31",
-   "account_reach": 576,
-   "views": 988,
-   "accounts_engaged": 18,
-   "followers_gained": null,
-   "followers_lost": null,
-   "note": "Updated 2026-11-02: Metricool now reports 576/988/18 (was 152/198); followers gained/lost still no data",
+   "account_reach": 176,
+   "views": 245,
+   "accounts_engaged": 6,
+   "followers_gained": 1,
+   "followers_lost": 0,
+   "note": "Revised again 2026-11-03: Metricool now 176/245/6 (earlier 576/988, before that 152/198)",
    "followers": 11366
   },
   {
    "date": "2026-11-01",
-   "account_reach": 576,
-   "views": 988,
-   "accounts_engaged": 18,
+   "account_reach": 675,
+   "views": 2104,
+   "accounts_engaged": 26,
+   "followers_gained": 1,
+   "followers_lost": 0,
+   "followers": 11370,
+   "note": "Revised 2026-11-03 (was a copy of 10-31)"
+  },
+  {
+   "date": "2026-11-02",
+   "account_reach": 675,
+   "views": 1041,
+   "accounts_engaged": 26,
    "followers_gained": null,
    "followers_lost": null,
    "followers": null,
-   "note": "Identical to 2026-10-31 (Metricool repeats the previous day until updated) — likely incomplete"
+   "note": "Reach/engaged identical to 2026-11-01 — likely incomplete"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
@@ -341,10 +404,6 @@
    "type": "carousel"
   },
   {
-   "idea": "آموزش: مودم رو کجای خونه بذاریم تا وای فای قوی تر بشه؟",
-   "type": "carousel"
-  },
-  {
    "idea": "آموزش: صدای ویدیوی گوشی رو با میکروفون یقه ای حرفه ای کن (فاصله، نویز، تست)",
    "type": "carousel"
   },
@@ -354,6 +413,14 @@
   },
   {
    "idea": "آموزش: باند 2Way و 3Way چه فرقی دارن؟",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: حساسیت (dB) باند یعنی چی؟ چرا باند 92dB با پخش بلندتره",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: چطوری سرعت واقعی اینترنت خونه رو درست تست کنیم (سیمی در برابر وای فای)",
    "type": "carousel"
   }
  ]
