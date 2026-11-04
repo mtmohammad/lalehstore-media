@@ -181,6 +181,41 @@
    "folder": "posts/2026-11-03-amp",
    "video": "amp-reel.mp4",
    "metricool_id": 414919556
+  },
+  {
+   "date": "2026-11-04",
+   "slot": "midday",
+   "type": "carousel",
+   "manual": true,
+   "category": "education",
+   "topic": "آموزش: توان باند RMS یا حداکثر توان؟ (RMS پیوسته، Peak لحظه ای، مثال JBL Club 6520 50W/150W، آمپ برابر یا کمی بیشتر از RMS)",
+   "products": [
+    "JBL Club 6520 (photo)"
+   ],
+   "sources": [
+    "https://orioncaraudio.com/blogs/car-audio/rms-power-explained-the-complete-car-audio-power-guide",
+    "https://lalehstore.com/jbl-club-6520/"
+   ],
+   "style": "slides",
+   "folder": "posts/2026-11-04-edu-rms",
+   "slides": "slides/slide_01..06.jpg",
+   "time": "13:00 (sent 13:07)"
+  },
+  {
+   "date": "2026-11-04",
+   "slot": "evening",
+   "type": "reel",
+   "category": "product",
+   "topic": "میکروفون یقه ای اشتباه نخر: تک نفره یا دو نفره؟ (کدوم بویا برای کدوم ویدیو)",
+   "products": [
+    "BOYA BY-V10 V2.0",
+    "BOYA Mini 2-01"
+   ],
+   "style": "studio",
+   "music": "Mouse In A Kitchen (Instrumental) — Company Money",
+   "folder": "posts/2026-11-04-mic",
+   "video": "mic-reel.mp4",
+   "metricool_id": 416271686
   }
  ],
  "stories": [
@@ -218,6 +253,11 @@
    "date": "2026-11-03",
    "product": "JBL Concert A704",
    "url": "https://lalehstore.com/jbl-concert-a704/"
+  },
+  {
+   "date": "2026-11-04",
+   "product": "Pioneer DEH-S720DAB",
+   "url": "https://lalehstore.com/pioneer-deh-s720dab/"
   }
  ],
  "articles_used": [
@@ -233,7 +273,8 @@
    "article": "https://lalehstore.com/boya-brand-introduction/"
   },
   {
-   "idea": "سوئیچ شبکه تی پی لینک LS1005G / LS1008G: کی لازمه؟"
+   "idea": "سوئیچ شبکه تی پی لینک LS1005G / LS1008G: کی لازمه؟",
+   "note": "2026-11-04: LS1005G and LS1008G out of stock — skip until restocked"
   },
   {
    "idea": "باند بیضی 6×9 یا 16 سانت؟ (Infinity Primus 693M، JBL Club 6520)"
@@ -251,13 +292,6 @@
    "idea": "اسپیکر قابل حمل برای سفر و دورهمی: کدوم پرودو ساندتک؟ (Soul / PD-STVBPSPK)"
   },
   {
-   "idea": "میکروفون یقه ای تک یا دوتایی؟ (BOYA BY-V10 در برابر BOYA Mini 2-01)",
-   "products": [
-    "BOYA BY-V10 V2.0",
-    "BOYA Mini 2-01"
-   ]
-  },
-  {
    "idea": "تلویزیون معمولی رو هوشمند کن: اندروید باکس (دسته android-tv-box، فقط موجودها)"
   },
   {
@@ -271,7 +305,8 @@
    "note": "2026-11-03: all power banks on the site out of stock — skip until restocked"
   },
   {
-   "idea": "سوئیچ شبکه یا مودم دوم؟ کی سوئیچ تی پی لینک لازمه (ادامه پست مودم، فرمت ریل 9:16)"
+   "idea": "سوئیچ شبکه یا مودم دوم؟ کی سوئیچ تی پی لینک لازمه (ادامه پست مودم، فرمت ریل 9:16)",
+   "note": "2026-11-04: LS1005G and LS1008G out of stock — skip until restocked"
   },
   {
    "idea": "آمپ 4 کانال یا 2 کانال؟ کدوم آمپ برای کدوم سیستم (JBL Concert A704 و یک مدل 2 کانال موجود)",
@@ -284,6 +319,20 @@
    "products": [
     "Kenwood KFC-S1366",
     "Kenwood KFC-S1666"
+   ]
+  },
+  {
+   "idea": "آمپ کنوود 2 کانال یا 4 کانال؟ (Kenwood KAC-PS802EX / KAC-PS804EX — هر دو موجود، جدید)",
+   "products": [
+    "Kenwood KAC-PS802EX",
+    "Kenwood KAC-PS804EX"
+   ]
+  },
+  {
+   "idea": "پخش ساده یا پخش تصویری؟ کدوم پایونیر برای ماشینت (DEH-S720DAB / AVH-Z7250BT)",
+   "products": [
+    "Pioneer DEH-S720DAB",
+    "Pioneer AVH-Z7250BT"
    ]
   }
  ],
@@ -309,6 +358,11 @@
    "date": "2026-11-03",
    "finding": "11-01 (last complete day): reach 675 / views 2104 / +1 −0, vs 7-day avg ~120 / ~208 (×5.6 / ×10). 11-02 likely incomplete (reach repeats 675; views 1041). Power-protector mistake reel exploded late: reach 1610, views 1913, 20 saves, 23 shares, VR 55.1%, avg watch 7.7s — the household 'which X for which device' list is our most shareable format. Oval comparison 1232 reach, 4 saves. Modem 4:5 post weakest (178 reach, VR 33.3%). Outage reel slow start (reach 25 after ~14h, VR 43.3%). Midday carousels of 11-02 (IP, Buds On) not in Metricool data → not posted yet. Story reach 0 on 11-02.",
    "apply": "Keep the 9:16 'mistake + which X for which situation' list format with a closing rule-of-thumb frame (save trigger). Today: evening «باند ماشین رو اشتباه نخر: آمپ داری یا نه؟» ending on a one-line rule; midday household Wi-Fi tip carousel (share-worthy). Power banks all out of stock, so that idea is parked. Tip for Mohammad: post the 13:00 carousel on time and re-share the power-protector reel to story (it is still growing)."
+  },
+  {
+   "date": "2026-11-04",
+   "finding": "11-03 (likely incomplete): reach 499 / views 723 vs 7-day avg (10-27..11-02) ~404 / ~570 (+24% / +27%). 11-02 revised: reach 936, +4 −8 followers (11365). Power-protector mistake reel still the leader (reach 1877, 25 saves, 26 shares, VR 55%); oval comparison 1434 reach. Amp reel (11-03) reach 153 after ~16h but highest view rate so far (59.3%, avg watch 6.8s). Router carousel (11-03 midday) was posted: reach 58, 1 save. Stories reach 0–9.",
+   "apply": "Keep the 'X رو اشتباه نخر + which X for which situation' reel with a closing rule frame; switch category from car audio (3 car posts in a row) to content-creator mics: «میکروفون یقه ای اشتباه نخر: تک نفره یا دو نفره؟» (BOYA BY-V10 V2.0 vs Mini 2-01). Midday: RMS vs peak explainer (save trigger). Tip for Mohammad: post the carousel promptly at 13:00 and answer comments in the first hour; carousels need the first-hour push to get reach."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -374,31 +428,37 @@
   },
   {
    "date": "2026-11-01",
-   "account_reach": 675,
-   "views": 2104,
-   "accounts_engaged": 26,
+   "account_reach": 1189,
+   "views": 2106,
+   "accounts_engaged": 41,
    "followers_gained": 1,
    "followers_lost": 0,
    "followers": 11370,
-   "note": "Revised 2026-11-03 (was a copy of 10-31)"
+   "note": "Revised 2026-11-04 (Metricool now 1189/2106/41)"
   },
   {
    "date": "2026-11-02",
-   "account_reach": 675,
-   "views": 1041,
-   "accounts_engaged": 26,
+   "account_reach": 936,
+   "views": 723,
+   "accounts_engaged": 38,
+   "followers_gained": 4,
+   "followers_lost": 8,
+   "followers": 11365,
+   "note": "Revised 2026-11-04"
+  },
+  {
+   "date": "2026-11-03",
+   "account_reach": 499,
+   "views": 723,
+   "accounts_engaged": 13,
    "followers_gained": null,
    "followers_lost": null,
    "followers": null,
-   "note": "Reach/engaged identical to 2026-11-01 — likely incomplete"
+   "note": "Views identical to 2026-11-02 and followers missing — likely incomplete"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
  "planned_midday": [
-  {
-   "idea": "آموزش: توان RMS یا حداکثر توان؟ عدد روی جعبه باند رو درست بخون",
-   "type": "carousel"
-  },
   {
    "idea": "آموزش: ظرفیت پاوربانک؛ چرا 10000mAh گوشی رو 3 بار شارژ نمی کنه؟ (mAh و Wh)",
    "type": "carousel"
@@ -421,6 +481,14 @@
   },
   {
    "idea": "آموزش: چطوری سرعت واقعی اینترنت خونه رو درست تست کنیم (سیمی در برابر وای فای)",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: امپدانس باند (اهم) یعنی چی؟ 2، 3 یا 4 اهم و ربطش به پخش و آمپ",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: بلوتوث پخش ماشین قطع و وصل میشه؟ چند راه حل ساده",
    "type": "carousel"
   }
  ]
