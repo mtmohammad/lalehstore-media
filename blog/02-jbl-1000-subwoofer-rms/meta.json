@@ -1,37 +1,37 @@
 {
  "number": 2,
- "status": "published 2026-11-05 (post 57204)",
+ "status": "published 2026-11-05 (post 57204); revised same day: old model CS1214/CS1214T + replacements, RMS instead of آراماس",
  "type": "cluster",
  "pillar": "ساب",
  "pillar_post_id": 57141,
- "title": "ساب جی بی ال ۱۰۰۰ چند آراماس است؟ مشخصات واقعی و جایگزین‌های جدید",
+ "title": "ساب جی بی ال ۱۰۰۰ چند وات RMS است؟ مدل قدیمی CS1214 و جایگزین جدید",
  "slug": "jbl-1000-subwoofer-rms",
  "focus_keyword": "ساب جی بی ال ۱۰۰۰",
- "rank_math_title": "ساب جی بی ال ۱۰۰۰ چند آراماس است؟ مشخصات GX1200 - لاله استور",
- "rank_math_description": "ساب جی بی ال ۱۰۰۰ همان GX1200 است: ۲۵۰ وات RMS و ۱۰۰۰ وات پیک، ۴ اهم. آمپ مناسب، باکس و جایگزین‌های Stage 122 و Club WS1200.",
- "excerpt": "ساب جی بی ال ۱۰۰۰ همان GX1200 با ۲۵۰ وات RMS است؛ فرق RMS و پیک، آمپ مناسب و جایگزین‌های جدید جی بی ال.",
+ "rank_math_title": "ساب جی بی ال ۱۰۰۰ چند وات RMS است؟ CS1214 و جایگزین GX1200 - لاله استور",
+ "rank_math_description": "ساب جی بی ال ۱۰۰۰ همان CS1214 قدیمی با ۲۵۰ وات RMS است؛ جایگزین جدید آن GX1200 و جایگزین ساب باکس CS1214T، مدل GT-X1500THI است.",
+ "excerpt": "ساب جی بی ال ۱۰۰۰ در ایران مدل CS1214 بود (۲۵۰ وات RMS، ۱۰۰۰ وات پیک)؛ مشخصات رسمی، جایگزین جدید GX1200 و ساب باکس GT-X1500THI.",
  "categories": [
   1543
  ],
  "featured": "jbl-1000-subwoofer-rms-cover.webp",
  "images": {
-  "jbl-1000-subwoofer-rms-cover": "ساب جی بی ال ۱۰۰۰ (GX1200) با عبارت JBL 1000W روی درپوش",
-  "jbl-gx1200-1000w-specs": "مشخصات ساب جی بی ال ۱۰۰۰ مدل GX1200؛ ۲۵۰ وات RMS و ۱۰۰۰ وات پیک",
-  "jbl-gx1200-system-a704-bridge": "چیدمان ساب جی بی ال GX1200 با آمپ ۴ کانال JBL Concert A704 در حالت بریج",
-  "jbl-gx1200-vs-a1500hi": "مقایسه ساب جی بی ال ۱۰۰۰ (GX1200) و ساب جی بی ال ۱۵۰۰ (A1500HI)"
+  "jbl-1000-subwoofer-rms-cover": "ساب جی بی ال ۱۰۰۰؛ جایگزین های جدید GX1200 و ساب باکس GT-X1500THI",
+  "jbl-gx1200-1000w-specs": "مشخصات ساب جی بی ال GX1200 جایگزین ساب جی بی ال ۱۰۰۰؛ ۲۵۰ وات RMS و ۱۰۰۰ وات پیک",
+  "jbl-1000-old-vs-new-sub-tube": "جایگزین ساب جی بی ال CS1214 و ساب باکس CS1214T؛ مقایسه GX1200 و GT-X1500THI",
+  "jbl-gx1200-system-a704-bridge": "چیدمان ساب جی بی ال GX1200 با آمپ ۴ کانال JBL Concert A704 در حالت بریج"
  },
  "content_placeholders": "{{IMG:<name>}} in article.html -> uploaded media figure; add class wp-image-<id>",
  "products_linked": [
   56418,
+  56612,
   56420,
   56421,
-  56422,
   56617
  ],
  "sources": [
-  "store product pages / Store API (GX1200, Stage 122, Club WS1200, A1500HI, Stage 102, A704, Kenwood 802/804)",
-  "https://support.jbl.com/id/en/car-marine/car-speakers/car-speakers-subwoofers/GT1000-.html",
-  "https://support.jbl.com/car-marine/car-speakers/car-speakers-subwoofers/GT1000D-.html"
+  "store product pages / Store API (GX1200, GT-X1500THI, Stage 122, Club WS1200, A1500HI, Stage 102, A704, Kenwood 802/804)",
+  "https://support.jbl.com/in/en/car-marine/car-speakers/car-speakers-subwoofers/CS1214_.html",
+  "https://mm.jbl.com/car-subwoofers/CS1214T.html"
  ],
- "words": 1700
+ "words": 1970
 }
