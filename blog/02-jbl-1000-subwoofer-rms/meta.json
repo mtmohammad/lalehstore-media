@@ -1,0 +1,25 @@
+{
+ "number": 2,
+ "status": "ready, not published (WordPress showed login page 2026-11-05)",
+ "type": "cluster",
+ "pillar": "ساب",
+ "pillar_post_id": 57141,
+ "title": "ساب جی بی ال ۱۰۰۰ چند آراماس است؟ مشخصات واقعی و جایگزین‌های جدید",
+ "slug": "jbl-1000-subwoofer-rms",
+ "focus_keyword": "ساب جی بی ال ۱۰۰۰",
+ "rank_math_title": "ساب جی بی ال ۱۰۰۰ چند آراماس است؟ مشخصات GX1200 - لاله استور",
+ "rank_math_description": "ساب جی بی ال ۱۰۰۰ همان GX1200 است: ۲۵۰ وات RMS و ۱۰۰۰ وات پیک، ۴ اهم. آمپ مناسب، باکس و جایگزین‌های Stage 122 و Club WS1200.",
+ "excerpt": "ساب جی بی ال ۱۰۰۰ همان GX1200 با ۲۵۰ وات RMS است؛ فرق RMS و پیک، آمپ مناسب و جایگزین‌های جدید جی بی ال.",
+ "categories": [1543],
+ "featured": "jbl-1000-subwoofer-rms-cover.webp",
+ "images": {
+  "jbl-1000-subwoofer-rms-cover": "ساب جی بی ال ۱۰۰۰ (GX1200) با عبارت JBL 1000W روی درپوش",
+  "jbl-gx1200-1000w-specs": "مشخصات ساب جی بی ال ۱۰۰۰ مدل GX1200؛ ۲۵۰ وات RMS و ۱۰۰۰ وات پیک",
+  "jbl-gx1200-system-a704-bridge": "چیدمان ساب جی بی ال GX1200 با آمپ ۴ کانال JBL Concert A704 در حالت بریج",
+  "jbl-gx1200-vs-a1500hi": "مقایسه ساب جی بی ال ۱۰۰۰ (GX1200) و ساب جی بی ال ۱۵۰۰ (A1500HI)"
+ },
+ "content_placeholders": "{{IMG:<name>}} in article.html -> uploaded media figure; add class wp-image-<id>",
+ "products_linked": [56418, 56420, 56421, 56422, 56617],
+ "sources": ["store product pages / Store API (GX1200, Stage 122, Club WS1200, A1500HI, Stage 102, A704, Kenwood 802/804)", "https://support.jbl.com/id/en/car-marine/car-speakers/car-speakers-subwoofers/GT1000-.html", "https://support.jbl.com/car-marine/car-speakers/car-speakers-subwoofers/GT1000D-.html"],
+ "words": 1700
+}
