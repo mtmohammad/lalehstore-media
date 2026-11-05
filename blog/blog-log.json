@@ -37,7 +37,7 @@
   },
   {
    "number": 2,
-   "title": "ساب جی بی ال ۱۰۰۰ چند آراماس است؟ مشخصات واقعی و جایگزین‌های جدید",
+   "title": "ساب جی بی ال ۱۰۰۰ چند وات RMS است؟ مدل قدیمی CS1214 و جایگزین جدید",
    "type": "cluster",
    "pillar": "ساب",
    "pillar_post_id": 57141,
@@ -46,21 +46,22 @@
    "date": "2026-11-05",
    "jalali": "1405-08-14",
    "focus_keyword": "ساب جی بی ال ۱۰۰۰",
-   "words": 1700,
+   "words": 1970,
    "products_linked": [
     56418,
+    56612,
     56420,
     56421,
-    56422,
     56617
    ],
    "images": {
-    "jbl-1000-subwoofer-rms-cover": 57200,
-    "jbl-gx1200-1000w-specs": 57201,
-    "jbl-gx1200-system-a704-bridge": 57202,
-    "jbl-gx1200-vs-a1500hi": 57203
+    "jbl-1000-subwoofer-rms-cover-v2": 57206,
+    "jbl-gx1200-1000w-specs-v2": 57207,
+    "jbl-1000-old-vs-new-sub-tube-v2": 57208,
+    "jbl-gx1200-system-a704-bridge": 57202
    },
-   "note": "published 2 days late (WordPress was logged out on 12 Aban run); link added to pillar «مقالات مرتبط»"
+   "note": "published 2 days late (WordPress was logged out on 12 Aban run); link added to pillar «مقالات مرتبط»",
+   "revised": "2026-11-05: per Mohammad, old 'JBL 1000' = CS1214 (+CS1214T tube), GX1200/GT-X1500THI as replacements; RMS instead of آراماس. Unused media 57200,57201,57203 left in library."
   }
  ]
 }
