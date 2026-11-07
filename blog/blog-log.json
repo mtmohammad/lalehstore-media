@@ -62,6 +62,41 @@
    },
    "note": "published 2 days late (WordPress was logged out on 12 Aban run); link added to pillar «مقالات مرتبط»",
    "revised": "2026-11-05: per Mohammad, old 'JBL 1000' = CS1214 (+CS1214T tube), GX1200/GT-X1500THI as replacements; RMS instead of آراماس. Unused media 57200,57201,57203 left in library."
+  },
+  {
+   "number": 3,
+   "title": "بهترین آمپلی فایر ماشین در سال ۱۴۰۵؛ ۲ کانال، ۴ کانال و مونو",
+   "type": "pillar",
+   "pillar": "آمپ",
+   "post_id": 57254,
+   "url": "https://lalehstore.com/best-car-amplifier/",
+   "date": "2026-11-07",
+   "jalali": "1405-08-16",
+   "focus_keyword": "بهترین آمپلی فایر ماشین",
+   "words": 3052,
+   "products_linked": [
+    56617,
+    14094,
+    57031,
+    56618,
+    57028,
+    26033,
+    11859,
+    56348,
+    56418,
+    56609,
+    11904,
+    57016,
+    56557
+   ],
+   "images": {
+    "best-car-amplifier-1405-cover": 57250,
+    "amplifier-4ch-system-component-sub-bridge": 57251,
+    "jbl-a704-vs-pioneer-gm-a6704": 57252,
+    "kenwood-kac-ps802ex-2ch-amplifier": 57253
+   },
+   "related_list": "«مقالات مرتبط» H2 + ul in post; append cluster <li> there",
+   "note": "scheduled run found WordPress logged out; published same day after Mohammad logged in. Table model names wrapped in <bdi dir=ltr>."
   }
  ]
 }

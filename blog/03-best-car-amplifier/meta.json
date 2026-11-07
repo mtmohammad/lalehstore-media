@@ -1,6 +1,6 @@
 {
  "number": 3,
- "status": "ready, NOT published: 2026-11-07 run found WordPress logged out in the built-in browser (wp-login.php reauth). Next run: publish this folder first.",
+ "status": "published 2026-11-07 (post 57254) after WordPress login",
  "type": "pillar",
  "pillar": "آمپ",
  "title": "بهترین آمپلی فایر ماشین در سال ۱۴۰۵؛ ۲ کانال، ۴ کانال و مونو",
@@ -9,7 +9,9 @@
  "rank_math_title": "بهترین آمپلی فایر ماشین در سال ۱۴۰۵؛ ۲ کانال، ۴ کانال و مونو - لاله استور",
  "rank_math_description": "بهترین آمپلی فایر ماشین برای سیستم شما: مقایسه آمپ ۲ کانال، ۴ کانال و مونو با توان RMS، بریج و چیدمان سازگار با کامپوننت و ساب.",
  "excerpt": "راهنمای انتخاب آمپلی فایر ماشین: آمپ ۲ کانال، ۴ کانال یا مونو؟ توان RMS، اهم و بریج، جدول مقایسه آمپ‌های موجود و چیدمان سیستم سازگار.",
- "categories": [1543],
+ "categories": [
+  1543
+ ],
  "featured": "best-car-amplifier-1405-cover.webp",
  "images": {
   "best-car-amplifier-1405-cover": "بهترین آمپلی فایر ماشین در سال ۱۴۰۵؛ آمپ JBL Concert A704 و Pioneer GM-A6704",
@@ -18,7 +20,21 @@
   "kenwood-kac-ps802ex-2ch-amplifier": "آمپلی فایر ۲ کانال کنوود KAC-PS802EX برای کامپوننت یا ساب"
  },
  "content_placeholders": "{{IMG:<name>}} in article.html -> uploaded media figure; add class wp-image-<id>",
- "products_linked": [56617, 14094, 57031, 56618, 57028, 26033, 11859, 56348, 56418, 56609, 11904, 57016, 56557],
+ "products_linked": [
+  56617,
+  14094,
+  57031,
+  56618,
+  57028,
+  26033,
+  11859,
+  56348,
+  56418,
+  56609,
+  11904,
+  57016,
+  56557
+ ],
  "pillar_related_list": "«مقالات مرتبط» H2 + ul in post; clusters append <li> there",
  "sources": [
   "store product pages / Store API (amplifier category, all in stock 2026-11-07)",
