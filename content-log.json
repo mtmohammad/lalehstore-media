@@ -314,7 +314,9 @@
     "slide_05.jpg",
     "slide_06.jpg"
    ],
-   "time": "13:00"
+   "time": "13:00",
+   "hook": "چرا هر کابلی فست شارژ نمی کنه؟",
+   "hook_type": "question"
   },
   {
    "date": "2026-11-07",
@@ -322,7 +324,7 @@
    "type": "reel",
    "manual": true,
    "category": "product",
-   "topic": "سایز باند رو اشتباه نخر: 13 سانت یا 16 سانت؟ اول جای باند ماشینت رو بشناس (1366 برای جای 13 سانت، عمق 43.7mm / 1666 برای جای 16 سانت، بیس بیشتر)",
+   "topic": "جای باند ماشینت چند سانته؟ 13 یا 16 (1366 برای جای 13 سانت، عمق 43.7mm / 1666 برای جای 16 سانت، بیس بیشتر)",
    "products": [
     "Kenwood KFC-S1366",
     "Kenwood KFC-S1666"
@@ -332,7 +334,9 @@
    "folder": "posts/2026-11-07-speaker-size",
    "video": "speaker-size-reel.mp4",
    "cover": "speaker-size-reel-cover.jpg",
-   "time": "20:30"
+   "time": "20:30",
+   "hook": "جای باند ماشینت چند سانته؟ 13 یا 16؟",
+   "hook_type": "question + time-compressed"
   }
  ],
  "stories": [
@@ -434,7 +438,7 @@
    ]
   },
   {
-   "idea": "پاوربانک رو اشتباه نخر: کدوم ظرفیت برای گوشی، کدوم برای سفر و قطعی برق (فقط مدل های موجود)",
+   "idea": "پاوربانک چند میلی آمپر؟ کدوم ظرفیت برای گوشی، کدوم برای سفر و قطعی برق (فقط مدل های موجود)",
    "note": "2026-11-03: all power banks on the site out of stock — skip until restocked"
   },
   {
@@ -457,7 +461,7 @@
    "idea": "آنتن یا بلوتوث پخش ضعیفه؟ پخش ساده رو با ساب اکتیو زیر صندلی کامل کن (Nakamichi NBF8.1A + پخش با خروجی ساب)"
   },
   {
-   "idea": "بلندگوی بلوتوثی خونه رو اشتباه نخر: قابل حمل یا خانگی؟ (Harman Kardon Aura Studio در برابر یک اسپیکر قابل حمل موجود)"
+   "idea": "اسپیکر خونه: قابل حمل یا خانگی؟ (Harman Kardon Aura Studio در برابر یک اسپیکر قابل حمل موجود)"
   },
   {
    "idea": "تیوتر جدا یا باند کواکسیال؟ کی تیوتر لازمه (فقط مدل های موجود)"
@@ -518,6 +522,11 @@
    "weekly": true,
    "finding": "Week 10-31..11-06: best = oval 6x9 comparison (1695 reach, VR 54.5%) and amp 'mistake' reel (1178 reach, 18 saves); worst = mic reel (150) and modem 4:5 post (192, VR 34%). Education carousels reach ~5-20% of the best reels (router 248/7 saves, RMS 90); other carousels not in data. Reach peaked 11-01..11-03 (936-1273/day) then fell to ~170-210 on 11-05/06; followers 11365 → 11371 (net +6).",
    "apply": "Next week: every manual post on time (Thu/Sat reels and all 13:00 carousels), keep car-audio 'mistake' reels on auto days, and add a save trigger frame to every carousel cover."
+  },
+  {
+   "date": "2026-11-07",
+   "finding": "Mohammad banned the «اشتباه نخر» hook phrasing (overused: 7 of the last 8 evening reels).",
+   "apply": "From now on: daily hook research (part H), rotate hook types from hook_bank, never repeat a hook type within 5 feed posts. Today's reel re-rendered with «جای باند ماشینت چند سانته؟ 13 یا 16؟»."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -688,5 +697,62 @@
    "idea": "آموزش: فرق Bluetooth 5.x و Auracast چیه؟ پخش همزمان روی چند اسپیکر",
    "type": "carousel"
   }
+ ],
+ "hook_rule": "Mohammad 2026-11-07: NEVER use «اشتباه نخر» / «اشتباه نکن» (or any «X رو اشتباه ...» phrasing) in hooks, titles, covers or captions. Every day research fresh hook formulas (part H) and use a hook TYPE not used in the last 5 feed entries; log 'hook' and 'hook_type' on every feed entry.",
+ "hook_bank": [
+  {
+   "type": "question",
+   "template": "جای/سایز/نوع X ماشینت/خونه ت چیه؟",
+   "example": "جای باند ماشینت چند سانته؟ 13 یا 16؟"
+  },
+  {
+   "type": "pre-emptive",
+   "template": "داری X می خری؟ اول اینو چک کن",
+   "example": "داری آمپ می خری؟ اول این عدد رو ببین"
+  },
+  {
+   "type": "contrarian",
+   "template": "همه میگن X، ولی ...",
+   "example": "همه میگن وات بیشتر بهتره؛ ولی برای پخش فابریک نه"
+  },
+  {
+   "type": "simplify",
+   "template": "برای Y لازم نیست X، فقط Z",
+   "example": "برای صدای بهتر لازم نیست پخش رو عوض کنی"
+  },
+  {
+   "type": "numbered",
+   "template": "2 عدد که قبل از خرید X باید بدونی",
+   "example": "2 عدد روی جعبه باند که مهمه"
+  },
+  {
+   "type": "result-first",
+   "template": "نتیجه رو اول بگو، بعد چطوری",
+   "example": "صدای بلندتر با همون پخش فابریک"
+  },
+  {
+   "type": "time-compressed",
+   "template": "X رو در 15 ثانیه یاد بگیر",
+   "example": "انتخاب ساب ووفر در 15 ثانیه"
+  },
+  {
+   "type": "insider",
+   "template": "چیزی که روی جعبه X نمی نویسن / کمتر کسی میگه",
+   "example": "این عدد روی جعبه باند از وات مهم تره"
+  },
+  {
+   "type": "scenario/POV",
+   "template": "وقتی X رو خریدی و ...",
+   "example": "باند 16 سانت خریدی و جا نشد؟"
+  },
+  {
+   "type": "quiz/interaction",
+   "template": "حدس بزن کدوم ...؟ / تو کدوم رو برمیداری؟",
+   "example": "کدوم برای ماشین تو؟ کامنت کن 1 یا 2"
+  }
+ ],
+ "hook_bank_sources": [
+  "https://www.opus.pro/blog/instagram-reels-hook-formulas",
+  "https://instantdm.com/blog/10-instagram-hook-templates-that-get-500k-views-and-the-bad-versions-that-get-50"
  ]
 }
