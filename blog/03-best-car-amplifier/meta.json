@@ -1,0 +1,31 @@
+{
+ "number": 3,
+ "status": "ready, NOT published: 2026-11-07 run found WordPress logged out in the built-in browser (wp-login.php reauth). Next run: publish this folder first.",
+ "type": "pillar",
+ "pillar": "آمپ",
+ "title": "بهترین آمپلی فایر ماشین در سال ۱۴۰۵؛ ۲ کانال، ۴ کانال و مونو",
+ "slug": "best-car-amplifier",
+ "focus_keyword": "بهترین آمپلی فایر ماشین",
+ "rank_math_title": "بهترین آمپلی فایر ماشین در سال ۱۴۰۵؛ ۲ کانال، ۴ کانال و مونو - لاله استور",
+ "rank_math_description": "بهترین آمپلی فایر ماشین برای سیستم شما: مقایسه آمپ ۲ کانال، ۴ کانال و مونو با توان RMS، بریج و چیدمان سازگار با کامپوننت و ساب.",
+ "excerpt": "راهنمای انتخاب آمپلی فایر ماشین: آمپ ۲ کانال، ۴ کانال یا مونو؟ توان RMS، اهم و بریج، جدول مقایسه آمپ‌های موجود و چیدمان سیستم سازگار.",
+ "categories": [1543],
+ "featured": "best-car-amplifier-1405-cover.webp",
+ "images": {
+  "best-car-amplifier-1405-cover": "بهترین آمپلی فایر ماشین در سال ۱۴۰۵؛ آمپ JBL Concert A704 و Pioneer GM-A6704",
+  "amplifier-4ch-system-component-sub-bridge": "چیدمان آمپ ۴ کانال JBL Concert A704 با کامپوننت 62CF و ساب GX1200 در حالت بریج",
+  "jbl-a704-vs-pioneer-gm-a6704": "مقایسه آمپلی فایر ۴ کانال JBL Concert A704 و Pioneer GM-A6704",
+  "kenwood-kac-ps802ex-2ch-amplifier": "آمپلی فایر ۲ کانال کنوود KAC-PS802EX برای کامپوننت یا ساب"
+ },
+ "content_placeholders": "{{IMG:<name>}} in article.html -> uploaded media figure; add class wp-image-<id>",
+ "products_linked": [56617, 14094, 57031, 56618, 57028, 26033, 11859, 56348, 56418, 56609, 11904, 57016, 56557],
+ "pillar_related_list": "«مقالات مرتبط» H2 + ul in post; clusters append <li> there",
+ "sources": [
+  "store product pages / Store API (amplifier category, all in stock 2026-11-07)",
+  "https://www.kenwood.com/ae/car/speaker&amplifier/pm_ps/ (KAC-PS802EX)",
+  "https://www.pioneer-car.eu/eur/products/gm-a6704",
+  "JBL Concert Amplifiers spec sheet (A704): https://radiomasters.ie/shop/wp-content/uploads/2024/09/JBL_Concert_Amplifiers_SpecSheet_English.pdf"
+ ],
+ "notes": "No mono amp in stock -> mono explained, not linked. Kenwood 804 / Infinity 2804A / Pioneer 7002 / Kenwood 8400 specs from product pages only. HQR8400 + GM-E7002 photos too small/watermarked -> not used in graphics. Competitors (Google hl=fa): long model lists; this one is system-matching (RMS/ohm/bridge) with in-stock items.",
+ "words": 3052
+}
