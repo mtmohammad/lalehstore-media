@@ -292,6 +292,47 @@
    "video": "headunit-reel.mp4",
    "metricool_id": 418606379,
    "time": "20:30"
+  },
+  {
+   "date": "2026-11-07",
+   "slot": "midday",
+   "type": "carousel",
+   "manual": true,
+   "category": "education",
+   "topic": "آموزش: چرا هر کابلی فست شارژ نمی کنه؟ (سرعت = شارژر + گوشی + کابل، USB-A به C حداکثر 15W بدون PD، C به C معمولی 60W/3A، 100W و 240W با 5A و E-marker، کابل بلند کمی کندتر، گواهی USB-IF)",
+   "products": [],
+   "sources": [
+    "https://www.belkin.com/company/blog/usb-cables-ultimate-guide/"
+   ],
+   "style": "slides",
+   "folder": "posts/2026-11-07-edu-cable",
+   "slides": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg",
+    "slide_06.jpg"
+   ],
+   "time": "13:00"
+  },
+  {
+   "date": "2026-11-07",
+   "slot": "evening",
+   "type": "reel",
+   "manual": true,
+   "category": "product",
+   "topic": "سایز باند رو اشتباه نخر: 13 سانت یا 16 سانت؟ اول جای باند ماشینت رو بشناس (1366 برای جای 13 سانت، عمق 43.7mm / 1666 برای جای 16 سانت، بیس بیشتر)",
+   "products": [
+    "Kenwood KFC-S1366",
+    "Kenwood KFC-S1666"
+   ],
+   "style": "studio",
+   "music": "suggested: Upbeat Drive (instrumental)",
+   "folder": "posts/2026-11-07-speaker-size",
+   "video": "speaker-size-reel.mp4",
+   "cover": "speaker-size-reel-cover.jpg",
+   "time": "20:30"
   }
  ],
  "stories": [
@@ -344,6 +385,12 @@
    "date": "2026-11-06",
    "product": "Nakamichi NBF8.1A",
    "url": "https://lalehstore.com/nakamichi-nbf8-1a/"
+  },
+  {
+   "date": "2026-11-07",
+   "product": "Harman Kardon Aura Studio 5",
+   "url": "https://lalehstore.com/harman-kardon-aura-studio-5-speaker/",
+   "folder": "stories/2026-11-07"
   }
  ],
  "articles_used": [
@@ -401,13 +448,6 @@
    ]
   },
   {
-   "idea": "باند 13 سانت یا 16 سانت؟ اول جای باند ماشینت رو بشناس (Kenwood KFC-S1366 / KFC-S1666)",
-   "products": [
-    "Kenwood KFC-S1366",
-    "Kenwood KFC-S1666"
-   ]
-  },
-  {
    "idea": "آمپ داری ولی پخش فابریکه؟ مبدل سیگنال High to Low چیه و کی لازمه (فقط اگه مدل موجود باشه)"
   },
   {
@@ -418,6 +458,16 @@
   },
   {
    "idea": "بلندگوی بلوتوثی خونه رو اشتباه نخر: قابل حمل یا خانگی؟ (Harman Kardon Aura Studio در برابر یک اسپیکر قابل حمل موجود)"
+  },
+  {
+   "idea": "تیوتر جدا یا باند کواکسیال؟ کی تیوتر لازمه (فقط مدل های موجود)"
+  },
+  {
+   "idea": "باند جلو یا عقب؛ اول کدوم رو عوض کنم؟ (Kenwood 1676EX جلو + 1666/1366 عقب طبق صفحه محصول)",
+   "products": [
+    "Kenwood KFC-S1676EX",
+    "Kenwood KFC-S1666"
+   ]
   }
  ],
  "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
@@ -457,6 +507,17 @@
    "date": "2026-11-06",
    "finding": "11-05 likely incomplete (reach 121, views repeat 89, followers missing). 11-04 (last complete for reach): reach 791 / +1 −2 (11371) vs 7-day avg 10-28..11-03 ~576 (+37%); its views (89) look incomplete. 11-03 revised up to reach 1273 / views 1658. Car-audio 'mistake' reels lead: oval comparison 1632 reach (VR 54%), amp reel 1161 reach, 18 saves, 4 shares, VR 58% (best VR). Mic reel (11-04) weak: 137 reach, VR 38%, 0 saves — non-car product reels underperform. Carousels: router 237 reach / 7 saves, RMS 65 reach. 11-05 manual amp24 reel and power-bank carousel not in data yet (not posted or not synced). Stories reach 0–6.",
    "apply": "Stay with the car-audio 'X رو اشتباه نخر + which X for which need' reel and a closing rule frame, new subcategory head units: «پخش ماشین رو اشتباه نخر: ساده یا مانیتوردار؟» (Pioneer 720 vs Z7250). Midday: lavalier-mic placement tips (practical how-to with save trigger). Tip: post yesterday's manual reel/carousel if not done, and put a poll «پخشت مانیتور داره؟» on the story re-share of tonight's reel."
+  },
+  {
+   "date": "2026-11-07",
+   "finding": "11-06 likely incomplete (reach 214 / views 276, followers missing). 11-05 revised to reach 167 / views 146 / +0 −0 (11371). Both days ~−70% vs the 7-day avg (~650-670 reach) — 2 days in a row >50% down. Cause: no new reel took off; 11-05 manual amp24 reel and the 11-05/11-06 midday carousels are not in Metricool data (probably not posted). Head-unit reel (11-06) reach 145, VR 51.8% after ~14h. Leaders still oval comparison (1695 reach) and amp 'mistake' reel (1178 reach, 18 saves, VR 58%). Mic reel weakest (150, VR 37.6%). Router carousel 248 reach / 7 saves; RMS 90.",
+   "apply": "Car-audio 'mistake + which X for which car' reel tonight: «سایز باند رو اشتباه نخر: 13 یا 16 سانت؟» (Kenwood 1366 vs 1666), problem in frame 1 + rule frame. Midday: fast-charge cable explainer (everyday topic). Tip: post the manual items on time — missing manual posts are the main reason reach dropped."
+  },
+  {
+   "date": "2026-11-07",
+   "weekly": true,
+   "finding": "Week 10-31..11-06: best = oval 6x9 comparison (1695 reach, VR 54.5%) and amp 'mistake' reel (1178 reach, 18 saves); worst = mic reel (150) and modem 4:5 post (192, VR 34%). Education carousels reach ~5-20% of the best reels (router 248/7 saves, RMS 90); other carousels not in data. Reach peaked 11-01..11-03 (936-1273/day) then fell to ~170-210 on 11-05/06; followers 11365 → 11371 (net +6).",
+   "apply": "Next week: every manual post on time (Thu/Sat reels and all 13:00 carousels), keep car-audio 'mistake' reels on auto days, and add a save trigger frame to every carousel cover."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -553,30 +614,36 @@
   {
    "date": "2026-11-04",
    "account_reach": 791,
-   "views": 89,
+   "views": 998,
    "accounts_engaged": 25,
    "followers_gained": 1,
    "followers_lost": 2,
    "followers": 11371,
-   "note": "Revised 2026-11-06; views 89 looks incomplete (same as 11-05)"
+   "note": "Revised 2026-11-07 (Metricool now 791/998/25)"
   },
   {
    "date": "2026-11-05",
-   "account_reach": 121,
-   "views": 89,
-   "accounts_engaged": 8,
+   "account_reach": 167,
+   "views": 146,
+   "accounts_engaged": 3,
+   "followers_gained": 0,
+   "followers_lost": 0,
+   "followers": 11371,
+   "note": "Revised 2026-11-07 (Metricool now 167/146/3)"
+  },
+  {
+   "date": "2026-11-06",
+   "account_reach": 214,
+   "views": 276,
+   "accounts_engaged": 3,
    "followers_gained": null,
    "followers_lost": null,
    "followers": null,
-   "note": "Likely incomplete: views repeat 11-04 (89), followers missing"
+   "note": "Likely incomplete: followers missing"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
  "planned_midday": [
-  {
-   "idea": "آموزش: کابل شارژ سریع؛ چرا هر کابلی فست شارژ نمی کنه؟",
-   "type": "carousel"
-  },
   {
    "idea": "آموزش: باند 2Way و 3Way چه فرقی دارن؟",
    "type": "carousel"
@@ -611,6 +678,14 @@
   },
   {
    "idea": "آموزش: کارپلی و اندروید اتو چیه؟ با سیم یا بی سیم و چی لازم داره",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: باتری گوشی رو چطوری سالم نگه داریم (دما، شارژ تا 80٪، شارژ شبانه) — فقط از صفحه پشتیبانی رسمی سازنده",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: فرق Bluetooth 5.x و Auracast چیه؟ پخش همزمان روی چند اسپیکر",
    "type": "carousel"
   }
  ]
