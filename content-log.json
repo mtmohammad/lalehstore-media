@@ -337,6 +337,46 @@
    "time": "20:30",
    "hook": "جای باند ماشینت چند سانته؟ 13 یا 16؟",
    "hook_type": "question + time-compressed"
+  },
+  {
+   "date": "2026-11-08",
+   "slot": "midday",
+   "type": "carousel",
+   "manual": true,
+   "category": "education",
+   "topic": "آموزش: فرق باند 2Way و 3Way (ووفر/تیوتر/میدرنج، کراس اوور، تعداد راه ملاک کیفیت نیست)",
+   "hook": "همه میگن 3Way بهتره؛ ولی همیشه نه!",
+   "hook_type": "contrarian",
+   "products": [
+    "Carozzeria CRX-616 (photo)"
+   ],
+   "sources": [
+    "https://ds18.com/pages/coaxials-and-components",
+    "https://www.ooberpad.com/blogs/audio-video-tips/a-customer-asked-us-what-is-the-difference-between-a-2-way-and-3-way-speaker-and-we-said"
+   ],
+   "style": "slides",
+   "folder": "posts/2026-11-08-edu-2way3way",
+   "slides": 6,
+   "time": "13:00"
+  },
+  {
+   "date": "2026-11-08",
+   "slot": "evening",
+   "type": "reel",
+   "category": "product",
+   "topic": "ساب زیر صندلی یا باکس صندوق؟ (بدون آمپ و صندوق لازم = Nakamichi NBF8.1A / آمپ داری و بیس قوی = JBL GT-X1500THI)",
+   "hook": "برای بیس لازم نیست صندوق رو بدی",
+   "hook_type": "simplify",
+   "products": [
+    "Nakamichi NBF8.1A",
+    "JBL GT-X1500THI"
+   ],
+   "style": "studio",
+   "music": "Walk (Instrumental) — Tony Dark Eyes",
+   "folder": "posts/2026-11-08-sub-seat-box",
+   "video": "sub-seat-box-reel.mp4",
+   "time": "20:30",
+   "metricool_id": 420533752
   }
  ],
  "stories": [
@@ -395,6 +435,12 @@
    "product": "Harman Kardon Aura Studio 5",
    "url": "https://lalehstore.com/harman-kardon-aura-studio-5-speaker/",
    "folder": "stories/2026-11-07"
+  },
+  {
+   "date": "2026-11-08",
+   "product": "BOYA Magic-05",
+   "url": "https://lalehstore.com/boya-magic-05/",
+   "folder": "stories/2026-11-08"
   }
  ],
  "articles_used": [
@@ -432,12 +478,6 @@
    "idea": "تلویزیون معمولی رو هوشمند کن: اندروید باکس (دسته android-tv-box، فقط موجودها)"
   },
   {
-   "idea": "ساب زیر صندلی یا ساب صندوقی؟ (Nakamichi NBF8.1A — ساب اکتیو 8 اینچ، ارتفاع 79 میلی متر)",
-   "products": [
-    "Nakamichi NBF8.1A"
-   ]
-  },
-  {
    "idea": "پاوربانک چند میلی آمپر؟ کدوم ظرفیت برای گوشی، کدوم برای سفر و قطعی برق (فقط مدل های موجود)",
    "note": "2026-11-03: all power banks on the site out of stock — skip until restocked"
   },
@@ -471,6 +511,13 @@
    "products": [
     "Kenwood KFC-S1676EX",
     "Kenwood KFC-S1666"
+   ]
+  },
+  {
+   "idea": "ساب کم عمق یا معمولی؟ کدوم برای صندوق کوچیک (JBL Club WS1200، Infinity Reference 123WSL)",
+   "products": [
+    "JBL Club WS1200",
+    "Infinity Reference 123WSL"
    ]
   }
  ],
@@ -527,6 +574,11 @@
    "date": "2026-11-07",
    "finding": "Mohammad banned the «اشتباه نخر» hook phrasing (overused: 7 of the last 8 evening reels).",
    "apply": "From now on: daily hook research (part H), rotate hook types from hook_bank, never repeat a hook type within 5 feed posts. Today's reel re-rendered with «جای باند ماشینت چند سانته؟ 13 یا 16؟»."
+  },
+  {
+   "date": "2026-11-08",
+   "finding": "11-07 likely incomplete (reach 169 / views 213, followers missing). 11-06 revised to 169 / 364 / +1 -1 (11370). Reach ~-75% vs 7-day avg (~672) on 11-05, 11-06, 11-07. No new reel took off: 11-07 question-hook reel 133 reach, VR 42.7% after <1 day; 11-06 head-unit 183, VR 51%; leader still amp reel 11-03 (1187 reach, 18 saves, 5 shares, VR 58.1%). Manual 11-05 amp24 reel and 11-05/06/07 midday carousels absent from Metricool data.",
+   "apply": "Evening: car-audio category with a new angle (under-seat vs box sub, simplify hook, closing rule frame). Midday: contrarian myth-buster on 2Way/3Way with a save CTA. Tip: post manual items on time; re-share tonight's reel to story with a poll."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -603,12 +655,12 @@
   {
    "date": "2026-11-02",
    "account_reach": 936,
-   "views": 723,
+   "views": 1389,
    "accounts_engaged": 38,
    "followers_gained": 4,
    "followers_lost": 8,
    "followers": 11365,
-   "note": "Revised 2026-11-04"
+   "note": "Revised 2026-11-08 (Metricool views now 1389)"
   },
   {
    "date": "2026-11-03",
@@ -633,18 +685,28 @@
   {
    "date": "2026-11-05",
    "account_reach": 167,
-   "views": 146,
-   "accounts_engaged": 3,
+   "views": 149,
+   "accounts_engaged": 10,
    "followers_gained": 0,
    "followers_lost": 0,
    "followers": 11371,
-   "note": "Revised 2026-11-07 (Metricool now 167/146/3)"
+   "note": "Revised 2026-11-08 (149 views, 10 engaged)"
   },
   {
    "date": "2026-11-06",
-   "account_reach": 214,
-   "views": 276,
-   "accounts_engaged": 3,
+   "account_reach": 169,
+   "views": 364,
+   "accounts_engaged": 7,
+   "followers_gained": 1,
+   "followers_lost": 1,
+   "followers": 11370,
+   "note": "Revised 2026-11-08 (complete: 169/364/7, +1 -1)"
+  },
+  {
+   "date": "2026-11-07",
+   "account_reach": 169,
+   "views": 213,
+   "accounts_engaged": 6,
    "followers_gained": null,
    "followers_lost": null,
    "followers": null,
@@ -653,10 +715,6 @@
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
  "planned_midday": [
-  {
-   "idea": "آموزش: باند 2Way و 3Way چه فرقی دارن؟",
-   "type": "carousel"
-  },
   {
    "idea": "آموزش: حساسیت (dB) باند یعنی چی؟ چرا باند 92dB با پخش بلندتره",
    "type": "carousel"
@@ -695,6 +753,10 @@
   },
   {
    "idea": "آموزش: فرق Bluetooth 5.x و Auracast چیه؟ پخش همزمان روی چند اسپیکر",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: کواکسیال یا کامپوننت؟ فرقشون چیه و نصب کدوم راحت تره",
    "type": "carousel"
   }
  ],
@@ -749,10 +811,21 @@
    "type": "quiz/interaction",
    "template": "حدس بزن کدوم ...؟ / تو کدوم رو برمیداری؟",
    "example": "کدوم برای ماشین تو؟ کامنت کن 1 یا 2"
+  },
+  {
+   "type": "checklist",
+   "template": "قبل از X: چک لیست N تایی",
+   "example": "قبل از خرید باند: چک لیست 3 تایی"
+  },
+  {
+   "type": "before-after",
+   "template": "قبل از X در برابر بعد از X",
+   "example": "صدای پخش فابریک، قبل و بعد از ساب"
   }
  ],
  "hook_bank_sources": [
   "https://www.opus.pro/blog/instagram-reels-hook-formulas",
-  "https://instantdm.com/blog/10-instagram-hook-templates-that-get-500k-views-and-the-bad-versions-that-get-50"
+  "https://instantdm.com/blog/10-instagram-hook-templates-that-get-500k-views-and-the-bad-versions-that-get-50",
+  "https://oakgen.ai/blog/instagram-carousel-first-slide-hooks"
  ]
 }
