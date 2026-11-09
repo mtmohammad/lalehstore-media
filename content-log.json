@@ -377,6 +377,48 @@
    "video": "sub-seat-box-reel.mp4",
    "time": "20:30",
    "metricool_id": 420533752
+  },
+  {
+   "date": "2026-11-09",
+   "slot": "midday",
+   "type": "carousel",
+   "manual": true,
+   "category": "education",
+   "topic": "آموزش: حساسیت (dB) باند یعنی چی؟ (1W/1m، هر 3dB یعنی دو برابر توان، پخش بدون آمپ، مثال JBL Club 6520 92dB و KFC-S1366 89dB)",
+   "hook": "با پخش فابریک، این عدد از وات مهم تره",
+   "hook_type": "insider",
+   "products": [
+    "JBL Club 6520 (photo)"
+   ],
+   "sources": [
+    "https://www.cambridgeaudio.com/eur/en/faqs/what-meant-speaker-sensitivity",
+    "https://bestcaraudio.com/car-audio-masterclass-101-8-speakers-power-and-spl",
+    "https://lalehstore.com/jbl-club-6520/",
+    "https://lalehstore.com/kenwood-kfc-s1366/"
+   ],
+   "style": "slides",
+   "folder": "posts/2026-11-09-edu-sensitivity",
+   "slides": 6,
+   "time": "13:00"
+  },
+  {
+   "date": "2026-11-09",
+   "slot": "evening",
+   "type": "reel",
+   "category": "product",
+   "topic": "اسپیکر برای دورهمی: سول یا وایب پرودو؟ (رادیو، فلش و 4 ساعت = Soul / 40 وات، شارژ گوشی و micro SD = Vibe)",
+   "hook": "اسپیکر برای دورهمی می خری؟ اول این 15 ثانیه رو ببین",
+   "hook_type": "pre-emptive",
+   "products": [
+    "Porodo SoundTec Soul",
+    "Porodo SoundTec Vibe PD-STVBPSPK-BK"
+   ],
+   "style": "studio",
+   "music": "Colors (Instrumental) — Yosi Mesbah",
+   "folder": "posts/2026-11-09-party-speaker",
+   "video": "party-speaker-reel.mp4",
+   "time": "20:30",
+   "metricool_uuid": "8638883819571134978"
   }
  ],
  "stories": [
@@ -441,6 +483,12 @@
    "product": "BOYA Magic-05",
    "url": "https://lalehstore.com/boya-magic-05/",
    "folder": "stories/2026-11-08"
+  },
+  {
+   "date": "2026-11-09",
+   "product": "Infinity Alpha 603",
+   "url": "https://lalehstore.com/infinity-alpha-603/",
+   "folder": "stories/2026-11-09"
   }
  ],
  "articles_used": [
@@ -472,10 +520,8 @@
    "idea": "اعتمادسازی: بسته بندی و ارسال سفارش (نیاز به فیلم واقعی از محمد)"
   },
   {
-   "idea": "اسپیکر قابل حمل برای سفر و دورهمی: کدوم پرودو ساندتک؟ (Soul / PD-STVBPSPK)"
-  },
-  {
-   "idea": "تلویزیون معمولی رو هوشمند کن: اندروید باکس (دسته android-tv-box، فقط موجودها)"
+   "idea": "تلویزیون معمولی رو هوشمند کن: اندروید باکس (دسته android-tv-box، فقط موجودها)",
+   "note": "2026-11-09: all android boxes out of stock — skip until restocked"
   },
   {
    "idea": "پاوربانک چند میلی آمپر؟ کدوم ظرفیت برای گوشی، کدوم برای سفر و قطعی برق (فقط مدل های موجود)",
@@ -518,6 +564,19 @@
    "products": [
     "JBL Club WS1200",
     "Infinity Reference 123WSL"
+   ]
+  },
+  {
+   "idea": "محافظ کولر یا محافظ پکیج؟ کدوم محافظ برای زمستون و گاز",
+   "products": [
+    "محافظ پکیج 10 آمپر پارت الکتریک"
+   ]
+  },
+  {
+   "idea": "دو باند 16 سانت با یه پخش: اینفینیتی Alpha 603 یا کنوود 1666؟ (مقایسه حساسیت و توان)",
+   "products": [
+    "Infinity Alpha 603",
+    "Kenwood KFC-S1666"
    ]
   }
  ],
@@ -579,6 +638,11 @@
    "date": "2026-11-08",
    "finding": "11-07 likely incomplete (reach 169 / views 213, followers missing). 11-06 revised to 169 / 364 / +1 -1 (11370). Reach ~-75% vs 7-day avg (~672) on 11-05, 11-06, 11-07. No new reel took off: 11-07 question-hook reel 133 reach, VR 42.7% after <1 day; 11-06 head-unit 183, VR 51%; leader still amp reel 11-03 (1187 reach, 18 saves, 5 shares, VR 58.1%). Manual 11-05 amp24 reel and 11-05/06/07 midday carousels absent from Metricool data.",
    "apply": "Evening: car-audio category with a new angle (under-seat vs box sub, simplify hook, closing rule frame). Midday: contrarian myth-buster on 2Way/3Way with a save CTA. Tip: post manual items on time; re-share tonight's reel to story with a poll."
+  },
+  {
+   "date": "2026-11-09",
+   "finding": "11-08 likely incomplete (235/332 = identical to 11-07, followers missing). 11-07 revised 235/332/9 +3 -2 (11373); 11-06 260/364/7. Reach about -66% vs 7-day avg (~693) on 11-07 and 11-08; low since 11-05. Sub reel 11-08: reach 191, VR 62.7% (best VR of the week, young post); question reel 11-07 VR 39.2% reach 155. Leader still amp reel 11-03 (1189 reach, 18 saves, 5 shares, VR 58.2%). 11-06 mic carousel only appeared on 11-08 (35 reach); 11-07/11-08 midday carousels and 11-05 manual reel not in data. Last 4 evening reels all car audio with no breakout.",
+   "apply": "Tonight: change category to portable speakers with a pre-emptive hook (Soul vs Vibe, closing rule frame); midday: insider hook on sensitivity. Tip: post the 13:00 carousel on time and re-share the reel to story with a poll."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -694,31 +758,37 @@
   },
   {
    "date": "2026-11-06",
-   "account_reach": 169,
+   "account_reach": 260,
    "views": 364,
    "accounts_engaged": 7,
    "followers_gained": 1,
    "followers_lost": 1,
    "followers": 11370,
-   "note": "Revised 2026-11-08 (complete: 169/364/7, +1 -1)"
+   "note": "Revised 2026-11-09 (Metricool now 260/364/7)"
   },
   {
    "date": "2026-11-07",
-   "account_reach": 169,
-   "views": 213,
-   "accounts_engaged": 6,
+   "account_reach": 235,
+   "views": 332,
+   "accounts_engaged": 9,
+   "followers_gained": 3,
+   "followers_lost": 2,
+   "followers": 11373,
+   "note": "Revised 2026-11-09 (complete: 235/332/9, +3 -2)"
+  },
+  {
+   "date": "2026-11-08",
+   "account_reach": 235,
+   "views": 332,
+   "accounts_engaged": 8,
    "followers_gained": null,
    "followers_lost": null,
    "followers": null,
-   "note": "Likely incomplete: followers missing"
+   "note": "Likely incomplete: reach/views identical to 11-07, followers missing"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
  "planned_midday": [
-  {
-   "idea": "آموزش: حساسیت (dB) باند یعنی چی؟ چرا باند 92dB با پخش بلندتره",
-   "type": "carousel"
-  },
   {
    "idea": "آموزش: چطوری سرعت واقعی اینترنت خونه رو درست تست کنیم (سیمی در برابر وای فای)",
    "type": "carousel"
@@ -757,6 +827,14 @@
   },
   {
    "idea": "آموزش: کواکسیال یا کامپوننت؟ فرقشون چیه و نصب کدوم راحت تره",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: چرا محل نصب تیوتر روی صدا اثر داره؟",
+   "type": "carousel"
+  },
+  {
+   "idea": "آموزش: بلوتوث 10 متر یعنی چی و چرا دیوار بردش رو کم می کنه؟",
    "type": "carousel"
   }
  ],
@@ -821,11 +899,22 @@
    "type": "before-after",
    "template": "قبل از X در برابر بعد از X",
    "example": "صدای پخش فابریک، قبل و بعد از ساب"
+  },
+  {
+   "type": "cost-of-inaction",
+   "template": "هر بار X، داری Y رو از دست میدی",
+   "example": "هر بار با پخش فابریک بلند می کنی، داری توان رو هدر میدی"
+  },
+  {
+   "type": "curiosity-gap",
+   "template": "کسی بهت نمیگه X",
+   "example": "کسی بهت نمیگه اسپیکر کوچیک چطوری بلند میشه"
   }
  ],
  "hook_bank_sources": [
   "https://www.opus.pro/blog/instagram-reels-hook-formulas",
   "https://instantdm.com/blog/10-instagram-hook-templates-that-get-500k-views-and-the-bad-versions-that-get-50",
-  "https://oakgen.ai/blog/instagram-carousel-first-slide-hooks"
+  "https://oakgen.ai/blog/instagram-carousel-first-slide-hooks",
+  "https://www.creatorsjet.com/blog/instagram-reel-hooks"
  ]
 }
