@@ -37,5 +37,11 @@
   "No official Premier spec page found; only store attributes used"
  ],
  "images_note": "Premier and Kenwood 8400 product photos are 300px on the site -> not used (no low-res); typographic cards instead. Cutouts: A704 (800px), Pioneer 6704 unused in final.",
- "words": 1809
+ "words": 1809,
+ "media_ids": {
+  "premier-vs-kenwood-jbl-amplifier-cover": 57299,
+  "premier-kenwood-jbl-amp-specs": 57300,
+  "max-vs-rms-4600w-current": 57301,
+  "jbl-a704-4ch-amplifier-banner": 57302
+ }
 }
