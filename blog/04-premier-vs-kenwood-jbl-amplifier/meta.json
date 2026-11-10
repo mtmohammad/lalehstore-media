@@ -1,0 +1,41 @@
+{
+ "number": 4,
+ "status": "ready, not published: WordPress logged out in the app browser on 2026-11-10 run (1405-08-19)",
+ "type": "cluster",
+ "pillar": "آمپ",
+ "pillar_post_id": 57254,
+ "title": "مقایسه آمپلی پریمیر 11000 با کنوود 8400 و جی بی ال A704؛ کدام قوی تر است؟",
+ "slug": "premier-vs-kenwood-jbl-amplifier",
+ "focus_keyword": "مقایسه آمپلی پریمیر",
+ "rank_math_title": "مقایسه آمپلی پریمیر 11000 با کنوود 8400 و JBL A704 - لاله استور",
+ "rank_math_description": "مقایسه آمپلی پریمیر 11000 با کنوود 8400 و JBL A704: چرا ۴۶۰۰ وات حداکثر با توان RMS قابل مقایسه نیست و کدام آمپ ۴ کانال قوی تر است.",
+ "excerpt": "پریمیر 11000 فقط ۴۶۰۰ وات حداکثر اعلام کرده و RMS ندارد؛ کنوود 8400 با ۶۰×۴ و JBL A704 با ۷۰×۴ وات RMS. مقایسه واقعی آمپ‌های ۴ کانال.",
+ "categories": [
+  1543
+ ],
+ "featured": "premier-vs-kenwood-jbl-amplifier-cover.webp",
+ "images": {
+  "premier-vs-kenwood-jbl-amplifier-cover": "مقایسه آمپلی پریمیر 11000 با کنوود 8400 و جی بی ال A704",
+  "premier-kenwood-jbl-amp-specs": "جدول مقایسه آمپلی پریمیر 11000، کنوود KAC-HQR8400 و JBL Concert A704؛ حداکثر توان و RMS",
+  "max-vs-rms-4600w-current": "۴۶۰۰ وات حداکثر و توان RMS؛ مقایسه مجموع RMS آمپ‌های ۴ کانال کنوود، جی بی ال و پایونیر",
+  "jbl-a704-4ch-amplifier-banner": "آمپلی فایر ۴ کانال JBL Concert A704 کلاس AB با ۷۰ وات RMS در هر کانال"
+ },
+ "content_placeholders": "{{IMG:<name>}} in article.html -> uploaded media figure; add class wp-image-<id>",
+ "products_linked": [
+  11859,
+  56617,
+  57031,
+  14094
+ ],
+ "products_named_not_linked": {
+  "13365": "Premier PRG-11000 out of stock"
+ },
+ "pillar_related_li": "<li style=\"text-align:justify;text-justify:inter-word\"><a href=\"https://lalehstore.com/premier-vs-kenwood-jbl-amplifier/\">مقایسه آمپلی پریمیر 11000 با کنوود 8400 و جی بی ال A704</a></li>",
+ "sources": [
+  "Store API products 13365, 11859, 56617, 57031, 14094 (attributes/warranty)",
+  "Kenwood HQR official page (origin.kenwood.com/ae) lists only KAC-HQR1004 now; HQR8400 specs from store page",
+  "No official Premier spec page found; only store attributes used"
+ ],
+ "images_note": "Premier and Kenwood 8400 product photos are 300px on the site -> not used (no low-res); typographic cards instead. Cutouts: A704 (800px), Pioneer 6704 unused in final.",
+ "words": 1809
+}
