@@ -97,6 +97,32 @@
    },
    "related_list": "«مقالات مرتبط» H2 + ul in post; append cluster <li> there",
    "note": "scheduled run found WordPress logged out; published same day after Mohammad logged in. Table model names wrapped in <bdi dir=ltr>."
+  },
+  {
+   "number": 4,
+   "title": "مقایسه آمپلی پریمیر 11000 با کنوود 8400 و جی بی ال A704؛ کدام قوی تر است؟",
+   "type": "cluster",
+   "pillar": "آمپ",
+   "pillar_post_id": 57254,
+   "post_id": 57303,
+   "url": "https://lalehstore.com/premier-vs-kenwood-jbl-amplifier/",
+   "date": "2026-11-10",
+   "jalali": "1405-08-19",
+   "focus_keyword": "مقایسه آمپلی پریمیر",
+   "words": 1809,
+   "products_linked": [
+    11859,
+    56617,
+    57031,
+    14094
+   ],
+   "images": {
+    "premier-vs-kenwood-jbl-amplifier-cover": 57299,
+    "premier-kenwood-jbl-amp-specs": 57300,
+    "max-vs-rms-4600w-current": 57301,
+    "jbl-a704-4ch-amplifier-banner": 57302
+   },
+   "note": "WordPress was logged out at start of run, logged in later in the same run; published on schedule. Premier PRG-11000 out of stock -> named, not linked; Premier/Kenwood 8400 photos are 300px -> typographic graphics. Link added to pillar «مقالات مرتبط»."
   }
  ]
 }
