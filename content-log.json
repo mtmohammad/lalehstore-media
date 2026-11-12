@@ -483,6 +483,29 @@
    "video": "component-reel.mp4",
    "time": "20:30",
    "metricool_id": 424329318
+  },
+  {
+   "date": "2026-11-12",
+   "slot": "evening",
+   "type": "reel",
+   "category": "guide",
+   "topic": "آمپ بدون تعویض پخش فابریک: ورودی سطح بلندگوی پایونیر GM-A6704 (حسگر سیگنال، 60W RMS x4 در 4 اهم) + دو باند جلو و ساب Infinity Alpha 121W روی کانال های بریج (190W RMS در 4 اهم) + چک لیست نصب (سیم 8 گیج، دو فیوز 25A، سیم منفی کوتاه، ملاک RMS)",
+   "hook": "برای آمپ لازم نیست پخش فابریک رو عوض کنی",
+   "hook_type": "simplify",
+   "products": [
+    "Pioneer GM-A6704",
+    "Infinity Alpha 121W"
+   ],
+   "sources": [
+    "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-6704/",
+    "https://lalehstore.com/infinity-alpha-121w/"
+   ],
+   "style": "studio",
+   "music": "suggested: deep house (instrumental)",
+   "folder": "posts/2026-11-12-amp-stock-headunit",
+   "video": "amp-reel.mp4",
+   "time": "20:30",
+   "manual": true
   }
  ],
  "stories": [
@@ -565,6 +588,12 @@
    "product": "TP-Link TD-W9960",
    "url": "https://lalehstore.com/modem-tp-link-td-w9960/",
    "folder": "stories/2026-11-11"
+  },
+  {
+   "date": "2026-11-12",
+   "product": "Kenwood KDC-X5200BT",
+   "url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/",
+   "folder": "stories/2026-11-12"
   }
  ],
  "articles_used": [
@@ -614,9 +643,6 @@
    ]
   },
   {
-   "idea": "آمپ داری ولی پخش فابریکه؟ مبدل سیگنال High to Low چیه و کی لازمه (فقط اگه مدل موجود باشه)"
-  },
-  {
    "idea": "آنتن یا بلوتوث پخش ضعیفه؟ پخش ساده رو با ساب اکتیو زیر صندلی کامل کن (Nakamichi NBF8.1A + پخش با خروجی ساب)"
   },
   {
@@ -656,6 +682,19 @@
   },
   {
    "idea": "آمپ 4 کانال برای کامپوننت جلو + باند عقب: کنوود 804 یا JBL A704؟ (بعد از 2026-12-03 برای A704)"
+  },
+  {
+   "idea": "پخش کنوود 5200 یا پایونیر 720؟ پخش تک دین برای سیستمی که بعدا آمپ و ساب میگیره (3 خروجی RCA هر دو؛ بعد از 2026-12-06 برای 720)",
+   "products": [
+    "Kenwood KDC-X5200BT",
+    "Pioneer DEH-S720DAB"
+   ]
+  },
+  {
+   "idea": "آنتن تلویزیون دیجیتال: شبکه ها برفکیه؟ سیماران SMA2013 رومیزی و هوایی (تقویت 32dB، DVB-T2) — دسته جدید",
+   "products": [
+    "Simaran SMA2013"
+   ]
   }
  ],
  "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
@@ -731,6 +770,11 @@
    "date": "2026-11-11",
    "finding": "11-10: reach 173 / views 250 (followers data missing), about -70% vs 7-day avg 582 (11-03..11-09); 11-09 revised 609/705 +3 (11385), 11-08 revised 783/987 +11 -1. Leaders: 11-03 speaker reel 1200 reach 18 saves 5 shares VR 58%; 11-08 under-seat vs box sub reel 1187 reach 12 saves VR 62.8%. 11-10 slim-sub reel 116 reach VR 36% (<1 day). Midday carousels stay small: 11-03 260, 11-04 99, 11-08 65, 11-10 43 reach. Story data: none returned.",
    "apply": "Mohammad stopped midday carousels (2026-11-11). Evening: car-audio comparison of two well-known component sets (JBL GTO609C vs Kenwood KFC-PS170C) with a scenario/POV hook and a closing rule frame. Tip: re-share the reel to story with a poll and reply to comments in the first hour."
+  },
+  {
+   "date": "2026-11-12",
+   "finding": "11-11 likely incomplete (reach 150 = 11-10, followers missing). Last complete day 11-10: reach 150 / views 301 / 3 engaged, +0 -0 (11384), about -74% vs 7-day avg 582 (11-03..11-09); 11-11 also ~-64% vs 421. Second low streak after 11-05..11-07. Recent reels stuck at ~124-146 reach with VR 37-48% (11-09 party speaker, 11-10 slim sub, 11-11 component); the two breakouts (11-03 speaker 1200 reach, 11-08 under-seat vs box sub 1191 reach, 12 saves, VR 62.7%) solved a real car problem with a simplify/no-change angle. Stories: no data from Metricool.",
+   "apply": "Thursday manual reel: simplify hook (same type as the 11-08 breakout) on a real problem — amp without replacing the stock head unit (Pioneer GM-A6704 speaker-level input + Infinity Alpha 121W on bridged channels), save CTA. Tip: share the reel to story with a poll «پخش ماشینت فابریکه؟» in the first hour and answer comments fast."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -877,8 +921,8 @@
   {
    "date": "2026-11-09",
    "account_reach": 609,
-   "views": 705,
-   "accounts_engaged": 10,
+   "views": 706,
+   "accounts_engaged": 13,
    "followers_gained": 3,
    "followers_lost": 0,
    "followers": 11385,
@@ -886,13 +930,23 @@
   },
   {
    "date": "2026-11-10",
-   "account_reach": 173,
-   "views": 250,
-   "accounts_engaged": 10,
+   "account_reach": 150,
+   "views": 301,
+   "accounts_engaged": 3,
+   "followers_gained": 0,
+   "followers_lost": 0,
+   "followers": 11384,
+   "note": "Revised 2026-11-12 (150/301/3, +0 -0, 11384)"
+  },
+  {
+   "date": "2026-11-11",
+   "account_reach": 150,
+   "views": 177,
+   "accounts_engaged": 3,
    "followers_gained": null,
    "followers_lost": null,
    "followers": null,
-   "note": "Possibly incomplete: followers missing"
+   "note": "Likely incomplete: reach identical to 11-10, followers missing"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
@@ -1041,6 +1095,11 @@
    "type": "honest/vulnerability",
    "template": "بذار رک بگم: X",
    "example": "بذار رک بگم: کامپوننت بدون آمپ صدای کم جونی میده"
+  },
+  {
+   "type": "clear premise",
+   "template": "موضوع و نتیجه ویدیو رو صاف تو جمله اول بگو، بدون مقدمه",
+   "example": "یه آمپ برای باند جلو و ساب، روی همون پخش فابریک"
   }
  ],
  "hook_bank_sources": [
@@ -1049,7 +1108,8 @@
   "https://oakgen.ai/blog/instagram-carousel-first-slide-hooks",
   "https://www.creatorsjet.com/blog/instagram-reel-hooks",
   "https://blitzcutai.com/blog/best-instagram-reels-hooks-2026",
-  "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-11: vulnerability, pattern-then-break)"
+  "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-11: vulnerability, pattern-then-break)",
+  "https://nestscale.com/?p=47200 (2026-11-12: clear premise, result-first, pattern interrupt)"
  ],
  "midday_rule": "2026-11-11 Mohammad: «دیگه پست های اسلایدی نده برای صبح فقط همون ریل و استوری کافیه» — NO midday carousel any more (part E cancelled). Daily output = evening reel (auto or manual) + story only."
 }
