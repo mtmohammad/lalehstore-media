@@ -28,7 +28,7 @@ Every `<table>` must be wrapped so it never overflows the phone screen, and its 
 1. Pick the lowest-numbered row whose status is «در صف» or «عقب افتاد» (skip a row only if its rule says so,
    e.g. #31/#32 need verified car-size data — then take the next row and say so in the report).
    If a cluster's pillar is not published yet, publish the pillar first (it is earlier in the calendar).
-2. Research
+2. Research (also do «QUALITY-CHECKLIST.md» section 1: cannibalization, source tiers, ≥ 3 information gains)
    - Site data (no login needed): `https://lalehstore.com/wp-json/wc/store/v1/products?search=<q>&per_page=50`
      (name, permalink, price in Toman, is_in_stock, images, attributes). Category pages under
      `/car-speaker/ /component/ /car-subwoofer/ /amplifier/ /car-cd-player/` and brand sub-categories.
@@ -60,6 +60,11 @@ Every `<table>` must be wrapped so it never overflows the phone screen, and its 
      save as `<CUT_DIR>/<name>.png`. Brand colours are in sysgfx `BRAND`.
    - Open every rendered image with Read and fix overlaps, cut-off text, reversed mixed text.
    - Save the WebPs in `blog/<NN>-<slug>/` (NN = calendar number) and commit them.
+4b. Quality gate (Mohammad, 1405-08-21): run `blog/QUALITY-CHECKLIST.md` sections 2–8 on the final draft
+   (writing rules, Persian AI-slop scan, on-page SEO, GEO, schema notes, fact-check re-opening every source, score /100).
+   Publish only with score ≥ 85 and zero P0; fill the template of section 9 and commit it as `blog/<NN>-<slug>/review.md`.
+   The checklist is adapted from claude-blog (AgriciDaniel, MIT). Never install or run that repo's scripts or its
+   image generator. If the checklist and this README disagree, this README wins.
 5. Publish through the built-in browser (WordPress is logged in there; no passwords, no API keys):
    - open a new tab on `https://lalehstore.com/wp-admin/edit.php`; if it shows the login form, stop and report.
    - nonce: `await (await fetch('/wp-admin/admin-ajax.php?action=rest-nonce')).text()`
