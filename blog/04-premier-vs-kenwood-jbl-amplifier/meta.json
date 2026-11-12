@@ -43,5 +43,10 @@
   "premier-kenwood-jbl-amp-specs": 57300,
   "max-vs-rms-4600w-current": 57301,
   "jbl-a704-4ch-amplifier-banner": 57302
+ },
+ "pending_live_fixes": {
+  "note": "from QUALITY-CHECKLIST review 2026-11-12; article.html already updated, live post 57303 not yet",
+  "content": "replace «در این مقاله سه آمپ» with «اینجا سه آمپ»; add 'how we checked' paragraph before «مقالات مرتبط»",
+  "rank_math_title": "مقایسه آمپلی پریمیر 11000، کنوود 8400 و JBL A704"
  }
 }
