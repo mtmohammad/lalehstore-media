@@ -506,6 +506,24 @@
    "video": "amp-reel.mp4",
    "time": "20:30",
    "manual": true
+  },
+  {
+   "date": "2026-11-13",
+   "slot": "evening",
+   "type": "reel",
+   "category": "product",
+   "topic": "آمپ 4 کانال: کنوود 8400 یا پایونیر 7004؟ (دو ساب یا پخش فابریک = Kenwood KAC-HQR8400: بریج 2×180W، ورودی سطح بلندگو، HPF/LPF 50-200Hz / چهار باند با توان بیشتر = Pioneer GM-E7004: 70W RMS هر کانال در 4 اهم، 4×95W در 2 اهم، کلاس AB؛ ملاک RMS نه 720W)",
+   "hook": "60 وات یا 70 وات؟ آمپ 4 کانال فقط وات نیست",
+   "hook_type": "spec showdown (split-screen)",
+   "products": [
+    "Kenwood KAC-HQR8400",
+    "Pioneer GM-E7004"
+   ],
+   "style": "studio",
+   "music": "Move Ur Body (Instrumental) — half.cool",
+   "folder": "posts/2026-11-13-amp4-8400-7004",
+   "video": "amp4-reel.mp4",
+   "metricool_uuid": "5973742050486862810"
   }
  ],
  "stories": [
@@ -594,6 +612,12 @@
    "product": "Kenwood KDC-X5200BT",
    "url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/",
    "folder": "stories/2026-11-12"
+  },
+  {
+   "date": "2026-11-13",
+   "product": "Pioneer GM-E7002",
+   "url": "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/",
+   "folder": "stories/2026-11-13"
   }
  ],
  "articles_used": [
@@ -672,9 +696,6 @@
    ]
   },
   {
-   "idea": "آمپ مونو برای ساب چند وات بگیرم؟ (هماهنگ با RMS ساب و 2 یا 4 اهم؛ فقط مدل های موجود)"
-  },
-  {
    "idea": "سیم پک آمپ: چرا ضخامت سیم و فیوز نزدیک باتری مهمه؟ (از صفحات محصول سیم پک موجود)"
   },
   {
@@ -695,6 +716,19 @@
    "products": [
     "Simaran SMA2013"
    ]
+  },
+  {
+   "idea": "آمپ 2 کانال پایونیر 7002 برای یک ساب یا یک جفت باند: بریج یا استریو؟ (فقط از صفحه محصول)",
+   "products": [
+    "Pioneer GM-E7002"
+   ]
+  },
+  {
+   "idea": "گین آمپ ولوم نیست: تنظیم درست گین و فیلتر HPF/LPF (ریل آموزشی با آمپ موجود)"
+  },
+  {
+   "idea": "آمپ مونو برای ساب چند وات بگیرم؟ (هماهنگ با RMS ساب و 2 یا 4 اهم)",
+   "note": "2026-11-13: no mono amps in stock (JBL/Kenwood/Pioneer/Infinity) — skip until restocked"
   }
  ],
  "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
@@ -775,6 +809,11 @@
    "date": "2026-11-12",
    "finding": "11-11 likely incomplete (reach 150 = 11-10, followers missing). Last complete day 11-10: reach 150 / views 301 / 3 engaged, +0 -0 (11384), about -74% vs 7-day avg 582 (11-03..11-09); 11-11 also ~-64% vs 421. Second low streak after 11-05..11-07. Recent reels stuck at ~124-146 reach with VR 37-48% (11-09 party speaker, 11-10 slim sub, 11-11 component); the two breakouts (11-03 speaker 1200 reach, 11-08 under-seat vs box sub 1191 reach, 12 saves, VR 62.7%) solved a real car problem with a simplify/no-change angle. Stories: no data from Metricool.",
    "apply": "Thursday manual reel: simplify hook (same type as the 11-08 breakout) on a real problem — amp without replacing the stock head unit (Pioneer GM-A6704 speaker-level input + Infinity Alpha 121W on bridged channels), save CTA. Tip: share the reel to story with a poll «پخش ماشینت فابریکه؟» in the first hour and answer comments fast."
+  },
+  {
+   "date": "2026-11-13",
+   "finding": "11-12 likely incomplete (identical to 11-11). 11-11: reach 1728 / views 1981 / 66 engaged, +0 -2 (11383) — about +300% vs 7-day avg 431 (11-04..11-10); 11-10 revised 216/301/10. Driver: the 11-05 manual amp reel «2 کانال یا 4 کانال» (Kenwood 802/804) that Mohammad posted (Metricool dates it 11-12): 1668 reach, 20 saves, 6 shares, VR 60.5% — best reel so far. 11-11 component reel 254 reach VR 55.6%; 11-10 slim sub 146 reach VR 37.4% weakest. 11-12 GM-A6704 reel not in data yet. Stories: no data.",
+   "apply": "Stay on amplifiers with a new angle: 4-channel comparison of two well-known brands (Kenwood KAC-HQR8400 vs Pioneer GM-E7004) with a simple rule frame and save CTA; new hook type spec showdown. Tip: pin a comment «سیستمت چند باند و ساب داره؟» and answer DMs in the first hour."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -930,23 +969,33 @@
   },
   {
    "date": "2026-11-10",
-   "account_reach": 150,
+   "account_reach": 216,
    "views": 301,
-   "accounts_engaged": 3,
+   "accounts_engaged": 10,
    "followers_gained": 0,
    "followers_lost": 0,
    "followers": 11384,
-   "note": "Revised 2026-11-12 (150/301/3, +0 -0, 11384)"
+   "note": "Revised 2026-11-13 (216/301/10)"
   },
   {
    "date": "2026-11-11",
-   "account_reach": 150,
-   "views": 177,
-   "accounts_engaged": 3,
+   "account_reach": 1728,
+   "views": 1981,
+   "accounts_engaged": 66,
+   "followers_gained": 0,
+   "followers_lost": 2,
+   "followers": 11383,
+   "note": "Revised 2026-11-13 (1728/1981/66, +0 -2)"
+  },
+  {
+   "date": "2026-11-12",
+   "account_reach": 1728,
+   "views": 1981,
+   "accounts_engaged": 66,
    "followers_gained": null,
    "followers_lost": null,
    "followers": null,
-   "note": "Likely incomplete: reach identical to 11-10, followers missing"
+   "note": "Likely incomplete: identical to 11-11, followers missing"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
@@ -1100,6 +1149,11 @@
    "type": "clear premise",
    "template": "موضوع و نتیجه ویدیو رو صاف تو جمله اول بگو، بدون مقدمه",
    "example": "یه آمپ برای باند جلو و ساب، روی همون پخش فابریک"
+  },
+  {
+   "type": "spec showdown (split-screen)",
+   "template": "«عدد A یا عدد B؟ X فقط <عدد> نیست» — دو مدل کنار هم، فرق واقعی در یک خط",
+   "example": "60 وات یا 70 وات؟ آمپ 4 کانال فقط وات نیست"
   }
  ],
  "hook_bank_sources": [
@@ -1109,7 +1163,8 @@
   "https://www.creatorsjet.com/blog/instagram-reel-hooks",
   "https://blitzcutai.com/blog/best-instagram-reels-hooks-2026",
   "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-11: vulnerability, pattern-then-break)",
-  "https://nestscale.com/?p=47200 (2026-11-12: clear premise, result-first, pattern interrupt)"
+  "https://nestscale.com/?p=47200 (2026-11-12: clear premise, result-first, pattern interrupt)",
+  "https://www.influencers-time.com/spec-comparison-reels-the-split-screen-brief-driving-convers/ (2026-11-13: split-screen spec comparison)"
  ],
  "midday_rule": "2026-11-11 Mohammad: «دیگه پست های اسلایدی نده برای صبح فقط همون ریل و استوری کافیه» — NO midday carousel any more (part E cancelled). Daily output = evening reel (auto or manual) + story only."
 }
