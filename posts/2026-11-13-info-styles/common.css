@@ -1,0 +1,17 @@
+@font-face{font-family:V;src:url(/home/claude/lalehstore-media/tools/fonts/Vazirmatn-Black.ttf);font-weight:900}
+@font-face{font-family:V;src:url(/home/claude/lalehstore-media/tools/fonts/Vazirmatn-Bold.ttf);font-weight:700}
+@font-face{font-family:V;src:url(/home/claude/lalehstore-media/tools/fonts/Vazirmatn-Medium.ttf);font-weight:500}
+@font-face{font-family:M;src:url(/home/claude/lalehstore-media/tools/fonts/Michroma.woff2)}
+:root{--pink:#EC5581;--blue:#3E95F7;--vio:#9B6FE0;--ink:#1C1E2A;--mut:#6b6f80;--grad:linear-gradient(90deg,#EC5581,#9B6FE0,#3E95F7)}
+*{margin:0;box-sizing:border-box}
+html,body{overflow:hidden}
+body{width:1080px;height:1350px;font-family:V;color:var(--ink)}
+#c{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:hidden;
+background:radial-gradient(ellipse at 8% 12%,rgba(236,85,129,.26),transparent 40%),radial-gradient(ellipse at 96% 40%,rgba(62,149,247,.24),transparent 40%),radial-gradient(ellipse at 40% 95%,rgba(155,111,224,.16),transparent 50%),#f7f3f9}
+.lat{direction:ltr;unicode-bidi:isolate}
+.gt{background:var(--grad);-webkit-background-clip:text;color:transparent}
+.num{font-family:M;direction:ltr;unicode-bidi:isolate}
+.card{background:#fff;border-radius:28px;box-shadow:0 12px 32px rgba(40,30,80,.10)}
+.foot{position:absolute;bottom:34px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:16px;background:#fff;border-radius:46px;padding:8px 10px 8px 24px;box-shadow:0 10px 30px rgba(40,30,80,.18);white-space:nowrap}
+.foot img{height:36px}.cta{background:var(--grad);color:#fff;font-weight:900;font-size:21px;border-radius:30px;padding:7px 20px}
+.pill{display:inline-block;background:var(--grad);color:#fff;font-weight:700;font-size:22px;border-radius:30px;padding:6px 20px}
