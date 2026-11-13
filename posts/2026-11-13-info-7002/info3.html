@@ -1,0 +1,80 @@
+<!doctype html><html dir="rtl"><head><meta charset="utf-8"><style>
+@font-face{font-family:V;src:url(/home/claude/lalehstore-media/tools/fonts/Vazirmatn-Black.ttf);font-weight:900}
+@font-face{font-family:V;src:url(/home/claude/lalehstore-media/tools/fonts/Vazirmatn-Bold.ttf);font-weight:700}
+@font-face{font-family:V;src:url(/home/claude/lalehstore-media/tools/fonts/Vazirmatn-Medium.ttf);font-weight:500}
+@font-face{font-family:M;src:url(/home/claude/lalehstore-media/tools/fonts/Michroma.woff2)}
+:root{--cy:#3E95F7;--red:#EC5581;--ink:#1C1E2A}
+*{margin:0;box-sizing:border-box}
+body{width:1080px;height:1350px;overflow:hidden;position:relative;font-family:V;color:#1C1E2A;
+background:radial-gradient(ellipse at 10% 15%,rgba(236,85,129,.30),transparent 38%),radial-gradient(ellipse at 95% 35%,rgba(62,149,247,.28),transparent 36%),radial-gradient(ellipse at 50% 80%,rgba(155,111,224,.18),transparent 55%),#f7f3f9}
+.bokeh{position:absolute;border-radius:50%;filter:blur(22px);background:rgba(236,85,129,.28)}
+.floor{position:absolute;left:-30%;right:-30%;bottom:-40px;height:560px;transform:perspective(600px) rotateX(64deg);transform-origin:bottom;
+background-image:linear-gradient(rgba(62,149,247,.25) 2px,transparent 2px),linear-gradient(90deg,rgba(236,85,129,.22) 2px,transparent 2px);background-size:90px 90px;
+-webkit-mask-image:linear-gradient(to top,#000 30%,transparent 95%)}
+.ring{position:absolute;left:50%;border-radius:50%;transform:translateX(-50%)}
+.title{position:absolute;right:70px;top:70px;text-align:right}
+.title h1{font-weight:900;font-size:62px;line-height:1.2;text-shadow:none}
+.title h2{font-weight:500;font-size:30px;color:#6b6f80;margin-top:6px}
+.lat{direction:ltr;unicode-bidi:isolate}
+.hud{position:absolute;top:300px;right:70px;left:70px;height:120px}
+.box{font-family:M;font-size:44px;color:transparent;background:linear-gradient(90deg,#EC5581,#9B6FE0,#3E95F7);-webkit-background-clip:text;padding:6px 22px;direction:ltr}
+.box:before,.box:after{content:"";position:absolute;top:0;bottom:0;width:14px;border:3px solid #9B6FE0}
+.box:before{left:0;border-right:none}.box:after{right:0;border-left:none}
+.redbar{border-radius:30px;background:linear-gradient(90deg,#EC5581,#3E95F7);filter:blur(10px);opacity:.75}
+.redlbl{font-weight:900;font-size:30px;color:#fff;text-shadow:0 2px 8px rgba(120,40,90,.5)}
+svg{position:absolute;overflow:visible}
+.glowc{filter:drop-shadow(0 0 6px rgba(62,149,247,.45))}
+.lbl{position:absolute;font-family:M;font-size:26px;color:#3E95F7;direction:ltr;transform:translateX(-50%) skewY(3deg);white-space:nowrap}
+.sub{position:absolute;font-weight:700;font-size:20px;color:#555a6c;transform:translateX(-50%);white-space:nowrap}
+.amp{position:absolute;left:190px;top:850px;width:700px;filter:drop-shadow(0 0 40px rgba(236,85,129,.35)) drop-shadow(0 35px 35px rgba(40,30,80,.35));transform:rotate(-3deg)}
+.chips{position:absolute;right:40px;top:1196px;left:40px;display:flex;gap:14px;justify-content:center}
+.chip{border:2px solid rgba(155,111,224,.45);border-radius:30px;padding:7px 16px;font-weight:700;font-size:21px;color:#1C1E2A;background:#fff;box-shadow:0 8px 22px rgba(40,30,80,.12);white-space:nowrap}
+.chip b{font-family:M;font-weight:400;font-size:20px;color:#EC5581}
+.foot{position:absolute;bottom:34px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:16px;background:#fff;border-radius:46px;padding:8px 10px 8px 24px;box-shadow:0 10px 30px rgba(40,30,80,.18);white-space:nowrap}
+.foot img{height:36px}.cta{background:linear-gradient(90deg,#EC5581,#3E95F7);color:#fff;font-weight:900;font-size:21px;border-radius:30px;padding:7px 20px}
+#c{position:absolute;left:0;top:0;width:1080px;height:1350px;overflow:hidden}html,body{overflow:hidden}</style></head><body><div id="c">
+<div class="bokeh" style="width:140px;height:140px;left:40px;top:160px"></div>
+<div class="bokeh" style="width:90px;height:180px;left:260px;top:40px;opacity:.6"></div>
+<div class="bokeh" style="width:120px;height:120px;right:10px;top:430px;opacity:.7"></div>
+<div class="bokeh" style="width:70px;height:70px;left:520px;top:200px;opacity:.5"></div>
+<div class="floor"></div>
+<div class="ring" style="bottom:70px;width:1000px;height:300px;border:3px solid rgba(236,85,129,.55);box-shadow:0 0 20px rgba(236,85,129,.3)"></div>
+<div class="ring" style="bottom:110px;width:820px;height:230px;border:2px solid rgba(62,149,247,.35)"></div>
+
+<div class="title"><h1>آمپلی فایر پایونیر <span class="lat">7002</span></h1><h2>جزئیات توان و تنظیمات صدا</h2></div>
+
+<div class="redbar" style="position:absolute;left:30px;width:360px;top:338px;height:56px"></div>
+<div class="redlbl" style="position:absolute;left:96px;top:342px">توان در 4 اهم</div>
+<div class="box" style="position:absolute;left:400px;right:auto;top:318px">2×70W</div>
+<svg width="140" height="80" style="left:690px;top:326px" class="glowc"><polyline points="0,40 15,40 25,10 35,70 45,25 55,55 65,40 80,40 90,20 100,60 110,40 140,40" fill="none" stroke="#3E95F7" stroke-width="3"/></svg>
+<svg width="190" height="120" style="left:830px;top:290px" class="glowc" viewBox="0 0 210 130">
+ <path d="M15 115 A90 90 0 0 1 195 115" fill="none" stroke="#3E95F7" stroke-width="5"/>
+ <path d="M150 40 A90 90 0 0 1 195 115" fill="none" stroke="#EC5581" stroke-width="7"/>
+ <g stroke="#3E95F7" stroke-width="3"><line x1="35" y1="70" x2="45" y2="76"/><line x1="105" y1="28" x2="105" y2="40"/><line x1="70" y1="38" x2="76" y2="48"/><line x1="140" y1="38" x2="134" y2="48"/></g>
+ <line x1="105" y1="112" x2="160" y2="55" stroke="#1C1E2A" stroke-width="5" stroke-linecap="round"/><circle cx="105" cy="112" r="9" fill="none" stroke="#1C1E2A" stroke-width="4"/>
+</svg>
+<!-- hologram bars (frequency features) -->
+<svg width="1080" height="420" style="left:0;top:440px" viewBox="0 0 1080 420">
+ <defs><linearGradient id="hb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3E95F7" stop-opacity=".45"/><stop offset="1" stop-color="#9B6FE0" stop-opacity=".08"/></linearGradient></defs>
+ <g class="glowc" stroke="#3E95F7" stroke-width="3.5" fill="url(#hb)">
+  <rect x="140" y="215" width="105" height="22"/>
+  <rect x="280" y="190" width="105" height="55"/>
+  <rect x="420" y="160" width="105" height="92"/>
+  <rect x="560" y="125" width="105" height="135"/>
+ </g>
+ <rect x="700" y="80" width="125" height="188" fill="url(#hb)" stroke="#EC5581" stroke-width="4" style="filter:drop-shadow(0 0 10px rgba(236,85,129,.6))"/>
+ <polyline points="110,300 120,312 870,345 860,333" fill="none" stroke="#3E95F7" stroke-width="2.5" opacity=".8"/>
+ <line x1="520" y1="330" x2="470" y2="450" stroke="#3E95F7" stroke-width="2" opacity=".7"/>
+</svg>
+<div class="lbl" style="left:192px;top:705px">15Hz</div><div class="sub" style="left:192px;top:759px">پاسخ از</div>
+<div class="lbl" style="left:332px;top:710px">32Hz</div><div class="sub" style="left:332px;top:766px">فیلتر از</div>
+<div class="lbl" style="left:472px;top:716px">50Hz</div><div class="sub" style="left:472px;top:772px">بیس بوست</div>
+<div class="lbl" style="left:612px;top:722px">320Hz</div><div class="sub" style="left:612px;top:778px">فیلتر تا</div>
+<div class="lbl" style="left:770px;top:728px;color:#EC5581;font-size:32px;border-bottom:4px solid #EC5581">2×95W</div><div class="sub" style="left:770px;top:794px;color:#EC5581">در 2 اهم</div>
+
+<img class="amp" src="amp.png">
+<div class="chips">
+ <div class="chip">کلاس <b>AB</b></div><div class="chip">بدنه آلومینیومی</div><div class="chip">فیوز <b>40A</b></div><div class="chip">نسبت سیگنال به نویز <b>100dB</b></div>
+</div>
+<div class="foot"><span class="cta">استعلام قیمت در دایرکت</span><img src="logo.png"></div>
+</div></body></html>
