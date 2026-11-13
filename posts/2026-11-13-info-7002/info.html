@@ -1,0 +1,91 @@
+<!doctype html><html dir="rtl"><head><meta charset="utf-8"><style>
+@font-face{font-family:V;src:url(/home/claude/lalehstore-media/tools/fonts/Vazirmatn-Black.ttf);font-weight:900}
+@font-face{font-family:V;src:url(/home/claude/lalehstore-media/tools/fonts/Vazirmatn-Bold.ttf);font-weight:700}
+@font-face{font-family:V;src:url(/home/claude/lalehstore-media/tools/fonts/Vazirmatn-Medium.ttf);font-weight:500}
+:root{--pink:#EC5581;--blue:#3E95F7;--ink:#1C1E2A;--grad:linear-gradient(90deg,#EC5581,#9B6FE0,#3E95F7)}
+*{margin:0;box-sizing:border-box}
+body{width:1080px;height:1350px;font-family:V;color:var(--ink);background:#f6f3f8;overflow:hidden;position:relative}
+.grid{position:absolute;inset:0;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:6px;background:#fff}
+.p{position:relative;overflow:hidden;padding:44px 40px}
+.p1{background:radial-gradient(circle at 80% 20%,#ffd6e3 0,transparent 55%),radial-gradient(circle at 10% 90%,#d6e8ff 0,transparent 60%),#fbf6fa}
+.p2{background:radial-gradient(circle at 30% 30%,#dceaff 0,transparent 60%),radial-gradient(circle at 90% 90%,#ffd9e6 0,transparent 55%),#f5f8fd}
+.p3{background:radial-gradient(circle at 70% 70%,#e7dcff 0,transparent 60%),radial-gradient(circle at 10% 10%,#ffdbe7 0,transparent 55%),#faf7fd}
+.p4{background:radial-gradient(circle at 20% 80%,#ffd6e3 0,transparent 55%),radial-gradient(circle at 90% 10%,#d4e6ff 0,transparent 60%),#f7f8fd}
+.floor{position:absolute;left:-20%;right:-20%;bottom:-10px;height:46%;transform:perspective(500px) rotateX(62deg);transform-origin:bottom;
+ background-image:linear-gradient(rgba(62,149,247,.22) 2px,transparent 2px),linear-gradient(90deg,rgba(236,85,129,.2) 2px,transparent 2px);background-size:60px 60px;
+ -webkit-mask-image:linear-gradient(to top,#000 20%,transparent)}
+h2{font-weight:900;font-size:40px;line-height:1.25;position:relative;z-index:2}
+h3{font-weight:500;font-size:23px;color:#6b6f80;margin-top:4px;position:relative;z-index:2}
+.lat{direction:ltr;unicode-bidi:isolate;font-family:V}
+.amp{position:absolute;z-index:1;filter:drop-shadow(0 30px 30px rgba(40,30,80,.28))}
+.glow{position:absolute;border-radius:50%;filter:blur(30px);z-index:0}
+/* panel1 bars */
+.bars{position:absolute;left:40px;right:40px;bottom:56px;display:flex;gap:26px;align-items:flex-end;z-index:2}
+.bar{flex:1;text-align:center}
+.bar .col{border-radius:22px 22px 10px 10px;background:var(--grad);box-shadow:0 14px 30px rgba(236,85,129,.35);position:relative}
+.bar .v{font-weight:900;font-size:50px;direction:ltr;line-height:1;margin-bottom:10px;background:var(--grad);-webkit-background-clip:text;color:transparent}
+.bar .l{font-weight:700;font-size:22px;margin-top:12px;color:#555a6c}
+.chip{display:inline-block;background:#fff;border-radius:40px;padding:8px 20px;font-weight:700;font-size:21px;box-shadow:0 8px 22px rgba(40,30,80,.12)}
+/* panel3 curve */
+svg{position:absolute;z-index:2}
+.list{position:absolute;right:40px;left:40px;bottom:44px;display:flex;flex-direction:column;gap:14px;z-index:2}
+.row{display:flex;align-items:center;justify-content:space-between;background:rgba(255,255,255,.92);border-radius:22px;padding:14px 22px;box-shadow:0 10px 26px rgba(40,30,80,.10)}
+.row b{font-weight:700;font-size:23px}
+.row span{font-weight:900;font-size:27px;direction:ltr;background:var(--grad);-webkit-background-clip:text;color:transparent}
+.center{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:10;background:#fff;border-radius:60px;padding:14px 18px 14px 34px;display:flex;align-items:center;gap:16px;box-shadow:0 14px 40px rgba(40,30,80,.25);white-space:nowrap}
+.center .t{font-weight:900;font-size:32px}
+.center .dot{width:56px;height:56px;border-radius:50%;background:var(--grad);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:900;font-size:22px;direction:ltr}
+.foot{position:absolute;left:50%;bottom:26px;transform:translateX(-50%);z-index:10;display:flex;align-items:center;gap:18px;background:rgba(255,255,255,.95);border-radius:50px;padding:10px 14px 10px 28px;box-shadow:0 10px 30px rgba(40,30,80,.2);white-space:nowrap}
+.foot img{height:40px}
+.cta{background:var(--grad);color:#fff;font-weight:900;font-size:22px;border-radius:40px;padding:9px 22px}
+.tagp{position:absolute;white-space:nowrap;z-index:3;background:var(--grad);color:#fff;font-weight:700;font-size:20px;border-radius:30px;padding:6px 16px}
+</style></head><body>
+<div class="grid">
+ <!-- top-right (RTL first): overview -->
+ <div class="p p2">
+  <h2>نمای کلی آمپ</h2><h3>آمپلی فایر دو کانال پایونیر</h3>
+  <div class="glow" style="width:420px;height:200px;background:#9fc6ff;left:60px;top:300px;opacity:.7"></div>
+  <div class="floor"></div>
+  <img class="amp" src="amp.png" style="width:470px;left:36px;top:215px;transform:rotate(-4deg)">
+  <div class="tagp" style="right:36px;top:200px">بدنه آلومینیومی</div>
+  <div class="tagp" style="left:30px;bottom:110px">کلاس AB</div>
+ </div>
+ <!-- top-left: power -->
+ <div class="p p1">
+  <h2>قدرت خروجی</h2><h3>توان واقعی <span class="lat">RMS</span> هر کانال</h3>
+  <div class="bars">
+   <div class="bar"><div class="v">70W</div><div class="col" style="height:190px"></div><div class="l">در 4 اهم × 2</div></div>
+   <div class="bar"><div class="v">95W</div><div class="col" style="height:258px"></div><div class="l">در 2 اهم × 2</div></div>
+  </div>
+ </div>
+ <!-- bottom-right: filters -->
+ <div class="p p3">
+  <h2>فیلتر و بیس بوست</h2><h3>تنظیم صدا برای باند یا ساب</h3>
+  <svg width="460" height="250" style="left:40px;top:150px" viewBox="0 0 460 250">
+   <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#3E95F7"/><stop offset="1" stop-color="#EC5581"/></linearGradient>
+   <linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EC5581" stop-opacity=".28"/><stop offset="1" stop-color="#3E95F7" stop-opacity="0"/></linearGradient></defs>
+   <g stroke="#c9c3dd" stroke-width="1.5" stroke-dasharray="4 6"><line x1="10" y1="200" x2="450" y2="200"/><line x1="120" y1="20" x2="120" y2="200"/><line x1="340" y1="20" x2="340" y2="200"/></g>
+   <path d="M10 200 C 60 200, 80 70, 120 60 L 340 60 C 380 70, 400 200, 450 200 Z" fill="url(#f)"/>
+   <path d="M10 200 C 60 200, 80 70, 120 60 L 340 60 C 380 70, 400 200, 450 200" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round"/>
+   <text x="120" y="235" text-anchor="middle" font-family="V" font-weight="900" font-size="24" fill="#1C1E2A">32Hz</text>
+   <text x="340" y="235" text-anchor="middle" font-family="V" font-weight="900" font-size="24" fill="#1C1E2A">320Hz</text>
+  </svg>
+  <div class="list" style="bottom:112px">
+   <div class="row"><b>فیلتر HPF و LPF</b><span>32–320Hz</span></div>
+   <div class="row"><b>بیس بوست</b><span>50Hz</span></div>
+  </div>
+ </div>
+ <!-- bottom-left: use & install -->
+ <div class="p p4">
+  <h2>کاربرد و نصب</h2><h3>قبل از خرید اینا رو بدون</h3>
+  <div class="list" style="bottom:112px">
+   <div class="row"><b>یک جفت باند یا یک ساب (بریج)</b></div>
+   <div class="row"><b>پاسخ فرکانسی</b><span>15Hz–22kHz</span></div>
+   <div class="row"><b>نسبت سیگنال به نویز</b><span>100dB</span></div>
+   <div class="row"><b>فیوز مسیر باتری</b><span>40A</span></div>
+  </div>
+ </div>
+</div>
+<div class="center"><div class="t">پایونیر <span class="lat">GM-E7002</span></div><div class="dot">2CH</div></div>
+<div class="foot"><span class="cta">استعلام قیمت در دایرکت</span><img src="logo.png"></div>
+</body></html>
