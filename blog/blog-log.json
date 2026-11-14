@@ -123,6 +123,36 @@
     "jbl-a704-4ch-amplifier-banner": 57302
    },
    "note": "WordPress was logged out at start of run, logged in later in the same run; published on schedule. Premier PRG-11000 out of stock -> named, not linked; Premier/Kenwood 8400 photos are 300px -> typographic graphics. Link added to pillar «مقالات مرتبط»."
+  },
+  {
+   "number": 5,
+   "title": "بهترین کامپوننت ماشین در سال ۱۴۰۵؛ جی بی ال، اینفینیتی و کنوود با آمپ و بدون آمپ",
+   "type": "pillar",
+   "pillar": "کامپوننت",
+   "post_id": 57368,
+   "url": "https://lalehstore.com/best-car-component/",
+   "date": "2026-11-14",
+   "jalali": "1405-08-23",
+   "focus_keyword": "بهترین کامپوننت ماشین",
+   "words": 3144,
+   "products_linked": [
+    56557,
+    13783,
+    56556,
+    56348,
+    11904,
+    57031,
+    57028,
+    56617
+   ],
+   "images": {
+    "best-car-component-1405-cover": 57364,
+    "infinity-6530cx-vs-kenwood-ps170c": 57365,
+    "jbl-gto609c-component-banner": 57366,
+    "component-kenwood-ps170c-ps804ex-system": 57367
+   },
+   "related_list": "«مقالات مرتبط» H2 + ul in post; append cluster <li> there",
+   "note": "scheduled run found WordPress logged out; published same day after Mohammad logged in. Images/content fetched in-page from the public repo commit ec3ea9b. Club 64C/64CSQ/607C out of stock -> named, not linked."
   }
  ]
 }

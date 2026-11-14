@@ -45,9 +45,9 @@ Rank Math title (45 chars): بهترین کامپوننت ماشین ۱۴۰۵؛ 
 | B Reader value | 23 | 25 | strong gains; no Kenwood-specific coaxial comparison |
 | C On-page SEO & links | 18 | 20 | Alpha 650C official page cited in words, not linked (3-link cap) |
 | D AI-citation readiness | 14 | 15 | |
-| E Technical & publishing | 5 | 10 | 390 px local check OK; live checks pending (not published: WordPress logged out) |
-| **Total** | **87** | **100** | |
+| E Technical & publishing | 9 | 10 | live 390 px no overflow, 4 images 200, Rank Math meta saved, 1 Article schema, index |
+| **Total** | **91** | **100** | |
 
 P0 issues: none
-Live checks: pending (post not published in this run)
-DECISION: PUBLISH (when WordPress is logged in) — row set to «عقب افتاد»
+Live checks: 390px overflow ✓ (390=390) · images load ✓ · Rank Math meta ✓ (title 45 chars) · schema seen: Article · noindex: no
+DECISION: PUBLISH — published 2026-11-14, post 57368, https://lalehstore.com/best-car-component/
