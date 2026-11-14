@@ -1,0 +1,49 @@
+{
+ "number": 5,
+ "status": "ready, not published (WordPress logged out in the app browser on 2026-11-14 run)",
+ "type": "pillar",
+ "pillar": "کامپوننت",
+ "title": "بهترین کامپوننت ماشین در سال ۱۴۰۵؛ جی بی ال، اینفینیتی و کنوود با آمپ و بدون آمپ",
+ "slug": "best-car-component",
+ "focus_keyword": "بهترین کامپوننت ماشین",
+ "rank_math_title": "بهترین کامپوننت ماشین ۱۴۰۵؛ با آمپ و بدون آمپ",
+ "rank_math_description": "بهترین کامپوننت ماشین برای پخش بدون آمپ یا با آمپلی فایر: مقایسه حساسیت، اهم و توان RMS کامپوننت‌های جی بی ال، اینفینیتی و کنوود موجود.",
+ "excerpt": "راهنمای انتخاب کامپوننت ماشین با آمپ و بدون آمپ: جدول مشخصات رسمی کامپوننت‌های موجود جی بی ال، اینفینیتی و کنوود، دام عدد حساسیت و جفت کردن با آمپلی فایر.",
+ "categories": [
+  1543
+ ],
+ "featured": "best-car-component-1405-cover.webp",
+ "images": {
+  "best-car-component-1405-cover": "بهترین کامپوننت ماشین با آمپ و بدون آمپ؛ کامپوننت اینفینیتی REF-6530cx، جی بی ال GTO609C و کنوود KFC-PS170C",
+  "infinity-6530cx-vs-kenwood-ps170c": "مقایسه کامپوننت اینفینیتی REF-6530cx و کنوود KFC-PS170C؛ توان RMS، اهم و حساسیت",
+  "jbl-gto609c-component-banner": "کامپوننت جی بی ال GTO609C با مقاومت ۳ اهم و حساسیت ۹۲ دسی بل",
+  "component-kenwood-ps170c-ps804ex-system": "چیدمان کامپوننت کنوود KFC-PS170C با آمپلی فایر ۴ کانال کنوود KAC-PS804EX در خودرو"
+ },
+ "content_placeholders": "{{IMG:<name>}} in article.html -> uploaded media figure; add class wp-image-<id>",
+ "products_linked": [
+  56557,
+  13783,
+  56556,
+  56348,
+  11904,
+  57031,
+  57028,
+  56617
+ ],
+ "named_not_linked_out_of_stock": [
+  56487,
+  56488,
+  56349
+ ],
+ "pillar_related_list": "«مقالات مرتبط» H2 + ul at end; component clusters append <li> there",
+ "words": 3144,
+ "sources": [
+  "Store API products 11904,13783,56348,56556,56557,57031,57028,56617 (2026-11-14)",
+  "https://kenwood.com/my/car/speaker&amplifier/pm_ps/kfc-ps170c",
+  "https://www2.jvckenwood.com/sg/car/speaker&amplifier/pm_ps",
+  "https://de.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc39c1b59/pdfs/Specification Sheet - GTO 9 Series Speakers (English).pdf",
+  "https://kh.jbl.com/car-speakers/GTO609C_.html",
+  "https://www.harmanaudio.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw9e84a64e/pdfs/Infinity_Reference_Speakers_Spec_Sheet_English.pdf",
+  "https://support.harmanaudio.com/product-registration/ALPHA+650C.html"
+ ]
+}
