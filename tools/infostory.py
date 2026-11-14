@@ -17,7 +17,8 @@ Spec JSON (all text Persian unless it is a spec value; Latin runs are isolated a
   "style": "callout",                    # or "hud"
   "img": "product.png",                  # store photo (from data-large_image)
   "crop": [x0, y0, x1, y1],              # optional: crop away the «Laleh Store» watermark / empty space
-  "keep_bg": false,                      # true = keep white bg and blend (use for white parts e.g. antennas)
+  "keep_bg": false,
+  "img_max": 560,                        # callout only: max product width in px (lower it for wide products so the cards do not cover it)                      # true = keep white bg and blend (use for white parts e.g. antennas)
   "tag": "محصول روز",
   "kind": "میکروفون یقه ای دو کاربره",     # category line
   "brand": "بویا", "brand_en": "BOYA", "model": "Magic-05",
@@ -150,7 +151,7 @@ def callout(sp, pimg):
             lines.append(f'<polyline points="{x0},{yc} {mid},{yc} {tx},{ty}"/>')
             dots.append(f'<div style="position:absolute;left:{tx - 11}px;top:{ty - 11}px;width:22px;height:22px;border-radius:50%;background:var(--grad);box-shadow:0 0 0 8px rgba(155,111,224,.18)"></div>')
     out.append('<svg style="position:absolute;left:0;top:0" width="1080" height="1920"><g stroke="url(#lg)" stroke-width="3.5" fill="none">' + "".join(lines) + "</g></svg>")
-    out.append(f'<img src="{pimg}" style="position:absolute;left:50%;top:{cy}px;max-width:560px;max-height:560px;transform:translate(-50%,-50%);{sp["_imgcss"]}">')
+    out.append(f'<img src="{pimg}" style="position:absolute;left:50%;top:{cy}px;max-width:{sp.get("img_max", 560)}px;max-height:560px;transform:translate(-50%,-50%);{sp["_imgcss"]}">')
     out += dots
     out += [spark(300, cy - 330, 46), spark(720, cy + 250, 34), spark(760, cy - 280, 26)]
     for i, s in enumerate(specs):

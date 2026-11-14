@@ -524,6 +524,29 @@
    "folder": "posts/2026-11-13-amp4-8400-7004",
    "video": "amp4-reel.mp4",
    "metricool_uuid": "5973742050486862810"
+  },
+  {
+   "date": "2026-11-14",
+   "slot": "evening",
+   "type": "reel",
+   "category": "product",
+   "topic": "کامپوننت 16 سانت: اینفینیتی Alpha 650C یا جی بی ال Stage1 62CF؟ (روی رادیو پخش، آمپ بعدا = 650C: حساسیت 91dB، 45W RMS، تیوتر PEI و کراس اوور جدا / نصب ساده و توان بیشتر = 62CF: 80W RMS مجموع ست، کراس اوور داخل خطی، آداپتور تیوتر؛ تیوتر بالای درب، رکاب آینه یا داشبورد)",
+   "hook": "صدای خواننده از پایین پات میاد؟",
+   "hook_type": "question",
+   "products": [
+    "Infinity Alpha 650C",
+    "JBL Stage1 62CF"
+   ],
+   "sources": [
+    "https://lalehstore.com/infinity-alpha-650c/",
+    "https://lalehstore.com/jbl-stage1-62cf/"
+   ],
+   "style": "studio",
+   "music": "suggested: deep house instrumental",
+   "folder": "posts/2026-11-14-component-650c-62cf",
+   "video": "component-reel.mp4",
+   "time": "20:30",
+   "manual": true
   }
  ],
  "stories": [
@@ -619,6 +642,13 @@
    "url": "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/",
    "folder": "stories/2026-11-13",
    "style": "classic (story.py)"
+  },
+  {
+   "date": "2026-11-14",
+   "product": "BOYA BY-V20 V2.0",
+   "url": "https://lalehstore.com/%d9%85%db%8c%da%a9%d8%b1%d9%88%d9%81%d9%88%d9%86-%db%8c%d9%82%d9%87-%d8%a7%db%8c-%d8%a8%d9%88%db%8c%d8%a7-%d9%85%d8%af%d9%84-by-v20-v2-0/",
+   "folder": "stories/2026-11-14",
+   "style": "callout"
   }
  ],
  "articles_used": [
@@ -730,6 +760,20 @@
   {
    "idea": "آمپ مونو برای ساب چند وات بگیرم؟ (هماهنگ با RMS ساب و 2 یا 4 اهم)",
    "note": "2026-11-13: no mono amps in stock (JBL/Kenwood/Pioneer/Infinity) — skip until restocked"
+  },
+  {
+   "idea": "ساب 12 اینچ اقتصادی: اینفینیتی Primus 1270 یا جی بی ال GX1200؟ (300W/91dB در برابر 250W/90dB، عمق نصب 152mm؛ زاویه: کدوم با آمپ 2 کانال بریج)",
+   "products": [
+    "Infinity Primus 1270",
+    "JBL GX1200"
+   ]
+  },
+  {
+   "idea": "باند بیضی 6×9 عقب: اینفینیتی Primus 693M یا کاروزریا CRX-6986؟ (3Way در برابر 4Way؛ فقط از صفحه محصول)",
+   "products": [
+    "Infinity Primus 693M",
+    "Carozzeria CRX-6986"
+   ]
   }
  ],
  "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
@@ -815,6 +859,17 @@
    "date": "2026-11-13",
    "finding": "11-12 likely incomplete (identical to 11-11). 11-11: reach 1728 / views 1981 / 66 engaged, +0 -2 (11383) — about +300% vs 7-day avg 431 (11-04..11-10); 11-10 revised 216/301/10. Driver: the 11-05 manual amp reel «2 کانال یا 4 کانال» (Kenwood 802/804) that Mohammad posted (Metricool dates it 11-12): 1668 reach, 20 saves, 6 shares, VR 60.5% — best reel so far. 11-11 component reel 254 reach VR 55.6%; 11-10 slim sub 146 reach VR 37.4% weakest. 11-12 GM-A6704 reel not in data yet. Stories: no data.",
    "apply": "Stay on amplifiers with a new angle: 4-channel comparison of two well-known brands (Kenwood KAC-HQR8400 vs Pioneer GM-E7004) with a simple rule frame and save CTA; new hook type spec showdown. Tip: pin a comment «سیستمت چند باند و ساب داره؟» and answer DMs in the first hour."
+  },
+  {
+   "date": "2026-11-14",
+   "finding": "11-13 likely incomplete (reach 453 = 11-12, followers missing). Last complete day 11-12: reach 453 (+29% vs 7-day avg 351, 11-05..11-11), views 2685 (about 6x avg 436), 14 engaged, +2 -4 (11383). 11-11 revised 235/279/6. Views driver: the «2 کانال یا 4 کانال» amp reel (Metricool date 11-12) now 2328 reach, 2651 views, 28 saves, 8 shares, VR 59.5% — best reel ever. 11-13 Kenwood 8400 vs Pioneer 7004 reel: 248 reach, 3 saves, VR 59.4% (<1 day). 11-12 GM-A6704 manual reel not in Metricool data (maybe not posted). Stories: no data.",
+   "apply": "Saturday manual reel: car audio comparison of two known brands with a real-problem question hook in frame 1 (component Infinity Alpha 650C vs JBL Stage1 62CF: «صدای خواننده از پایین پات میاد؟»), closing rule frame + save CTA. Tip: reply to every comment on the amp reel in the first hour and pin a comment «سیستمت فابریکه یا آمپ داره؟»."
+  },
+  {
+   "date": "2026-11-14",
+   "weekly": true,
+   "finding": "Week 11-08..11-14: best = «2 کانال یا 4 کانال» amp reel (2328 reach, 28 saves, 8 shares, question/comparison hook) and 11-08 under-seat vs box sub (1212 reach, 12 saves, simplify); worst = 11-10 slim sub (149 reach, VR 37.8%, result-first) and 11-09 party speaker (164 reach). Question/simplify hooks on a real car situation won; result-first and pure spec hooks were weak. Account reach swings 189-783 per day (avg ~350), views jumped on 11-12; followers flat (11370 -> 11383).",
+   "apply": "Next week: keep car-audio 'which one for which system' comparisons with a question hook naming the viewer's real situation, always a closing rule frame + save CTA; post the manual reels on time so they enter the data."
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -980,23 +1035,33 @@
   },
   {
    "date": "2026-11-11",
-   "account_reach": 1728,
-   "views": 1981,
-   "accounts_engaged": 66,
+   "account_reach": 235,
+   "views": 279,
+   "accounts_engaged": 6,
    "followers_gained": 0,
    "followers_lost": 2,
    "followers": 11383,
-   "note": "Revised 2026-11-13 (1728/1981/66, +0 -2)"
+   "note": "Revised 2026-11-14 (235/279/6, +0 -2)"
   },
   {
    "date": "2026-11-12",
-   "account_reach": 1728,
-   "views": 1981,
-   "accounts_engaged": 66,
+   "account_reach": 453,
+   "views": 2685,
+   "accounts_engaged": 14,
+   "followers_gained": 2,
+   "followers_lost": 4,
+   "followers": 11383,
+   "note": "Revised 2026-11-14 (453/2685/14, +2 -4)"
+  },
+  {
+   "date": "2026-11-13",
+   "account_reach": 453,
+   "views": 597,
+   "accounts_engaged": 14,
    "followers_gained": null,
    "followers_lost": null,
    "followers": null,
-   "note": "Likely incomplete: identical to 11-11, followers missing"
+   "note": "Likely incomplete: reach/engaged identical to 11-12, followers missing"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
@@ -1155,6 +1220,11 @@
    "type": "spec showdown (split-screen)",
    "template": "«عدد A یا عدد B؟ X فقط <عدد> نیست» — دو مدل کنار هم، فرق واقعی در یک خط",
    "example": "60 وات یا 70 وات؟ آمپ 4 کانال فقط وات نیست"
+  },
+  {
+   "type": "pattern-then-break",
+   "template": "اول یه الگوی آشنا رو نشون بده، بعد بشکنش: «همه باند رو عوض می کنن... ولی صدا هنوز از پایینه»",
+   "example": "باند نو گرفتی ولی صدا هنوز از پایین پاته؟"
   }
  ],
  "hook_bank_sources": [
@@ -1165,7 +1235,8 @@
   "https://blitzcutai.com/blog/best-instagram-reels-hooks-2026",
   "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-11: vulnerability, pattern-then-break)",
   "https://nestscale.com/?p=47200 (2026-11-12: clear premise, result-first, pattern interrupt)",
-  "https://www.influencers-time.com/spec-comparison-reels-the-split-screen-brief-driving-convers/ (2026-11-13: split-screen spec comparison)"
+  "https://www.influencers-time.com/spec-comparison-reels-the-split-screen-brief-driving-convers/ (2026-11-13: split-screen spec comparison)",
+  "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-14: question, pattern-then-break, cold open)"
  ],
  "midday_rule": "2026-11-11 Mohammad: «دیگه پست های اسلایدی نده برای صبح فقط همون ریل و استوری کافیه» — NO midday carousel any more (part E cancelled). Daily output = evening reel (auto or manual) + story only.",
  "story_rule": "2026-11-13 Mohammad: daily story = product INFOGRAPHIC made with tools/infostory.py (1080x1920, Laleh colours, extra graphic elements). Only two styles, alternate day by day: 'callout' (BOYA Magic-05 look: product centre, 6 spec cards with leader lines) and 'hud' (Pioneer GM-E7002 look: title, HUD row [main value]+pulse+gauge, 5-bar hologram chart with last bar highlighted, product on grid floor with rings, 3-4 chips). Do not use story.py any more. Log 'style' on each story entry."
