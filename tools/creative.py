@@ -13,7 +13,7 @@ each tied to the day's reel:
 Spec JSON:
 {
  "style": "poster" | "versus" | "night",
- "tag": "از ریل امشب",
+ "tag": "",               # optional small pill; leave empty (Mohammad 2026-11-15: no «از ریل امشب»)
  "headline": "بلندتر با وات کمتر",          # short, Persian, max ~4 words
  "sub": "باند بیضی 6 در 9 سه راهه",
  "products": [ {"img": "a.png", "brand": "اینفینیتی", "model": "Primus 693M",
@@ -107,14 +107,15 @@ def poster(sp, P):
 <div class="abs" style="width:1000px;height:1000px;border-radius:50%;right:-420px;bottom:-200px;background:radial-gradient(circle,rgba(20,18,43,.35),transparent 65%)"></div>
 <div class="grain"></div>
 {logo_bar(150)}
-<div class="abs" style="top:290px;left:0;right:0;text-align:center;color:#fff">
-  <span style="display:inline-block;border:3px solid #fff;border-radius:40px;padding:6px 26px;font-weight:700;font-size:30px">{t(sp.get("tag", ""))}</span>
-  <div style="font-family:L;font-size:150px;line-height:1.05;margin-top:18px;text-shadow:0 10px 30px rgba(20,18,43,.3)">{t(sp["headline"])}</div>
-  <div style="font-weight:700;font-size:38px;opacity:.95;margin-top:6px">{t(sp["sub"])}</div>
+<div class="abs" style="top:270px;left:0;right:0;text-align:center;color:#fff">
+  {('<span style="display:inline-block;border:3px solid #fff;border-radius:40px;padding:6px 26px;font-weight:700;font-size:30px">' + t(sp["tag"]) + "</span>") if sp.get("tag") else ""}
+  <div style="font-family:L;font-size:140px;line-height:1.05;margin-top:0;text-shadow:0 10px 30px rgba(20,18,43,.3)">{t(sp["headline"])}</div>
+  <div style="font-weight:900;font-size:46px;margin-top:4px">{t(p_brand(sp))}</div>
+  <div style="font-weight:700;font-size:32px;opacity:.9;margin-top:2px">{t(sp["sub"])}</div>
 </div>
 <div class="abs" style="top:640px;left:0;right:0;text-align:center;font-family:M;font-size:250px;line-height:1;
   color:transparent;-webkit-text-stroke:5px rgba(255,255,255,.75);letter-spacing:-6px;direction:ltr">{html.escape(big["v"])}</div>
-<div class="abs" style="top:600px;left:0;right:0;text-align:center"><span style="background:var(--ink);color:#fff;font-weight:900;font-size:32px;padding:6px 26px;border-radius:14px">{t(big["k"])}</span></div>
+<div class="abs" style="top:615px;left:0;right:0;text-align:center"><span style="background:var(--ink);color:#fff;font-weight:900;font-size:32px;padding:6px 26px;border-radius:14px">{t(big["k"])}</span></div>
 <img src="{p}" class="abs" style="left:250px;top:760px;width:580px;transform:rotate(-8deg);filter:drop-shadow(0 50px 50px rgba(20,18,43,.45))">
 <div class="abs" style="top:1345px;left:-60px;width:1200px;transform:rotate(-5deg);background:var(--ink);color:#fff;padding:14px 0;white-space:nowrap;overflow:hidden;font-family:M;font-size:30px;direction:ltr;letter-spacing:2px">{tick}</div>
 {stick}
@@ -144,7 +145,7 @@ def versus(sp, P):
 <div class="grain"></div>
 {logo_bar(140)}
 <div class="abs" style="top:250px;right:60px;color:#fff;text-align:right">
-  <div style="font-weight:700;font-size:30px;opacity:.9">{t(sp.get("tag", ""))}</div>
+  <div style="font-weight:700;font-size:30px;opacity:.9">{t(sp["tag"]) if sp.get("tag") else ""}</div>
   <div style="font-family:L;font-size:96px;line-height:1.05">{t(a["brand"])}</div>
   <div style="font-family:M;font-size:42px">{html.escape(a["model"])}</div></div>
 <img src="{P[0]}" class="abs" style="left:40px;top:250px;width:520px;transform:rotate(-10deg);filter:drop-shadow(0 30px 30px rgba(20,18,43,.4))">
@@ -202,7 +203,7 @@ def night(sp, P):
 <div class="abs" style="inset:0;background-image:radial-gradient(rgba(255,255,255,.5) 1.5px,transparent 2px);background-size:90px 110px;opacity:.25"></div>
 {logo_bar(130)}
 <div class="abs" style="top:240px;left:0;right:0;text-align:center;color:#fff">
-  <span style="font-weight:700;font-size:28px;color:#ff8fb0;letter-spacing:1px">{t(sp.get("tag", ""))}</span>
+  <span style="font-weight:700;font-size:28px;color:#ff8fb0;letter-spacing:1px">{t(sp["tag"]) if sp.get("tag") else ""}</span>
   <div style="font-family:L;font-size:96px;line-height:1.1;text-shadow:0 0 30px rgba(236,85,129,.8)">{t(sp["headline"])}</div></div>
 <svg class="abs" style="left:0;top:0" width="1080" height="1000" viewBox="0 0 1080 1000">
   <defs><linearGradient id="ng" x1="0" x2="1"><stop offset="0" stop-color="#3E95F7"/><stop offset=".6" stop-color="#9B6FE0"/><stop offset="1" stop-color="#EC5581"/></linearGradient>
