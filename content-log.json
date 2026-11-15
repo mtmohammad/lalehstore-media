@@ -676,11 +676,12 @@
   },
   {
    "date": "2026-11-15",
-   "product": "JIUJI 63A single-phase voltage & current protector",
-   "category": "power protector",
-   "url": "https://lalehstore.com/%d9%85%d8%ad%d8%a7%d9%81%d8%b8-%d9%88%d9%84%d8%aa%d8%a7%da%98-%d9%88-%d8%ac%d8%b1%db%8c%d8%a7%d9%86-%d8%aa%da%a9%d9%81%d8%a7%d8%b2-63-%d8%a2%d9%85%d9%be%d8%b1-jiuji/",
+   "product": "Infinity Primus 693M",
+   "category": "car audio",
+   "url": "https://lalehstore.com/infinity-primus-693m/",
    "folder": "stories/2026-11-15",
-   "style": "hud"
+   "style": "hud",
+   "note": "Replaced the JIUJI 63A story (story-jiuji.jpg) the same day at Mohammad's request: story must match today's reel"
   }
  ],
  "articles_used": [
@@ -1296,5 +1297,5 @@
   "https://www.opus.pro/blog/instagram-reels-hook-formulas"
  ],
  "midday_rule": "2026-11-11 Mohammad: «دیگه پست های اسلایدی نده برای صبح فقط همون ریل و استوری کافیه» — NO midday carousel any more (part E cancelled). Daily output = evening reel (auto or manual) + story only.",
- "story_rule": "2026-11-13 Mohammad: daily story = product INFOGRAPHIC made with tools/infostory.py (1080x1920, Laleh colours, extra graphic elements). Only two styles, alternate day by day: 'callout' (BOYA Magic-05 look: product centre, 6 spec cards with leader lines) and 'hud' (Pioneer GM-E7002 look: title, HUD row [main value]+pulse+gauge, 5-bar hologram chart with last bar highlighted, product on grid floor with rings, 3-4 chips). Do not use story.py any more. Log 'style' on each story entry."
+ "story_rule": "2026-11-13 Mohammad: daily story = product INFOGRAPHIC made with tools/infostory.py (1080x1920, Laleh colours, extra graphic elements). Only two styles, alternate day by day: 'callout' (BOYA Magic-05 look: product centre, 6 spec cards with leader lines) and 'hud' (Pioneer GM-E7002 look: title, HUD row [main value]+pulse+gauge, 5-bar hologram chart with last bar highlighted, product on grid floor with rings, 3-4 chips). Do not use story.py any more. Log 'style' on each story entry. | 2026-11-15 Mohammad: «استوری مرتبط با ریل امروز باشه برای هر روز مرتبط بده» — every daily story is about one product FROM TODAY'S EVENING REEL (tag «از ریل امشب»); the 21-day repeat and category-rotation rules no longer apply to stories."
 }
