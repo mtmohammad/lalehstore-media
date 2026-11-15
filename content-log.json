@@ -680,8 +680,14 @@
    "category": "car audio",
    "url": "https://lalehstore.com/infinity-primus-693m/",
    "folder": "stories/2026-11-15",
-   "style": "hud",
-   "note": "Replaced the JIUJI 63A story (story-jiuji.jpg) the same day at Mohammad's request: story must match today's reel"
+   "style": "poster",
+   "note": "Replaced the JIUJI 63A story (story-jiuji.jpg) the same day at Mohammad's request: story must match today's reel",
+   "file": "creative/poster.jpg",
+   "alt_files": [
+    "creative/night.jpg",
+    "creative/versus.jpg",
+    "story.jpg (hud)"
+   ]
   }
  ],
  "articles_used": [
@@ -1297,5 +1303,5 @@
   "https://www.opus.pro/blog/instagram-reels-hook-formulas"
  ],
  "midday_rule": "2026-11-11 Mohammad: «دیگه پست های اسلایدی نده برای صبح فقط همون ریل و استوری کافیه» — NO midday carousel any more (part E cancelled). Daily output = evening reel (auto or manual) + story only.",
- "story_rule": "2026-11-13 Mohammad: daily story = product INFOGRAPHIC made with tools/infostory.py (1080x1920, Laleh colours, extra graphic elements). Only two styles, alternate day by day: 'callout' (BOYA Magic-05 look: product centre, 6 spec cards with leader lines) and 'hud' (Pioneer GM-E7002 look: title, HUD row [main value]+pulse+gauge, 5-bar hologram chart with last bar highlighted, product on grid floor with rings, 3-4 chips). Do not use story.py any more. Log 'style' on each story entry. | 2026-11-15 Mohammad: «استوری مرتبط با ریل امروز باشه برای هر روز مرتبط بده» — every daily story is about one product FROM TODAY'S EVENING REEL (tag «از ریل امشب»); the 21-day repeat and category-rotation rules no longer apply to stories."
+ "story_rule": "2026-11-13 Mohammad: daily story = product INFOGRAPHIC made with tools/infostory.py (1080x1920, Laleh colours, extra graphic elements). Only two styles, alternate day by day: 'callout' (BOYA Magic-05 look: product centre, 6 spec cards with leader lines) and 'hud' (Pioneer GM-E7002 look: title, HUD row [main value]+pulse+gauge, 5-bar hologram chart with last bar highlighted, product on grid floor with rings, 3-4 chips). Do not use story.py any more. Log 'style' on each story entry. | 2026-11-15 Mohammad: «استوری مرتبط با ریل امروز باشه برای هر روز مرتبط بده» — every daily story is about one product FROM TODAY'S EVENING REEL (tag «از ریل امشب»); the 21-day repeat and category-rotation rules no longer apply to stories. | 2026-11-15 Mohammad found the callout/hud infographics not creative enough («طرح خلاقانه تری نداری اصلا خوب نیست»); shown 3 new concepts from tools/creative.py (poster, versus, night) and chose «۲ و ۳ یکی درمیون»: from now on every daily story is rendered with tools/creative.py, alternating 'poster' and 'night' (samples: stories/2026-11-15/creative/poster.json, night.json). infostory.py callout/hud is no longer used."
 }
