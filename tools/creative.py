@@ -19,7 +19,7 @@ Spec JSON:
  "products": [ {"img": "a.png", "brand": "اینفینیتی", "model": "Primus 693M",
                 "crop": [x0,y0,x1,y1] (optional)}, {...second, versus only} ],
  "big": {"v": "93dB", "k": "حساسیت"},       # poster/night: the key number
- "gauge": {"min": 80, "max": 100, "val": 93, "unit": "dB"},   # night only
+ "gauge": {"min": 80, "max": 100, "val": 93, "unit": "dB", "step": 1},   # night only; step = tick spacing (e.g. 20 for 0-400W)
  "specs": [{"k": "توان RMS", "v": "60W"}, ...],             # poster 3-4, night 4
  "rows": [{"k": "حساسیت", "a": "93dB", "b": "90dB", "win": "a"}, ...],   # versus 4
  "ticker": "INFINITY • PRIMUS 693M • 6×9 3WAY",              # poster only (Latin)
@@ -174,21 +174,22 @@ def night(sp, P):
     import math
     cx, cy, R = 540, 760, 300
     ticks = ""
-    n = hi - lo
+    step = g.get("step", 1)                     # tick spacing for big scales (e.g. 0-400W, step 20)
+    n = round((hi - lo) / step)
     for i in range(n + 1):
         ang = math.radians(180 + 180 * i / n)
         r1 = R - (34 if i % 5 == 0 else 18)
         x1, y1 = cx + R * math.cos(ang), cy + R * math.sin(ang)
         x2, y2 = cx + r1 * math.cos(ang), cy + r1 * math.sin(ang)
-        hot = lo + i >= val
+        hot = lo + i * step >= val
         ticks += (f'<line x1="{x1:.1f}" y1="{y1:.1f}" x2="{x2:.1f}" y2="{y2:.1f}" stroke="{"#EC5581" if hot else "#7fb6ff"}" '
                   f'stroke-width="{6 if i % 5 == 0 else 3}" stroke-linecap="round"/>')
         if i % 5 == 0:
             xl, yl = cx + (R - 80) * math.cos(ang), cy + (R - 80) * math.sin(ang)
-            ticks += f'<text x="{xl:.1f}" y="{yl + 10:.1f}" fill="#c9d3ff" font-family="M" font-size="28" text-anchor="middle">{lo + i}</text>'
-    na = math.radians(180 + 180 * (val - lo) / n)
-    nx, ny = cx + (R - 50) * math.cos(na), cy + (R - 50) * math.sin(na)
-    frac = (val - lo) / n
+            ticks += f'<text x="{xl:.1f}" y="{yl + 10:.1f}" fill="#c9d3ff" font-family="M" font-size="28" text-anchor="middle">{lo + i * step:g}</text>'
+    na = math.radians(180 + 180 * (val - lo) / (hi - lo))
+    nx, ny = cx + (R - 115) * math.cos(na), cy + (R - 115) * math.sin(na)
+    frac = (val - lo) / (hi - lo)
     arc_len = math.pi * (R + 26)
     cards = ""
     for s in sp["specs"][:4]:
