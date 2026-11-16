@@ -24,6 +24,16 @@ Every `<table>` must be wrapped so it never overflows the phone screen, and its 
 - max 6 columns; before publishing, screenshot the live post at 390 px width (Playwright, is_mobile) and check
   the page has no horizontal overflow (`document.documentElement.scrollWidth == innerWidth`) and rows are aligned.
 
+## Search Console drives the angle (Mohammad, 1405-08-25)
+Before writing, pull the row's keyword family from Search Console (MCP `Google_Search_Console`, property
+`https://lalehstore.com/`, last 28 days, dimensions query,page, filter query contains the main term):
+- use the real query wording that has impressions (e.g. «مشخصات … قدیمی», «… ساخت کجاست», «تفاوت … v2 و v3»)
+  in H2s and FAQ; the strongest site patterns are «مشخصات», «ساخت کجاست», «قدیمی», «تفاوت».
+- if a product or category page already ranks 4-15 for the main keyword, the article must link to it with that
+  query as anchor and must not target the same transactional intent.
+- record in review.md: top 5 queries (impressions, position) for the family, and which page currently gets them.
+- SEO plan + quick wins: `seo/2026-11-16/` and the doc «برنامه سئو لاله استور بر اساس سرچ کنسول».
+
 ## One run = ONE article (never two)
 1. Pick the lowest-numbered row whose status is «در صف» or «عقب افتاد» (skip a row only if its rule says so,
    e.g. #31/#32 need verified car-size data — then take the next row and say so in the report).
