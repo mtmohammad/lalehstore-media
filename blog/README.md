@@ -59,7 +59,7 @@ Before writing, pull the row's keyword family from Search Console (MCP `Google_S
      (anchor = category keyword), 2–5 PUBLISHED in-stock products. Never link a draft or out-of-stock product.
    - Conventions: 3Way/2Way (first mention «سه راهه (3Way)»), «ساب ووفر» and «یقه ای» without ZWNJ,
      minimal ZWNJ (only «می‌» and «‌ها»), warranty text exactly as on the product page, NO fixed prices anywhere
-     (no Toman figures, no price column, no «قیمت امروز», no «ارزان ترین/هم قیمت» claims; say «قیمت روز را در صفحه محصول ببینید»), no «نمایندگی رسمی» claims, Carozeria/Zenon are not amplifier speakers.
+     (no Toman figures, no price column, no «قیمت امروز», no «ارزان ترین/هم قیمت» claims; say «قیمت روز را در صفحه محصول ببینید»), no «نمایندگی رسمی» claims (update 1405-08-25: Lalehstore IS the dealer of JBL, Infinity, Kenwood and Carozeria, so «نمایندگی <brand>» is allowed for these four only, never for Pioneer or others, never «رسمی»), Carozeria/Zenon are not amplifier speakers.
    - No invented tests, installs, customer quotes, reviews or statistics.
 4. Images (all original, from the site's own high-quality product photos; never stock, never upscaled, never
    low-res): `tools/blog/sysgfx.py` (Playwright → WebP).

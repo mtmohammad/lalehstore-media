@@ -1,0 +1,7807 @@
+{
+ "created": "2026-11-16",
+ "categories": [
+  {
+   "id": 3086,
+   "url": "https://lalehstore.com/car-speaker/car-speaker-carozeria/",
+   "name": "بلندگو کاروزریا (Carozeria)",
+   "brand": "carozeria",
+   "type": "speaker",
+   "status": "todo"
+  },
+  {
+   "id": 3118,
+   "url": "https://lalehstore.com/car-subwoofer/sub-woofer-jbl/",
+   "name": "ساب ووفر جی بی ال (JBL)",
+   "brand": "jbl",
+   "type": "sub",
+   "status": "todo"
+  },
+  {
+   "id": 3082,
+   "url": "https://lalehstore.com/car-speaker/jbl-car-speaker/",
+   "name": "بلندگو جی بی ال",
+   "brand": "jbl",
+   "type": "speaker",
+   "status": "todo"
+  },
+  {
+   "id": 3130,
+   "url": "https://lalehstore.com/component/jbl-component/",
+   "name": "کامپوننت جی بی ال (JBL)",
+   "brand": "jbl",
+   "type": "component",
+   "status": "todo"
+  },
+  {
+   "id": 3128,
+   "url": "https://lalehstore.com/component/infinity-component/",
+   "name": "کامپوننت اینفینیتی (Infinity)",
+   "brand": "infinity",
+   "type": "component",
+   "status": "todo"
+  },
+  {
+   "id": 3113,
+   "url": "https://lalehstore.com/car-subwoofer/sub-woofer-infinity/",
+   "name": "ساب ووفر اینفینیتی (Infinity)",
+   "brand": "infinity",
+   "type": "sub",
+   "status": "todo"
+  },
+  {
+   "id": 3080,
+   "url": "https://lalehstore.com/car-speaker/infinity-car-speakers/",
+   "name": "بلندگو خودرو اینفینیتی (Infinity)",
+   "brand": "infinity",
+   "type": "speaker",
+   "status": "todo"
+  },
+  {
+   "id": 3087,
+   "url": "https://lalehstore.com/car-speaker/kenwood-car-speaker/",
+   "name": "بلندگو کنوود (Kenwood)",
+   "brand": "kenwood",
+   "type": "speaker",
+   "status": "todo"
+  },
+  {
+   "id": 3131,
+   "url": "https://lalehstore.com/component/kenwood-component/",
+   "name": "کامپوننت کنوود (Kenwood)",
+   "brand": "kenwood",
+   "type": "component",
+   "status": "todo"
+  },
+  {
+   "id": 3107,
+   "url": "https://lalehstore.com/car-cd-player/kenwood-headunit/",
+   "name": "رادیو پخش کنوود (Kenwood)",
+   "brand": "kenwood",
+   "type": "headunit",
+   "status": "todo"
+  },
+  {
+   "id": 3122,
+   "url": "https://lalehstore.com/car-subwoofer/sub-woofer-kenwood/",
+   "name": "ساب ووفر کنوود (Kenwood)",
+   "brand": "kenwood",
+   "type": "sub",
+   "status": "todo"
+  }
+ ],
+ "products": [
+  {
+   "id": 56422,
+   "url": "https://lalehstore.com/jbl-a1500hi/",
+   "name": "ساب جی بی ال A1500HI سایز 12 اینچ",
+   "imp60": 103,
+   "status": "todo"
+  },
+  {
+   "id": 56420,
+   "url": "https://lalehstore.com/jbl-stage-122/",
+   "name": "ساب جی بی ال Stage 122 سایز 12 اینچ",
+   "imp60": 89,
+   "status": "todo"
+  },
+  {
+   "id": 56611,
+   "url": "https://lalehstore.com/infinity-reference-123wsl/",
+   "name": "ساب اینفینیتی Reference 123WSL سایز 12 اینچ کم عمق",
+   "imp60": 82,
+   "status": "todo"
+  },
+  {
+   "id": 56612,
+   "url": "https://lalehstore.com/jbl-gt-x1500t/",
+   "name": "ساب باکس جی بی ال GT-X1500THI لوله ای 12 اینچ",
+   "imp60": 81,
+   "status": "todo"
+  },
+  {
+   "id": 57016,
+   "url": "https://lalehstore.com/kenwood-kfc-ps1797/",
+   "name": "باند کنوود 1797 | Kenwood KFC-PS1797 سایز 17 سانت",
+   "imp60": 75,
+   "status": "todo"
+  },
+  {
+   "id": 15038,
+   "url": "https://lalehstore.com/ضبط-کنوود-5200/",
+   "name": "پخش کنوود 5200 | Kenwood KDC-X5200BT بلوتوث دار",
+   "imp60": 68,
+   "status": "todo"
+  },
+  {
+   "id": 56610,
+   "url": "https://lalehstore.com/infinity-primus-1270/",
+   "name": "ساب اینفینیتی Primus 1270 سایز 12 اینچ",
+   "imp60": 63,
+   "status": "todo"
+  },
+  {
+   "id": 56419,
+   "url": "https://lalehstore.com/jbl-stage-102/",
+   "name": "ساب جی بی ال Stage 102 سایز 10 اینچ",
+   "imp60": 63,
+   "status": "todo"
+  },
+  {
+   "id": 56741,
+   "url": "https://lalehstore.com/carozeria-crx-505/",
+   "name": "باند گرد کاروزریا CRX-505 سایز 13 سانت 3Way",
+   "imp60": 52,
+   "status": "todo"
+  },
+  {
+   "id": 56418,
+   "url": "https://lalehstore.com/jbl-gx1200/",
+   "name": "ساب جی بی ال GX1200 سایز 12 اینچ",
+   "imp60": 47,
+   "status": "todo"
+  },
+  {
+   "id": 56421,
+   "url": "https://lalehstore.com/jbl-club-ws1200/",
+   "name": "ساب جی بی ال Club WS1200 کم عمق 12 اینچ",
+   "imp60": 44,
+   "status": "todo"
+  },
+  {
+   "id": 56555,
+   "url": "https://lalehstore.com/infinity-primus-693m/",
+   "name": "باند اینفینیتی Primus 693M سایز 6 در 9 3Way",
+   "imp60": 42,
+   "status": "todo"
+  },
+  {
+   "id": 57023,
+   "url": "https://lalehstore.com/kenwood-kfc-s1366/",
+   "name": "باند کنوود 1366 | Kenwood KFC-S1366 سایز 13 سانت",
+   "imp60": 39,
+   "status": "todo"
+  },
+  {
+   "id": 56556,
+   "url": "https://lalehstore.com/infinity-alpha-650c/",
+   "name": "کامپوننت اینفینیتی Alpha 650C سایز 16 سانت",
+   "imp60": 37,
+   "status": "todo"
+  },
+  {
+   "id": 56617,
+   "url": "https://lalehstore.com/jbl-concert-a704/",
+   "name": "آمپلی فایر جی بی ال Concert A704 چهار کانال",
+   "imp60": 36,
+   "status": "todo"
+  },
+  {
+   "id": 56346,
+   "url": "https://lalehstore.com/jbl-stage3-627/",
+   "name": "باند جی بی ال 627",
+   "imp60": 35,
+   "status": "todo"
+  },
+  {
+   "id": 56740,
+   "url": "https://lalehstore.com/carozeria-crx-616/",
+   "name": "باند گرد کاروزریا CRX-616 سایز 16 سانت 3Way",
+   "imp60": 34,
+   "status": "todo"
+  },
+  {
+   "id": 57031,
+   "url": "https://lalehstore.com/kenwood-kac-ps804ex/",
+   "name": "آمپلی فایر کنوود 804 | Kenwood KAC-PS804EX چهار کانال",
+   "imp60": 32,
+   "status": "todo"
+  },
+  {
+   "id": 56553,
+   "url": "https://lalehstore.com/infinity-alpha-6530/",
+   "name": "باند اینفینیتی Alpha 6530 سایز 16 سانت 3Way",
+   "imp60": 32,
+   "status": "todo"
+  },
+  {
+   "id": 56609,
+   "url": "https://lalehstore.com/infinity-alpha-121w/",
+   "name": "ساب اینفینیتی Alpha 121W سایز 12 اینچ",
+   "imp60": 30,
+   "status": "todo"
+  },
+  {
+   "id": 56732,
+   "url": "https://lalehstore.com/carozeria-crx-6926/",
+   "name": "باند بیضی کاروزریا CRX-6926 سایز 6 در 9 5Way",
+   "imp60": 27,
+   "status": "todo"
+  },
+  {
+   "id": 56348,
+   "url": "https://lalehstore.com/jbl-stage1-62cf/",
+   "name": "کامپوننت جی بی ال 62CF",
+   "imp60": 26,
+   "status": "todo"
+  },
+  {
+   "id": 56734,
+   "url": "https://lalehstore.com/carozeria-crx-6960/",
+   "name": "باند بیضی کاروزریا CRX-6960 سایز 6 در 9 5Way",
+   "imp60": 25,
+   "status": "todo"
+  },
+  {
+   "id": 56554,
+   "url": "https://lalehstore.com/infinity-alpha-603/",
+   "name": "باند اینفینیتی Alpha 603 سایز 16 سانت",
+   "imp60": 25,
+   "status": "todo"
+  },
+  {
+   "id": 11904,
+   "url": "https://lalehstore.com/کامپوننت-کنوود-170c/",
+   "name": "کامپوننت کنوود 170C | Kenwood KFC-PS170C سایز 17 سانت",
+   "imp60": 25,
+   "status": "todo"
+  },
+  {
+   "id": 56485,
+   "url": "https://lalehstore.com/jbl-club-6520/",
+   "name": "باند جی بی ال Club 6520 سایز 16 سانت",
+   "imp60": 24,
+   "status": "todo"
+  },
+  {
+   "id": 56344,
+   "url": "https://lalehstore.com/jbl-stage1-621f/",
+   "name": "باند جی بی ال 621F سری Stage1",
+   "imp60": 24,
+   "status": "todo"
+  },
+  {
+   "id": 13783,
+   "url": "https://lalehstore.com/کامپوننت-جی-بی-ال-609/",
+   "name": "کامپوننت جی بی ال 609 | JBL GTO609C سایز 16 سانت",
+   "imp60": 24,
+   "status": "todo"
+  },
+  {
+   "id": 57028,
+   "url": "https://lalehstore.com/kenwood-kac-ps802ex/",
+   "name": "آمپلی فایر کنوود 802 | Kenwood KAC-PS802EX دو کانال",
+   "imp60": 23,
+   "status": "todo"
+  },
+  {
+   "id": 23972,
+   "url": "https://lalehstore.com/باند-کنوود-1666/",
+   "name": "باند کنوود 1666 | Kenwood KFC-S1666 سایز 16 سانت",
+   "imp60": 23,
+   "status": "todo"
+  },
+  {
+   "id": 56739,
+   "url": "https://lalehstore.com/carozeria-crx-6986/",
+   "name": "باند بیضی کاروزریا CRX-6986 سایز 6 در 9 4Way",
+   "imp60": 22,
+   "status": "todo"
+  },
+  {
+   "id": 56557,
+   "url": "https://lalehstore.com/infinity-reference-6530cx/",
+   "name": "کامپوننت اینفینیتی 6530CX سری Reference",
+   "imp60": 20,
+   "status": "todo"
+  },
+  {
+   "id": 23673,
+   "url": "https://lalehstore.com/باند-کنوود-1676ex/",
+   "name": "باند کنوود 1676EX | Kenwood KFC-S1676EX سایز 16 سانت",
+   "imp60": 20,
+   "status": "todo"
+  },
+  {
+   "id": 56733,
+   "url": "https://lalehstore.com/carozeria-crx-6946/",
+   "name": "باند بیضی کاروزریا CRX-6946 سایز 6 در 9 3Way",
+   "imp60": 18,
+   "status": "todo"
+  },
+  {
+   "id": 56347,
+   "url": "https://lalehstore.com/jbl-stage3-9637/",
+   "name": "باند جی بی ال 9637",
+   "imp60": 18,
+   "status": "todo"
+  },
+  {
+   "id": 56618,
+   "url": "https://lalehstore.com/infinity-alpha-2804a/",
+   "name": "آمپلی فایر اینفینیتی Alpha 2804A چهار کانال",
+   "imp60": 16,
+   "status": "todo"
+  },
+  {
+   "id": 56345,
+   "url": "https://lalehstore.com/jbl-stage2-634/",
+   "name": "باند جی بی ال 634 سری Stage2",
+   "imp60": 16,
+   "status": "todo"
+  },
+  {
+   "id": 21346,
+   "url": "https://lalehstore.com/باند-کاروزریا-6970/",
+   "name": "باند بیضی کاروزریا CRX-6970 سایز 6 در 9 5Way",
+   "imp60": 10,
+   "status": "todo"
+  },
+  {
+   "id": 11859,
+   "url": "https://lalehstore.com/آمپلی-فایر-کنوود-8400/",
+   "name": "آمپلی فایر کنوود 8400 | Kenwood KAC-HQR8400",
+   "imp60": 10,
+   "status": "todo"
+  },
+  {
+   "id": 56486,
+   "url": "https://lalehstore.com/jbl-gx9638/",
+   "name": "باند جی بی ال GX9638 بیضی 6 در 9 3Way",
+   "imp60": 9,
+   "status": "todo"
+  }
+ ],
+ "out_of_stock": [
+  {
+   "id": 15448,
+   "url": "https://lalehstore.com/ضبط-پایونیر-4250-bt/",
+   "name": "ضبط پایونیر 4250 ا Pioneer DEH-S4250BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 5121,
+   "clk60": 117,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 11782,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1950/",
+   "name": "ضبط پایونیر 1950 | Pioneer Deh-x1950ub",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 3549,
+   "clk60": 322,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 11765,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1053/",
+   "name": "ضبط پایونیر 1053 | Pioneer DEH-S1053UB",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 3301,
+   "clk60": 160,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 13365,
+   "url": "https://lalehstore.com/آمپلی-فایر-پریمیر-11000/",
+   "name": "آمپلی فایر پریمیر 11000 | Premier PRG-11000",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر پریمیر-بوستر(Premier-Booster)"
+   ],
+   "imp60": 2766,
+   "clk60": 304,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 20419,
+   "url": "https://lalehstore.com/ساب-باکس-پایونیر-306/",
+   "name": "ساب باکس لوله ای پایونیر مدل TS-WX306T",
+   "cats": [
+    "ساب ووفر پایونیر (Pioneer)",
+    "ساب ووفر"
+   ],
+   "imp60": 1931,
+   "clk60": 50,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 19476,
+   "url": "https://lalehstore.com/ضبط-بوستر-4750/",
+   "name": "BOOSTER BSC-4750",
+   "cats": [
+    "رادیو پخش پریمیر-بوستر(Premier-Booster)",
+    "رادیو پخش"
+   ],
+   "imp60": 1467,
+   "clk60": 33,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 11563,
+   "url": "https://lalehstore.com/ضبط-پایونیر-7750/",
+   "name": "ضبط پایونیر 7750 | Pioneer DEH-x7750UI",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 1202,
+   "clk60": 43,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 13158,
+   "url": "https://lalehstore.com/باند-پایونیر-6986/",
+   "name": "باند پایونیر 6986 | Pioneer TS-A6986S",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 1052,
+   "clk60": 88,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 11955,
+   "url": "https://lalehstore.com/آمپلی-فایر-پریمیر-10000/",
+   "name": "آمپلی فایر پریمیر 10000 | Premier PRG-10000",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر پریمیر-بوستر(Premier-Booster)"
+   ],
+   "imp60": 862,
+   "clk60": 100,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 11670,
+   "url": "https://lalehstore.com/ضبط-پایونیر-2050/",
+   "name": "ضبط پایونیر 2050 | pioneer DEH-S2050UI",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 860,
+   "clk60": 33,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 14707,
+   "url": "https://lalehstore.com/باند-بیضی-پایونیر-6990/",
+   "name": "باند بیضی پایونیر 6990",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 775,
+   "clk60": 55,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 11793,
+   "url": "https://lalehstore.com/ضبط-پایونیر-2950/",
+   "name": "ضبط پایونیر 2950 | Pioneer DEH-x2950UI",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 735,
+   "clk60": 38,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 11796,
+   "url": "https://lalehstore.com/ضبط-پایونیر-9650bt/",
+   "name": "ضبط پایونیر 9650bt ا Pioneer DEH-X9650BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 557,
+   "clk60": 22,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 48260,
+   "url": "https://lalehstore.com/محافظ-کولر-گازی-دیجیتال-پارت-الکتریک/",
+   "name": "محافظ کولر گازی دیجیتال پارت الکتریک 16 آمپر",
+   "cats": [
+    "چند راهی برق و محاظ ولتاژ",
+    "محافظ برق پارت الکتریک"
+   ],
+   "imp60": 545,
+   "clk60": 15,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 52203,
+   "url": "https://lalehstore.com/محافظ-ولتاژ-و-جریان-سه-فاز-۶۳-آمپر-jiuji/",
+   "name": "محافظ ولتاژ و جریان سه فاز ۶۳ آمپر jiuji",
+   "cats": [
+    "چند راهی برق و محاظ ولتاژ"
+   ],
+   "imp60": 432,
+   "clk60": 12,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 15168,
+   "url": "https://lalehstore.com/باند-بیضی-مارشال-6911/",
+   "name": "Marshal ME-6911",
+   "cats": [
+    "بلندگو مارشال (Marshal)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 268,
+   "clk60": 24,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 23738,
+   "url": "https://lalehstore.com/اسپیکر-سونی-xp500/",
+   "name": "اسپیکر سونی مدل xp500",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر سونی ( sony )"
+   ],
+   "imp60": 189,
+   "clk60": 1,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 43452,
+   "url": "https://lalehstore.com/کیف-پارتی-باکس-120/",
+   "name": " کیف پارتی باکس 120 ا JBL Partybox club 120 Cover",
+   "cats": [
+    "کیف اسپیکر جی بی ال"
+   ],
+   "imp60": 160,
+   "clk60": 6,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 47970,
+   "url": "https://lalehstore.com/کیف-پارتی-باکس-320/",
+   "name": "کیف پارتی باکس 320 ا JBL Partybox 320 Cover",
+   "cats": [
+    "کیف اسپیکر جی بی ال"
+   ],
+   "imp60": 146,
+   "clk60": 5,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 21724,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-جی-بی-ال-مدل-flip-5/",
+   "name": "اسپیکر بلوتوثی جی بی ال مدل flip 5",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 143,
+   "clk60": 0,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 46233,
+   "url": "https://lalehstore.com/اسپیکر-جی-بی-ال-پارتی-باکس-120/",
+   "name": "اسپیکر جی بی ال پارتی باکس 120",
+   "cats": [
+    "اسپیکر جی بی ال (jbl)",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 115,
+   "clk60": 1,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 16840,
+   "url": "https://lalehstore.com/باند-بیضی-راک-پاور-مدل-۶۹۰۱/",
+   "name": "باند بیضی راک پاور مدل 6901",
+   "cats": [
+    "بلندگو راک پاور (Rock Power)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 99,
+   "clk60": 4,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 43483,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-جی-بی-ال-مدل-partybox-stage-320/",
+   "name": "اسپیکر بلوتوثی جی بی ال مدل partybox Stage 320",
+   "cats": [
+    "اسپیکر جی بی ال (jbl)",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 98,
+   "clk60": 4,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 56487,
+   "url": "https://lalehstore.com/jbl-club-64c/",
+   "name": "کامپوننت جی بی ال Club 64C سایز 16 سانت",
+   "cats": [
+    "کامپوننت",
+    "کامپوننت جی بی ال (JBL)"
+   ],
+   "imp60": 93,
+   "clk60": 5,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 29530,
+   "url": "https://lalehstore.com/رادیو-پخش-مچ-965bt/",
+   "name": "رادیو پخش مچ 965BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش مچ"
+   ],
+   "imp60": 89,
+   "clk60": 8,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 55669,
+   "url": "https://lalehstore.com/boya-mini-2-02/",
+   "name": "میکروفون بویا Mini 2-02",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 79,
+   "clk60": 4,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 18156,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-۱۶۸۰/",
+   "name": "باند گرد پایونیر ۱۶۸۰",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 73,
+   "clk60": 5,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 52058,
+   "url": "https://lalehstore.com/محافظ-ولتاژ-و-جریان-تکفاز-۶۳-آمپر-jbh/",
+   "name": "محافظ ولتاژ و جریان تکفاز ۶۳ آمپر JBH",
+   "cats": [
+    "چند راهی برق و محاظ ولتاژ"
+   ],
+   "imp60": 70,
+   "clk60": 1,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 48050,
+   "url": "https://lalehstore.com/کلید-تک-پل-روکار-صنعتی-پارت-الکتریک/",
+   "name": "کلید تک پل روکار صنعتی پارت الکتریک مدل برکه",
+   "cats": [
+    "چند راهی برق و محاظ ولتاژ"
+   ],
+   "imp60": 69,
+   "clk60": 1,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 46282,
+   "url": "https://lalehstore.com/پلی-استیشن-5-اسلیم-دیسک-خور-ریجن-اروپا/",
+   "name": "پلی استیشن 5 اسلیم دیسک خور ریجن اروپا CFI-2016A",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "پلی استیشن 5",
+    "کنسول سونی"
+   ],
+   "imp60": 66,
+   "clk60": 0,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 21862,
+   "url": "https://lalehstore.com/هارمن-onyx-studio-7/",
+   "name": "اسپیکر هارمن کاردن مدل onyx studio 7",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر هارمن کاردن"
+   ],
+   "imp60": 59,
+   "clk60": 0,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 19511,
+   "url": "https://lalehstore.com/ضبط-بوستر-4250/",
+   "name": "BOOSTER BSC-4250",
+   "cats": [
+    "رادیو پخش پریمیر-بوستر(Premier-Booster)",
+    "رادیو پخش"
+   ],
+   "imp60": 56,
+   "clk60": 2,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 11930,
+   "url": "https://lalehstore.com/دستگاه-اکولایزر-پایونیر/",
+   "name": "دستگاه اکولایزر پایونیر | Pioneer EQ-6500V2",
+   "cats": [
+    "دستگاه اکولایزر"
+   ],
+   "imp60": 55,
+   "clk60": 1,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 50936,
+   "url": "https://lalehstore.com/میکروفون-استودیویی-بویا-مدل-by-m1000-pro/",
+   "name": "میکروفون استودیویی بویا مدل BY-M1000 Pro",
+   "cats": [
+    "میکروفون رومیزی",
+    "میکروفون رومیزی بویا"
+   ],
+   "imp60": 54,
+   "clk60": 11,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 46500,
+   "url": "https://lalehstore.com/کیف-ps5-اسلیم-اورجینال-deadskull-مشکی/",
+   "name": "کیف ps5 اسلیم اورجینال Deadskull مشکی",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "کنسول سونی",
+    "کیف ps5"
+   ],
+   "imp60": 53,
+   "clk60": 1,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 47519,
+   "url": "https://lalehstore.com/تبدیل-vga-به-hdmi-ای-فورتک/",
+   "name": "تبدیل VGA به HDMI ای فورتک IFORTECH",
+   "cats": [
+    "انواع مبدل، دانگل بلوتوث"
+   ],
+   "imp60": 52,
+   "clk60": 0,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 16915,
+   "url": "https://lalehstore.com/ساب-ووفر-پایونیر-a300s4/",
+   "name": "ساب ووفر پایونیر مدل TS-A300S4",
+   "cats": [
+    "ساب ووفر پایونیر (Pioneer)",
+    "ساب ووفر"
+   ],
+   "imp60": 51,
+   "clk60": 3,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 56343,
+   "url": "https://lalehstore.com/jbl-stage3-527f/",
+   "name": "باند جی بی ال 527F سری Stage3",
+   "cats": [
+    "بلندگو جی بی ال",
+    "بلندگو خودرو"
+   ],
+   "imp60": 49,
+   "clk60": 4,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 29629,
+   "url": "https://lalehstore.com/رادیو-پخش-مچ-865bt/",
+   "name": "رادیو پخش مچ 865bt",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش مچ"
+   ],
+   "imp60": 47,
+   "clk60": 6,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 47558,
+   "url": "https://lalehstore.com/تبدیل-hdmi-به-vga-آی-فورتک/",
+   "name": "تبدیل HDMI به VGA آی فورتک IFORTECH",
+   "cats": [
+    "انواع مبدل، دانگل بلوتوث"
+   ],
+   "imp60": 45,
+   "clk60": 1,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 43064,
+   "url": "https://lalehstore.com/کابل-شارژر-usb-c-به-لایتنینگ-پرودو-مدل-clbrpd22/",
+   "name": "کابل شارژر USB-C به لایتنینگ پرودو مدل CLBRPD22 طول 2.2 متر",
+   "cats": [
+    "کابل های رابط",
+    "کابل شارژر آیفون اورجینال"
+   ],
+   "imp60": 45,
+   "clk60": 3,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 56349,
+   "url": "https://lalehstore.com/jbl-stage3-607c/",
+   "name": "کامپوننت جی بی ال 607C",
+   "cats": [
+    "کامپوننت",
+    "کامپوننت جی بی ال (JBL)"
+   ],
+   "imp60": 44,
+   "clk60": 4,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 50737,
+   "url": "https://lalehstore.com/میکروفون-بویا-مدل-by-k9/",
+   "name": "میکروفون بویا مدل BY-K9",
+   "cats": [
+    "میکروفون رومیزی",
+    "میکروفون رومیزی بویا"
+   ],
+   "imp60": 40,
+   "clk60": 0,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 49239,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بویا-مدل-by-v1-v2-0/",
+   "name": "میکروفون یقه ای بویا مدل BY-V1 V2.0 BOYA ا لایتنینگ برای آیفون",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 36,
+   "clk60": 1,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 47478,
+   "url": "https://lalehstore.com/دانگل-بلوتوث-لندر-b11/",
+   "name": "دانگل بلوتوث لندر B11",
+   "cats": [
+    "انواع مبدل، دانگل بلوتوث"
+   ],
+   "imp60": 36,
+   "clk60": 4,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 14119,
+   "url": "https://lalehstore.com/آمپلی-فایر-پایونیر-8704/",
+   "name": "Pioneer GM-D8704",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر پایونیر (Pioneer)"
+   ],
+   "imp60": 36,
+   "clk60": 0,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 53436,
+   "url": "https://lalehstore.com/boya-mini-16/",
+   "name": "میکروفون بویا BOYA Mini 16 تک کاربره با دانگل لایتنینگ",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 35,
+   "clk60": 3,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 48410,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بویا-مدل-omic-d/",
+   "name": "میکروفون یقه ای بویا مدل Omic D با رابط لایتنینگ",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 33,
+   "clk60": 1,
+   "bucket": "keep",
+   "status": "todo"
+  },
+  {
+   "id": 52590,
+   "url": "https://lalehstore.com/محافظ-ولتاژ-و-جریان-تکفاز-40-آمپر-tntd/",
+   "name": "محافظ ولتاژ و جریان تکفاز 40 آمپر TNTD",
+   "cats": [
+    "چند راهی برق و محاظ ولتاژ"
+   ],
+   "imp60": 29,
+   "clk60": 5,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 52380,
+   "url": "https://lalehstore.com/میکروفون-بویا-مدل-boyalink-3/",
+   "name": "میکروفون بویا مدل BOYALINK 3-01",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 28,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 41930,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-سیمی-بویا-مدل-by-m3d/",
+   "name": "میکروفون یقه ای سیمی بویا مدل BY-M3D BOYA",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 26,
+   "clk60": 3,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 20212,
+   "url": "https://lalehstore.com/آنتن-جی-بی-مدل-کلاسیک/",
+   "name": "آنتن جی بی مدل کلاسیک",
+   "cats": [
+    "آنتن رومیزی دیجیتال تلویزیون",
+    "آنتن رومیزی جنرال (GB)"
+   ],
+   "imp60": 26,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 48925,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بویا-مدل-by-v2-v2-0/",
+   "name": "میکروفون یقه ای بویا مدل BY-V2 V2.0 BOYA ا دو مخاطب با پورت لایتنینگ",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 25,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 29547,
+   "url": "https://lalehstore.com/رادیو-پخش-مچ-2020bt/",
+   "name": "رادیو پخش مچ 2020BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش مچ"
+   ],
+   "imp60": 25,
+   "clk60": 4,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 55201,
+   "url": "https://lalehstore.com/sky-raad-digital-desktop-antenna-10m/",
+   "name": "آنتن رومیزی دیجیتال اسکای مدل رعد با کابل 10 متری",
+   "cats": [
+    "آنتن رومیزی دیجیتال تلویزیون"
+   ],
+   "imp60": 24,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 12572,
+   "url": "https://lalehstore.com/ردیاب-خودرو-لندر-ld-56r/",
+   "name": "ردیاب خودرو لندر LD-56R",
+   "cats": [
+    "ردیاب خودرو",
+    "ردیاب لندر ( lander )"
+   ],
+   "imp60": 21,
+   "clk60": 2,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 29657,
+   "url": "https://lalehstore.com/رادیو-پخش-مچ-665bt/",
+   "name": "رادیو پخش مچ 6650BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش مچ"
+   ],
+   "imp60": 20,
+   "clk60": 1,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 13751,
+   "url": "https://lalehstore.com/ساب-ووفر-کنوود-3000/",
+   "name": "Kenwood KFC-HQR3000",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر کنوود (Kenwood)"
+   ],
+   "imp60": 20,
+   "clk60": 1,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 44720,
+   "url": "https://lalehstore.com/اسپیکر-سونی-xg500/",
+   "name": "اسپیکر سونی XG500 | اسپیکر بلوتوثی و قابل حمل",
+   "cats": [
+    "اسپیکر سونی ( sony )",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 16,
+   "clk60": 5,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 56488,
+   "url": "https://lalehstore.com/jbl-club-64csq/",
+   "name": "کامپوننت جی بی ال Club 64CSQ سایز 16 سانت",
+   "cats": [
+    "کامپوننت",
+    "کامپوننت جی بی ال (JBL)"
+   ],
+   "imp60": 15,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 47467,
+   "url": "https://lalehstore.com/تبدیل-av-به-hdmi-ای-فورتک/",
+   "name": "تبدیل AV به HDMI ای فورتک IFORTECH",
+   "cats": [
+    "انواع مبدل، دانگل بلوتوث"
+   ],
+   "imp60": 14,
+   "clk60": 2,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 49047,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بویا-مدل-v30/",
+   "name": "میکروفون یقه‌ ای بویا مدل by-v30 BOYA ا دو مخاطب با پورت type c",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 12,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 56161,
+   "url": "https://lalehstore.com/tp-link-ls1005g/",
+   "name": "سوئیچ شبکه 5 پورت گیگابیتی TP-Link مدل LS1005G",
+   "cats": [
+    "مودم"
+   ],
+   "imp60": 11,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 48758,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بویا-boya-mini-12-combo/",
+   "name": "میکروفون یقه ای بویا Boya MINI 12 COMBO رابط Lightning و Type C",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 11,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 52259,
+   "url": "https://lalehstore.com/میکروفون-بویا-مدل-boyalink-2/",
+   "name": "میکروفون بویا مدل BOYALINK 2",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 9,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 46395,
+   "url": "https://lalehstore.com/پلی-استیشن-5-اسلیم-دیجیتال-اروپا/",
+   "name": "پلی استیشن 5 اسلیم دیجیتال اروپا CFI-2016B",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "پلی استیشن 5",
+    "کنسول سونی"
+   ],
+   "imp60": 9,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 46929,
+   "url": "https://lalehstore.com/میکروفون-بویا-boyalink-a1/",
+   "name": "میکروفون بویا BOYALINK A1 تک کاربره",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 8,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 45449,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بویا-مدل-boyamic/",
+   "name": "میکروفون یقه ای بویا مدل BOYAMIC",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 8,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 53226,
+   "url": "https://lalehstore.com/d-link-dsl-224-adsl2-vdsl2-modem/",
+   "name": "مودم روتر دی لینک DSL-224 | پشتیبانی از ADSL2 Plus و VDSL2",
+   "cats": [
+    "مودم",
+    "مودم دی لینک (D-Link)"
+   ],
+   "imp60": 7,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 46323,
+   "url": "https://lalehstore.com/ایکس-باکس-سری-اس-1-ترابایت/",
+   "name": "ایکس باکس سری اس 1 ترابایت مشکی",
+   "cats": [
+    "کنسول بازی",
+    "ایکس باکس",
+    "کنسول مایکروسافت"
+   ],
+   "imp60": 7,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 39811,
+   "url": "https://lalehstore.com/ست-گیمینگ-5-در-1-پرودو-مدل-pdx215-bk/",
+   "name": "ست گیمینگ 5 در 1 پرودو مدل PDX215-BK ا Porodo 5 in 1 Ultimate Gaming Kit",
+   "cats": [
+    "کیبورد (صفحه کلید)",
+    "کیبورد گیمینگ"
+   ],
+   "imp60": 7,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 52978,
+   "url": "https://lalehstore.com/tp-link-mr100-4g-lte-modem-router/",
+   "name": "مودم سیمکارتی 4G تی پی لینک MR100",
+   "cats": [
+    "مودم",
+    "مودم تی پی لینک (TP-Link)"
+   ],
+   "imp60": 6,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 49301,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بویا-boya-mini-14/",
+   "name": "میکروفون یقه ای بویا Boya MINI 14 رابط Type C",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 6,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 47918,
+   "url": "https://lalehstore.com/دانگل-mhl-hdmi-کروم-کست-آی-فورتک/",
+   "name": "دانگل MHL HDMI کروم کست آی فورتک",
+   "cats": [
+    "انواع مبدل، دانگل بلوتوث"
+   ],
+   "imp60": 6,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 46879,
+   "url": "https://lalehstore.com/پلی-استیشن-5-پرو/",
+   "name": "پلی استیشن 5 پرو",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "پلی استیشن 5",
+    "کنسول سونی"
+   ],
+   "imp60": 6,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 53294,
+   "url": "https://lalehstore.com/d-link-m960-4g-lte-router/",
+   "name": "مودم روتر سیمکارتی 4G LTE دی لینک M960",
+   "cats": [
+    "مودم",
+    "مودم دی لینک (D-Link)"
+   ],
+   "imp60": 5,
+   "clk60": 1,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 44936,
+   "url": "https://lalehstore.com/اسپیکر-سونی-xg300/",
+   "name": "اسپیکر سونی XG300 | اسپیکر بلوتوثی و قابل حمل",
+   "cats": [
+    "اسپیکر سونی ( sony )",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 5,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 33488,
+   "url": "https://lalehstore.com/کابل-تبدیل-type-c-به-lightning-پرودو-مدل-clbrpd12/",
+   "name": "کابل تبدیل Type-c به Lightning پرودو مدل CLBRPD12 طول 1.2 متر",
+   "cats": [
+    "کابل های رابط",
+    "کابل شارژر آیفون اورجینال"
+   ],
+   "imp60": 5,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 26878,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-7p-wireless-black/",
+   "name": "هدست SteelSeries Arctis 7P Wireless black",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 5,
+   "clk60": 1,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 50671,
+   "url": "https://lalehstore.com/میکروفون-بویا-مدل-by-pm500/",
+   "name": "میکروفون بویا مدل BY-PM500",
+   "cats": [
+    "میکروفون رومیزی",
+    "میکروفون رومیزی بویا"
+   ],
+   "imp60": 4,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 48066,
+   "url": "https://lalehstore.com/کلید-دو-پل-روکار-صنعتی-پارت-الکتریک/",
+   "name": "کلید دو پل روکار صنعتی پارت الکتریک مدل برکه",
+   "cats": [
+    "چند راهی برق و محاظ ولتاژ"
+   ],
+   "imp60": 4,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 47075,
+   "url": "https://lalehstore.com/میکروفون-بویا-boyalink-a2/",
+   "name": "میکروفون بویا BOYALINK A2 دو کاربره",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 4,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 43150,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-جی-بی-ال-مدل-partybox-ultimate/",
+   "name": "اسپیکر بلوتوثی جی بی ال مدل PartyBox Ultimate",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 4,
+   "clk60": 1,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 21201,
+   "url": "https://lalehstore.com/هدفون-بی-سیم-جی-بی-ال-مدل-live-500-bt/",
+   "name": "هدفون بی سیم جی بی ال مدل Live 500 BT",
+   "cats": [
+    "هدفون جی بی ال",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 4,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 55170,
+   "url": "https://lalehstore.com/مودم-تی-پی-لینک-مدل-td-w9950-tp-link/",
+   "name": "مودم تی پی لینک مدل TD-W9950 TP-LINK",
+   "cats": [
+    "مودم",
+    "مودم تی پی لینک (TP-Link)"
+   ],
+   "imp60": 3,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 52525,
+   "url": "https://lalehstore.com/protector-foroozesh-fr231-3socket-1-8m/",
+   "name": "محافظ برق کلید دار 3 خانه فروزش مدل FR231 کابل 1.8 متری",
+   "cats": [
+    "چند راهی برق و محاظ ولتاژ"
+   ],
+   "imp60": 3,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 18428,
+   "url": "https://lalehstore.com/پاوربانک-تسکو-865/",
+   "name": "tsco Power Bank TP 865",
+   "cats": [
+    "پاوربانک تسکو",
+    "پاور بانک ( شارژ همراه )"
+   ],
+   "imp60": 3,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 47360,
+   "url": "https://lalehstore.com/محافظ-2-خانه-ارت-دار-یخچال-پارت-الکتریک-1-8-متری/",
+   "name": "محافظ 2 خانه ارت دار یخچال پارت الکتریک 1.8 متری",
+   "cats": [
+    "چند راهی برق و محاظ ولتاژ",
+    "محافظ برق پارت الکتریک"
+   ],
+   "imp60": 2,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 46484,
+   "url": "https://lalehstore.com/کیف-ps5-اسلیم-اورجینال-deadskull-طوسی/",
+   "name": "کیف ps5 اسلیم اورجینال Deadskull طوسی",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "کنسول سونی",
+    "کیف ps5"
+   ],
+   "imp60": 2,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 46456,
+   "url": "https://lalehstore.com/کیف-ps5-اسلیم-اورجینال-deadskull-آبی/",
+   "name": "کیف ps5 اسلیم اورجینال Deadskull آبی",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "کنسول سونی",
+    "کیف ps5"
+   ],
+   "imp60": 2,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 50914,
+   "url": "https://lalehstore.com/میکروفون-استودیویی-بویا-مدل-by-dm500/",
+   "name": "میکروفون استودیویی بویا مدل BY-DM500",
+   "cats": [
+    "میکروفون رومیزی",
+    "میکروفون رومیزی بویا"
+   ],
+   "imp60": 1,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 39823,
+   "url": "https://lalehstore.com/ست-مخصوص-بازی-4-در-1-پرودو-مدل-pdx213/",
+   "name": "ست مخصوص بازی 4 در 1 پرودو مدل pdx213 ا Gaming Set 4-in-1(Keyboard, Mousepad, Mouse, Headphone)",
+   "cats": [
+    "کیبورد (صفحه کلید)",
+    "کیبورد گیمینگ"
+   ],
+   "imp60": 1,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 39622,
+   "url": "https://lalehstore.com/کیبورد-مخصوص-بازی-پرودو-مدل-pdx212-bk/",
+   "name": "کیبورد مخصوص بازی پرودو مدل PDX212-BK ا Gaming Keyboard With powerful Metal Frame",
+   "cats": [
+    "کیبورد (صفحه کلید)",
+    "کیبورد گیمینگ"
+   ],
+   "imp60": 1,
+   "clk60": 0,
+   "bucket": "review",
+   "status": "todo"
+  },
+  {
+   "id": 56151,
+   "url": "https://lalehstore.com/tp-link-ls1008g-gigabit-switch/",
+   "name": "سوییچ شبکه ۸ پورت گیگابیتی تی پی لینک مدل LS1008G",
+   "cats": [
+    "مودم"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 53539,
+   "url": "https://lalehstore.com/boya-mini-23-microphone/",
+   "name": "میکروفون یقه ای بویا مدل BOYA Mini 23 رابط Type C",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 53499,
+   "url": "https://lalehstore.com/boyalink-microphone-3-02/",
+   "name": "میکروفون بویا مدل BOYALINK 3-02",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 49096,
+   "url": "https://lalehstore.com/محافظ-ولتاژ-ورودی-مینیاتوری-30-آمپر-پارت-الکتریک/",
+   "name": "محافظ ولتاژ ورودی مینیاتوری 30 آمپر پارت الکتریک",
+   "cats": [
+    "چند راهی برق و محاظ ولتاژ",
+    "محافظ برق پارت الکتریک"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 48225,
+   "url": "https://lalehstore.com/خازن-ام-بی-آکوستیک-9300/",
+   "name": "خازن ام بی آکوستیک MBA-9300",
+   "cats": [
+    "خازن ام بی آکوستیک(MBA)",
+    "خازن"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 48217,
+   "url": "https://lalehstore.com/خازن-ام-بی-آکوستیک-6700/",
+   "name": "خازن ام بی آکوستیک MBA-6700",
+   "cats": [
+    "خازن ام بی آکوستیک(MBA)",
+    "خازن"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 45155,
+   "url": "https://lalehstore.com/اسپیکر-سونی-xe300/",
+   "name": "اسپیکر سونی XE300 | اسپیکر بلوتوثی و قابل حمل",
+   "cats": [
+    "اسپیکر سونی ( sony )",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 43031,
+   "url": "https://lalehstore.com/کابل-شارژر-تایپ-سی-به-لایتنینگ-پرودو-pd-35wapd-bk/",
+   "name": "کابل شارژر تایپ سی به لایتنینگ پرودو PD-35WAPD-BK",
+   "cats": [
+    "کابل های رابط",
+    "کابل شارژر آیفون اورجینال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 42995,
+   "url": "https://lalehstore.com/تیوتر-پایونیر-مدل-ts-s20/",
+   "name": "تیوتر پایونیر مدل TS-S20 ا Pioneer TS-S20",
+   "cats": [
+    "تیوتر - سوپر تیوتر",
+    "تیوتر پایونیر (Pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 42822,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-سیم-دار-بویا-مدل-by-m1-pro-2/",
+   "name": "میکروفون یقه ای سیم دار بویا مدل BY-M1 Pro Ⅱ BOYA",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 42186,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-دو-مخاطب-بویا-مدل-by-wm3t-d2/",
+   "name": "میکروفون یقه ای بی سیم دو مخاطب بویا مدل BY-WM3T-D2 BOYA ا پورت لایتنینگ آیفونی",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 42157,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-دو-مخاطب-بویا-مدل-by-wm3t-u2/",
+   "name": "میکروفون یقه ای بی سیم دو مخاطب بویا مدل BY-WM3T-U2 BOYA ا پورت تایپ سی",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 42122,
+   "url": "https://lalehstore.com/دسته-بازی-سونی-پلی-استیشن-5-صورتی/",
+   "name": "دسته بازی سونی پلی استیشن 5 صورتی | DualSense Wireless Controller Nova Pink",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 42109,
+   "url": "https://lalehstore.com/دسته-پلی-استیشن-5-قرمز-متالیک/",
+   "name": "دسته پلی استیشن 5 قرمز متالیک | DualSense Wireless Controller Volcanic Red",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 42065,
+   "url": "https://lalehstore.com/دسته-بازی-ps5-خاکستری-ارتشی/",
+   "name": "دسته بازی ps5 خاکستری ارتشی | DualSense Wireless Controller Gray Camouflage",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 42024,
+   "url": "https://lalehstore.com/دسته-بازی-ps5-آبی-لاجوردی/",
+   "name": "دسته بازی ps5 آبی لاجوردی | DualSense Wireless Controller Cobalt Blue",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 42013,
+   "url": "https://lalehstore.com/دسته-بازی-ps5-آبی/",
+   "name": "دسته بازی ps5 آبی روشن | DualSense Wireless Controller Starlight Blue",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41999,
+   "url": "https://lalehstore.com/دسته-بازی-ps5-بنفش/",
+   "name": "دسته بازی ps5 بنفش کهکشانی | DualSense Wireless Controller Galactic Purple",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41977,
+   "url": "https://lalehstore.com/دسته-بازی-ps5-قرمز/",
+   "name": "دسته بازی ps5 قرمز | DualSense Wireless Controller Cosmic Red",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41964,
+   "url": "https://lalehstore.com/دسته-بازی-ps5-سفید/",
+   "name": "دسته بازی ps5 سفید | white dualsense ps5 wireless controller",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41942,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-با-سیم-بویا-مدل-by-m2d/",
+   "name": "میکروفون یقه ای با سیم بویا مدل BY-M2D BOYA ا پورت لایتنینگ",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41886,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-با-سیم-بویا-مدل-by-m1dm/",
+   "name": "میکروفون یقه ای با سیم بویا مدل BY-M1DM BOYA",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41872,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-سیم-دار-بویا-مدل-by-lm40/",
+   "name": "میکروفون یقه ای سیم دار بویا مدل BY-LM40 BOYA",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41852,
+   "url": "https://lalehstore.com/میکروفن-یقه-ای-بی-سیم-بویا-مدل-by-m1lv-u/",
+   "name": "میکروفن یقه ای بی سیم بویا مدل BY-M1LV-U boya ا پورت تایپ سی",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41812,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-by-m1lv-d/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل BY-M1LV-D boya ا پورت لایتنینگ آیفون",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41792,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-boyalink/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل BOYALINK",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41718,
+   "url": "https://lalehstore.com/دسته-بازی-پلی-استیشن-5-سونی-مدل-dualsense-edge/",
+   "name": "دسته بازی پلی استیشن 5 سونی مدل DualSense Edge ا DualSense Edge™ wireless controller",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41673,
+   "url": "https://lalehstore.com/پلی-استیشن-5-استاندارد-دیسک-خور-باندل-دو-دسته/",
+   "name": "پلی استیشن 5 استاندارد دیسک خور باندل دو دسته |  ps5 Two DualSense Wireless Controllers Bundle",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "پلی استیشن 5",
+    "کنسول سونی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41636,
+   "url": "https://lalehstore.com/پلی-استیشن-5-استاندارد-باندل-spider-man-2/",
+   "name": "پلی استیشن 5 استاندارد باندل Spider Man 2 ا  ps5 Spider Man 2 Limited Edition Bundle",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "پلی استیشن 5",
+    "کنسول سونی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41614,
+   "url": "https://lalehstore.com/پلی-استیشن-5-اسلیم-دیجیتال/",
+   "name": "پلی استیشن 5 اسلیم دیجیتال | PlayStation 5 Slim Digital",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "پلی استیشن 5",
+    "کنسول سونی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41508,
+   "url": "https://lalehstore.com/پلی-استیشن-5-اسلیم-دیسک-خور/",
+   "name": "پلی استیشن 5 اسلیم دیسک خور",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "پلی استیشن 5",
+    "کنسول سونی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 41464,
+   "url": "https://lalehstore.com/ردیاب-خودرو-لندر-مدل-ld-62n/",
+   "name": "ردیاب خودرو لندر مدل LD-62N",
+   "cats": [
+    "ردیاب خودرو",
+    "ردیاب لندر ( lander )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40706,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-by-wm3t2-d2/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل BY-WM3T2-D2 BOYA ا دو مخاطب با پورت لایتنینگ",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40682,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-by-wm3t2-u2/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل BY-WM3T2-U2 BOYA ا دو مخاطب با پورت type c",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40671,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-by-wm3t2-u1/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل BY-WM3T2-U1 BOYA ا تک مخاطب با پورت type c",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40640,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-by-wm3t2-d1/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل BY-WM3T2-D1 BOYA ا تک مخاطب با پورت لایتنینگ آیفون",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40417,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-با-سیم-بویا-مدل-by-m1-pro/",
+   "name": "میکروفون یقه ای با سیم بویا مدل BY-M1 Pro BOYA",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40391,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-با-سیم-بویا-مدل-by-m1s/",
+   "name": "میکروفون یقه ای با سیم بویا مدل BY-M1s BOYA",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40368,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-by-v2/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل BY-V2 BOYA ا لایتننینگ برای IOS",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40348,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-by-v10/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل by-v10 BOYA ا تک مخاطب با پورت تایپ سی",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40293,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-by-v1/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل BY-V1 BOYA ا لایتنینگ برای آیفون",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40231,
+   "url": "https://lalehstore.com/میکروفون-یقه-ای-بی-سیم-بویا-مدل-by-v20/",
+   "name": "میکروفون یقه ای بی سیم بویا مدل BY-V20 BOYA ا type c",
+   "cats": [
+    "خرید میکروفون یقه ای",
+    "میکروفون یقه ای بویا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40216,
+   "url": "https://lalehstore.com/آنتن-دیجیتال-رومیزی-برقی-جی-بی-مدل-plus-10m/",
+   "name": "آنتن دیجیتال رومیزی برقی جی بی مدل Plus 10m ا طول کابل 10 متر",
+   "cats": [
+    "آنتن رومیزی دیجیتال تلویزیون",
+    "آنتن رومیزی جنرال (GB)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40206,
+   "url": "https://lalehstore.com/آنتن-دیجیتال-رومیزی-جی-بی-مدل-active-4m/",
+   "name": "آنتن دیجیتال رومیزی جی بی مدل Active 4M ا طول کابل 4 متر",
+   "cats": [
+    "آنتن رومیزی دیجیتال تلویزیون",
+    "آنتن رومیزی جنرال (GB)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 40196,
+   "url": "https://lalehstore.com/آنتن-روزمیزی-برقی-جی-بی-مدل-plus4m/",
+   "name": "آنتن روزمیزی برقی جی بی مدل plus4m ا طول کابل 4 متر",
+   "cats": [
+    "آنتن رومیزی دیجیتال تلویزیون",
+    "آنتن رومیزی جنرال (GB)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39964,
+   "url": "https://lalehstore.com/اندروید-باکس-تسکو-مدل-tab-eco/",
+   "name": "اندروید باکس تسکو مدل TAB ECO ا TSCO TAB-ECO 4K Android Box",
+   "cats": [
+    "اندروید باکس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39926,
+   "url": "https://lalehstore.com/کیبورد-و-ماوس-بی-سیم-پرودو-مدل-pd-btkbmco-gy/",
+   "name": "کیبورد و ماوس بی سیم پرودو مدل PD-BTKBMCO-GY ا Porodo Wireless Portable Bluetooth Keyboard with Mouse",
+   "cats": [
+    "کیبورد (صفحه کلید)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39848,
+   "url": "https://lalehstore.com/کیبورد-بی-سیم-پرودو-همراه-با-تاچ-پد-مدل-pd-wkbtp/",
+   "name": "کیبورد بی سیم پرودو همراه با تاچ پد مدل PD-WKBTP ا Porodo Wireless Keyboard With Touch-Pad Ultra Slim",
+   "cats": [
+    "کیبورد (صفحه کلید)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39746,
+   "url": "https://lalehstore.com/کیبورد-سیمی-مکانیکی-گیمینگ-پرودو-مدل-pdx217/",
+   "name": "کیبورد سیمی مکانیکی گیمینگ پرودو مدل PDX217 ا Porodo Gaming Mechanical Gaming Keyboard Ultra With Rainbow Lighting And Aluminum Panel",
+   "cats": [
+    "کیبورد (صفحه کلید)",
+    "کیبورد گیمینگ"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39726,
+   "url": "https://lalehstore.com/چراغ-قوه-گردنی-پرودو-مدل-pd-lsnckfl/",
+   "name": "چراغ قوه گردنی پرودو مدل PD-LSNCKFL ا Porodo Magnetic Detachable Neckband Flashlight",
+   "cats": [
+    "چراغ قوه",
+    "چراغ قوه پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39684,
+   "url": "https://lalehstore.com/کیبورد-مکانیکی-گیمینگ-پرودو-مدل-pdx211/",
+   "name": "کیبورد مکانیکی گیمینگ پرودو مدل PDX211 ا  Porodo Mechanical Gaming Keyboard",
+   "cats": [
+    "کیبورد (صفحه کلید)",
+    "کیبورد گیمینگ"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39674,
+   "url": "https://lalehstore.com/کیبورد-سیمی-گیمینگ-پرودو-مدل-pdx216-tp/",
+   "name": "کیبورد سیمی گیمینگ پرودو مدل PDX216-TP ا Porodo Gaming Lucid Gaming Keyboard",
+   "cats": [
+    "کیبورد (صفحه کلید)",
+    "کیبورد گیمینگ"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39492,
+   "url": "https://lalehstore.com/چراغ-رومیزی-شارژی-2-کاره-پرودو-مدل-pd-ls2in1dlt/",
+   "name": "چراغ رومیزی شارژی 2 کاره پرودو مدل PD-LS2IN1DLT ا Porodo 2-in-1 Desk Lamp / Torch Compact Outdoor Lantern",
+   "cats": [
+    "چراغ قوه",
+    "چراغ قوه پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39424,
+   "url": "https://lalehstore.com/چراغ-فانوسی-شارژی-پرودو-مدل-pd-lstrilmp/",
+   "name": "چراغ فانوسی شارژی پرودو مدل PD-LSTRILMP ا Porodo Outdoor Tripod Lamp With Built-In Battery",
+   "cats": [
+    "چراغ قوه",
+    "چراغ قوه پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39402,
+   "url": "https://lalehstore.com/چراغ-قوه-اضطراری-شارژی-پرودو-مدل-pd-ls2in1tsl/",
+   "name": "چراغ قوه اضطراری شارژی پرودو مدل PD-LS2IN1TSL ا Porodo 2-in-1 Outdoor Torch &#038; Lamp With Built-in Battery",
+   "cats": [
+    "چراغ قوه",
+    "چراغ قوه پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39344,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-مدل-5004/",
+   "name": "ضبط کاروزریا مدل 5004 | Carozeria CRX-5004BTR",
+   "cats": [
+    "رادیو پخش",
+    "پخش کاروزریا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39309,
+   "url": "https://lalehstore.com/چراغ-قوه-پلیسی-پرودو-مدل-pd-ls5wfl/",
+   "name": "چراغ قوه پلیسی پرودو مدل PD-LS5WFL ا Porodo Slim Outdoor Flashlight High Intensity Light",
+   "cats": [
+    "چراغ قوه",
+    "چراغ قوه پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39185,
+   "url": "https://lalehstore.com/چراغ-قوه-پلیسی-پرودو-مدل-pd-ls18wfl/",
+   "name": "چراغ قوه پلیسی پرودو مدل PD-LS18WFL ا Porodo Slim Outdoor Flashlight",
+   "cats": [
+    "چراغ قوه",
+    "چراغ قوه پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 39097,
+   "url": "https://lalehstore.com/چراغ-قوه-هدلایت-پیشانی-پرودو-مدل-pd-lshdlght/",
+   "name": "چراغ قوه هدلایت پیشانی پرودو مدل PD-LSHDLGHT ا Porodo Smart Outdoor Headband Light High Beam Light",
+   "cats": [
+    "چراغ قوه",
+    "چراغ قوه پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 38067,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-قابل-حمل-ساندتک-مدل-trill/",
+   "name": "اسپیکر بلوتوثی قابل حمل ساندتک پرودو مدل Trill ا Porodo TRILL Soundtec Portable speaker with RGB",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر پرودو ساندتک ( Soundtec porodo )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 38025,
+   "url": "https://lalehstore.com/هدفون-مخصوص-بازی-پرودو-مدل-pdx411/",
+   "name": "هدفون مخصوص بازی پرودو مدل PDX411 ا Porodo Gaming Headphone With RGB (High Definition)",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست و هدفون گیمینگ پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 37989,
+   "url": "https://lalehstore.com/هدفون-مخصوص-بازی-پرودو-مدل-pdx414/",
+   "name": "هدفون مخصوص بازی پرودو مدل PDX414 ا Porodo Gaming Headphone HD Sound With RGB",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست و هدفون گیمینگ پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 37926,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-قابل-حمل-پرودو-مدل-capsule-soundtec/",
+   "name": "اسپیکر بلوتوثی قابل حمل پرودو مدل CAPSULE Soundtec",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر پرودو ساندتک ( Soundtec porodo )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 36106,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-قابل-حمل-جی-بی-ال-مدل-flip-6/",
+   "name": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Flip 6 ا JBL Flip 6 Portable Bluetooth Speaker",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 35732,
+   "url": "https://lalehstore.com/ساندبار-جی-بی-ال-مدل-bar-21-deep-bass-mk2/",
+   "name": "ساندبار جی بی ال مدل Bar 2.1 Deep Bass MK2 ا JBL 2.1 Deep Bass MK2",
+   "cats": [
+    "ساندبار و سینمای خانگی",
+    "ساندبار جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 35634,
+   "url": "https://lalehstore.com/ساندبار-بی-سیم-جی-بی-ال-مدل-sb170/",
+   "name": "ساندبار بی سیم جی بی ال مدل SB170 ا JBL Cinema SB 170",
+   "cats": [
+    "ساندبار و سینمای خانگی",
+    "ساندبار جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 35499,
+   "url": "https://lalehstore.com/بلندگو-سونی-مدل-xs-fb101e/",
+   "name": "بلندگو سونی مدل XS-FB101E",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو سونی (sony)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 34359,
+   "url": "https://lalehstore.com/مخلوط-کن-شارژی-قابل-حمل-پرودو-مدل-pd-pjw6b/",
+   "name": "مخلوط کن شارژی قابل حمل پرودو مدل PD-PJW6B ا porodo portable blender PD-PJW6B-BK",
+   "cats": [
+    "لوازم خانگی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 34344,
+   "url": "https://lalehstore.com/پاور-بانک-10000-میلی-آمپر-پرودو-مدل-pb-bpwbnk/",
+   "name": "پاور بانک 10000 میلی آمپر پرودو مدل PB-BPWBNK",
+   "cats": [
+    "پاور بانک ( شارژ همراه )",
+    "پاور بانک پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 34298,
+   "url": "https://lalehstore.com/کابل-شارژ-usb-به-type-c-پرودو-مدل-pd-acbr12/",
+   "name": "کابل شارژ USB به type-c پرودو مدل PD-ACBR12",
+   "cats": [
+    "کابل های رابط",
+    "کابل شارژ تایپ سی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 34205,
+   "url": "https://lalehstore.com/شارژر-دیواری-پرودو-فست-شارژ-مدل-18pduk/",
+   "name": "شارژر دیواری پرودو فست شارژ مدل 18PDUK",
+   "cats": [
+    "شارژر",
+    "شارژر گوشی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 34157,
+   "url": "https://lalehstore.com/شارژر-فندکی-پرودو-مدل-34ccv2m-به-همراه-کابل-اندروید/",
+   "name": "شارژر فندکی پرودو مدل 34CCV2M به همراه کابل اندروید",
+   "cats": [
+    "شارژر",
+    "شارژر فندکی خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 34112,
+   "url": "https://lalehstore.com/شارژر-فندکی-38w-پرودو-مدل-dc26-به-همراه-کابل-آیفون/",
+   "name": "شارژر فندکی 38W پرودو مدل DC26 به همراه کابل آیفون",
+   "cats": [
+    "شارژر",
+    "شارژر فندکی خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33963,
+   "url": "https://lalehstore.com/کابل-usb-به-لایتنینگ-پرودو-مدل-pd-u12lc/",
+   "name": "کابل USB به لایتنینگ پرودو مدل pd-U12LC",
+   "cats": [
+    "کابل های رابط",
+    "کابل شارژر آیفون اورجینال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33941,
+   "url": "https://lalehstore.com/پاور-بانک-10000-میلی-آمپر-پرودو-مدل-1092/",
+   "name": "پاور بانک 10000 میلی آمپر پرودو مدل 1092",
+   "cats": [
+    "پاور بانک ( شارژ همراه )",
+    "پاور بانک پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 34055,
+   "url": "https://lalehstore.com/کابل-تبدیل-lightning-به-aux-پرودو-مدل-pd-aul12/",
+   "name": "کابل تبدیل Lightning به AUX پرودو مدل PD-AUL12",
+   "cats": [
+    "کابل های رابط",
+    "کابل AUX"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33876,
+   "url": "https://lalehstore.com/شارژر-دیواری-33-وات-فست-شارژ-پرودو-مدل-fwch008/",
+   "name": "شارژر دیواری 33 وات فست شارژ پرودو مدل FWCH008",
+   "cats": [
+    "شارژر",
+    "شارژر گوشی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33629,
+   "url": "https://lalehstore.com/شارژر-فست-type-c-پرودو-مدل-fwch004/",
+   "name": "شارژر فست type-c پرودو مدل FWCH004",
+   "cats": [
+    "شارژر",
+    "شارژر گوشی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33814,
+   "url": "https://lalehstore.com/پاور-بانک-20000-میلی-آمپر-پرودو-مدل-2093/",
+   "name": "پاور بانک 20000 میلی آمپر پرودو مدل 2093",
+   "cats": [
+    "پاور بانک ( شارژ همراه )",
+    "پاور بانک پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33671,
+   "url": "https://lalehstore.com/شارژر-دیواری-20-وات-با-کابل-type-c-به-lightning-پرودو-مدل-18pdeul/",
+   "name": "شارژر دیواری 20 وات با کابل type-c به Lightning پرودو مدل 18PDEUL",
+   "cats": [
+    "شارژر",
+    "شارژر گوشی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33718,
+   "url": "https://lalehstore.com/شارژر-دیواری-پرودو-مدل-0203tu2-به-همراه-کابل-type-c/",
+   "name": "شارژر دیواری پرودو مدل 0203TU2 به همراه کابل type-c",
+   "cats": [
+    "شارژر",
+    "شارژر گوشی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33747,
+   "url": "https://lalehstore.com/پاور-بانک-30000-میلی-آمپر-پرودو-مدل-3094/",
+   "name": "پاور بانک 30000 میلی آمپر پرودو مدل 3094",
+   "cats": [
+    "پاور بانک ( شارژ همراه )",
+    "پاور بانک پرودو (porodo)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33550,
+   "url": "https://lalehstore.com/کابل-تبدیل-usb-به-type-c-پرودو-مدل-cmetrp12/",
+   "name": "کابل تبدیل USB به type-c پرودو مدل CMETRP12 طول 1.2 متر",
+   "cats": [
+    "کابل های رابط",
+    "کابل شارژ تایپ سی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33652,
+   "url": "https://lalehstore.com/کابل-شارژ-type-c-به-lightning-پرودو-مدل-2pdcl/",
+   "name": "کابل شارژ type-c به Lightning پرودو مدل 2PDCL طول 2 متر",
+   "cats": [
+    "کابل های رابط",
+    "کابل شارژر آیفون اورجینال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33585,
+   "url": "https://lalehstore.com/کابل-شارژر-آیفون-usb-به-lightning-پرودو-مدل-albr22/",
+   "name": "کابل شارژر آیفون USB به Lightning پرودو مدل ALBR22 طول 2.2 متر",
+   "cats": [
+    "کابل های رابط",
+    "کابل شارژر آیفون اورجینال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33372,
+   "url": "https://lalehstore.com/کابل-تبدیل-usb-به-لایتنینگ-پرودو-مدل-albr025/",
+   "name": "کابل تبدیل USB به لایتنینگ پرودو مدل ALBR025 طول 0.25",
+   "cats": [
+    "کابل های رابط",
+    "کابل شارژر آیفون اورجینال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 33131,
+   "url": "https://lalehstore.com/ردیاب-خودرو-لندر-مدل-ld-62r/",
+   "name": "ردیاب خودرو لندر مدل LD-62R",
+   "cats": [
+    "ردیاب خودرو",
+    "ردیاب لندر ( lander )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 32773,
+   "url": "https://lalehstore.com/دوربین-وای-فای-برایتون-مدل-iot-2112p8/",
+   "name": "دوربین وای فای برایتون مدل IOT 2112p8-64G",
+   "cats": [
+    "دوربین"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 32813,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-سامسونگ-مدل-sound-tower-mx-t70/",
+   "name": "اسپیکر بلوتوثی سامسونگ مدل Sound Tower MX-T70",
+   "cats": [
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 32316,
+   "url": "https://lalehstore.com/هدفون-جی-بی-ال-tune-510/",
+   "name": "هدفون جی بی ال tune 510 ا JBL TUNE 510BT",
+   "cats": [
+    "هدفون بلوتوث دار",
+    "هدفون جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 32171,
+   "url": "https://lalehstore.com/هدفون-بی-سیم-پرودو-مدل-pd-x1008/",
+   "name": "هدفون بی سیم پرودو مدل PD-X1008 ا Porodo Soundtec Deep Sound PD-X1008",
+   "cats": [
+    "هدفون بلوتوث دار",
+    "هدفون پرودو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 31075,
+   "url": "https://lalehstore.com/اندروید-باکس-مکسیدر-مدل-mx-at3-js1621/",
+   "name": "اندروید باکس مکسیدر مدل mx-at3 js1621",
+   "cats": [
+    "لوازم خانگی",
+    "اندروید باکس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 31054,
+   "url": "https://lalehstore.com/اندروید-باکس-مکسیدر-مدل-mx-at3-js3241/",
+   "name": "اندروید باکس مکسیدر مدل MX-AT3 JS3241",
+   "cats": [
+    "لوازم خانگی",
+    "اندروید باکس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 27717,
+   "url": "https://lalehstore.com/هدست-jbl-quantum-300/",
+   "name": "هدست jbl quantum 300 ا JBL QUANTOM 300 Gaming Headset",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 27652,
+   "url": "https://lalehstore.com/هدست-jbl-quantum-200/",
+   "name": "هدست jbl quantum 200 ا JBL Quantum 200",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 27526,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-جی-بی-ال-مدل-charge-5/",
+   "name": "اسپیکر بلوتوثی جی بی ال مدل Charge 5 (اصل) ا JBL Charge 5",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26818,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-3/",
+   "name": "هدست Steelseries Arctis 3",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26789,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-1-wireles/",
+   "name": "هدست Steelseries Arctis 1 Wireless",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 27197,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-pro-black/",
+   "name": "هدست SteelSeries Arctis Pro black",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 27787,
+   "url": "https://lalehstore.com/هدست-jbl-quantum-400/",
+   "name": "هدست JBL Quantum 400",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 28101,
+   "url": "https://lalehstore.com/هدست-jbl-quantum-800/",
+   "name": "هدست JBL Quantum 800",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 28049,
+   "url": "https://lalehstore.com/هدست-jbl-quantum-600/",
+   "name": "هدست JBL Quantum 600",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24040,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2359/",
+   "name": "اسپیکر تسکو 2359",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر تسکو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 27830,
+   "url": "https://lalehstore.com/اسپیکر-انکر-rave-mini/",
+   "name": "اسپیکر انکر Rave Mini",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر انکر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 28010,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-انکر-soundcore-rave/",
+   "name": "اسپیکر بلوتوثی انکر SOUNDCORE RAVE",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر انکر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 27573,
+   "url": "https://lalehstore.com/اسپیکر-جی-بی-ال-pulse-4/",
+   "name": "اسپیکر جی بی ال pulse 4",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26922,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-9-wireless/",
+   "name": "هدست SteelSeries Arctis 9 Wireless",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26857,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-7-white/",
+   "name": "هدست steelseries arctis 7 White",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24504,
+   "url": "https://lalehstore.com/میدرنج-10-جی-فورس/",
+   "name": "میدرنج 10 جی فورس",
+   "cats": [
+    "میدرنج جی فورس",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 27275,
+   "url": "https://lalehstore.com/sony-pulse-3d/",
+   "name": "sony pulse 3d",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "پلی استیشن",
+    "کنسول بازی",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵",
+    "هدست سونی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26877,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-7p-wireless-2/",
+   "name": "هدست SteelSeries Arctis 7P Wireless",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26970,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-9x-wireless/",
+   "name": "هدست SteelSeries Arctis 9x Wireless",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24743,
+   "url": "https://lalehstore.com/هورن-جی-فورس-100/",
+   "name": "هورن جی فورس 100",
+   "cats": [
+    "تیوتر - سوپر تیوتر",
+    "سوپر تیوتر جی فورس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26838,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-5-white/",
+   "name": "هدست steelseries arctis 5 White",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24777,
+   "url": "https://lalehstore.com/میدرنج-8-جی-فورس/",
+   "name": "میدرنج 8 جی فورس مدل GF-804M",
+   "cats": [
+    "میدرنج-میدبیس",
+    "میدرنج جی فورس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23785,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-آکوستیک-480/",
+   "name": "آمپلی فایر ام بی آکوستیک 480",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23799,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-آکوستیک-6185/",
+   "name": "آمپلی فایر ام بی آکوستیک 6185",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23943,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-آکوستیک-4650/",
+   "name": "آمپلی فایر ام بی آکوستیک 4650",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25838,
+   "url": "https://lalehstore.com/کیف-پارتی-باکس-1000/",
+   "name": "کیف پارتی باکس 1000 | JBL Partybox 1000 Cover",
+   "cats": [
+    "کیف اسپیکر جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26342,
+   "url": "https://lalehstore.com/هدست-گیمینگ-steelseries-arctis-5/",
+   "name": "هدست گیمینگ steelseries arctis 5",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26395,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-7-wireless/",
+   "name": "هدست گیمینگ steelseries arctis 7",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26430,
+   "url": "https://lalehstore.com/هدست-گیمینگ-استیل-سریز-مدل-arctis-prime/",
+   "name": "هدست گیمینگ استیل سریز مدل Arctis Prime",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26607,
+   "url": "https://lalehstore.com/جی-بی-ال-پارتی-باکس-710/",
+   "name": "جی بی ال پارتی باکس 710 | jbl party box 710",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26524,
+   "url": "https://lalehstore.com/پلی-استیشن-5-دیجیتال/",
+   "name": "پلی استیشن 5 دیجیتال | Playstation 5 Digital Edition",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "پلی استیشن 5",
+    "کنسول سونی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26039,
+   "url": "https://lalehstore.com/اسپیکر-انکر-flare-2/",
+   "name": "اسپیکر انکر Flare 2 ا Anker Soundcore Flare 2 A3165",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر انکر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26235,
+   "url": "https://lalehstore.com/steelseries-arctis-1-wireless-playstation/",
+   "name": "هدست steelseries arctis 1 wireless playstation",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26320,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-3-playstation/",
+   "name": "هدست Steelseries Arctis 3 Playstation",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26205,
+   "url": "https://lalehstore.com/هدست-steelseries-arctis-1-wireless/",
+   "name": "هدست steelseries arctis 1 wireless",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26120,
+   "url": "https://lalehstore.com/اسپیکر-انکر-select-pro/",
+   "name": "اسپیکر انکر select pro ا Anker Soundcore Select Pro A3126",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر انکر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26144,
+   "url": "https://lalehstore.com/اسپیکر-انکر-select-2/",
+   "name": "اسپیکر انکر select 2 ا anker soundcore Select 2 a3125",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر انکر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26183,
+   "url": "https://lalehstore.com/هدست-گیمینگ-steelseries-arctis-1/",
+   "name": "هدست گیمینگ Steelseries Arctis 1",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست استیل سریز"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26085,
+   "url": "https://lalehstore.com/اسپیکر-انکر-rave-neo/",
+   "name": "اسپیکر انکر Rave Neo ا Anker Soundcore Rave Neo A3395",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر انکر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25946,
+   "url": "https://lalehstore.com/باند-کنوود-1796/",
+   "name": "باند کنوود 1796 | Kenwood KFC-PS1796",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 26019,
+   "url": "https://lalehstore.com/آمپلی-فایر-پایونیر-7004/",
+   "name": "آمپلی فایر پایونیر 7004",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر پایونیر (Pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24980,
+   "url": "https://lalehstore.com/دسته-موبایل-تسکو-155/",
+   "name": "دسته موبایل تسکو 155",
+   "cats": [
+    "هولدر موبایل و تبلت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25872,
+   "url": "https://lalehstore.com/باند-کنوود-1066/",
+   "name": "باند کنوود 1066 | kenwood KFC-S1066",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25917,
+   "url": "https://lalehstore.com/باند-کنوود-1356/",
+   "name": "باند کنوود 1356 | Kenwood KFC-S1356",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25927,
+   "url": "https://lalehstore.com/باند-کنوود-1696/",
+   "name": "باند کنوود 1696 | Kenwood KFC-PS1696",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25396,
+   "url": "https://lalehstore.com/ایکس-باکس-سری-ایکس/",
+   "name": "ایکس باکس سری ایکس | XBOX series X",
+   "cats": [
+    "کنسول بازی",
+    "ایکس باکس",
+    "کنسول مایکروسافت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24987,
+   "url": "https://lalehstore.com/هدست-تسکو-5332/",
+   "name": "هدست دورگردنی تسکو مدل TH 5332",
+   "cats": [
+    "هدفون بلوتوث دار",
+    "هدفون تسکو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24999,
+   "url": "https://lalehstore.com/هدست-تسکو-5335/",
+   "name": "هدست دورگردنی تسکو مدل TH 5335",
+   "cats": [
+    "هدفون بلوتوث دار",
+    "هدفون تسکو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25468,
+   "url": "https://lalehstore.com/هدست-گیمینگ-جی-بی-ال-مدل-کوانتوم-100/",
+   "name": "هدست گیمینگ جی بی ال مدل کوانتوم 100",
+   "cats": [
+    "هدست جی بی ال",
+    "هدست و هدفون گیمینگ"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25696,
+   "url": "https://lalehstore.com/اسپیکر-سونی-xp700/",
+   "name": "اسپیکر سونی XP700",
+   "cats": [
+    "اسپیکر سونی ( sony )",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25405,
+   "url": "https://lalehstore.com/دسته-ایکس-باکس-سری-ایکس/",
+   "name": "دسته ایکس باکس سری ایکس",
+   "cats": [
+    "کنسول بازی",
+    "ایکس باکس",
+    "کنسول مایکروسافت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25545,
+   "url": "https://lalehstore.com/دسته-ایکس-باکس-سری-اس/",
+   "name": "دسته ایکس باکس سری اس",
+   "cats": [
+    "کنسول بازی",
+    "ایکس باکس",
+    "کنسول مایکروسافت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24624,
+   "url": "https://lalehstore.com/سوپر-تیوتر-جی-فورس-40t-2/",
+   "name": "سوپر تیوتر جی فورس 40T ا GFORCE GF-40T",
+   "cats": [
+    "تیوتر - سوپر تیوتر",
+    "سوپر تیوتر جی فورس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25037,
+   "url": "https://lalehstore.com/هدست-تسکو-5331/",
+   "name": "هدست دورگردنی تسکو مدل TH 5331",
+   "cats": [
+    "هدفون بلوتوث دار",
+    "هدفون تسکو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25237,
+   "url": "https://lalehstore.com/هدست-razer-thresher-71/",
+   "name": "هدست razer Thresher 7.1",
+   "cats": [
+    "هدست و هدفون گیمینگ",
+    "هدست ریزر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25297,
+   "url": "https://lalehstore.com/کیف-پارتی-باکس-110/",
+   "name": "کیف پارتی باکس 110 ا JBL Partybox 110 Cover",
+   "cats": [
+    "کیف اسپیکر جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 25186,
+   "url": "https://lalehstore.com/ایکس-باکس-سری-اس/",
+   "name": "ایکس باکس سری اس 512GB",
+   "cats": [
+    "کنسول بازی",
+    "ایکس باکس",
+    "کنسول مایکروسافت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23801,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-6115/",
+   "name": "آمپلی فایر ام بی آکوستیک مدل 6115",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23805,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-705/",
+   "name": "آمپلی فایر ام بی آکوستیک مدل 705",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23981,
+   "url": "https://lalehstore.com/باند-کنوود-1056/",
+   "name": "بلندگو کنوود مدل 1056G",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23978,
+   "url": "https://lalehstore.com/باند-کنوود-1656/",
+   "name": "بلندگو کنوود مدل 1656",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23879,
+   "url": "https://lalehstore.com/پارتی-باکس-110/",
+   "name": "اسپیکر جی بی ال پارتی باکس ۱۱۰",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24030,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2385/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2385",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر تسکو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 24059,
+   "url": "https://lalehstore.com/اسپیکر-jbl-clip-4/",
+   "name": "اسپیکر jbl clip 4",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23624,
+   "url": "https://lalehstore.com/آمپلی-فایر-کنوود-9500/",
+   "name": "آمپلی فایر کنوود مدل 9500",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر کنوود(Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 23066,
+   "url": "https://lalehstore.com/دسته-بازی-پلی-استیشن-5-مدل-dualsense-wireless-controller/",
+   "name": "دسته بازی پلی استیشن 5 مدل DUALSENSE Wireless Controller",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "دسته پلی استیشن 5",
+    "کنسول سونی",
+    "لوازم جانبی پلی استیشن ۵"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 22551,
+   "url": "https://lalehstore.com/دسته-پلی-استیشن-4/",
+   "name": "دسته پلی استیشن 4",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "کنسول سونی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 22487,
+   "url": "https://lalehstore.com/پلی-استیشن-4-اسلیم/",
+   "name": "پلی استیشن 4 اسلیم 1 ترابایت مدل 2216",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "کنسول سونی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 22290,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-قابل-حمل-جی-بی-ال-مدل-boombox-2/",
+   "name": "اسپیکر جی بی ال مدل Boombox 2",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 22275,
+   "url": "https://lalehstore.com/اسپیکر-سونی-v83d/",
+   "name": "اسپیکر سونی مدل V83D",
+   "cats": [
+    "اسپیکر سونی ( sony )",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 22204,
+   "url": "https://lalehstore.com/باند-آلپاین-691c3/",
+   "name": "بلندگو آلپاین مدل 691c3",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو آلپاین (Alpine)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 22059,
+   "url": "https://lalehstore.com/اسپیکر-سونی-v73/",
+   "name": "اسپیکر سونی مدل MHC-V73D",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر سونی ( sony )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 22041,
+   "url": "https://lalehstore.com/اسپیکر-جی-بی-ال-charge-4/",
+   "name": "اسپیکر جی بی ال مدل charge 4",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21960,
+   "url": "https://lalehstore.com/اسپیکر-سونی-v43/",
+   "name": "اسپیکر سونی مدل MHC-V43D",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر سونی ( sony )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21907,
+   "url": "https://lalehstore.com/اسپیکر-سونی-v13/",
+   "name": "اسپیکر سونی مدل MHC-V13D",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر سونی ( sony )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21886,
+   "url": "https://lalehstore.com/جی-بی-ال-tune-125‌tws/",
+   "name": "هدفون بی سیم جی بی ال مدل JBL Tune 125‌TWS",
+   "cats": [
+    "هدفون بلوتوث دار",
+    "هدفون جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21751,
+   "url": "https://lalehstore.com/اسپیکر-jbl-go-3/",
+   "name": "اسپیکر jbl go 3 ا jbl go3",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر جی بی ال (jbl)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21599,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-4130/",
+   "name": "آمپلی فایر ام بی اکوستیک مدل 4130",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21550,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-4120/",
+   "name": "آمپلی فایر ام بی اکوستیک مدل 4120",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21519,
+   "url": "https://lalehstore.com/هارمن-کاردن-soundsticks-4/",
+   "name": "اسپیکر هارمن کاردن مدل Soundsticks 4",
+   "cats": [
+    "اسپیکر بلوتوثی",
+    "اسپیکر هارمن کاردن"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21500,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-4110/",
+   "name": "آمپلی فایر ام بی اکوستیک مدل 4110",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21469,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-4105/",
+   "name": "آمپلی فایر ام بی اکوستیک مدل 4105",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21452,
+   "url": "https://lalehstore.com/پخش-کاروزریا-6565/",
+   "name": "پخش کاروزریا مدل CRX-6565",
+   "cats": [
+    "رادیو پخش",
+    "پخش کاروزریا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21447,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-6060/",
+   "name": "پخش کاروزریا مدل CRX-6060",
+   "cats": [
+    "رادیو پخش",
+    "پخش کاروزریا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21444,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-5555/",
+   "name": "پخش کاروزریا مدل CRX-5555",
+   "cats": [
+    "رادیو پخش",
+    "پخش کاروزریا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21441,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-5050/",
+   "name": "پخش کاروزریا مدل CRX-5050",
+   "cats": [
+    "رادیو پخش",
+    "پخش کاروزریا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21437,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-3535/",
+   "name": "پخش کاروزریا مدل CRX-3535",
+   "cats": [
+    "رادیو پخش",
+    "پخش کاروزریا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21433,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-3030/",
+   "name": "پخش کاروزریا مدل CRX-3030",
+   "cats": [
+    "رادیو پخش",
+    "پخش کاروزریا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21422,
+   "url": "https://lalehstore.com/کیف-پارتی-باکس-100/",
+   "name": "کیف اورجینال اسپیکر پارتی باکس 100",
+   "cats": [
+    "کیف اسپیکر جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21404,
+   "url": "https://lalehstore.com/کیف-پارتی-باکس-300/",
+   "name": "کیف اورجینال اسپیکر پارتی باکس 300",
+   "cats": [
+    "کیف اسپیکر جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21397,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-2525/",
+   "name": "پخش کاروزریا مدل CRX-2525",
+   "cats": [
+    "رادیو پخش",
+    "پخش کاروزریا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21394,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-2020/",
+   "name": "پخش کاروزریا مدل CRX-2020",
+   "cats": [
+    "رادیو پخش",
+    "پخش کاروزریا"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21389,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-1515/",
+   "name": "پخش کاروزریا مدل CRX-1515",
+   "cats": [
+    "پخش کاروزریا",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21380,
+   "url": "https://lalehstore.com/ضبط-کاروزریا-1010/",
+   "name": "پخش کاروزریا مدل CRX-1010",
+   "cats": [
+    "پخش کاروزریا",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21248,
+   "url": "https://lalehstore.com/کیف-پارتی-باکس-310/",
+   "name": "کیف پارتی باکس 310 ا JBL Partybox 310 Cover",
+   "cats": [
+    "کیف اسپیکر جی بی ال"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21219,
+   "url": "https://lalehstore.com/اسپیکر-جی-بی-ال-مدل-پارتی-باکس-on-the-go/",
+   "name": "اسپیکر جی بی ال مدل پارتی باکس ON THE GO",
+   "cats": [
+    "اسپیکر جی بی ال (jbl)",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21178,
+   "url": "https://lalehstore.com/پخش-سناتور-9000/",
+   "name": "رادیو پخش سناتور مدل 9000",
+   "cats": [
+    "رادیو پخش سناتور",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21172,
+   "url": "https://lalehstore.com/پخش-ساج-760/",
+   "name": "رادیو پخش ساج مدل 760",
+   "cats": [
+    "رادیو پخش ساج",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21169,
+   "url": "https://lalehstore.com/پخش-ساج-750/",
+   "name": "رادیو پخش ساج مدل 750",
+   "cats": [
+    "رادیو پخش ساج",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21167,
+   "url": "https://lalehstore.com/پخش-ساج-720/",
+   "name": "رادیو پخش ساج مدل 720",
+   "cats": [
+    "رادیو پخش ساج",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21164,
+   "url": "https://lalehstore.com/پخش-ساج-710/",
+   "name": "رادیو پخش ساج مدل 710",
+   "cats": [
+    "رادیو پخش ساج",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21160,
+   "url": "https://lalehstore.com/پخش-ساج-740/",
+   "name": "رادیو پخش ساج مدل 740",
+   "cats": [
+    "رادیو پخش ساج",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 21139,
+   "url": "https://lalehstore.com/پخش-ساج-730/",
+   "name": "رادیو پخش ساج مدل 730",
+   "cats": [
+    "رادیو پخش ساج",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20965,
+   "url": "https://lalehstore.com/هارمن-کاردن-onyx-studio-6/",
+   "name": "اسپیکر هارمن کاردن مدل onyx studio 6",
+   "cats": [
+    "اسپیکر هارمن کاردن",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20881,
+   "url": "https://lalehstore.com/جی-بی-ال-پارتی-باکس-1000/",
+   "name": "اسپیکر جی بی ال مدل پارتی باکس 1000",
+   "cats": [
+    "اسپیکر جی بی ال (jbl)",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20859,
+   "url": "https://lalehstore.com/اسپیکر-سونی-v21/",
+   "name": "اسپیکر سونی مدل MHC-V21D",
+   "cats": [
+    "اسپیکر سونی ( sony )",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20751,
+   "url": "https://lalehstore.com/جی-بی-ال-tune-750btnc/",
+   "name": "هدفون جی بی ال مدل TUNE 750BTNC",
+   "cats": [
+    "هدفون جی بی ال",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20713,
+   "url": "https://lalehstore.com/جی-بی-ال-tune-500bt/",
+   "name": "هدفون جی بی ال مدل TUNE 500BT",
+   "cats": [
+    "هدفون جی بی ال",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20662,
+   "url": "https://lalehstore.com/جی-بی-ال-اکستریم-3/",
+   "name": "اسپیکر جی بی ال مدل اکستریم 3",
+   "cats": [
+    "اسپیکر جی بی ال (jbl)",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20629,
+   "url": "https://lalehstore.com/هدست-تسکو-5153/",
+   "name": "هدست تسکو TH 5153",
+   "cats": [
+    "هدست سیم دار تسکو",
+    "هدست سیمدار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20593,
+   "url": "https://lalehstore.com/ضبط-پایونیر-t20bt/",
+   "name": "پخش دودین پایونیر مدل SPH-T20BT",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20560,
+   "url": "https://lalehstore.com/تبلت-پایونیر-مدل-835tab/",
+   "name": "تبلت هوشمند پایونیر مدل SDA-835TAB",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20574,
+   "url": "https://lalehstore.com/پارتی-باکس-100/",
+   "name": "اسپیکر جی بی ال مدل پارتی باکس 100",
+   "cats": [
+    "اسپیکر جی بی ال (jbl)",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20443,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-1687/",
+   "name": "باند گرد پایونیر 1687",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20442,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-1677/",
+   "name": "بلندگو گرد پایونیر مدل TS-A1677S",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20431,
+   "url": "https://lalehstore.com/آمپلی-فایر-پایونیر-9704/",
+   "name": "آمپلی فایر پایونیر مدل GM-D9704",
+   "cats": [
+    "آمپلی فایر پایونیر (Pioneer)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20409,
+   "url": "https://lalehstore.com/اسپیکر-جی-بی-ال-مدل-پارتی-باکس-300/",
+   "name": "اسپیکر جی بی ال مدل پارتی باکس 300",
+   "cats": [
+    "اسپیکر جی بی ال (jbl)",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20371,
+   "url": "https://lalehstore.com/اسپیکر-جی-بی-ال-مدل-پارتی-باکس-310/",
+   "name": "اسپیکر جی بی ال مدل پارتی باکس 310",
+   "cats": [
+    "اسپیکر جی بی ال (jbl)",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20367,
+   "url": "https://lalehstore.com/ساب-پایونیر-a30s4/",
+   "name": "ساب ووفر پایونیر مدل TS-A30S4",
+   "cats": [
+    "ساب ووفر پایونیر (Pioneer)",
+    "ساب ووفر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20360,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-ts-2303/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2303",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20331,
+   "url": "https://lalehstore.com/ضبط-پایونیر-395/",
+   "name": "پخش پایونیر مدل X395BT",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20306,
+   "url": "https://lalehstore.com/ساب-کنوود-3017/",
+   "name": "kenwood KFC-PS3017W",
+   "cats": [
+    "ساب ووفر کنوود (Kenwood)",
+    "ساب ووفر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20217,
+   "url": "https://lalehstore.com/آنتن-جی-بی-مدل-رویال/",
+   "name": "آنتن جی بی مدل رویال",
+   "cats": [
+    "آنتن رومیزی دیجیتال تلویزیون",
+    "آنتن رومیزی جنرال (GB)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20177,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2182/",
+   "name": "اسپیکر سه تیکه تسکو مدل TS 2182",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20158,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2187/",
+   "name": "اسپیکر سه تیکه تسکو مدل TS 2187",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20152,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2184/",
+   "name": "اسپیکر چهار تیکه تسکو مدل TS 2184",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20132,
+   "url": "https://lalehstore.com/هدست-تسکو-th-5124/",
+   "name": "هدست تسکو TH 5124",
+   "cats": [
+    "هدست سیم دار تسکو",
+    "هدست سیمدار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20122,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2064/",
+   "name": "اسپیکر دو تیکه تسکو مدل TS 2064",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20071,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2198/",
+   "name": "اسپیکر سه تیکه تسکو مدل TS 2198",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20067,
+   "url": "https://lalehstore.com/هدست-تسکو-5374/",
+   "name": "هدست بلوتوث دار تسکو 5374",
+   "cats": [
+    "هدفون تسکو",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20064,
+   "url": "https://lalehstore.com/هدست-تسکو-5371/",
+   "name": "هدست بلوتوث دار تسکو 5371",
+   "cats": [
+    "هدفون تسکو",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20049,
+   "url": "https://lalehstore.com/هدست-تسکو-5155/",
+   "name": "هدست سیم دار گیمینگ تسکو TH 5155",
+   "cats": [
+    "هدست سیم دار تسکو",
+    "هدست سیمدار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20042,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2125/",
+   "name": "اسپیکر سه تیکه تسکو مدل TS 2125",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20035,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2195/",
+   "name": "اسپیکر سه تیکه تسکو مدل TS 2195",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20033,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2191/",
+   "name": "اسپیکر سه تیکه تسکو مدل TS 2191",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 20028,
+   "url": "https://lalehstore.com/هدست-تسکو-5127/",
+   "name": "هدست سیم دار گیمینگ تسکو TH 5127",
+   "cats": [
+    "هدست سیم دار تسکو",
+    "هدست سیمدار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19995,
+   "url": "https://lalehstore.com/ردیاب-خودرو-لندر-61r/",
+   "name": "ردیاب خودرو لندر LD-61R",
+   "cats": [
+    "ردیاب خودرو",
+    "ردیاب لندر ( lander )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19976,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2375/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2375",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19970,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2350/",
+   "name": "اسپیکر بلوتوثی تسکو مدل TS 2350",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19962,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2379/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2379",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19952,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-پرتابل-تسکو-مدل-ts-2315/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2315",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19948,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2399/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2399",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19942,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2355/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2355",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19914,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2361/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2361",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19909,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2189/",
+   "name": "اسپیکر سه تیکه تسکو مدل TS 2189",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19902,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2377/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2377",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19895,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-ts-2398/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2398",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19889,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2305/",
+   "name": "اسپیکر بلوتوثی پرتابل تسکو مدل TS 2305",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19870,
+   "url": "https://lalehstore.com/باند-پایونیر-6967/",
+   "name": "باند پایونیر 6967",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19845,
+   "url": "https://lalehstore.com/باند-پایونیر-6977/",
+   "name": "باند پایونیر 6977 | Pioneer TS-A6977S",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19834,
+   "url": "https://lalehstore.com/باند-پایونیر-6987/",
+   "name": "باند پایونیر 6987 | Pioneer TS-A6987S",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19828,
+   "url": "https://lalehstore.com/آنتن-رومیزی-فروزش-مدل-galaxy/",
+   "name": "آنتن رومیزی فروزش مدل Galaxy",
+   "cats": [
+    "آنتن رومیزی دیجیتال تلویزیون",
+    "آنتن رومیزی فروزش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19825,
+   "url": "https://lalehstore.com/ضبط-اکسفورد-6350/",
+   "name": "Exford AVX-6350",
+   "cats": [
+    "رادیو پخش اکسفورد (exford)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19792,
+   "url": "https://lalehstore.com/سوپر-تیوتر-دوریس-04/",
+   "name": "سوپر تیوتر دوریس مدل OR-04",
+   "cats": [
+    "سوپر تیوتر دوریس",
+    "تیوتر - سوپر تیوتر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19787,
+   "url": "https://lalehstore.com/سوپر-تیوتر-دوریس-03/",
+   "name": "Doris OR-03",
+   "cats": [
+    "سوپر تیوتر دوریس",
+    "تیوتر - سوپر تیوتر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19744,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2196/",
+   "name": "اسپیکر سه تیکه تسکو مدل TS 2196",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19730,
+   "url": "https://lalehstore.com/هدست-تسکو-5323/",
+   "name": "هدست بلوتوث دار تسکو 5323",
+   "cats": [
+    "هدفون تسکو",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19723,
+   "url": "https://lalehstore.com/هدست-تسکو-5339/",
+   "name": "هدست بلوتوث دار تسکو 5339",
+   "cats": [
+    "هدفون تسکو",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19716,
+   "url": "https://lalehstore.com/هدست-تسکو-5336/",
+   "name": "هدست بلوتوث دار تسکو 5336",
+   "cats": [
+    "هدفون تسکو",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19708,
+   "url": "https://lalehstore.com/هدست-تسکو-5346/",
+   "name": "هدست بلوتوث دار تسکو 5346",
+   "cats": [
+    "هدفون تسکو",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19701,
+   "url": "https://lalehstore.com/هدست-تسکو-5345/",
+   "name": "هدست بلوتوث دار تسکو 5345",
+   "cats": [
+    "هدفون تسکو",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19686,
+   "url": "https://lalehstore.com/هولدر-موبایل-تسکو-مدل-thl-1211/",
+   "name": "هولدر موبایل تسکو مدل THL 1211",
+   "cats": [
+    "هولدر موبایل و تبلت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19674,
+   "url": "https://lalehstore.com/ضبط-شروود-643/",
+   "name": "SHERWOOD SH-643BT",
+   "cats": [
+    "رادیوپخش شروود",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19660,
+   "url": "https://lalehstore.com/هدست-تسکو-5347/",
+   "name": "هدست بلوتوث دار تسکو 5347",
+   "cats": [
+    "هدفون تسکو",
+    "هدفون بلوتوث دار"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19647,
+   "url": "https://lalehstore.com/ضبط-شروود-702/",
+   "name": "SHERWOOD SH-702GP",
+   "cats": [
+    "رادیوپخش شروود",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19642,
+   "url": "https://lalehstore.com/ضبط-شروود-281/",
+   "name": "SHERWOOD SH-281",
+   "cats": [
+    "رادیوپخش شروود",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19637,
+   "url": "https://lalehstore.com/ضبط-شروود-259/",
+   "name": "SHERWOOD SH-259",
+   "cats": [
+    "رادیوپخش شروود",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19615,
+   "url": "https://lalehstore.com/ضبط-اکسفورد-6800/",
+   "name": "Exford AVX-6800",
+   "cats": [
+    "رادیو پخش اکسفورد (exford)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19604,
+   "url": "https://lalehstore.com/ضبط-بوستر-5750/",
+   "name": "BOOSTER BSC-5750BT",
+   "cats": [
+    "رادیو پخش پریمیر-بوستر(Premier-Booster)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19601,
+   "url": "https://lalehstore.com/ضبط-بوستر-7750/",
+   "name": "BOOSTER BSD-7750BT",
+   "cats": [
+    "رادیو پخش پریمیر-بوستر(Premier-Booster)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19545,
+   "url": "https://lalehstore.com/ضبط-بوستر-7950/",
+   "name": "ضبط بوستر 7950",
+   "cats": [
+    "رادیو پخش پریمیر-بوستر(Premier-Booster)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19515,
+   "url": "https://lalehstore.com/ضبط-بوستر-4950/",
+   "name": "BOOSTER BSC-4950",
+   "cats": [
+    "رادیو پخش پریمیر-بوستر(Premier-Booster)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19507,
+   "url": "https://lalehstore.com/ضبط-بوستر-4450/",
+   "name": "BOOSTER BSC-4450",
+   "cats": [
+    "رادیو پخش پریمیر-بوستر(Premier-Booster)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19468,
+   "url": "https://lalehstore.com/ضبط-بوستر-6350/",
+   "name": "BOOSTER BSD-6350",
+   "cats": [
+    "رادیو پخش پریمیر-بوستر(Premier-Booster)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19462,
+   "url": "https://lalehstore.com/ضبط-بوستر-6950/",
+   "name": "BOOSTER BSD-6950",
+   "cats": [
+    "رادیو پخش پریمیر-بوستر(Premier-Booster)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19457,
+   "url": "https://lalehstore.com/هورن-تیوتر-آلفاسونیک-77/",
+   "name": "ALPHASONIK PSW-77",
+   "cats": [
+    "سوپر تیوتر آلفاسونیک",
+    "تیوتر - سوپر تیوتر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19453,
+   "url": "https://lalehstore.com/سوپر-تیوتر-آلفاسونیک-55/",
+   "name": "سوپر تیوتر آلفاسونیک 55 ا ALPHASONIK PSW-55",
+   "cats": [
+    "تیوتر - سوپر تیوتر",
+    "سوپر تیوتر آلفاسونیک"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19446,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-قابل-حمل-تسکو-مدل-ts-2393/",
+   "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 2393",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19440,
+   "url": "https://lalehstore.com/سوپر-تیوتر-زنون-2000/",
+   "name": "ZENON ZN-2000S",
+   "cats": [
+    "سوپر تیوتر زنون",
+    "تیوتر - سوپر تیوتر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19414,
+   "url": "https://lalehstore.com/میدرنج-5-اینچ-کیو-اس/",
+   "name": "میدرنج 5 کیو اس مدل YD-120",
+   "cats": [
+    "میدرنج کیو اس(QS)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19411,
+   "url": "https://lalehstore.com/میدرنج-4-اینچ-کیو-اس/",
+   "name": "میدرنج 4 کیو اس مدل KA4",
+   "cats": [
+    "میدرنج کیو اس(QS)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19396,
+   "url": "https://lalehstore.com/میدرنج-12-اینچ-qs/",
+   "name": "میدرنج 12 کیو اس مدل SC300",
+   "cats": [
+    "میدرنج کیو اس(QS)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19393,
+   "url": "https://lalehstore.com/میدرنج-12-اینچ-کیو-اس/",
+   "name": "میدرنج 12 کیو اس مدل MI-300R",
+   "cats": [
+    "میدرنج کیو اس(QS)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19243,
+   "url": "https://lalehstore.com/میدرنج-8-کیو-اس/",
+   "name": "میدرنج 8 کیو اس",
+   "cats": [
+    "میدرنج کیو اس(QS)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 19124,
+   "url": "https://lalehstore.com/پلی-استیشن-5/",
+   "name": "پلی استیشن 5 درایو دار استاندارد | ps5",
+   "cats": [
+    "کنسول بازی",
+    "پلی استیشن",
+    "پلی استیشن 5",
+    "کنسول سونی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18464,
+   "url": "https://lalehstore.com/هولدر-موبایل-تسکو-مدل-thl-1212/",
+   "name": "پایه نگهدارنده موبایل تسکو مدل THL 1212",
+   "cats": [
+    "هولدر موبایل و تبلت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18458,
+   "url": "https://lalehstore.com/فول-رنج-12-اینچ-وایب/",
+   "name": "Vibe BD Pro 12",
+   "cats": [
+    "میدرنج وایب (Vibe)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18425,
+   "url": "https://lalehstore.com/پاوربانک-تسکو-مدل-866/",
+   "name": "tsco Power Bank TP 866L",
+   "cats": [
+    "پاوربانک تسکو",
+    "پاور بانک ( شارژ همراه )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18421,
+   "url": "https://lalehstore.com/پاوربانک-تسکو-مدل-854/",
+   "name": "tsco Power Bank TP 854 N",
+   "cats": [
+    "پاوربانک تسکو",
+    "پاور بانک ( شارژ همراه )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18415,
+   "url": "https://lalehstore.com/پاور-بانک-تسکو-845/",
+   "name": "tsco Power Bank TP 845",
+   "cats": [
+    "پاوربانک تسکو",
+    "پاور بانک ( شارژ همراه )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18397,
+   "url": "https://lalehstore.com/پاوربانک-تسکو-مدل-860/",
+   "name": "tsco Power Bank TP 860",
+   "cats": [
+    "پاوربانک تسکو",
+    "پاور بانک ( شارژ همراه )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18364,
+   "url": "https://lalehstore.com/باند-سونی-6951/",
+   "name": "باند سونی مدل 6951",
+   "cats": [
+    "بلندگو سونی (sony)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18352,
+   "url": "https://lalehstore.com/آمپلی-فایر-سونی-502/",
+   "name": "Sony XM-N502",
+   "cats": [
+    "آمپلی فایر سونی (sony)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18309,
+   "url": "https://lalehstore.com/ساب-باکس-سونی-مدل-122/",
+   "name": "Sony XS-GTX122LT",
+   "cats": [
+    "ساب ووفر سونی (Sony)",
+    "ساب ووفر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18303,
+   "url": "https://lalehstore.com/ساب-سونی-1200/",
+   "name": "Sony XS-NW1200",
+   "cats": [
+    "ساب ووفر سونی (Sony)",
+    "ساب ووفر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18288,
+   "url": "https://lalehstore.com/ضبط-تصویری-کنوود-مدل-419bt/",
+   "name": "Kenwood DDX419BTM",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18286,
+   "url": "https://lalehstore.com/گیرنده-دیجیتال-کنوود-مدل-500/",
+   "name": "Kenwood DVB KTC-500A",
+   "cats": [
+    "گیرنده دیجیتال کنوود",
+    "گیرنده دیجیتال خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18242,
+   "url": "https://lalehstore.com/باند-بیضی-راک-پاور-مدل-6966/",
+   "name": "باند بیضی راک پاور مدل 6966",
+   "cats": [
+    "بلندگو راک پاور (Rock Power)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18241,
+   "url": "https://lalehstore.com/باند-بیضی-راک-پاور-مدل-6907/",
+   "name": "باند بیضی راک پاور مدل 6907",
+   "cats": [
+    "بلندگو راک پاور (Rock Power)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18240,
+   "url": "https://lalehstore.com/باند-بیضی-راک-پاور-مدل-6906/",
+   "name": "باند بیضی راک پاور مدل 6906",
+   "cats": [
+    "بلندگو راک پاور (Rock Power)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18238,
+   "url": "https://lalehstore.com/باند-بیضی-راک-پاور-مدل-6905/",
+   "name": "باند بیضی راک پاور مدل 6905",
+   "cats": [
+    "بلندگو راک پاور (Rock Power)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18159,
+   "url": "https://lalehstore.com/باند-کنوود-۶۹۸۶/",
+   "name": "باند کنوود ۶۹۸۶",
+   "cats": [
+    "بلندگو کنوود (Kenwood)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18158,
+   "url": "https://lalehstore.com/باند-کنوود-۶۹۷۶/",
+   "name": "باند کنوود ۶۹۷۶",
+   "cats": [
+    "بلندگو کنوود (Kenwood)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18157,
+   "url": "https://lalehstore.com/باند-پایونیر-1634/",
+   "name": "باند پایونیر 1634",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 18155,
+   "url": "https://lalehstore.com/باند-پایونیر-1670/",
+   "name": "باند گرد پایونیر 1670",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16917,
+   "url": "https://lalehstore.com/ساب-ووفر-پایونیر-3003d4/",
+   "name": "ساب ووفر پایونیر مدل W3003D4",
+   "cats": [
+    "ساب ووفر پایونیر (Pioneer)",
+    "ساب ووفر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16912,
+   "url": "https://lalehstore.com/ساب-پایونیر-a300d4/",
+   "name": "ساب ووفر پایونیر مدل TS-A300D4",
+   "cats": [
+    "ساب ووفر پایونیر (Pioneer)",
+    "ساب ووفر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16903,
+   "url": "https://lalehstore.com/باند-پایونیر-1675-v2/",
+   "name": "باند پایونیر 1675 v2 اصلی | Pioneer TS-1675V2",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16892,
+   "url": "https://lalehstore.com/ضبط-سونی-b700/",
+   "name": "Sony DSX-B700",
+   "cats": [
+    "رادیو پخش سونی (Sony)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16888,
+   "url": "https://lalehstore.com/باند-سونی-۶۹۲۰/",
+   "name": "Sony XS-K6920",
+   "cats": [
+    "بلندگو سونی (sony)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16881,
+   "url": "https://lalehstore.com/باند-سونی-۶۹۳۹/",
+   "name": "Sony XS-GTF6939",
+   "cats": [
+    "بلندگو سونی (sony)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16874,
+   "url": "https://lalehstore.com/باند-سونی-6930/",
+   "name": "Sony XS-FB6930",
+   "cats": [
+    "بلندگو سونی (sony)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16868,
+   "url": "https://lalehstore.com/باند-سونی-۶۹۴۱/",
+   "name": "Sony XS-XB6941",
+   "cats": [
+    "بلندگو سونی (sony)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16854,
+   "url": "https://lalehstore.com/اندروید-باکس-تسکو-tab-100/",
+   "name": "اندروید باکس تسکو مدل tab100",
+   "cats": [
+    "اندروید باکس",
+    "لوازم خانگی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16838,
+   "url": "https://lalehstore.com/باند-بیضی-راک-پاور-مدل-۶۹۰۴/",
+   "name": "باند بیضی راک پاور مدل 6904",
+   "cats": [
+    "بلندگو راک پاور (Rock Power)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16810,
+   "url": "https://lalehstore.com/باند-بیضی-راک-پاور-مدل-6903/",
+   "name": "باند بیضی راک پاور مدل 6903",
+   "cats": [
+    "بلندگو راک پاور (Rock Power)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16788,
+   "url": "https://lalehstore.com/باند-بیضی-راک-پاور-مدل-6902/",
+   "name": "باند بیضی راک پاور مدل 6902",
+   "cats": [
+    "بلندگو راک پاور (Rock Power)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16781,
+   "url": "https://lalehstore.com/ضبط-دودین-کنوود-5110/",
+   "name": "Kenwood DPX-MP5110U",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16773,
+   "url": "https://lalehstore.com/میدرنج-کیو-اس-مدل-yd2-1322/",
+   "name": "میدرنج 6 کیو اس",
+   "cats": [
+    "میدرنج کیو اس(QS)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16766,
+   "url": "https://lalehstore.com/هولدر-موبایل-تسکو-مدل-thl-1207/",
+   "name": "پایه نگهدارنده موبایل تسکو مدل THL 1207",
+   "cats": [
+    "هولدر موبایل و تبلت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16760,
+   "url": "https://lalehstore.com/آمپلی-فایر-پایونیر-9604/",
+   "name": "Pioneer GM-D9604",
+   "cats": [
+    "آمپلی فایر پایونیر (Pioneer)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16755,
+   "url": "https://lalehstore.com/هولدر-موبایل-تسکو-1203/",
+   "name": "پایه نگهدارنده موبایل تسکو مدل THL 1203",
+   "cats": [
+    "هولدر موبایل و تبلت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16750,
+   "url": "https://lalehstore.com/هولدر-موبایل-تسکو-مدل-thl-1205/",
+   "name": "پایه نگهدارنده موبایل تسکو مدل THL 1205",
+   "cats": [
+    "هولدر موبایل و تبلت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16736,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-قابل-حمل-تسکو-مدل-ts-2337/",
+   "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 2337",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16730,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-قابل-حمل-تسکو-مدل-ts-2345/",
+   "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 2345",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16723,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2347/",
+   "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 2347",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16717,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-قابل-حمل-تسکو-مدل-ts-2391/",
+   "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 2391",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16707,
+   "url": "https://lalehstore.com/اسپیکر-بلوتوثی-قابل-حمل-تسکو-مدل-ts-2365/",
+   "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 2365",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16698,
+   "url": "https://lalehstore.com/اسپیکر-تسکو-2331/",
+   "name": "اسپیکر بلوتوثی قابل حمل تسکو مدل TS 2331",
+   "cats": [
+    "اسپیکر تسکو",
+    "اسپیکر بلوتوثی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16678,
+   "url": "https://lalehstore.com/آمپلی-فایر-کنوود-404/",
+   "name": "Kenwood KAC-PS404",
+   "cats": [
+    "آمپلی فایر کنوود(Kenwood)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16645,
+   "url": "https://lalehstore.com/ضبط-کنوود-640/",
+   "name": "Kenwood KDC-BT640U",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16554,
+   "url": "https://lalehstore.com/ضبط-کنوود-306-bt/",
+   "name": "رادیو پخش کنوود مدل KMM-BT306",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16527,
+   "url": "https://lalehstore.com/آمپلی-فایر-پایونیر-3702/",
+   "name": "آمپلی فایر پایونیر مدل GM-A3702",
+   "cats": [
+    "آمپلی فایر پایونیر (Pioneer)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16506,
+   "url": "https://lalehstore.com/ضبط-پایونیر-425/",
+   "name": "pioneer MVH-S425BT",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16477,
+   "url": "https://lalehstore.com/ضبط-پایونیر-5250bt/",
+   "name": "ضبط پایونیر 5250 | Pioneer DEH-S5250BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16474,
+   "url": "https://lalehstore.com/ضبط-پایونیر-2250/",
+   "name": "ضبط پایونیر 2250 | pioneer DEH-S2250UI",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16469,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1253/",
+   "name": "ضبط پایونیر 1253 | Pioneer DEH-S1253UB",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16466,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1252/",
+   "name": "ضبط پایونیر مدل 1252",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16461,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1250/",
+   "name": "ضبط پایونیر 1250",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16446,
+   "url": "https://lalehstore.com/آمپلی-فایر-جی-وی-سی-5104/",
+   "name": "JVC KS-AX5104",
+   "cats": [
+    "آمپلی فایر جی وی سی(JVC)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16441,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-مدل-470/",
+   "name": "MB acoustics MBA-470",
+   "cats": [
+    "امپلی فایر ام بی آکوستیک (MBA)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16330,
+   "url": "https://lalehstore.com/ضبط-کنوود-154/",
+   "name": "ضبط کنوود مدل 154",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16326,
+   "url": "https://lalehstore.com/ضبط-کنوود-153/",
+   "name": "Kenwood KDC-153UM",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16287,
+   "url": "https://lalehstore.com/ضبط-کنوود-120/",
+   "name": "Kenwood KDC-120U",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16279,
+   "url": "https://lalehstore.com/ضبط-کنوود-205-bt/",
+   "name": "kenwood KMM-BT205",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16273,
+   "url": "https://lalehstore.com/ضبط-سونی-5300/",
+   "name": "Sony MEX-N5300BT",
+   "cats": [
+    "رادیو پخش سونی (Sony)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16260,
+   "url": "https://lalehstore.com/ضبط-سونی-4300bt/",
+   "name": "ضبط سونی مدل 4300bt",
+   "cats": [
+    "رادیو پخش سونی (Sony)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16257,
+   "url": "https://lalehstore.com/ضبط-جی-شیک-مدل-3326/",
+   "name": "G-SHAKE GS-3326",
+   "cats": [
+    "رادیو پخش جی شیک",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16253,
+   "url": "https://lalehstore.com/ضبط-جی-شیک-مدل-3328/",
+   "name": "G-SHAKE GS-3328",
+   "cats": [
+    "رادیو پخش جی شیک",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16250,
+   "url": "https://lalehstore.com/ضبط-جی-شیک-مدل-3330/",
+   "name": "G-SHAKE GS-3330",
+   "cats": [
+    "رادیو پخش جی شیک",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16246,
+   "url": "https://lalehstore.com/ضبط-جی-شیک-مدل-3327/",
+   "name": "G-SHAKE GS-3327",
+   "cats": [
+    "رادیو پخش جی شیک",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16175,
+   "url": "https://lalehstore.com/ضبط-سونی-m55bt/",
+   "name": "Sony DSX-M55BT",
+   "cats": [
+    "رادیو پخش سونی (Sony)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 16135,
+   "url": "https://lalehstore.com/ضبط-سونی-210/",
+   "name": "ضبط سونی 210",
+   "cats": [
+    "رادیو پخش سونی (Sony)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15794,
+   "url": "https://lalehstore.com/ضبط-سونی-110u/",
+   "name": "ضبط سونی 110U",
+   "cats": [
+    "رادیو پخش سونی (Sony)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15767,
+   "url": "https://lalehstore.com/ضبط-سونی-416/",
+   "name": "ضبط سونی 416 | Sony DSX-A416BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش سونی (Sony)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15680,
+   "url": "https://lalehstore.com/اندروید-باکس-مکسیدر-mx-at3/",
+   "name": "Maxeeder MX-AT3 JF10",
+   "cats": [
+    "اندروید باکس",
+    "لوازم خانگی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15660,
+   "url": "https://lalehstore.com/ضبط-تصویری-کنوود-مدل-6016bt/",
+   "name": "Kenwood DDX6016BTM",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15625,
+   "url": "https://lalehstore.com/ضبط-تصویری-پایونیر-مدل-a315/",
+   "name": "Pioneer AVH-A315BT",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15594,
+   "url": "https://lalehstore.com/ضبط-تصویری-پایونیر-مدل-a215/",
+   "name": "Pioneer AVH-A215BT",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15539,
+   "url": "https://lalehstore.com/کامپوننت-کنوود-مدل-1800/",
+   "name": "کامپوننت کنوود مدل XR-1800P",
+   "cats": [
+    "کامپوننت کنوود (Kenwood)",
+    "کامپوننت"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15503,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-مدل-4050/",
+   "name": "MB acoustics MBA-4050",
+   "cats": [
+    "امپلی فایر ام بی آکوستیک (MBA)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15473,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-8001/",
+   "name": "MB acoustics MBA-8001",
+   "cats": [
+    "امپلی فایر ام بی آکوستیک (MBA)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15471,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-مدل-9800/",
+   "name": "MB acoustics MBA-9800",
+   "cats": [
+    "امپلی فایر ام بی آکوستیک (MBA)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15436,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-مدل-9900/",
+   "name": "MB acoustics MBA-9900",
+   "cats": [
+    "امپلی فایر ام بی آکوستیک (MBA)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15433,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-مدل-15000/",
+   "name": "MB acoustics MBA-15000",
+   "cats": [
+    "امپلی فایر ام بی آکوستیک (MBA)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15431,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-10001/",
+   "name": "MB acoustics MBA-10001",
+   "cats": [
+    "امپلی فایر ام بی آکوستیک (MBA)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15415,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-مدل-5005/",
+   "name": "MB acoustics MBA-5005",
+   "cats": [
+    "امپلی فایر ام بی آکوستیک (MBA)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15337,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-مدل-14001/",
+   "name": "MB acoustics MBA-14001",
+   "cats": [
+    "امپلی فایر ام بی آکوستیک (MBA)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15322,
+   "url": "https://lalehstore.com/ضبط-سونی-110/",
+   "name": "ضبط سونی 110",
+   "cats": [
+    "رادیو پخش سونی (Sony)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15261,
+   "url": "https://lalehstore.com/اندروید-باکس-تسکو-با-ماوس/",
+   "name": "اندروید باکس تسکو tab100 با ماوس بیسیم مدل پلاس",
+   "cats": [
+    "اندروید باکس",
+    "لوازم خانگی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15171,
+   "url": "https://lalehstore.com/ضبط-پایونیر-325/",
+   "name": "ضبط پایونیر 325 | pioneer MVH-S325BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15161,
+   "url": "https://lalehstore.com/باند-بیضی-مارشال-6908/",
+   "name": "Marshal ME-6908",
+   "cats": [
+    "بلندگو مارشال (Marshal)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15157,
+   "url": "https://lalehstore.com/باند-بیضی-مارشال-6910/",
+   "name": "Marshal ME-6910",
+   "cats": [
+    "بلندگو مارشال (Marshal)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15155,
+   "url": "https://lalehstore.com/خازن-ام-بی-آکوستیک-11000/",
+   "name": "MBacoustics MBA-11000",
+   "cats": [
+    "خازن ام بی آکوستیک(MBA)",
+    "خازن"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15153,
+   "url": "https://lalehstore.com/خازن-ام-بی-آکوستیک-9700/",
+   "name": "MBacoustics MBA-9700",
+   "cats": [
+    "خازن ام بی آکوستیک(MBA)",
+    "خازن"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15145,
+   "url": "https://lalehstore.com/خازن-ام-بی-آکوستیک-8700/",
+   "name": "MBacoustics MBA-8700",
+   "cats": [
+    "خازن ام بی آکوستیک(MBA)",
+    "خازن"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15143,
+   "url": "https://lalehstore.com/خازن-ام-بی-آکوستیک-8300/",
+   "name": "MBacoustics MBA-8300",
+   "cats": [
+    "خازن ام بی آکوستیک(MBA)",
+    "خازن"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15127,
+   "url": "https://lalehstore.com/خازن-ام-بی-آکوستیک-7700/",
+   "name": "MBacoustics MBA-7700",
+   "cats": [
+    "خازن ام بی آکوستیک(MBA)",
+    "خازن"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15078,
+   "url": "https://lalehstore.com/خازن-ام-بی-آکوستیک-4700/",
+   "name": "MBacoustics MBA-4700",
+   "cats": [
+    "خازن ام بی آکوستیک(MBA)",
+    "خازن"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15044,
+   "url": "https://lalehstore.com/ضبط-سونی-410/",
+   "name": "ضبط سونی 410 ا Sony DSX-A410BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش سونی (Sony)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15019,
+   "url": "https://lalehstore.com/ضبط-کنوود-630/",
+   "name": "Kenwood KDC-BT630U",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 15008,
+   "url": "https://lalehstore.com/ضبط-کنوود-320/",
+   "name": "Kenwood KDC-320UIM",
+   "cats": [
+    "رادیو پخش کنوود (Kenwood)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14999,
+   "url": "https://lalehstore.com/ضبط-جی-شیک-3329/",
+   "name": "G-SHAKE GS-3329",
+   "cats": [
+    "رادیو پخش جی شیک",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14994,
+   "url": "https://lalehstore.com/ساب-ووفر-کنوود-3016/",
+   "name": "kenwood KFC-PS3016W",
+   "cats": [
+    "ساب ووفر کنوود (Kenwood)",
+    "ساب ووفر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14943,
+   "url": "https://lalehstore.com/ضبط-پایونیر-125/",
+   "name": "ضبط پایونیر 125 ا Pioneer MVH-S125UI",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14853,
+   "url": "https://lalehstore.com/باند-بیضی-مارشال-6907/",
+   "name": "Marshal ME-6907",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو مارشال (Marshal)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14818,
+   "url": "https://lalehstore.com/باند-بیضی-مارشال-6905/",
+   "name": "Marshal ME-6905",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو مارشال (Marshal)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14813,
+   "url": "https://lalehstore.com/سوپر-تیوتر-پاوربیس-xpro-4h/",
+   "name": "سوپر تیوتر پاوربیس xpro-4h",
+   "cats": [
+    "سوپر تیوتر پاور بیس",
+    "تیوتر - سوپر تیوتر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14803,
+   "url": "https://lalehstore.com/سوپر-تیوتر-پاوربیس-l-3h/",
+   "name": "PowerBass L-3H",
+   "cats": [
+    "سوپر تیوتر پاور بیس",
+    "تیوتر - سوپر تیوتر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14785,
+   "url": "https://lalehstore.com/میدرنج-پاوربیس-xpro-10/",
+   "name": "Powerbass XPRO-10",
+   "cats": [
+    "میدرنج پاوربیس(powerbass)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14729,
+   "url": "https://lalehstore.com/اندروید-باکس-تسکو-مدل-tab-100-پلاس/",
+   "name": "اندروید باکس تسکو مدل پلاس tab100",
+   "cats": [
+    "اندروید باکس",
+    "لوازم خانگی"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14606,
+   "url": "https://lalehstore.com/باند-پایونیر-6980/",
+   "name": "باند پایونیر 6980",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14286,
+   "url": "https://lalehstore.com/باند-پایونیر-6970/",
+   "name": "باند پایونیر 6970",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14234,
+   "url": "https://lalehstore.com/باند-پایونیر-6960/",
+   "name": "باند پایونیر 6960",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14227,
+   "url": "https://lalehstore.com/باند-پایونیر-6951/",
+   "name": "باند پایونیر 6951",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14220,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-1676/",
+   "name": "باند گرد پایونیر 1676",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14208,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-مدل-ts-g1620f/",
+   "name": "باند گرد پایونیر مدل TS-G1620F",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14193,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-1610/",
+   "name": "باند گرد پایونیر 1610",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14169,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-1376/",
+   "name": "باند گرد پایونیر 1376",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14160,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-1320/",
+   "name": "بلندگو گرد پایونیر 1320 | Pioneer TS-G1320F",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14140,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-1310/",
+   "name": "Pioneer TS-G1310F",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14127,
+   "url": "https://lalehstore.com/باند-پایونیر-1010/",
+   "name": "باند پایونیر 1010",
+   "cats": [
+    "بلندگو پایونیر(pioneer)",
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14113,
+   "url": "https://lalehstore.com/آمپلی-فایر-پایونیر-8701/",
+   "name": "آمپلی فایر پایونیر مدل GM-D8701",
+   "cats": [
+    "آمپلی فایر پایونیر (Pioneer)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14075,
+   "url": "https://lalehstore.com/آمپلی-فایر-پایونیر-4704/",
+   "name": "Pioneer GM-A4704",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر پایونیر (Pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14060,
+   "url": "https://lalehstore.com/ساب-ووفر-پایونیر-300d4/",
+   "name": "ساب ووفر پایونیر مدل TS-300D4",
+   "cats": [
+    "ساب ووفر پایونیر (Pioneer)",
+    "ساب ووفر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14054,
+   "url": "https://lalehstore.com/ساب-ووفر-پایونیر-306-r/",
+   "name": "Pioneer TS-W306R",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر پایونیر (Pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14027,
+   "url": "https://lalehstore.com/ضبط-پایونیر-c10bt/",
+   "name": "Pioneer SPH-C10BT",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14017,
+   "url": "https://lalehstore.com/ضبط-پایونیر-4150-bt/",
+   "name": "Pioneer DEH-S4150BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 14002,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1153/",
+   "name": "Pioneer DEH-S1153UB",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13988,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1152/",
+   "name": "Pioneer DEH-S1152UB",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13984,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1150/",
+   "name": "رادیو پخش پایونیر مدل DEH-S1150UB",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13941,
+   "url": "https://lalehstore.com/ضبط-پایونیر-115/",
+   "name": "Pioneer MVH-S115UI",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13894,
+   "url": "https://lalehstore.com/آمپلی-فایر-کنوود-8106/",
+   "name": "Kenwood KAC-8106D",
+   "cats": [
+    "آمپلی فایر کنوود(Kenwood)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13891,
+   "url": "https://lalehstore.com/آمپلی-فایر-کنوود-917/",
+   "name": "Kenwood KAC-PS917D",
+   "cats": [
+    "آمپلی فایر کنوود(Kenwood)",
+    "آمپلی فایر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13887,
+   "url": "https://lalehstore.com/میدرنج-8-اینچ-وایب/",
+   "name": "Vibe BD Pro 8M",
+   "cats": [
+    "میدرنج وایب (Vibe)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13852,
+   "url": "https://lalehstore.com/dj-audio-dj-6940/",
+   "name": "dj audio DJ 6940",
+   "cats": [
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13810,
+   "url": "https://lalehstore.com/cadence-sow12-s4/",
+   "name": "cadence sow12-s4",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر آلفاسونیک (Alphasonik)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13808,
+   "url": "https://lalehstore.com/ma-audio-123xe/",
+   "name": "MA Audio 123XE",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر آلفاسونیک (Alphasonik)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13767,
+   "url": "https://lalehstore.com/ضبط-جی-وی-سی-771/",
+   "name": "JVC KD-R771BTM",
+   "cats": [
+    "رادیو پخش جی وی سی (JVC)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13759,
+   "url": "https://lalehstore.com/ساب-ووفر-کنوود-3010/",
+   "name": "kenwood KFC-W3010",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13730,
+   "url": "https://lalehstore.com/سوپر-تیوتر-وایب-bdpro-4t/",
+   "name": "سوپر تیوتر وایب 4T",
+   "cats": [
+    "تیوتر وایب (Vibe)",
+    "تیوتر - سوپر تیوتر"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13708,
+   "url": "https://lalehstore.com/cadence-tx-693/",
+   "name": "cadence tx-693",
+   "cats": [
+    "بلندگو خودرو"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13707,
+   "url": "https://lalehstore.com/alphasonik-psw412p/",
+   "name": "Alphasonik PSW412p",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر آلفاسونیک (Alphasonik)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13686,
+   "url": "https://lalehstore.com/ضبط-جی-وی-سی-141/",
+   "name": "ضبط جی وی سی 141 | JVC KD-X141M",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش جی وی سی (JVC)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13681,
+   "url": "https://lalehstore.com/هورن-تیوتر-ارت-کوییک-bt99/",
+   "name": "هورن تیوتر ارت کوییک BT99 ا Earthquake bt 99",
+   "cats": [
+    "تیوتر - سوپر تیوتر",
+    "تیوتر ارت کوییک (Earthquake)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13671,
+   "url": "https://lalehstore.com/ضبط-کنوود-105m/",
+   "name": "ضبط کنوود 105m ا kenwood KMM-105m",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13634,
+   "url": "https://lalehstore.com/ضبط-کنوود-530/",
+   "name": "ضبط کنوود 530 ا Kenwood KDC-BT530U",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13537,
+   "url": "https://lalehstore.com/ضبط-کنوود-204/",
+   "name": "Kenwood KMM-204",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13510,
+   "url": "https://lalehstore.com/ضبط-کنوود-105/",
+   "name": "رادیو پخش کنوود مدل 105",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13503,
+   "url": "https://lalehstore.com/ساب-ووفر-الفاسونیک-415p/",
+   "name": "Alphasonik PSW415p",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر آلفاسونیک (Alphasonik)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13482,
+   "url": "https://lalehstore.com/ساب-ووفر-الفاسونیک-12/",
+   "name": "Alphasonik PSW412e",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر آلفاسونیک (Alphasonik)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13389,
+   "url": "https://lalehstore.com/ضبط-کنوود-305-bt/",
+   "name": "ضبط کنوود 305 bt ا kenwood KMM-BT305",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13315,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-807/",
+   "name": "آمپلی فایر ام بی 807 | MB acoustics MBA-807",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13298,
+   "url": "https://lalehstore.com/باند-پایونیر-1020/",
+   "name": "باند پایونیر 1020 | Pioneer TS-G1020F",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13259,
+   "url": "https://lalehstore.com/باند-پایونیر-7150/",
+   "name": "باند پایونیر 7150 | Pioneer TS-7150F",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13249,
+   "url": "https://lalehstore.com/میدرنج-8-اینچ-اج/",
+   "name": "میدرنج 8 اینچ اج | ADGE edpro8m-e4",
+   "cats": [
+    "میدرنج-میدبیس",
+    "میدرنج اج(Edge)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13213,
+   "url": "https://lalehstore.com/آمپلی-فایر-بوستر-8740/",
+   "name": "آمپلی فایر بوستر 8740 | Booster BSA-8740",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر پریمیر-بوستر(Premier-Booster)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13211,
+   "url": "https://lalehstore.com/آمپلی-فایر-بوستر-8640/",
+   "name": "آمپلی فایر بوستر 8640 | Booster BSA-8640",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر پریمیر-بوستر(Premier-Booster)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 13145,
+   "url": "https://lalehstore.com/باند-پایونیر-6996/",
+   "name": "باند پایونیر 6996",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12995,
+   "url": "https://lalehstore.com/باند-کنوود-6976ex/",
+   "name": "باند کنوود 6976EX ا Kenwood KFC-S6976EX",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12984,
+   "url": "https://lalehstore.com/باند-کنوود-6966/",
+   "name": "باند کنوود 6966 | Kenwood KFC-S6966",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12974,
+   "url": "https://lalehstore.com/باند-کنوود-6934/",
+   "name": "باند کنوود 6934 | Kenwood KFC-6934a",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12967,
+   "url": "https://lalehstore.com/ضبط-کنوود-620/",
+   "name": "ضبط کنوود 620 | Kenwood KDC-BT620U",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12952,
+   "url": "https://lalehstore.com/ضبط-کنوود-220/",
+   "name": "ضبط کنوود 220 | Kenwood KDC-220UI",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12793,
+   "url": "https://lalehstore.com/ضبط-کنوود-x400/",
+   "name": "ضبط کنوود x400 ا Kenwood kdc-x400",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12755,
+   "url": "https://lalehstore.com/آمپلی-فایر-کنوود-1004/",
+   "name": "آمپلی فایر کنوود 1004 | Kenwood KAC HQR1004",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر کنوود(Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12721,
+   "url": "https://lalehstore.com/آمپلی-فایر-کنوود-704/",
+   "name": "آمپلی فایر کنوود 704 | Kenwood KAC-PS704EX",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر کنوود(Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12693,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-805/",
+   "name": "آمپلی فایر ام بی 805 | MB acoustics MBA-805",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12688,
+   "url": "https://lalehstore.com/تیوتر-پایونیر-s20c/",
+   "name": "تیوتر پایونیر s20c ا Pioneer TS-S20C",
+   "cats": [
+    "تیوتر - سوپر تیوتر",
+    "تیوتر پایونیر (Pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12575,
+   "url": "https://lalehstore.com/ردیاب-خودرو-لندر-ld-56/",
+   "name": "ردیاب خودرو لندر LD-56",
+   "cats": [
+    "ردیاب خودرو",
+    "ردیاب لندر ( lander )"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 12371,
+   "url": "https://lalehstore.com/ساب-ووفر-الفاسونیک-15/",
+   "name": "ساب ووفر الفاسونیک 15 | Alphasonik PSW415e",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر آلفاسونیک (Alphasonik)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11959,
+   "url": "https://lalehstore.com/آمپلی-فایر-بوستر-344/",
+   "name": "آمپلی فایر بوستر 344 | Booster BSA-344",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر پریمیر-بوستر(Premier-Booster)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11941,
+   "url": "https://lalehstore.com/آمپلی-فایر-ام-بی-4100/",
+   "name": "آمپلی فایر ام بی 4100 | MB acoustics MBA-4100",
+   "cats": [
+    "آمپلی فایر",
+    "امپلی فایر ام بی آکوستیک (MBA)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11938,
+   "url": "https://lalehstore.com/آمپلی-فایر-کنوود-702/",
+   "name": "آمپلی فایر کنوود 702 | Kenwood KAC-PS702EX",
+   "cats": [
+    "آمپلی فایر",
+    "آمپلی فایر کنوود(Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11933,
+   "url": "https://lalehstore.com/ضبط-کنوود-210/",
+   "name": "ضبط کنوود 210 | Kenwood KDC-210UI",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11924,
+   "url": "https://lalehstore.com/میدرنج-پایونیر-800pro/",
+   "name": "میدرنج پایونیر 800pro ا Pioneer TS-M800PRO",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)",
+    "میدبیس پایونیر (Pioneer)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11918,
+   "url": "https://lalehstore.com/میدرنج-پایونیر-650-pro/",
+   "name": "میدرنج پایونیر 650 pro ا Pioneer TS-M650PRO",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)",
+    "میدبیس پایونیر (Pioneer)",
+    "میدرنج-میدبیس"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11914,
+   "url": "https://lalehstore.com/ضبط-پایونیر-785/",
+   "name": "ضبط پایونیر 785 | Pioneer DVH-785AV",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11911,
+   "url": "https://lalehstore.com/باند-پایونیر-6976/",
+   "name": "باند پایونیر 6976 | Pioneer TS-A6976S",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11908,
+   "url": "https://lalehstore.com/باند-پایونیر-6966/",
+   "name": "باند پایونیر 6966 | pioneer-TS-A6966S",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11906,
+   "url": "https://lalehstore.com/باند-پایونیر-6965v3/",
+   "name": "باند پایونیر 6965v3 ا Pioneer TS-6965V3",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11887,
+   "url": "https://lalehstore.com/ضبط-کنوود-104/",
+   "name": "ضبط کنوود 104 | Kenwood KMM-104",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11877,
+   "url": "https://lalehstore.com/باند-گرد-پایونیر-1651/",
+   "name": "باند گرد پایونیر 1651 | Pioneer TS-R1651S",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11875,
+   "url": "https://lalehstore.com/باند-کنوود-718/",
+   "name": "باند کنوود 718 | Kenwood KFC-HQ718",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11872,
+   "url": "https://lalehstore.com/باند-کنوود-718ex/",
+   "name": "باند کنوود 718ex ا Kenwood KFC-HQ718EX",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11854,
+   "url": "https://lalehstore.com/ساب-باکس-پایونیر-3002/",
+   "name": "ساب باکس پایونیر 3002 | pioneer ts-swx3002",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر پایونیر (Pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11849,
+   "url": "https://lalehstore.com/باند-کنوود-710ex/",
+   "name": "باند کنوود 710EX ا Kenwood KFC-HQR 710EX",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو کنوود (Kenwood)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11845,
+   "url": "https://lalehstore.com/ساب-ووفر-پایونیر-300s4/",
+   "name": "ساب ووفر پایونیر 300s4 ا Pioneer TS-300S4",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر پایونیر (Pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11841,
+   "url": "https://lalehstore.com/ساب-ووفر-پایونیر-1200/",
+   "name": "ساب ووفر پایونیر 1200 | Pioneer TS-W1200PRO",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر پایونیر (Pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11835,
+   "url": "https://lalehstore.com/ساب-ووفر-پایونیر-12d2/",
+   "name": "ساب ووفر پایونیر 12D2 ا Pioneer TS-D12D2",
+   "cats": [
+    "ساب ووفر",
+    "ساب ووفر پایونیر (Pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11829,
+   "url": "https://lalehstore.com/باند-پایونیر-6930/",
+   "name": "باند پایونیر 6930 | Pioneer TS-G6930F",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11823,
+   "url": "https://lalehstore.com/باند-پایونیر-d69f/",
+   "name": "باند پایونیر D69F ا Pioneer TS-D69F",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11811,
+   "url": "https://lalehstore.com/باند-پایونیر-6975-v3/",
+   "name": "باند پایونیر 6975 v3 ا Pioneer TS-6975V3",
+   "cats": [
+    "بلندگو خودرو",
+    "بلندگو پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11801,
+   "url": "https://lalehstore.com/ضبط-پایونیر-9650sd/",
+   "name": "ضبط پایونیر 9650sd  ا Pioneer DEH-X9650SD",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11786,
+   "url": "https://lalehstore.com/ضبط-پایونیر-9450/",
+   "name": "ضبط پایونیر 9450 | Pioneer DEH-9450UB",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11776,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1050/",
+   "name": "ضبط پایونیر 1050 | pioneer DEH-S1050UB",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11773,
+   "url": "https://lalehstore.com/ضبط-پایونیر-7850bt/",
+   "name": "ضبط پایونیر 7850BT ا Pioneer DEH-X7850BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11770,
+   "url": "https://lalehstore.com/ضبط-پایونیر-1052/",
+   "name": "ضبط پایونیر 1052 ا Pioneer DEH-S1052UB",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11749,
+   "url": "https://lalehstore.com/ضبط-پایونیر-4050bt/",
+   "name": "ضبط پایونیر 4050bt ا Pioneer DEH-S4050BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11707,
+   "url": "https://lalehstore.com/ضبط-پایونیر-105/",
+   "name": "ضبط پایونیر 105 |Pioneer MVH-S105UI",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11686,
+   "url": "https://lalehstore.com/ضبط-پایونیر-305/",
+   "name": "ضبط پایونیر 305 | pioneer MVH-S305BT",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11661,
+   "url": "https://lalehstore.com/ضبط-پایونیر-5050bt/",
+   "name": "ضبط پایونیر 5050BT ا pioneer DEH-S5050BT",
+   "cats": [
+    "رادیو پخش پایونیر(pioneer)",
+    "رادیو پخش"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  },
+  {
+   "id": 11656,
+   "url": "https://lalehstore.com/ضبط-پایونیر-7050/",
+   "name": "ضبط پایونیر 7050 |pioneer AVH-7050BT",
+   "cats": [
+    "رادیو پخش",
+    "رادیو پخش پایونیر(pioneer)"
+   ],
+   "imp60": 0,
+   "clk60": 0,
+   "bucket": "noindex-candidate",
+   "status": "todo"
+  }
+ ]
+}

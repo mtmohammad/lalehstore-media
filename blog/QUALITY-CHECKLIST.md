@@ -83,7 +83,7 @@ this article fills honestly. Gaps a shop can fill without faking anything:
   - Keep the WordPress author as it is. Never invent a named author, credentials, "our technicians", or a review step
     that did not happen.
   - Banned experience claims: «ما تست کردیم»، «در تجربه ما»، «نصب های ما»، «مشتریان ما می گویند»،
-    «پرفروش ترین»، «محبوب ترین»، «نمایندگی رسمی». Each one is an invented claim (P0).
+    «پرفروش ترین»، «محبوب ترین»، «نمایندگی رسمی». Each one is an invented claim (P0). Exception (Mohammad, 1405-08-25): «نمایندگی جی بی ال/اینفینیتی/کنوود/کاروزریا» is a true statement and allowed; «رسمی» and other brands are still P0.
   - Dates: WordPress shows the publish and modified dates. Do not type a date with ۱۴۰۵ into the body (README year
     rule). Change content dates or wording only when the facts really change. A fake freshness update is a Google
     warning sign.
