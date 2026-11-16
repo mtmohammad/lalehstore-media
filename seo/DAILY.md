@@ -3,7 +3,7 @@
 Owner decision (Mohammad, 1405-08-25): apply changes directly on the live site, every day, and report.
 Plan doc: https://claude.ai/artifact/KDhraNvUJExkb63JmJgAn6 (section «برنامه برندها»).
 Queue: `seo/queue.json` (categories, in-stock brand products, out-of-stock products). Log: `seo/log/<YYYY-MM-DD>.md`.
-Backups before every change: `seo/backup/<YYYY-MM-DD>/<type>-<id>.json` (old description, short description,
+Rollback for descriptions = remove the ls-seo block (the rest is never touched). Backups before every change: `seo/backup/<YYYY-MM-DD>/<type>-<id>.json` (old description, short description,
 Rank Math title/description/robots). The repo is public: never commit nonces, cookies or credentials.
 
 ## Facts Mohammad gave (binding)
@@ -76,3 +76,6 @@ Never delete or redirect a product. Never change stock status, price or the prod
 - Every Saturday also: compare last 7 days vs previous 7 days for the touched pages (GSC) in the log.
 - Notify Mohammad only with a short Persian summary (counts + anything that needs him); silence is not allowed
   when WordPress was logged out.
+
+## Drafts (checked 2026-11-16)
+Old out-of-stock drafts already 301 to successor products: never publish them. New drafts are Mohammad's; publish only if he asks per product.

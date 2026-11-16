@@ -7,7 +7,7 @@
    "name": "بلندگو کاروزریا (Carozeria)",
    "brand": "carozeria",
    "type": "speaker",
-   "status": "todo"
+   "status": "done 2026-11-16"
   },
   {
    "id": 3118,
@@ -96,28 +96,28 @@
    "url": "https://lalehstore.com/jbl-a1500hi/",
    "name": "ساب جی بی ال A1500HI سایز 12 اینچ",
    "imp60": 103,
-   "status": "todo"
+   "status": "done 2026-11-16"
   },
   {
    "id": 56420,
    "url": "https://lalehstore.com/jbl-stage-122/",
    "name": "ساب جی بی ال Stage 122 سایز 12 اینچ",
    "imp60": 89,
-   "status": "todo"
+   "status": "done 2026-11-16"
   },
   {
    "id": 56611,
    "url": "https://lalehstore.com/infinity-reference-123wsl/",
    "name": "ساب اینفینیتی Reference 123WSL سایز 12 اینچ کم عمق",
    "imp60": 82,
-   "status": "todo"
+   "status": "done 2026-11-16"
   },
   {
    "id": 56612,
    "url": "https://lalehstore.com/jbl-gt-x1500t/",
    "name": "ساب باکس جی بی ال GT-X1500THI لوله ای 12 اینچ",
    "imp60": 81,
-   "status": "todo"
+   "status": "done 2026-11-16"
   },
   {
    "id": 57016,
@@ -384,7 +384,7 @@
    "imp60": 5121,
    "clk60": 117,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 11782,
@@ -397,7 +397,7 @@
    "imp60": 3549,
    "clk60": 322,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 11765,
@@ -410,7 +410,7 @@
    "imp60": 3301,
    "clk60": 160,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 13365,
@@ -423,7 +423,7 @@
    "imp60": 2766,
    "clk60": 304,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 20419,
@@ -436,7 +436,7 @@
    "imp60": 1931,
    "clk60": 50,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 19476,
@@ -449,7 +449,7 @@
    "imp60": 1467,
    "clk60": 33,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 11563,
@@ -462,7 +462,7 @@
    "imp60": 1202,
    "clk60": 43,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 13158,
@@ -475,7 +475,7 @@
    "imp60": 1052,
    "clk60": 88,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 11955,
@@ -488,7 +488,7 @@
    "imp60": 862,
    "clk60": 100,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 11670,
@@ -501,7 +501,7 @@
    "imp60": 860,
    "clk60": 33,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 14707,
@@ -514,7 +514,7 @@
    "imp60": 775,
    "clk60": 55,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 11793,
@@ -527,7 +527,7 @@
    "imp60": 735,
    "clk60": 38,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 11796,
@@ -540,7 +540,7 @@
    "imp60": 557,
    "clk60": 22,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 48260,
@@ -553,7 +553,7 @@
    "imp60": 545,
    "clk60": 15,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 52203,
@@ -565,7 +565,7 @@
    "imp60": 432,
    "clk60": 12,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep, no in-stock replacement)"
   },
   {
    "id": 15168,
@@ -578,7 +578,7 @@
    "imp60": 268,
    "clk60": 24,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 23738,
@@ -591,7 +591,7 @@
    "imp60": 189,
    "clk60": 1,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 43452,
@@ -603,7 +603,7 @@
    "imp60": 160,
    "clk60": 6,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep, no in-stock replacement)"
   },
   {
    "id": 47970,
@@ -615,7 +615,7 @@
    "imp60": 146,
    "clk60": 5,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep, no in-stock replacement)"
   },
   {
    "id": 21724,
@@ -628,7 +628,7 @@
    "imp60": 143,
    "clk60": 0,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 46233,
@@ -641,7 +641,7 @@
    "imp60": 115,
    "clk60": 1,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 16840,
@@ -654,7 +654,7 @@
    "imp60": 99,
    "clk60": 4,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 43483,
@@ -667,7 +667,7 @@
    "imp60": 98,
    "clk60": 4,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 56487,
@@ -680,7 +680,7 @@
    "imp60": 93,
    "clk60": 5,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 29530,
@@ -693,7 +693,7 @@
    "imp60": 89,
    "clk60": 8,
    "bucket": "keep",
-   "status": "todo"
+   "status": "done 2026-11-16 (keep + replacement block)"
   },
   {
    "id": 55669,
@@ -7803,5 +7803,6 @@
    "bucket": "noindex-candidate",
    "status": "todo"
   }
- ]
+ ],
+ "drafts_note": "2026-11-16: 31 old out-of-stock drafts already 301-redirect (one 410) to successors -> left as drafts on purpose. 5 new in-stock drafts (57403-57412, created 15-16 Nov) left for Mohammad's review; 57411 has no image."
 }
