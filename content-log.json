@@ -593,6 +593,80 @@
    "folder": "posts/2026-11-16-sub12-1270-gx1200",
    "video": "sub12-reel.mp4",
    "metricool_id": 429676291
+  },
+  {
+   "date": "2026-11-19",
+   "slot": "evening",
+   "type": "reel",
+   "category": "guide",
+   "topic": "آمپ دو کانال پایونیر GM-E7002؛ کاربرد استریو برای یک جفت باند و بریج برای یک ساب ووفر",
+   "hook": "دو خروجی، یک ساب؛ چطوری وصل میشه؟",
+   "hook_type": "curiosity-gap",
+   "products": [
+    "Pioneer GM-E7002"
+   ],
+   "sources": [
+    "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/"
+   ],
+   "style": "studio",
+   "music": "suggested: Synthwave Drive Instrumental",
+   "folder": "posts/2026-11-19-amp-bridge",
+   "video": "amp-reel.mp4",
+   "manual": true,
+   "time": "20:30",
+   "status": "prepared for manual delivery"
+  },
+  {
+   "date": "2026-11-21",
+   "slot": "evening",
+   "manual": true,
+   "type": "reel",
+   "category": "car audio",
+   "topic": "تنظیم سطح تیوتر بر اساس محل نصب",
+   "products": [
+    "JBL Club 64CSQ"
+   ],
+   "hook": "تیوترت دوره؟ سه دسی بل دستته",
+   "hook_type": "result-first",
+   "sources": [
+    "https://lalehstore.com/jbl-club-64csq/"
+   ],
+   "style": "studio",
+   "music": "suggested: House Instrumental",
+   "folder": "posts/2026-11-21-jbl",
+   "video": "reel.mp4",
+   "goal": "sales",
+   "cta": "مدل آمپت رو دایرکت کن",
+   "stock_checked": "2026-11-21T18:23:16.337159+03:30",
+   "stock_evidence": "stock in-stock + add to cart",
+   "status": "prepared for manual delivery"
+  },
+  {
+   "date": "2026-11-22",
+   "slot": "evening",
+   "type": "reel",
+   "category": "car audio",
+   "products": [
+    "Kenwood KDC-X5200BT"
+   ],
+   "topic": "انتخاب پخش برای افزودن آمپ",
+   "hook": "بعداً آمپ می‌بندی؟ خروجی پخش رو بشمار",
+   "hook_type": "checklist",
+   "sources": [
+    "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/"
+   ],
+   "stock_checked": "2026-11-22T21:26:07+03:30",
+   "stock_evidence": "in stock and add-to-cart",
+   "style": "studio",
+   "goal": "sales",
+   "cta": "مدل آمپت رو دایرکت کن",
+   "folder": "posts/2026-11-22-kenwood",
+   "video": "publish.mp4",
+   "music": "Boundless — Eveningland",
+   "time": "21:30",
+   "metricool_id": 437797177,
+   "metricool_uuid": "-8386716506964735572",
+   "status": "scheduled"
   }
  ],
  "stories": [
@@ -719,6 +793,30 @@
    "folder": "stories/2026-11-16",
    "style": "night",
    "file": "story.jpg"
+  },
+  {
+   "date": "2026-11-19",
+   "product": "Pioneer GM-E7002",
+   "url": "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/",
+   "folder": "stories/2026-11-19",
+   "style": "poster",
+   "file": "story.jpg"
+  },
+  {
+   "date": "2026-11-21",
+   "product": "JBL Club 64CSQ",
+   "url": "https://lalehstore.com/jbl-club-64csq/",
+   "tracked_url": "https://lalehstore.com/jbl-club-64csq/?utm_source=instagram&utm_medium=organic_social&utm_campaign=laleh_reels&utm_content=20261121_jbl_club_64csq",
+   "folder": "stories/2026-11-21",
+   "style": "night"
+  },
+  {
+   "date": "2026-11-22",
+   "product": "Kenwood KDC-X5200BT",
+   "url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/",
+   "tracked_url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/?utm_source=instagram&utm_medium=organic_social&utm_campaign=laleh_reels&utm_content=20261122_kenwood5200",
+   "folder": "stories/2026-11-22",
+   "style": "poster"
   }
  ],
  "articles_used": [
@@ -816,12 +914,6 @@
    ]
   },
   {
-   "idea": "آمپ 2 کانال پایونیر 7002 برای یک ساب یا یک جفت باند: بریج یا استریو؟ (فقط از صفحه محصول)",
-   "products": [
-    "Pioneer GM-E7002"
-   ]
-  },
-  {
    "idea": "گین آمپ ولوم نیست: تنظیم درست گین و فیلتر HPF/LPF (ریل آموزشی با آمپ موجود)"
   },
   {
@@ -847,6 +939,9 @@
   },
   {
    "idea": "باکس بسته یا دریچه دار؟ ساب 12 اینچ توی کدوم باکس (از متن صفحات GX1200 و Primus 1270؛ هوک obscured/label reveal)"
+  },
+  {
+   "idea": "راهنمای انتخاب شارژر بر اساس پورت گوشی؛ فقط محصولات موجود و تکرارنشده"
   }
  ],
  "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
@@ -953,6 +1048,17 @@
    "date": "2026-11-16",
    "finding": "11-15 likely incomplete (followers missing; reach 275, views 361). Metricool revised 11-14 to reach 2363 (+202% vs 7-day avg 782 of 11-07..11-13), 58 engaged, +5 -6 (11384); its views 361 equals 11-15 — likely wrong. 11-13 revised to 1194/1545/32. Reels: 11-12 «2 کانال یا 4 کانال» 2363 reach/28 saves/8 shares VR 59.6%; 11-14 manual 650C vs 62CF (question hook) 1715 reach/14 saves VR 61.2% — best view rate; 11-13 8400 vs 7004 1641 reach/22 saves; 11-15 6x9 contrarian 205 reach/3 saves VR 58.7% (<1 day). Weak: 11-10 slim sub 159 reach VR 39.2%, 11-09 party speaker 173. Stories 11-14/11-15: reach 0 (no data yet).",
    "apply": "Keep car-audio comparisons of two known brands with closing rule frame + save CTA; today sub 12 Primus 1270 vs JBL GX1200 with a pre-emptive hook naming the viewer's amp («ساب 12 اینچ می خری؟ اول آمپت رو ببین»). Tip: pin a comment «آمپت چند وات RMS هست؟» and answer every comment in the first hour."
+  },
+  {
+   "date": "2026-11-19",
+   "finding": "11-18: reach45/views74/engaged1, followers missing and reach repeats 11-17: likely incomplete. 11-11..17 average reach1237/views1560. Best reel in range: 2 vs4 channel amp, reach2379/views2711/saves28/shares8. BOYALINK3, BOYALINK2 and MINI14 pages currently out of stock.",
+   "apply": "Use in-stock planned GM-E7002 stereo vs bridge guide, curiosity-gap hook and closing save rule. Ask poll stereo or bridge and re-share after20:30."
+  },
+  {
+   "date": "2026-11-21",
+   "weekly": true,
+   "finding": "آمپ پایونیر ۲۶۶۲ بازدید؛ داده فروش منتسب دریافت نشد.",
+   "apply": "معرفی کاربردی با یک سؤال خرید درباره مدل آمپ"
   }
  ],
  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -1165,6 +1271,26 @@
    "followers_lost": null,
    "followers": null,
    "note": "Likely incomplete: followers missing"
+  },
+  {
+   "date": "2026-11-17",
+   "account_reach": 45,
+   "views": 597,
+   "accounts_engaged": 10,
+   "followers_gained": 3,
+   "followers_lost": 2,
+   "followers": 11384,
+   "note": "Revised 2026-11-19"
+  },
+  {
+   "date": "2026-11-18",
+   "account_reach": 45,
+   "views": 74,
+   "accounts_engaged": 1,
+   "followers_gained": null,
+   "followers_lost": null,
+   "followers": null,
+   "note": "Likely incomplete"
   }
  ],
  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
@@ -1351,7 +1477,8 @@
   "https://www.influencers-time.com/spec-comparison-reels-the-split-screen-brief-driving-convers/ (2026-11-13: split-screen spec comparison)",
   "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-14: question, pattern-then-break, cold open)",
   "https://www.opus.pro/blog/instagram-reels-hook-formulas",
-  "https://blitzcutai.com/blog/visual-hooks-instagram-reels"
+  "https://blitzcutai.com/blog/visual-hooks-instagram-reels",
+  "https://easyreels.io/blog/reel-hooks-first-three-seconds"
  ],
  "midday_rule": "2026-11-11 Mohammad: «دیگه پست های اسلایدی نده برای صبح فقط همون ریل و استوری کافیه» — NO midday carousel any more (part E cancelled). Daily output = evening reel (auto or manual) + story only.",
  "story_rule": "2026-11-13 Mohammad: daily story = product INFOGRAPHIC made with tools/infostory.py (1080x1920, Laleh colours, extra graphic elements). Only two styles, alternate day by day: 'callout' (BOYA Magic-05 look: product centre, 6 spec cards with leader lines) and 'hud' (Pioneer GM-E7002 look: title, HUD row [main value]+pulse+gauge, 5-bar hologram chart with last bar highlighted, product on grid floor with rings, 3-4 chips). Do not use story.py any more. Log 'style' on each story entry. | 2026-11-15 Mohammad: «استوری مرتبط با ریل امروز باشه برای هر روز مرتبط بده» — every daily story is about one product FROM TODAY'S EVENING REEL (tag «از ریل امشب»); the 21-day repeat and category-rotation rules no longer apply to stories. | 2026-11-15 Mohammad found the callout/hud infographics not creative enough («طرح خلاقانه تری نداری اصلا خوب نیست»); shown 3 new concepts from tools/creative.py (poster, versus, night) and chose «۲ و ۳ یکی درمیون»: from now on every daily story is rendered with tools/creative.py, alternating 'poster' and 'night' (samples: stories/2026-11-15/creative/poster.json, night.json). infostory.py callout/hud is no longer used. | 2026-11-15 Mohammad objected to the «از ریل امشب» pill on the story: no tag on stories (leave 'tag' empty); the poster now always shows brand + model under the headline."
