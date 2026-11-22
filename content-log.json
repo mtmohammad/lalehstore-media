@@ -1,1485 +1,1511 @@
 {
- "_note": "History of everything published or scheduled on Instagram @lalehstoree. The daily job MUST read this before choosing content and MUST append to it after scheduling. Never repeat a topic/angle; a product may reappear only after 30 days and only with a new angle.",
- "feed": [
-  {
-   "date": "2026-10-25",
-   "type": "carousel",
-   "topic": "محصولات جدید سیستم صوتی خودرو",
-   "products": [
-    "JBL Club 64C",
-    "JBL GX9638",
-    "Infinity Reference 6530CX",
-    "JBL Stage 122"
-   ],
-   "style": "light"
-  },
-  {
-   "date": "2026-10-26",
-   "type": "reel",
-   "topic": "راهنمای سیستم صوتی ماشین: چه سیستمی ببندیم؟",
-   "products": [
-    "JBL Club 64C",
-    "JBL GX9638",
-    "JBL Concert A704",
-    "Infinity Alpha 2804A",
-    "JBL Stage 102",
-    "JBL Stage 122"
-   ],
-   "style": "light"
-  },
-  {
-   "date": "2026-10-27",
-   "type": "carousel",
-   "topic": "میکروفون های یقه ای بویا",
-   "products": [
-    "BOYA Magic-05",
-    "BOYA Mini 2-02",
-    "BOYA Omic U",
-    "BOYA BY-V20"
-   ],
-   "style": "light"
-  },
-  {
-   "date": "2026-10-28",
-   "type": "reel",
-   "topic": "محافظ برق رو اشتباه نخر! (کدوم محافظ برای کدوم وسیله)",
-   "products": [
-    "محافظ یخچال 2 خانه پارت الکتریک",
-    "محافظ کولر گازی 16 آمپر",
-    "محافظ پکیج 10 آمپر",
-    "محافظ 4 خانه کامپیوتر"
-   ],
-   "style": "collage",
-   "folder": "posts/2026-10-28-power"
-  },
-  {
-   "date": "2026-10-30",
-   "type": "post-video",
-   "topic": "مقاله: Aura Studio 5 یا Aura Studio 4",
-   "products": [
-    "Harman Kardon Aura Studio 5"
-   ],
-   "article": "https://lalehstore.com/aura-studio-5-vs-4/",
-   "style": "cinema",
-   "folder": "posts/sample-cinema",
-   "music": "Lofi Sunset — Neko Fuzz",
-   "note": "replaced stop-motion version with cinema.py version on 2026-10-29"
-  },
-  {
-   "date": "2026-10-31",
-   "type": "reel",
-   "manual": true,
-   "topic": "باند بیضی 6×9: جی بی ال یا کاروزریا؟ (آمپ داری یا نه)",
-   "products": [
-    "JBL Stage3 9637",
-    "Carozzeria CRX-6970"
-   ],
-   "style": "studio",
-   "music": "suggested in app: house/drive instrumental",
-   "folder": "posts/2026-10-31-oval",
-   "video": "oval-reel.mp4",
-   "note": "replaced the Zenon/Kenwood reel at Mohammad's request"
-  },
-  {
-   "date": "2026-11-01",
-   "type": "post-video",
-   "topic": "کدوم مودم برای خونه تو؟ ADSL یا VDSL",
-   "products": [
-    "TP-Link TD-W8961N",
-    "D-Link DSL-124",
-    "TP-Link TD-W9960"
-   ],
-   "style": "studio",
-   "folder": "posts/2026-10-29-modem",
-   "note": "moved from 2026-10-29 (Thursday is not a post day)",
-   "music": "Flow State — Lightbox Music",
-   "video": "modem-v3.mp4"
-  },
-  {
-   "date": "2026-11-02",
-   "type": "reel",
-   "topic": "برق رفت؟ چراغ شارژی اشتباه نخر (کدوم چراغ برای کجا: داخل خونه / حیاط / قطعی طولانی و سفر)",
-   "products": [
-    "Porodo PD-LSMLJTFL",
-    "Porodo PD-LSSLRLMP",
-    "KEYANG KY-200W"
-   ],
-   "style": "studio",
-   "music": "Power On (Instrumental) — Giulio Cercato",
-   "folder": "posts/2026-11-02-outage",
-   "video": "outage-reel.mp4",
-   "metricool_id": 413631860
-  },
-  {
-   "date": "2026-11-02",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "news",
-   "topic": "خبر تکنولوژی: سامسونگ Galaxy Buds On، اولین هندزفری گیره ای (Open-Ear)",
-   "products": [],
-   "sources": [
-    "https://audioxpress.com/news/samsung-expands-galaxy-buds-family-with-first-open-ear-clip-design"
-   ],
-   "style": "studio",
-   "folder": "posts/2026-11-02-news-buds-on",
-   "video": "news-reel.mp4",
-   "time": "18:00 (today only; 13:00 had passed when the slot was created)",
-   "slides": "slides/slide_01..05.jpg",
-   "note": "first made as news-reel.mp4, replaced by an image carousel (Mohammad 2026-11-02: news/education = image carousels, not reels); news posts dropped afterwards at Mohammad's request (education only)"
-  },
-  {
-   "date": "2026-11-02",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "education",
-   "topic": "آموزش: عدد IP روی گجت ها یعنی چی؟ (IP44 و IP66)",
-   "products": [
-    "KEYANG KY-200W (photo)",
-    "Porodo PD-LSMLJTFL (photo)"
-   ],
-   "sources": [
-    "IEC 60529"
-   ],
-   "style": "slides",
-   "folder": "posts/2026-11-02-edu-ip",
-   "slides": "slides/slide_01..05.jpg",
-   "note": "sample of the education style; Mohammad posts it when he likes (e.g. 2026-11-03 13:00 next to that day's news)"
-  },
-  {
-   "date": "2026-11-03",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "education",
-   "topic": "آموزش: وای فای ضعیفه؟ جای مودم رو عوض کن (وسط خونه، ارتفاع، آنتن عمودی/30 درجه، دور از مایکروویو و کمد)",
-   "products": [
-    "TP-Link TD-W9960 (photo)",
-    "TP-Link TD-W8961N (photo)"
-   ],
-   "sources": [
-    "https://www.tp-link.com/support/faq/455/"
-   ],
-   "style": "slides",
-   "folder": "posts/2026-11-03-edu-router",
-   "slides": "slides/slide_01..05.jpg",
-   "time": "13:00"
-  },
-  {
-   "date": "2026-11-03",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "باند ماشین رو اشتباه نخر: آمپ داری یا نه؟ (بدون آمپ: حساسیت بالا / با آمپ: RMS بالا)",
-   "products": [
-    "JBL Club 6520",
-    "Kenwood KFC-PS1797"
-   ],
-   "style": "studio",
-   "music": "Roadtrip (Instrumental) — Sugartapes",
-   "folder": "posts/2026-11-03-amp",
-   "video": "amp-reel.mp4",
-   "metricool_id": 414919556
-  },
-  {
-   "date": "2026-11-04",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "education",
-   "topic": "آموزش: توان باند RMS یا حداکثر توان؟ (RMS پیوسته، Peak لحظه ای، مثال JBL Club 6520 50W/150W، آمپ برابر یا کمی بیشتر از RMS)",
-   "products": [
-    "JBL Club 6520 (photo)"
-   ],
-   "sources": [
-    "https://orioncaraudio.com/blogs/car-audio/rms-power-explained-the-complete-car-audio-power-guide",
-    "https://lalehstore.com/jbl-club-6520/"
-   ],
-   "style": "slides",
-   "folder": "posts/2026-11-04-edu-rms",
-   "slides": "slides/slide_01..06.jpg",
-   "time": "13:00 (sent 13:07)"
-  },
-  {
-   "date": "2026-11-04",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "میکروفون یقه ای اشتباه نخر: تک نفره یا دو نفره؟ (کدوم بویا برای کدوم ویدیو)",
-   "products": [
-    "BOYA BY-V10 V2.0",
-    "BOYA Mini 2-01"
-   ],
-   "style": "studio",
-   "music": "Mouse In A Kitchen (Instrumental) — Company Money",
-   "folder": "posts/2026-11-04-mic",
-   "video": "mic-reel.mp4",
-   "metricool_id": 416271686
-  },
-  {
-   "date": "2026-11-05",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "education",
-   "topic": "آموزش: پاوربانک 10000mAh واقعا چند بار گوشی رو شارژ می کنه؟ (mAh انرژی نیست، Wh = mAh×3.7/1000، تلفات تبدیل و شارژ، حدود 1.4 بار برای گوشی 18.5Wh)",
-   "products": [],
-   "sources": [
-    "https://service.anker.com/article-description/Why-is-the-Rated-Capacity-of-Power-Banks-Lower-Than-Expected"
-   ],
-   "style": "slides",
-   "folder": "posts/2026-11-05-edu-powerbank",
-   "slides": [
-    "slide_01.jpg",
-    "slide_02.jpg",
-    "slide_03.jpg",
-    "slide_04.jpg",
-    "slide_05.jpg",
-    "slide_06.jpg"
-   ],
-   "time": "13:00"
-  },
-  {
-   "date": "2026-11-05",
-   "slot": "evening",
-   "type": "reel",
-   "manual": true,
-   "category": "product",
-   "topic": "آمپ ماشین رو اشتباه نخر: 2 کانال یا 4 کانال؟ (فقط جلو = 802، سیستم کامل با ساب = 804)",
-   "products": [
-    "Kenwood KAC-PS802EX",
-    "Kenwood KAC-PS804EX"
-   ],
-   "music": "suggested: Drive Instrumental",
-   "folder": "posts/2026-11-05-amp24",
-   "video": "amp24-reel.mp4",
-   "style": "studio",
-   "time": "20:30"
-  },
-  {
-   "date": "2026-11-06",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "education",
-   "topic": "آموزش: صدای ویدیوی گوشی با میکروفون یقه ای (روی سینه 20-30cm از دهان، یقه بدون درز کنارتر، خش خش لباس و حلقه سیم، بادگیر خزدار و نصب برعکس، Omni و محیط ساکت)",
-   "products": [
-    "BOYA Mini 2-01 (photo)"
-   ],
-   "sources": [
-    "https://de.rode.com/blog/all/How-To-Use-Lavalier-Mic",
-    "https://rode.com/blog/all/lavalier-mounting-best-practices"
-   ],
-   "style": "slides",
-   "folder": "posts/2026-11-06-edu-lavmic",
-   "slides": "slides/slide_01..06.jpg",
-   "time": "13:00"
-  },
-  {
-   "date": "2026-11-06",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "پخش ماشین رو اشتباه نخر: ساده یا مانیتوردار؟ (فقط صدا و تماس = 720 / نقشه، کارپلی و دوربین = Z7250؛ هر دو تک دین)",
-   "products": [
-    "Pioneer DEH-S720DAB",
-    "Pioneer AVH-Z7250BT"
-   ],
-   "style": "studio",
-   "music": "Late Night Drive (Loop) — Marshall Rogalski",
-   "folder": "posts/2026-11-06-headunit",
-   "video": "headunit-reel.mp4",
-   "metricool_id": 418606379,
-   "time": "20:30"
-  },
-  {
-   "date": "2026-11-07",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "education",
-   "topic": "آموزش: چرا هر کابلی فست شارژ نمی کنه؟ (سرعت = شارژر + گوشی + کابل، USB-A به C حداکثر 15W بدون PD، C به C معمولی 60W/3A، 100W و 240W با 5A و E-marker، کابل بلند کمی کندتر، گواهی USB-IF)",
-   "products": [],
-   "sources": [
-    "https://www.belkin.com/company/blog/usb-cables-ultimate-guide/"
-   ],
-   "style": "slides",
-   "folder": "posts/2026-11-07-edu-cable",
-   "slides": [
-    "slide_01.jpg",
-    "slide_02.jpg",
-    "slide_03.jpg",
-    "slide_04.jpg",
-    "slide_05.jpg",
-    "slide_06.jpg"
-   ],
-   "time": "13:00",
-   "hook": "چرا هر کابلی فست شارژ نمی کنه؟",
-   "hook_type": "question"
-  },
-  {
-   "date": "2026-11-07",
-   "slot": "evening",
-   "type": "reel",
-   "manual": true,
-   "category": "product",
-   "topic": "جای باند ماشینت چند سانته؟ 13 یا 16 (1366 برای جای 13 سانت، عمق 43.7mm / 1666 برای جای 16 سانت، بیس بیشتر)",
-   "products": [
-    "Kenwood KFC-S1366",
-    "Kenwood KFC-S1666"
-   ],
-   "style": "studio",
-   "music": "suggested: Upbeat Drive (instrumental)",
-   "folder": "posts/2026-11-07-speaker-size",
-   "video": "speaker-size-reel.mp4",
-   "cover": "speaker-size-reel-cover.jpg",
-   "time": "20:30",
-   "hook": "جای باند ماشینت چند سانته؟ 13 یا 16؟",
-   "hook_type": "question + time-compressed"
-  },
-  {
-   "date": "2026-11-08",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "education",
-   "topic": "آموزش: فرق باند 2Way و 3Way (ووفر/تیوتر/میدرنج، کراس اوور، تعداد راه ملاک کیفیت نیست)",
-   "hook": "همه میگن 3Way بهتره؛ ولی همیشه نه!",
-   "hook_type": "contrarian",
-   "products": [
-    "Carozzeria CRX-616 (photo)"
-   ],
-   "sources": [
-    "https://ds18.com/pages/coaxials-and-components",
-    "https://www.ooberpad.com/blogs/audio-video-tips/a-customer-asked-us-what-is-the-difference-between-a-2-way-and-3-way-speaker-and-we-said"
-   ],
-   "style": "slides",
-   "folder": "posts/2026-11-08-edu-2way3way",
-   "slides": 6,
-   "time": "13:00"
-  },
-  {
-   "date": "2026-11-08",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "ساب زیر صندلی یا باکس صندوق؟ (بدون آمپ و صندوق لازم = Nakamichi NBF8.1A / آمپ داری و بیس قوی = JBL GT-X1500THI)",
-   "hook": "برای بیس لازم نیست صندوق رو بدی",
-   "hook_type": "simplify",
-   "products": [
-    "Nakamichi NBF8.1A",
-    "JBL GT-X1500THI"
-   ],
-   "style": "studio",
-   "music": "Walk (Instrumental) — Tony Dark Eyes",
-   "folder": "posts/2026-11-08-sub-seat-box",
-   "video": "sub-seat-box-reel.mp4",
-   "time": "20:30",
-   "metricool_id": 420533752
-  },
-  {
-   "date": "2026-11-09",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "education",
-   "topic": "آموزش: حساسیت (dB) باند یعنی چی؟ (1W/1m، هر 3dB یعنی دو برابر توان، پخش بدون آمپ، مثال JBL Club 6520 92dB و KFC-S1366 89dB)",
-   "hook": "با پخش فابریک، این عدد از وات مهم تره",
-   "hook_type": "insider",
-   "products": [
-    "JBL Club 6520 (photo)"
-   ],
-   "sources": [
-    "https://www.cambridgeaudio.com/eur/en/faqs/what-meant-speaker-sensitivity",
-    "https://bestcaraudio.com/car-audio-masterclass-101-8-speakers-power-and-spl",
-    "https://lalehstore.com/jbl-club-6520/",
-    "https://lalehstore.com/kenwood-kfc-s1366/"
-   ],
-   "style": "slides",
-   "folder": "posts/2026-11-09-edu-sensitivity",
-   "slides": 6,
-   "time": "13:00"
-  },
-  {
-   "date": "2026-11-09",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "اسپیکر برای دورهمی: سول یا وایب پرودو؟ (رادیو، فلش و 4 ساعت = Soul / 40 وات، شارژ گوشی و micro SD = Vibe)",
-   "hook": "اسپیکر برای دورهمی می خری؟ اول این 15 ثانیه رو ببین",
-   "hook_type": "pre-emptive",
-   "products": [
-    "Porodo SoundTec Soul",
-    "Porodo SoundTec Vibe PD-STVBPSPK-BK"
-   ],
-   "style": "studio",
-   "music": "Colors (Instrumental) — Yosi Mesbah",
-   "folder": "posts/2026-11-09-party-speaker",
-   "video": "party-speaker-reel.mp4",
-   "time": "20:30",
-   "metricool_uuid": "8638883819571134978"
-  },
-  {
-   "date": "2026-11-10",
-   "slot": "midday",
-   "type": "carousel",
-   "manual": true,
-   "category": "education",
-   "topic": "آموزش: تست درست سرعت اینترنت (اول با کابل، قطع مصرف بقیه دستگاه ها، 3 بار تست و میانگین، ساعت شلوغ و سرور دور، جای تست وای فای)",
-   "hook": "اینو برای کسی بفرست که میگه اینترنت کنده",
-   "hook_type": "send-this (DM-trigger)",
-   "products": [],
-   "sources": [
-    "https://www.tp-link.com/us/support/faq/3336",
-    "https://www.compareinternet.com/blog/why-do-speed-tests-give-different-results/"
-   ],
-   "style": "slides",
-   "folder": "posts/2026-11-10-edu-speedtest",
-   "slides": [
-    "slide_01.jpg",
-    "slide_02.jpg",
-    "slide_03.jpg",
-    "slide_04.jpg",
-    "slide_05.jpg",
-    "slide_06.jpg"
-   ],
-   "time": "13:00"
-  },
-  {
-   "date": "2026-11-10",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "ساب کم عمق 12 اینچ: جی بی ال یا اینفینیتی؟ (آمپ حدود 250 وات = JBL Club WS1200، 92dB / آمپ حدود 400 وات = Infinity Reference 123WSL، 85dB؛ هر دو حدود 8.3 سانت عمق و 2/4 اهم)",
-   "hook": "ساب 12 اینچ با 8.3 سانت عمق",
-   "hook_type": "result-first",
-   "products": [
-    "JBL Club WS1200",
-    "Infinity Reference 123WSL"
-   ],
-   "style": "studio",
-   "music": "Hypnotized (Instrumental) — Company Money",
-   "folder": "posts/2026-11-10-slim-sub",
-   "video": "slim-sub-reel.mp4",
-   "time": "20:30",
-   "metricool_id": 422806461
-  },
-  {
-   "date": "2026-11-11",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "کامپوننت جلو بعد از آمپ: جی بی ال 609 یا کنوود 170C؟ (جای 16 سانت و صدای بلندتر = JBL GTO609C، 92dB و 3 اهم، 90W RMS / جای 17 سانت و بیس پرتر = Kenwood KFC-PS170C، 80W RMS، 86dB، عمق 56mm)",
-   "hook": "آمپ بستی؟ حالا نوبت کامپوننته",
-   "hook_type": "scenario/POV",
-   "products": [
-    "JBL GTO609C",
-    "Kenwood KFC-PS170C"
-   ],
-   "style": "studio",
-   "music": "Made It Out (Instrumental) — Robin-Huws",
-   "folder": "posts/2026-11-11-component-609-170c",
-   "video": "component-reel.mp4",
-   "time": "20:30",
-   "metricool_id": 424329318
-  },
-  {
-   "date": "2026-11-12",
-   "slot": "evening",
-   "type": "reel",
-   "category": "guide",
-   "topic": "آمپ بدون تعویض پخش فابریک: ورودی سطح بلندگوی پایونیر GM-A6704 (حسگر سیگنال، 60W RMS x4 در 4 اهم) + دو باند جلو و ساب Infinity Alpha 121W روی کانال های بریج (190W RMS در 4 اهم) + چک لیست نصب (سیم 8 گیج، دو فیوز 25A، سیم منفی کوتاه، ملاک RMS)",
-   "hook": "برای آمپ لازم نیست پخش فابریک رو عوض کنی",
-   "hook_type": "simplify",
-   "products": [
-    "Pioneer GM-A6704",
-    "Infinity Alpha 121W"
-   ],
-   "sources": [
-    "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-6704/",
-    "https://lalehstore.com/infinity-alpha-121w/"
-   ],
-   "style": "studio",
-   "music": "suggested: deep house (instrumental)",
-   "folder": "posts/2026-11-12-amp-stock-headunit",
-   "video": "amp-reel.mp4",
-   "time": "20:30",
-   "manual": true
-  },
-  {
-   "date": "2026-11-13",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "آمپ 4 کانال: کنوود 8400 یا پایونیر 7004؟ (دو ساب یا پخش فابریک = Kenwood KAC-HQR8400: بریج 2×180W، ورودی سطح بلندگو، HPF/LPF 50-200Hz / چهار باند با توان بیشتر = Pioneer GM-E7004: 70W RMS هر کانال در 4 اهم، 4×95W در 2 اهم، کلاس AB؛ ملاک RMS نه 720W)",
-   "hook": "60 وات یا 70 وات؟ آمپ 4 کانال فقط وات نیست",
-   "hook_type": "spec showdown (split-screen)",
-   "products": [
-    "Kenwood KAC-HQR8400",
-    "Pioneer GM-E7004"
-   ],
-   "style": "studio",
-   "music": "Move Ur Body (Instrumental) — half.cool",
-   "folder": "posts/2026-11-13-amp4-8400-7004",
-   "video": "amp4-reel.mp4",
-   "metricool_uuid": "5973742050486862810"
-  },
-  {
-   "date": "2026-11-14",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "کامپوننت 16 سانت: اینفینیتی Alpha 650C یا جی بی ال Stage1 62CF؟ (روی رادیو پخش، آمپ بعدا = 650C: حساسیت 91dB، 45W RMS، تیوتر PEI و کراس اوور جدا / نصب ساده و توان بیشتر = 62CF: 80W RMS مجموع ست، کراس اوور داخل خطی، آداپتور تیوتر؛ تیوتر بالای درب، رکاب آینه یا داشبورد)",
-   "hook": "صدای خواننده از پایین پات میاد؟",
-   "hook_type": "question",
-   "products": [
-    "Infinity Alpha 650C",
-    "JBL Stage1 62CF"
-   ],
-   "sources": [
-    "https://lalehstore.com/infinity-alpha-650c/",
-    "https://lalehstore.com/jbl-stage1-62cf/"
-   ],
-   "style": "studio",
-   "music": "suggested: chill electronic instrumental",
-   "folder": "posts/2026-11-14-component-650c-62cf",
-   "video": "component-reel.mp4",
-   "time": "20:30",
-   "manual": true
-  },
-  {
-   "date": "2026-11-15",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "باند بیضی 6×9 عقب: وات بیشتر یعنی صدای بلندتر؟ (اینفینیتی Primus 693M: حساسیت 93dB، 3 اهم، 60W RMS، آمپ بعدا / کاروزریا CRX-6986: 110W RMS، 90dB، 4Way، از 40Hz، فقط رادیو پخش و نه آمپ؛ ملاک RMS نه 950W)",
-   "hook": "وات بیشتر یعنی صدای بلندتر؟ همیشه نه!",
-   "hook_type": "contrarian",
-   "products": [
-    "Infinity Primus 693M",
-    "Carozzeria CRX-6986"
-   ],
-   "sources": [
-    "https://lalehstore.com/infinity-primus-693m/",
-    "https://lalehstore.com/carozeria-crx-6986/"
-   ],
-   "style": "studio",
-   "music": "Motive (Instrumental) — Giulio Cercato",
-   "folder": "posts/2026-11-15-6x9-693m-6986",
-   "video": "6x9-reel.mp4",
-   "time": "20:30",
-   "metricool_id": 428659213,
-   "metricool_uuid": "6863464156119909835"
-  },
-  {
-   "date": "2026-11-16",
-   "slot": "evening",
-   "type": "reel",
-   "category": "product",
-   "topic": "ساب 12 اینچ اقتصادی: اینفینیتی Primus 1270 یا جی بی ال GX1200؟ (آمپ حدود 300 وات = 1270: 300W RMS، 91dB، کویل 2 اینچ / آمپ حدود 250 وات = GX1200: 250W RMS، 90dB، عمق 15 سانت؛ قانون RMS آمپ = RMS ساب، پیک 1200W/1000W ملاک نیست، LPF حدود 80Hz)",
-   "hook": "ساب 12 اینچ می خری؟ اول آمپت رو ببین",
-   "hook_type": "pre-emptive",
-   "products": [
-    "Infinity Primus 1270",
-    "JBL GX1200"
-   ],
-   "sources": [
-    "https://lalehstore.com/infinity-primus-1270/",
-    "https://lalehstore.com/jbl-gx1200/"
-   ],
-   "style": "studio",
-   "music": "Euphoria Rave (Instrumental) — bbox",
-   "folder": "posts/2026-11-16-sub12-1270-gx1200",
-   "video": "sub12-reel.mp4",
-   "metricool_id": 429676291
-  },
-  {
-   "date": "2026-11-19",
-   "slot": "evening",
-   "type": "reel",
-   "category": "guide",
-   "topic": "آمپ دو کانال پایونیر GM-E7002؛ کاربرد استریو برای یک جفت باند و بریج برای یک ساب ووفر",
-   "hook": "دو خروجی، یک ساب؛ چطوری وصل میشه؟",
-   "hook_type": "curiosity-gap",
-   "products": [
-    "Pioneer GM-E7002"
-   ],
-   "sources": [
-    "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/"
-   ],
-   "style": "studio",
-   "music": "suggested: Synthwave Drive Instrumental",
-   "folder": "posts/2026-11-19-amp-bridge",
-   "video": "amp-reel.mp4",
-   "manual": true,
-   "time": "20:30",
-   "status": "prepared for manual delivery"
-  },
-  {
-   "date": "2026-11-21",
-   "slot": "evening",
-   "manual": true,
-   "type": "reel",
-   "category": "car audio",
-   "topic": "تنظیم سطح تیوتر بر اساس محل نصب",
-   "products": [
-    "JBL Club 64CSQ"
-   ],
-   "hook": "تیوترت دوره؟ سه دسی بل دستته",
-   "hook_type": "result-first",
-   "sources": [
-    "https://lalehstore.com/jbl-club-64csq/"
-   ],
-   "style": "studio",
-   "music": "suggested: House Instrumental",
-   "folder": "posts/2026-11-21-jbl",
-   "video": "reel.mp4",
-   "goal": "sales",
-   "cta": "مدل آمپت رو دایرکت کن",
-   "stock_checked": "2026-11-21T18:23:16.337159+03:30",
-   "stock_evidence": "stock in-stock + add to cart",
-   "status": "prepared for manual delivery"
-  },
-  {
-   "date": "2026-11-22",
-   "slot": "evening",
-   "type": "reel",
-   "category": "car audio",
-   "products": [
-    "Kenwood KDC-X5200BT"
-   ],
-   "topic": "انتخاب پخش برای افزودن آمپ",
-   "hook": "بعداً آمپ می‌بندی؟ خروجی پخش رو بشمار",
-   "hook_type": "checklist",
-   "sources": [
-    "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/"
-   ],
-   "stock_checked": "2026-11-22T21:26:07+03:30",
-   "stock_evidence": "in stock and add-to-cart",
-   "style": "studio",
-   "goal": "sales",
-   "cta": "مدل آمپت رو دایرکت کن",
-   "folder": "posts/2026-11-22-kenwood",
-   "video": "publish.mp4",
-   "music": "Boundless — Eveningland",
-   "time": "21:30",
-   "metricool_id": 437797177,
-   "metricool_uuid": "-8386716506964735572",
-   "status": "scheduled"
-  }
- ],
- "stories": [
-  {
-   "date": "2026-10-28",
-   "product": "JBL Club 64CSQ",
-   "url": "https://lalehstore.com/jbl-club-64csq/"
-  },
-  {
-   "date": "2026-10-29",
-   "product": "Porodo SoundTec Soul",
-   "url": "https://lalehstore.com/%d8%a7%d8%b3%d9%be%db%8c%da%a9%d8%b1-%d8%a8%d9%84%d9%88%d8%aa%d9%88%d8%ab%db%8c-%d9%82%d8%a7%d8%a8%d9%84-%d8%ad%d9%85%d9%84-%d8%b3%d8%a7%d9%86%d8%af%d8%aa%da%a9-%d9%be%d8%b1%d9%88%d8%af%d9%88-%d9%85%d8%af%d9%84-soundtec-soul/"
-  },
-  {
-   "date": "2026-10-30",
-   "product": "BOYA Mini 2-01",
-   "url": "https://lalehstore.com/boya-mini-2-01/"
-  },
-  {
-   "date": "2026-10-31",
-   "product": "Pioneer DMH-AP6650BT",
-   "url": "https://lalehstore.com/pioneer-dmh-ap6650bt/"
-  },
-  {
-   "date": "2026-11-01",
-   "product": "KEYANG KY-200W solar projector",
-   "url": "https://lalehstore.com/kiang-ky-200w-solar-projector/"
-  },
-  {
-   "date": "2026-11-02",
-   "product": "BOYA BY-V10 V2.0",
-   "url": "https://lalehstore.com/%d9%85%db%8c%da%a9%d8%b1%d9%88%d9%81%d9%88%d9%86-%db%8c%d9%82%d9%87-%d8%a7%db%8c-%d8%a8%d9%88%db%8c%d8%a7-%d9%85%d8%af%d9%84-by-v10-v2/"
-  },
-  {
-   "date": "2026-11-03",
-   "product": "JBL Concert A704",
-   "url": "https://lalehstore.com/jbl-concert-a704/"
-  },
-  {
-   "date": "2026-11-04",
-   "product": "Pioneer DEH-S720DAB",
-   "url": "https://lalehstore.com/pioneer-deh-s720dab/"
-  },
-  {
-   "date": "2026-11-05",
-   "product": "Porodo SoundTec Vibe PD-STVBPSPK-BK",
-   "url": "https://lalehstore.com/%d8%a7%d8%b3%d9%be%db%8c%da%a9%d8%b1-%d8%a8%d9%84%d9%88%d8%aa%d9%88%d8%ab%db%8c-%d9%82%d8%a7%d8%a8%d9%84-%d8%ad%d9%85%d9%84-%d9%be%d8%b1%d9%88%d8%af%d9%88-%d9%85%d8%af%d9%84-soundtec-pd-stvbpspk-bk/"
-  },
-  {
-   "date": "2026-11-06",
-   "product": "Nakamichi NBF8.1A",
-   "url": "https://lalehstore.com/nakamichi-nbf8-1a/"
-  },
-  {
-   "date": "2026-11-07",
-   "product": "Harman Kardon Aura Studio 5",
-   "url": "https://lalehstore.com/harman-kardon-aura-studio-5-speaker/",
-   "folder": "stories/2026-11-07"
-  },
-  {
-   "date": "2026-11-08",
-   "product": "BOYA Magic-05",
-   "url": "https://lalehstore.com/boya-magic-05/",
-   "folder": "stories/2026-11-08"
-  },
-  {
-   "date": "2026-11-09",
-   "product": "Infinity Alpha 603",
-   "url": "https://lalehstore.com/infinity-alpha-603/",
-   "folder": "stories/2026-11-09"
-  },
-  {
-   "date": "2026-11-10",
-   "product": "محافظ پکیج 10 آمپر پارت الکتریک",
-   "url": "https://lalehstore.com/%d9%85%d8%ad%d8%a7%d9%81%d8%b8-%d9%be%da%a9%db%8c%d8%ac-10-%d8%a2%d9%85%d9%be%d8%b1-%d9%be%d8%a7%d8%b1%d8%aa-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%db%8c%da%a9/",
-   "folder": "stories/2026-11-10"
-  },
-  {
-   "date": "2026-11-11",
-   "product": "TP-Link TD-W9960",
-   "url": "https://lalehstore.com/modem-tp-link-td-w9960/",
-   "folder": "stories/2026-11-11"
-  },
-  {
-   "date": "2026-11-12",
-   "product": "Kenwood KDC-X5200BT",
-   "url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/",
-   "folder": "stories/2026-11-12"
-  },
-  {
-   "date": "2026-11-13",
-   "product": "Pioneer GM-E7002",
-   "url": "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/",
-   "folder": "stories/2026-11-13",
-   "style": "classic (story.py)"
-  },
-  {
-   "date": "2026-11-14",
-   "product": "BOYA BY-V20 V2.0",
-   "url": "https://lalehstore.com/%d9%85%db%8c%da%a9%d8%b1%d9%88%d9%81%d9%88%d9%86-%db%8c%d9%82%d9%87-%d8%a7%db%8c-%d8%a8%d9%88%db%8c%d8%a7-%d9%85%d8%af%d9%84-by-v20-v2-0/",
-   "folder": "stories/2026-11-14",
-   "style": "callout"
-  },
-  {
-   "date": "2026-11-15",
-   "product": "Infinity Primus 693M",
-   "category": "car audio",
-   "url": "https://lalehstore.com/infinity-primus-693m/",
-   "folder": "stories/2026-11-15",
-   "style": "poster",
-   "note": "Replaced the JIUJI 63A story (story-jiuji.jpg) the same day at Mohammad's request: story must match today's reel",
-   "file": "creative/poster.jpg",
-   "alt_files": [
-    "creative/night.jpg",
-    "creative/versus.jpg",
-    "story.jpg (hud)"
-   ]
-  },
-  {
-   "date": "2026-11-16",
-   "product": "Infinity Primus 1270",
-   "category": "car audio",
-   "url": "https://lalehstore.com/infinity-primus-1270/",
-   "folder": "stories/2026-11-16",
-   "style": "night",
-   "file": "story.jpg"
-  },
-  {
-   "date": "2026-11-19",
-   "product": "Pioneer GM-E7002",
-   "url": "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/",
-   "folder": "stories/2026-11-19",
-   "style": "poster",
-   "file": "story.jpg"
-  },
-  {
-   "date": "2026-11-21",
-   "product": "JBL Club 64CSQ",
-   "url": "https://lalehstore.com/jbl-club-64csq/",
-   "tracked_url": "https://lalehstore.com/jbl-club-64csq/?utm_source=instagram&utm_medium=organic_social&utm_campaign=laleh_reels&utm_content=20261121_jbl_club_64csq",
-   "folder": "stories/2026-11-21",
-   "style": "night"
-  },
-  {
-   "date": "2026-11-22",
-   "product": "Kenwood KDC-X5200BT",
-   "url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/",
-   "tracked_url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/?utm_source=instagram&utm_medium=organic_social&utm_campaign=laleh_reels&utm_content=20261122_kenwood5200",
-   "folder": "stories/2026-11-22",
-   "style": "poster"
-  }
- ],
- "articles_used": [
-  "https://lalehstore.com/aura-studio-5-vs-4/"
- ],
- "planned_next": [
-  {
-   "idea": "مقاله: بهترین میکروفون بویا برای آیفون و اندروید",
-   "article": "https://lalehstore.com/best-boya-microphones-iphone-android-2025/"
-  },
-  {
-   "idea": "مقاله: معرفی برند بویا",
-   "article": "https://lalehstore.com/boya-brand-introduction/"
-  },
-  {
-   "idea": "سوئیچ شبکه تی پی لینک LS1005G / LS1008G: کی لازمه؟",
-   "note": "2026-11-04: LS1005G and LS1008G out of stock — skip until restocked"
-  },
-  {
-   "idea": "ساب ووفر 10 یا 12 اینچ؟ (از زاویه جدید، نه تکرار ریل راهنما)"
-  },
-  {
-   "idea": "کاربردهای اسپیکر هارمن کاردن در خانه"
-  },
-  {
-   "idea": "اعتمادسازی: بسته بندی و ارسال سفارش (نیاز به فیلم واقعی از محمد)"
-  },
-  {
-   "idea": "تلویزیون معمولی رو هوشمند کن: اندروید باکس (دسته android-tv-box، فقط موجودها)",
-   "note": "2026-11-09: all android boxes out of stock — skip until restocked"
-  },
-  {
-   "idea": "پاوربانک چند میلی آمپر؟ کدوم ظرفیت برای گوشی، کدوم برای سفر و قطعی برق (فقط مدل های موجود)",
-   "note": "2026-11-03: all power banks on the site out of stock — skip until restocked"
-  },
-  {
-   "idea": "سوئیچ شبکه یا مودم دوم؟ کی سوئیچ تی پی لینک لازمه (ادامه پست مودم، فرمت ریل 9:16)",
-   "note": "2026-11-04: LS1005G and LS1008G out of stock — skip until restocked"
-  },
-  {
-   "idea": "آمپ 4 کانال یا 2 کانال؟ کدوم آمپ برای کدوم سیستم (JBL Concert A704 و یک مدل 2 کانال موجود)",
-   "products": [
-    "JBL Concert A704"
-   ]
-  },
-  {
-   "idea": "آنتن یا بلوتوث پخش ضعیفه؟ پخش ساده رو با ساب اکتیو زیر صندلی کامل کن (Nakamichi NBF8.1A + پخش با خروجی ساب)"
-  },
-  {
-   "idea": "اسپیکر خونه: قابل حمل یا خانگی؟ (Harman Kardon Aura Studio در برابر یک اسپیکر قابل حمل موجود)"
-  },
-  {
-   "idea": "تیوتر جدا یا باند کواکسیال؟ کی تیوتر لازمه (فقط مدل های موجود)"
-  },
-  {
-   "idea": "باند جلو یا عقب؛ اول کدوم رو عوض کنم؟ (Kenwood 1676EX جلو + 1666/1366 عقب طبق صفحه محصول)",
-   "products": [
-    "Kenwood KFC-S1676EX",
-    "Kenwood KFC-S1666"
-   ]
-  },
-  {
-   "idea": "محافظ کولر یا محافظ پکیج؟ کدوم محافظ برای زمستون و گاز",
-   "products": [
-    "محافظ پکیج 10 آمپر پارت الکتریک"
-   ]
-  },
-  {
-   "idea": "دو باند 16 سانت با یه پخش: اینفینیتی Alpha 603 یا کنوود 1666؟ (مقایسه حساسیت و توان)",
-   "products": [
-    "Infinity Alpha 603",
-    "Kenwood KFC-S1666"
-   ]
-  },
-  {
-   "idea": "سیم پک آمپ: چرا ضخامت سیم و فیوز نزدیک باتری مهمه؟ (از صفحات محصول سیم پک موجود)"
-  },
-  {
-   "idea": "کامپوننت داری؟ تیوتر رو کجا نصب کنم: بالای درب، رکاب آینه یا داشبورد (از صفحه 170C/609؛ زاویه آموزشی در ریل)"
-  },
-  {
-   "idea": "آمپ 4 کانال برای کامپوننت جلو + باند عقب: کنوود 804 یا JBL A704؟ (بعد از 2026-12-03 برای A704)"
-  },
-  {
-   "idea": "پخش کنوود 5200 یا پایونیر 720؟ پخش تک دین برای سیستمی که بعدا آمپ و ساب میگیره (3 خروجی RCA هر دو؛ بعد از 2026-12-06 برای 720)",
-   "products": [
-    "Kenwood KDC-X5200BT",
-    "Pioneer DEH-S720DAB"
-   ]
-  },
-  {
-   "idea": "آنتن تلویزیون دیجیتال: شبکه ها برفکیه؟ سیماران SMA2013 رومیزی و هوایی (تقویت 32dB، DVB-T2) — دسته جدید",
-   "products": [
-    "Simaran SMA2013"
-   ]
-  },
-  {
-   "idea": "گین آمپ ولوم نیست: تنظیم درست گین و فیلتر HPF/LPF (ریل آموزشی با آمپ موجود)"
-  },
-  {
-   "idea": "آمپ مونو برای ساب چند وات بگیرم؟ (هماهنگ با RMS ساب و 2 یا 4 اهم)",
-   "note": "2026-11-13: no mono amps in stock (JBL/Kenwood/Pioneer/Infinity) — skip until restocked"
-  },
-  {
-   "idea": "محافظ تابلویی 63 آمپر یا محافظ پریزی؟ کی محافظ ورودی کل خونه لازمه (JIUJI 63A در برابر محافظ کولر 16 آمپر پارت؛ فقط از صفحه محصول)",
-   "products": [
-    "JIUJI 63A",
-    "محافظ کولر گازی 16 آمپر پارت الکتریک"
-   ]
-  },
-  {
-   "idea": "باند 16 سانت درب جلو روی پخش ساده: کاروزریا CRX-616 یا اینفینیتی Alpha 6530؟ (3Way در هر دو؛ حساسیت و RMS از صفحه)",
-   "products": [
-    "Carozzeria CRX-616",
-    "Infinity Alpha 6530"
-   ]
-  },
-  {
-   "idea": "ساب 10 اینچ برای صندوق کوچیک: جی بی ال Stage 102 یا یک ساب 10 اینچ موجود دیگه (فقط از صفحه محصول؛ زاویه: فضای صندوق و آمپ)"
-  },
-  {
-   "idea": "باکس بسته یا دریچه دار؟ ساب 12 اینچ توی کدوم باکس (از متن صفحات GX1200 و Primus 1270؛ هوک obscured/label reveal)"
-  },
-  {
-   "idea": "راهنمای انتخاب شارژر بر اساس پورت گوشی؛ فقط محصولات موجود و تکرارنشده"
-  }
- ],
- "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
- "insights": [
-  {
-   "date": "2026-10-31",
-   "period": "2026-10-24..31",
-   "finding": "Best: power-protector 'mistake' reel (reach 234, 5 saves, 3 shares, view rate 43.9%, avg watch 8.4s). Weakest: Aura Studio article reel (reach 41, view rate 30%, avg watch 4.7s). Carousels reached 94-157.",
-   "apply": "Prefer problem/mistake hooks tied to a household or car need («X رو اشتباه نخر», «کدوم X برای کدوم ...») over plain comparisons; first frame must state the problem; keep reels ~15s."
-  },
-  {
-   "date": "2026-11-01",
-   "finding": "Yesterday (10-31) reach 152 / views 198 vs 6-day avg 107 / 195 (+42% / +2%), but identical to 10-30 so possibly incomplete; followers 10-31 no data; last 7 days +9 gained −12 lost. Manual oval comparison reel (JBL vs Carozzeria, 'amp or no amp' problem hook): best view rate yet 49.2%, avg watch 7.0s, reach 127, but 0 saves/0 shares. Power-protector mistake reel still top (reach 246, 3 saves, 5 shares). Aura article reel grew to reach 158 with 3 comments. Story reach returned 0 (data unreliable).",
-   "apply": "Problem hooks hold attention; comparisons need a stronger save/share trigger: end frame with a one-line rule-of-thumb + «ذخیره کن», and share-worthy household topics (power, home network, outages). Today's modem post already scheduled; apply to next post. Tip: re-share the modem reel to story with a poll «خطت ADSL یا VDSL؟» and answer comments in the first hour."
-  },
-  {
-   "date": "2026-11-02",
-   "finding": "Metricool revised 10-31 to reach 576 / views 988 / engaged 18 (7-day avg 177 / 314) and repeats it for 11-01 (likely incomplete); followers 11366. Format split is clear: 9:16 reels (power 604 reach, VR 51.6%; oval 520 reach, VR 53.6%) beat 4:5 post-videos (Aura 162, VR 35.5%; modem 130 after ~14h, VR 36.3%, avg watch 4.8s, 0 saves). Oval comparison drove the 10-31 spike but only 2 saves/0 shares; power-protector mistake reel still the only one with real shares (5).",
-   "apply": "Use 9:16 reel format by default (override the reel/post alternation) until a 4:5 video reaches comparable view rate. Today: household mistake-hook reel «برق رفت؟ چراغ شارژی اشتباه نخر» (3 lights, 3 places) with save CTA on the end frame. Tip for Mohammad: share the reel to story with a poll «برق محله تون زیاد میره؟» and answer comments in the first hour."
-  },
-  {
-   "date": "2026-11-03",
-   "finding": "11-01 (last complete day): reach 675 / views 2104 / +1 −0, vs 7-day avg ~120 / ~208 (×5.6 / ×10). 11-02 likely incomplete (reach repeats 675; views 1041). Power-protector mistake reel exploded late: reach 1610, views 1913, 20 saves, 23 shares, VR 55.1%, avg watch 7.7s — the household 'which X for which device' list is our most shareable format. Oval comparison 1232 reach, 4 saves. Modem 4:5 post weakest (178 reach, VR 33.3%). Outage reel slow start (reach 25 after ~14h, VR 43.3%). Midday carousels of 11-02 (IP, Buds On) not in Metricool data → not posted yet. Story reach 0 on 11-02.",
-   "apply": "Keep the 9:16 'mistake + which X for which situation' list format with a closing rule-of-thumb frame (save trigger). Today: evening «باند ماشین رو اشتباه نخر: آمپ داری یا نه؟» ending on a one-line rule; midday household Wi-Fi tip carousel (share-worthy). Power banks all out of stock, so that idea is parked. Tip for Mohammad: post the 13:00 carousel on time and re-share the power-protector reel to story (it is still growing)."
-  },
-  {
-   "date": "2026-11-04",
-   "finding": "11-03 (likely incomplete): reach 499 / views 723 vs 7-day avg (10-27..11-02) ~404 / ~570 (+24% / +27%). 11-02 revised: reach 936, +4 −8 followers (11365). Power-protector mistake reel still the leader (reach 1877, 25 saves, 26 shares, VR 55%); oval comparison 1434 reach. Amp reel (11-03) reach 153 after ~16h but highest view rate so far (59.3%, avg watch 6.8s). Router carousel (11-03 midday) was posted: reach 58, 1 save. Stories reach 0–9.",
-   "apply": "Keep the 'X رو اشتباه نخر + which X for which situation' reel with a closing rule frame; switch category from car audio (3 car posts in a row) to content-creator mics: «میکروفون یقه ای اشتباه نخر: تک نفره یا دو نفره؟» (BOYA BY-V10 V2.0 vs Mini 2-01). Midday: RMS vs peak explainer (save trigger). Tip for Mohammad: post the carousel promptly at 13:00 and answer comments in the first hour; carousels need the first-hour push to get reach."
-  },
-  {
-   "date": "2026-11-05",
-   "finding": "11-04 likely incomplete (repeats 11-03 672/847). 11-03 (last complete): reach 672 / views 847 / +9 −0 (11373) vs 7-day avg 10-27..11-02 ~404 / ~665 (+66% / +27%). Amp 'mistake' reel (11-03) took off: reach 1145, 18 saves, 2 shares, VR 58.4% (best VR yet). Power-protector reel 2082 reach, 30 saves, 26 shares; oval 1560. Mic reel (11-04) slow start: reach 74, VR 41.9%, avg watch 5.6s after ~14h. Carousels: router (11-03) reach 159, RMS (11-04) reach 42 — education carousels reach ~10-15% of the reels. Stories reach 0–8.",
-   "apply": "Car-audio 'X رو اشتباه نخر + which X for which system' with a rule frame is our best performer: today's manual evening reel «آمپ ماشین رو اشتباه نخر: 2 کانال یا 4 کانال؟» (Kenwood KAC-PS802EX vs PS804EX). Midday: household power-bank mAh/Wh explainer (share-worthy everyday topic). Tip: re-share the amp reel to story with a poll «آمپ داری؟» and pin the power-protector reel to the profile."
-  },
-  {
-   "date": "2026-11-06",
-   "finding": "11-05 likely incomplete (reach 121, views repeat 89, followers missing). 11-04 (last complete for reach): reach 791 / +1 −2 (11371) vs 7-day avg 10-28..11-03 ~576 (+37%); its views (89) look incomplete. 11-03 revised up to reach 1273 / views 1658. Car-audio 'mistake' reels lead: oval comparison 1632 reach (VR 54%), amp reel 1161 reach, 18 saves, 4 shares, VR 58% (best VR). Mic reel (11-04) weak: 137 reach, VR 38%, 0 saves — non-car product reels underperform. Carousels: router 237 reach / 7 saves, RMS 65 reach. 11-05 manual amp24 reel and power-bank carousel not in data yet (not posted or not synced). Stories reach 0–6.",
-   "apply": "Stay with the car-audio 'X رو اشتباه نخر + which X for which need' reel and a closing rule frame, new subcategory head units: «پخش ماشین رو اشتباه نخر: ساده یا مانیتوردار؟» (Pioneer 720 vs Z7250). Midday: lavalier-mic placement tips (practical how-to with save trigger). Tip: post yesterday's manual reel/carousel if not done, and put a poll «پخشت مانیتور داره؟» on the story re-share of tonight's reel."
-  },
-  {
-   "date": "2026-11-07",
-   "finding": "11-06 likely incomplete (reach 214 / views 276, followers missing). 11-05 revised to reach 167 / views 146 / +0 −0 (11371). Both days ~−70% vs the 7-day avg (~650-670 reach) — 2 days in a row >50% down. Cause: no new reel took off; 11-05 manual amp24 reel and the 11-05/11-06 midday carousels are not in Metricool data (probably not posted). Head-unit reel (11-06) reach 145, VR 51.8% after ~14h. Leaders still oval comparison (1695 reach) and amp 'mistake' reel (1178 reach, 18 saves, VR 58%). Mic reel weakest (150, VR 37.6%). Router carousel 248 reach / 7 saves; RMS 90.",
-   "apply": "Car-audio 'mistake + which X for which car' reel tonight: «سایز باند رو اشتباه نخر: 13 یا 16 سانت؟» (Kenwood 1366 vs 1666), problem in frame 1 + rule frame. Midday: fast-charge cable explainer (everyday topic). Tip: post the manual items on time — missing manual posts are the main reason reach dropped."
-  },
-  {
-   "date": "2026-11-07",
-   "weekly": true,
-   "finding": "Week 10-31..11-06: best = oval 6x9 comparison (1695 reach, VR 54.5%) and amp 'mistake' reel (1178 reach, 18 saves); worst = mic reel (150) and modem 4:5 post (192, VR 34%). Education carousels reach ~5-20% of the best reels (router 248/7 saves, RMS 90); other carousels not in data. Reach peaked 11-01..11-03 (936-1273/day) then fell to ~170-210 on 11-05/06; followers 11365 → 11371 (net +6).",
-   "apply": "Next week: every manual post on time (Thu/Sat reels and all 13:00 carousels), keep car-audio 'mistake' reels on auto days, and add a save trigger frame to every carousel cover."
-  },
-  {
-   "date": "2026-11-07",
-   "finding": "Mohammad banned the «اشتباه نخر» hook phrasing (overused: 7 of the last 8 evening reels).",
-   "apply": "From now on: daily hook research (part H), rotate hook types from hook_bank, never repeat a hook type within 5 feed posts. Today's reel re-rendered with «جای باند ماشینت چند سانته؟ 13 یا 16؟»."
-  },
-  {
-   "date": "2026-11-08",
-   "finding": "11-07 likely incomplete (reach 169 / views 213, followers missing). 11-06 revised to 169 / 364 / +1 -1 (11370). Reach ~-75% vs 7-day avg (~672) on 11-05, 11-06, 11-07. No new reel took off: 11-07 question-hook reel 133 reach, VR 42.7% after <1 day; 11-06 head-unit 183, VR 51%; leader still amp reel 11-03 (1187 reach, 18 saves, 5 shares, VR 58.1%). Manual 11-05 amp24 reel and 11-05/06/07 midday carousels absent from Metricool data.",
-   "apply": "Evening: car-audio category with a new angle (under-seat vs box sub, simplify hook, closing rule frame). Midday: contrarian myth-buster on 2Way/3Way with a save CTA. Tip: post manual items on time; re-share tonight's reel to story with a poll."
-  },
-  {
-   "date": "2026-11-09",
-   "finding": "11-08 likely incomplete (235/332 = identical to 11-07, followers missing). 11-07 revised 235/332/9 +3 -2 (11373); 11-06 260/364/7. Reach about -66% vs 7-day avg (~693) on 11-07 and 11-08; low since 11-05. Sub reel 11-08: reach 191, VR 62.7% (best VR of the week, young post); question reel 11-07 VR 39.2% reach 155. Leader still amp reel 11-03 (1189 reach, 18 saves, 5 shares, VR 58.2%). 11-06 mic carousel only appeared on 11-08 (35 reach); 11-07/11-08 midday carousels and 11-05 manual reel not in data. Last 4 evening reels all car audio with no breakout.",
-   "apply": "Tonight: change category to portable speakers with a pre-emptive hook (Soul vs Vibe, closing rule frame); midday: insider hook on sensitivity. Tip: post the 13:00 carousel on time and re-share the reel to story with a poll."
-  },
-  {
-   "date": "2026-11-10",
-   "finding": "11-09 likely incomplete (548/623 = identical to 11-08). 11-08 revised 548/623/17, followers 11377 (+4 vs 11-07); about -20% vs 7-day avg (~686) but well up from 189-260 on 11-05..11-07. Breakout: 11-08 under-seat vs box sub reel (simplify hook) now 1169 reach, 12 saves, VR 62.8% (best VR so far), close to the 11-03 amp reel leader (1196 reach, 18 saves). Party speaker reel 11-09: 76 reach, VR 48.8% after <1 day. Carousels: lavmic 11-06 61 reach; 11-07/08/09 carousels not in data. Story data only for 11-07.",
-   "apply": "Evening: stay on subwoofers (the winning category) with a new angle: two slim 12-inch subs JBL WS1200 vs Infinity 123WSL matched to amp power, result-first hook + closing rule frame. Midday: shareable DM-trigger hook on testing internet speed. Tip: re-share tonight's reel to story with a poll and answer comments in the first hour."
-  },
-  {
-   "date": "2026-11-11",
-   "finding": "11-10: reach 173 / views 250 (followers data missing), about -70% vs 7-day avg 582 (11-03..11-09); 11-09 revised 609/705 +3 (11385), 11-08 revised 783/987 +11 -1. Leaders: 11-03 speaker reel 1200 reach 18 saves 5 shares VR 58%; 11-08 under-seat vs box sub reel 1187 reach 12 saves VR 62.8%. 11-10 slim-sub reel 116 reach VR 36% (<1 day). Midday carousels stay small: 11-03 260, 11-04 99, 11-08 65, 11-10 43 reach. Story data: none returned.",
-   "apply": "Mohammad stopped midday carousels (2026-11-11). Evening: car-audio comparison of two well-known component sets (JBL GTO609C vs Kenwood KFC-PS170C) with a scenario/POV hook and a closing rule frame. Tip: re-share the reel to story with a poll and reply to comments in the first hour."
-  },
-  {
-   "date": "2026-11-12",
-   "finding": "11-11 likely incomplete (reach 150 = 11-10, followers missing). Last complete day 11-10: reach 150 / views 301 / 3 engaged, +0 -0 (11384), about -74% vs 7-day avg 582 (11-03..11-09); 11-11 also ~-64% vs 421. Second low streak after 11-05..11-07. Recent reels stuck at ~124-146 reach with VR 37-48% (11-09 party speaker, 11-10 slim sub, 11-11 component); the two breakouts (11-03 speaker 1200 reach, 11-08 under-seat vs box sub 1191 reach, 12 saves, VR 62.7%) solved a real car problem with a simplify/no-change angle. Stories: no data from Metricool.",
-   "apply": "Thursday manual reel: simplify hook (same type as the 11-08 breakout) on a real problem — amp without replacing the stock head unit (Pioneer GM-A6704 speaker-level input + Infinity Alpha 121W on bridged channels), save CTA. Tip: share the reel to story with a poll «پخش ماشینت فابریکه؟» in the first hour and answer comments fast."
-  },
-  {
-   "date": "2026-11-13",
-   "finding": "11-12 likely incomplete (identical to 11-11). 11-11: reach 1728 / views 1981 / 66 engaged, +0 -2 (11383) — about +300% vs 7-day avg 431 (11-04..11-10); 11-10 revised 216/301/10. Driver: the 11-05 manual amp reel «2 کانال یا 4 کانال» (Kenwood 802/804) that Mohammad posted (Metricool dates it 11-12): 1668 reach, 20 saves, 6 shares, VR 60.5% — best reel so far. 11-11 component reel 254 reach VR 55.6%; 11-10 slim sub 146 reach VR 37.4% weakest. 11-12 GM-A6704 reel not in data yet. Stories: no data.",
-   "apply": "Stay on amplifiers with a new angle: 4-channel comparison of two well-known brands (Kenwood KAC-HQR8400 vs Pioneer GM-E7004) with a simple rule frame and save CTA; new hook type spec showdown. Tip: pin a comment «سیستمت چند باند و ساب داره؟» and answer DMs in the first hour."
-  },
-  {
-   "date": "2026-11-14",
-   "finding": "11-13 likely incomplete (reach 453 = 11-12, followers missing). Last complete day 11-12: reach 453 (+29% vs 7-day avg 351, 11-05..11-11), views 2685 (about 6x avg 436), 14 engaged, +2 -4 (11383). 11-11 revised 235/279/6. Views driver: the «2 کانال یا 4 کانال» amp reel (Metricool date 11-12) now 2328 reach, 2651 views, 28 saves, 8 shares, VR 59.5% — best reel ever. 11-13 Kenwood 8400 vs Pioneer 7004 reel: 248 reach, 3 saves, VR 59.4% (<1 day). 11-12 GM-A6704 manual reel not in Metricool data (maybe not posted). Stories: no data.",
-   "apply": "Saturday manual reel: car audio comparison of two known brands with a real-problem question hook in frame 1 (component Infinity Alpha 650C vs JBL Stage1 62CF: «صدای خواننده از پایین پات میاد؟»), closing rule frame + save CTA. Tip: reply to every comment on the amp reel in the first hour and pin a comment «سیستمت فابریکه یا آمپ داره؟»."
-  },
-  {
-   "date": "2026-11-14",
-   "weekly": true,
-   "finding": "Week 11-08..11-14: best = «2 کانال یا 4 کانال» amp reel (2328 reach, 28 saves, 8 shares, question/comparison hook) and 11-08 under-seat vs box sub (1212 reach, 12 saves, simplify); worst = 11-10 slim sub (149 reach, VR 37.8%, result-first) and 11-09 party speaker (164 reach). Question/simplify hooks on a real car situation won; result-first and pure spec hooks were weak. Account reach swings 189-783 per day (avg ~350), views jumped on 11-12; followers flat (11370 -> 11383).",
-   "apply": "Next week: keep car-audio 'which one for which system' comparisons with a question hook naming the viewer's real situation, always a closing rule frame + save CTA; post the manual reels on time so they enter the data."
-  },
-  {
-   "date": "2026-11-15",
-   "finding": "11-14 likely incomplete (views/engaged identical to 11-13, followers missing). Metricool revised 11-12 to 2246 reach / 2686 views / 76 engaged. Last complete day 11-13: reach 1194 (+84% vs 7-day avg 648, 11-06..11-12), views 2384 (about 3x avg 798), 55 engaged, +4 -1 (11389). Reels: «2 کانال یا 4 کانال» 2360 reach/28 saves/8 shares VR 59.6%; 11-13 8400 vs 7004 1604 reach/23 saves VR 59.8%; 11-14 manual 650C vs 62CF already 1419 reach/11 saves/6.58s VR 60.9% in <1 day (question hook). 11-12 GM-A6704 manual reel not in data. Stories: 11-14 rows reach 0 (incomplete).",
-   "apply": "Car-audio comparison of two known brands kept, new sub-category (6×9 rear) and new hook type contrarian «وات بیشتر یعنی صدای بلندتر؟ همیشه نه!», rule frame 93dB + save CTA. Tip: pin a comment «باند عقب ماشینت فابریکه یا عوض کردی؟» and re-share the reel to story with a poll."
-  },
-  {
-   "date": "2026-11-16",
-   "finding": "11-15 likely incomplete (followers missing; reach 275, views 361). Metricool revised 11-14 to reach 2363 (+202% vs 7-day avg 782 of 11-07..11-13), 58 engaged, +5 -6 (11384); its views 361 equals 11-15 — likely wrong. 11-13 revised to 1194/1545/32. Reels: 11-12 «2 کانال یا 4 کانال» 2363 reach/28 saves/8 shares VR 59.6%; 11-14 manual 650C vs 62CF (question hook) 1715 reach/14 saves VR 61.2% — best view rate; 11-13 8400 vs 7004 1641 reach/22 saves; 11-15 6x9 contrarian 205 reach/3 saves VR 58.7% (<1 day). Weak: 11-10 slim sub 159 reach VR 39.2%, 11-09 party speaker 173. Stories 11-14/11-15: reach 0 (no data yet).",
-   "apply": "Keep car-audio comparisons of two known brands with closing rule frame + save CTA; today sub 12 Primus 1270 vs JBL GX1200 with a pre-emptive hook naming the viewer's amp («ساب 12 اینچ می خری؟ اول آمپت رو ببین»). Tip: pin a comment «آمپت چند وات RMS هست؟» and answer every comment in the first hour."
-  },
-  {
-   "date": "2026-11-19",
-   "finding": "11-18: reach45/views74/engaged1, followers missing and reach repeats 11-17: likely incomplete. 11-11..17 average reach1237/views1560. Best reel in range: 2 vs4 channel amp, reach2379/views2711/saves28/shares8. BOYALINK3, BOYALINK2 and MINI14 pages currently out of stock.",
-   "apply": "Use in-stock planned GM-E7002 stereo vs bridge guide, curiosity-gap hook and closing save rule. Ask poll stereo or bridge and re-share after20:30."
-  },
-  {
-   "date": "2026-11-21",
-   "weekly": true,
-   "finding": "آمپ پایونیر ۲۶۶۲ بازدید؛ داده فروش منتسب دریافت نشد.",
-   "apply": "معرفی کاربردی با یک سؤال خرید درباره مدل آمپ"
-  }
- ],
- "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
- "daily_stats": [
-  {
-   "date": "2026-10-25",
-   "account_reach": 71,
-   "views": 164,
-   "accounts_engaged": 4,
-   "followers_gained": 0,
-   "followers_lost": 3
-  },
-  {
-   "date": "2026-10-26",
-   "account_reach": 61,
-   "views": 134,
-   "accounts_engaged": 4,
-   "followers_gained": 1,
-   "followers_lost": 3
-  },
-  {
-   "date": "2026-10-27",
-   "account_reach": 74,
-   "views": 177,
-   "accounts_engaged": 5,
-   "followers_gained": 1,
-   "followers_lost": 1
-  },
-  {
-   "date": "2026-10-28",
-   "account_reach": 247,
-   "views": 435,
-   "accounts_engaged": 9,
-   "followers_gained": 4,
-   "followers_lost": 1
-  },
-  {
-   "date": "2026-10-29",
-   "account_reach": 38,
-   "views": 60,
-   "accounts_engaged": 0,
-   "followers_gained": 2,
-   "followers_lost": 1
-  },
-  {
-   "date": "2026-10-30",
-   "account_reach": 170,
-   "views": 241,
-   "accounts_engaged": 7,
-   "followers_gained": 1,
-   "followers_lost": 1,
-   "followers": 11365
-  },
-  {
-   "date": "2026-10-31",
-   "account_reach": 176,
-   "views": 245,
-   "accounts_engaged": 6,
-   "followers_gained": 1,
-   "followers_lost": 0,
-   "note": "Revised again 2026-11-03: Metricool now 176/245/6 (earlier 576/988, before that 152/198)",
-   "followers": 11366
-  },
-  {
-   "date": "2026-11-01",
-   "account_reach": 1189,
-   "views": 2106,
-   "accounts_engaged": 41,
-   "followers_gained": 1,
-   "followers_lost": 0,
-   "followers": 11370,
-   "note": "Revised 2026-11-04 (Metricool now 1189/2106/41)"
-  },
-  {
-   "date": "2026-11-02",
-   "account_reach": 936,
-   "views": 1389,
-   "accounts_engaged": 38,
-   "followers_gained": 4,
-   "followers_lost": 8,
-   "followers": 11365,
-   "note": "Revised 2026-11-08 (Metricool views now 1389)"
-  },
-  {
-   "date": "2026-11-03",
-   "account_reach": 1273,
-   "views": 1658,
-   "accounts_engaged": 34,
-   "followers_gained": 9,
-   "followers_lost": 0,
-   "followers": 11373,
-   "note": "Revised 2026-11-06 (Metricool now 1273/1658/34)"
-  },
-  {
-   "date": "2026-11-04",
-   "account_reach": 791,
-   "views": 998,
-   "accounts_engaged": 25,
-   "followers_gained": 1,
-   "followers_lost": 2,
-   "followers": 11371,
-   "note": "Revised 2026-11-07 (Metricool now 791/998/25)"
-  },
-  {
-   "date": "2026-11-05",
-   "account_reach": 167,
-   "views": 149,
-   "accounts_engaged": 10,
-   "followers_gained": 0,
-   "followers_lost": 0,
-   "followers": 11371,
-   "note": "Revised 2026-11-08 (149 views, 10 engaged)"
-  },
-  {
-   "date": "2026-11-06",
-   "account_reach": 260,
-   "views": 364,
-   "accounts_engaged": 7,
-   "followers_gained": 1,
-   "followers_lost": 1,
-   "followers": 11370,
-   "note": "Revised 2026-11-09 (Metricool now 260/364/7)"
-  },
-  {
-   "date": "2026-11-07",
-   "account_reach": 189,
-   "views": 264,
-   "accounts_engaged": 9,
-   "followers_gained": 3,
-   "followers_lost": 2,
-   "followers": 11373,
-   "note": "Revised 2026-11-10 (Metricool now 189/264/9)"
-  },
-  {
-   "date": "2026-11-08",
-   "account_reach": 783,
-   "views": 987,
-   "accounts_engaged": 17,
-   "followers_gained": 11,
-   "followers_lost": 1,
-   "followers": 11377,
-   "note": "Revised 2026-11-11 (783/987/17 +11 -1)"
-  },
-  {
-   "date": "2026-11-09",
-   "account_reach": 609,
-   "views": 706,
-   "accounts_engaged": 13,
-   "followers_gained": 3,
-   "followers_lost": 0,
-   "followers": 11385,
-   "note": "Revised 2026-11-11 (609/705/10 +3 -0)"
-  },
-  {
-   "date": "2026-11-10",
-   "account_reach": 216,
-   "views": 301,
-   "accounts_engaged": 10,
-   "followers_gained": 0,
-   "followers_lost": 0,
-   "followers": 11384,
-   "note": "Revised 2026-11-13 (216/301/10)"
-  },
-  {
-   "date": "2026-11-11",
-   "account_reach": 235,
-   "views": 279,
-   "accounts_engaged": 6,
-   "followers_gained": 0,
-   "followers_lost": 2,
-   "followers": 11383,
-   "note": "Revised 2026-11-14 (235/279/6, +0 -2)"
-  },
-  {
-   "date": "2026-11-12",
-   "account_reach": 2246,
-   "views": 2686,
-   "accounts_engaged": 76,
-   "followers_gained": 2,
-   "followers_lost": 4,
-   "followers": 11383,
-   "note": "Revised 2026-11-15 (2246/2686/76, +2 -4)"
-  },
-  {
-   "date": "2026-11-13",
-   "account_reach": 1194,
-   "views": 1545,
-   "accounts_engaged": 32,
-   "followers_gained": 4,
-   "followers_lost": 1,
-   "followers": 11389,
-   "note": "Revised 2026-11-16 (1194/1545/32)"
-  },
-  {
-   "date": "2026-11-14",
-   "account_reach": 2363,
-   "views": 361,
-   "accounts_engaged": 58,
-   "followers_gained": 5,
-   "followers_lost": 6,
-   "followers": 11384,
-   "note": "Revised 2026-11-16 (2363/361/58 +5 -6); views 361 equals 11-15 views — views likely wrong"
-  },
-  {
-   "date": "2026-11-15",
-   "account_reach": 275,
-   "views": 361,
-   "accounts_engaged": 10,
-   "followers_gained": null,
-   "followers_lost": null,
-   "followers": null,
-   "note": "Likely incomplete: followers missing"
-  },
-  {
-   "date": "2026-11-17",
-   "account_reach": 45,
-   "views": 597,
-   "accounts_engaged": 10,
-   "followers_gained": 3,
-   "followers_lost": 2,
-   "followers": 11384,
-   "note": "Revised 2026-11-19"
-  },
-  {
-   "date": "2026-11-18",
-   "account_reach": 45,
-   "views": 74,
-   "accounts_engaged": 1,
-   "followers_gained": null,
-   "followers_lost": null,
-   "followers": null,
-   "note": "Likely incomplete"
-  }
- ],
- "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
- "planned_midday": [
-  {
-   "idea": "آموزش: امپدانس باند (اهم) یعنی چی؟ 2، 3 یا 4 اهم و ربطش به پخش و آمپ",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: بلوتوث پخش ماشین قطع و وصل میشه؟ چند راه حل ساده",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: کانال آمپلی فایر و بریج کردن یعنی چی؟ (ساده، با یک شکل)",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: شارژر گوشی چند وات بگیرم؟ (W، PD و ربطش به کابل)",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: تایم آلاینمنت پخش ماشین یعنی چی و چطوری تنظیمش کنیم",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: کارپلی و اندروید اتو چیه؟ با سیم یا بی سیم و چی لازم داره",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: باتری گوشی رو چطوری سالم نگه داریم (دما، شارژ تا 80٪، شارژ شبانه) — فقط از صفحه پشتیبانی رسمی سازنده",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: فرق Bluetooth 5.x و Auracast چیه؟ پخش همزمان روی چند اسپیکر",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: کواکسیال یا کامپوننت؟ فرقشون چیه و نصب کدوم راحت تره",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: چرا محل نصب تیوتر روی صدا اثر داره؟",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: بلوتوث 10 متر یعنی چی و چرا دیوار بردش رو کم می کنه؟",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: 2.4GHz یا 5GHz؟ کدوم باند وای فای برای کجای خونه",
-   "type": "carousel"
-  },
-  {
-   "idea": "آموزش: گین آمپ ماشین چیه و چرا ولوم نیست؟ (تنظیم ساده و ایمن)",
-   "type": "carousel"
-  }
- ],
- "hook_rule": "Mohammad 2026-11-07: NEVER use «اشتباه نخر» / «اشتباه نکن» (or any «X رو اشتباه ...» phrasing) in hooks, titles, covers or captions. Every day research fresh hook formulas (part H) and use a hook TYPE not used in the last 5 feed entries; log 'hook' and 'hook_type' on every feed entry.",
- "hook_bank": [
-  {
-   "type": "question",
-   "template": "جای/سایز/نوع X ماشینت/خونه ت چیه؟",
-   "example": "جای باند ماشینت چند سانته؟ 13 یا 16؟"
-  },
-  {
-   "type": "pre-emptive",
-   "template": "داری X می خری؟ اول اینو چک کن",
-   "example": "داری آمپ می خری؟ اول این عدد رو ببین"
-  },
-  {
-   "type": "contrarian",
-   "template": "همه میگن X، ولی ...",
-   "example": "همه میگن وات بیشتر بهتره؛ ولی برای پخش فابریک نه"
-  },
-  {
-   "type": "simplify",
-   "template": "برای Y لازم نیست X، فقط Z",
-   "example": "برای صدای بهتر لازم نیست پخش رو عوض کنی"
-  },
-  {
-   "type": "numbered",
-   "template": "2 عدد که قبل از خرید X باید بدونی",
-   "example": "2 عدد روی جعبه باند که مهمه"
-  },
-  {
-   "type": "result-first",
-   "template": "نتیجه رو اول بگو، بعد چطوری",
-   "example": "صدای بلندتر با همون پخش فابریک"
-  },
-  {
-   "type": "time-compressed",
-   "template": "X رو در 15 ثانیه یاد بگیر",
-   "example": "انتخاب ساب ووفر در 15 ثانیه"
-  },
-  {
-   "type": "insider",
-   "template": "چیزی که روی جعبه X نمی نویسن / کمتر کسی میگه",
-   "example": "این عدد روی جعبه باند از وات مهم تره"
-  },
-  {
-   "type": "scenario/POV",
-   "template": "وقتی X رو خریدی و ...",
-   "example": "باند 16 سانت خریدی و جا نشد؟"
-  },
-  {
-   "type": "quiz/interaction",
-   "template": "حدس بزن کدوم ...؟ / تو کدوم رو برمیداری؟",
-   "example": "کدوم برای ماشین تو؟ کامنت کن 1 یا 2"
-  },
-  {
-   "type": "checklist",
-   "template": "قبل از X: چک لیست N تایی",
-   "example": "قبل از خرید باند: چک لیست 3 تایی"
-  },
-  {
-   "type": "before-after",
-   "template": "قبل از X در برابر بعد از X",
-   "example": "صدای پخش فابریک، قبل و بعد از ساب"
-  },
-  {
-   "type": "cost-of-inaction",
-   "template": "هر بار X، داری Y رو از دست میدی",
-   "example": "هر بار با پخش فابریک بلند می کنی، داری توان رو هدر میدی"
-  },
-  {
-   "type": "curiosity-gap",
-   "template": "کسی بهت نمیگه X",
-   "example": "کسی بهت نمیگه اسپیکر کوچیک چطوری بلند میشه"
-  },
-  {
-   "type": "send-this (DM-trigger)",
-   "template": "اینو برای کسی بفرست که ...",
-   "example": "اینو برای کسی بفرست که میگه اینترنت کنده"
-  },
-  {
-   "type": "hyper-specific relatable",
-   "template": "اگه تا حالا X شده، این برای توئه",
-   "example": "اگه صندوقت جای ساب نداره، این برای توئه"
-  },
-  {
-   "type": "statistic-first",
-   "template": "یک عدد واقعی از صفحه محصول، بعد معنیش",
-   "example": "ساب 12 اینچ با 8.3 سانت عمق"
-  },
-  {
-   "type": "honest/vulnerability",
-   "template": "بذار رک بگم: X",
-   "example": "بذار رک بگم: کامپوننت بدون آمپ صدای کم جونی میده"
-  },
-  {
-   "type": "clear premise",
-   "template": "موضوع و نتیجه ویدیو رو صاف تو جمله اول بگو، بدون مقدمه",
-   "example": "یه آمپ برای باند جلو و ساب، روی همون پخش فابریک"
-  },
-  {
-   "type": "spec showdown (split-screen)",
-   "template": "«عدد A یا عدد B؟ X فقط <عدد> نیست» — دو مدل کنار هم، فرق واقعی در یک خط",
-   "example": "60 وات یا 70 وات؟ آمپ 4 کانال فقط وات نیست"
-  },
-  {
-   "type": "pattern-then-break",
-   "template": "اول یه الگوی آشنا رو نشون بده، بعد بشکنش: «همه باند رو عوض می کنن... ولی صدا هنوز از پایینه»",
-   "example": "باند نو گرفتی ولی صدا هنوز از پایین پاته؟"
-  },
-  {
-   "type": "what-if",
-   "template": "اگه بگم X که فکر می کنی، برعکسه چی؟",
-   "example": "اگه بگم باند پرواتتر همیشه بلندتر نیست چی؟"
-  },
-  {
-   "type": "obscured/label reveal",
-   "template": "روی جعبه نوشته X؛ واقعیش چنده؟ (بخشی از محصول/برچسب پوشیده و در کمتر از 2 ثانیه باز میشه)",
-   "example": "روی ساب نوشته 1000W؛ توان واقعیش چنده؟"
-  }
- ],
- "hook_bank_sources": [
-  "https://www.opus.pro/blog/instagram-reels-hook-formulas",
-  "https://instantdm.com/blog/10-instagram-hook-templates-that-get-500k-views-and-the-bad-versions-that-get-50",
-  "https://oakgen.ai/blog/instagram-carousel-first-slide-hooks",
-  "https://www.creatorsjet.com/blog/instagram-reel-hooks",
-  "https://blitzcutai.com/blog/best-instagram-reels-hooks-2026",
-  "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-11: vulnerability, pattern-then-break)",
-  "https://nestscale.com/?p=47200 (2026-11-12: clear premise, result-first, pattern interrupt)",
-  "https://www.influencers-time.com/spec-comparison-reels-the-split-screen-brief-driving-convers/ (2026-11-13: split-screen spec comparison)",
-  "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-14: question, pattern-then-break, cold open)",
-  "https://www.opus.pro/blog/instagram-reels-hook-formulas",
-  "https://blitzcutai.com/blog/visual-hooks-instagram-reels",
-  "https://easyreels.io/blog/reel-hooks-first-three-seconds"
- ],
- "midday_rule": "2026-11-11 Mohammad: «دیگه پست های اسلایدی نده برای صبح فقط همون ریل و استوری کافیه» — NO midday carousel any more (part E cancelled). Daily output = evening reel (auto or manual) + story only.",
- "story_rule": "2026-11-13 Mohammad: daily story = product INFOGRAPHIC made with tools/infostory.py (1080x1920, Laleh colours, extra graphic elements). Only two styles, alternate day by day: 'callout' (BOYA Magic-05 look: product centre, 6 spec cards with leader lines) and 'hud' (Pioneer GM-E7002 look: title, HUD row [main value]+pulse+gauge, 5-bar hologram chart with last bar highlighted, product on grid floor with rings, 3-4 chips). Do not use story.py any more. Log 'style' on each story entry. | 2026-11-15 Mohammad: «استوری مرتبط با ریل امروز باشه برای هر روز مرتبط بده» — every daily story is about one product FROM TODAY'S EVENING REEL (tag «از ریل امشب»); the 21-day repeat and category-rotation rules no longer apply to stories. | 2026-11-15 Mohammad found the callout/hud infographics not creative enough («طرح خلاقانه تری نداری اصلا خوب نیست»); shown 3 new concepts from tools/creative.py (poster, versus, night) and chose «۲ و ۳ یکی درمیون»: from now on every daily story is rendered with tools/creative.py, alternating 'poster' and 'night' (samples: stories/2026-11-15/creative/poster.json, night.json). infostory.py callout/hud is no longer used. | 2026-11-15 Mohammad objected to the «از ریل امشب» pill on the story: no tag on stories (leave 'tag' empty); the poster now always shows brand + model under the headline."
+  "_note": "History of everything published or scheduled on Instagram @lalehstoree. The daily job MUST read this before choosing content and MUST append to it after scheduling. Never repeat a topic/angle; a product may reappear only after 30 days and only with a new angle.",
+  "feed": [
+    {
+      "date": "2026-10-25",
+      "type": "carousel",
+      "topic": "محصولات جدید سیستم صوتی خودرو",
+      "products": [
+        "JBL Club 64C",
+        "JBL GX9638",
+        "Infinity Reference 6530CX",
+        "JBL Stage 122"
+      ],
+      "style": "light"
+    },
+    {
+      "date": "2026-10-26",
+      "type": "reel",
+      "topic": "راهنمای سیستم صوتی ماشین: چه سیستمی ببندیم؟",
+      "products": [
+        "JBL Club 64C",
+        "JBL GX9638",
+        "JBL Concert A704",
+        "Infinity Alpha 2804A",
+        "JBL Stage 102",
+        "JBL Stage 122"
+      ],
+      "style": "light"
+    },
+    {
+      "date": "2026-10-27",
+      "type": "carousel",
+      "topic": "میکروفون های یقه ای بویا",
+      "products": [
+        "BOYA Magic-05",
+        "BOYA Mini 2-02",
+        "BOYA Omic U",
+        "BOYA BY-V20"
+      ],
+      "style": "light"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "reel",
+      "topic": "محافظ برق رو اشتباه نخر! (کدوم محافظ برای کدوم وسیله)",
+      "products": [
+        "محافظ یخچال 2 خانه پارت الکتریک",
+        "محافظ کولر گازی 16 آمپر",
+        "محافظ پکیج 10 آمپر",
+        "محافظ 4 خانه کامپیوتر"
+      ],
+      "style": "collage",
+      "folder": "posts/2026-10-28-power"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "post-video",
+      "topic": "مقاله: Aura Studio 5 یا Aura Studio 4",
+      "products": [
+        "Harman Kardon Aura Studio 5"
+      ],
+      "article": "https://lalehstore.com/aura-studio-5-vs-4/",
+      "style": "cinema",
+      "folder": "posts/sample-cinema",
+      "music": "Lofi Sunset — Neko Fuzz",
+      "note": "replaced stop-motion version with cinema.py version on 2026-10-29"
+    },
+    {
+      "date": "2026-10-31",
+      "type": "reel",
+      "manual": true,
+      "topic": "باند بیضی 6×9: جی بی ال یا کاروزریا؟ (آمپ داری یا نه)",
+      "products": [
+        "JBL Stage3 9637",
+        "Carozzeria CRX-6970"
+      ],
+      "style": "studio",
+      "music": "suggested in app: house/drive instrumental",
+      "folder": "posts/2026-10-31-oval",
+      "video": "oval-reel.mp4",
+      "note": "replaced the Zenon/Kenwood reel at Mohammad's request"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "post-video",
+      "topic": "کدوم مودم برای خونه تو؟ ADSL یا VDSL",
+      "products": [
+        "TP-Link TD-W8961N",
+        "D-Link DSL-124",
+        "TP-Link TD-W9960"
+      ],
+      "style": "studio",
+      "folder": "posts/2026-10-29-modem",
+      "note": "moved from 2026-10-29 (Thursday is not a post day)",
+      "music": "Flow State — Lightbox Music",
+      "video": "modem-v3.mp4"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "reel",
+      "topic": "برق رفت؟ چراغ شارژی اشتباه نخر (کدوم چراغ برای کجا: داخل خونه / حیاط / قطعی طولانی و سفر)",
+      "products": [
+        "Porodo PD-LSMLJTFL",
+        "Porodo PD-LSSLRLMP",
+        "KEYANG KY-200W"
+      ],
+      "style": "studio",
+      "music": "Power On (Instrumental) — Giulio Cercato",
+      "folder": "posts/2026-11-02-outage",
+      "video": "outage-reel.mp4",
+      "metricool_id": 413631860
+    },
+    {
+      "date": "2026-11-02",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "news",
+      "topic": "خبر تکنولوژی: سامسونگ Galaxy Buds On، اولین هندزفری گیره ای (Open-Ear)",
+      "products": [],
+      "sources": [
+        "https://audioxpress.com/news/samsung-expands-galaxy-buds-family-with-first-open-ear-clip-design"
+      ],
+      "style": "studio",
+      "folder": "posts/2026-11-02-news-buds-on",
+      "video": "news-reel.mp4",
+      "time": "18:00 (today only; 13:00 had passed when the slot was created)",
+      "slides": "slides/slide_01..05.jpg",
+      "note": "first made as news-reel.mp4, replaced by an image carousel (Mohammad 2026-11-02: news/education = image carousels, not reels); news posts dropped afterwards at Mohammad's request (education only)"
+    },
+    {
+      "date": "2026-11-02",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "education",
+      "topic": "آموزش: عدد IP روی گجت ها یعنی چی؟ (IP44 و IP66)",
+      "products": [
+        "KEYANG KY-200W (photo)",
+        "Porodo PD-LSMLJTFL (photo)"
+      ],
+      "sources": [
+        "IEC 60529"
+      ],
+      "style": "slides",
+      "folder": "posts/2026-11-02-edu-ip",
+      "slides": "slides/slide_01..05.jpg",
+      "note": "sample of the education style; Mohammad posts it when he likes (e.g. 2026-11-03 13:00 next to that day's news)"
+    },
+    {
+      "date": "2026-11-03",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "education",
+      "topic": "آموزش: وای فای ضعیفه؟ جای مودم رو عوض کن (وسط خونه، ارتفاع، آنتن عمودی/30 درجه، دور از مایکروویو و کمد)",
+      "products": [
+        "TP-Link TD-W9960 (photo)",
+        "TP-Link TD-W8961N (photo)"
+      ],
+      "sources": [
+        "https://www.tp-link.com/support/faq/455/"
+      ],
+      "style": "slides",
+      "folder": "posts/2026-11-03-edu-router",
+      "slides": "slides/slide_01..05.jpg",
+      "time": "13:00"
+    },
+    {
+      "date": "2026-11-03",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "باند ماشین رو اشتباه نخر: آمپ داری یا نه؟ (بدون آمپ: حساسیت بالا / با آمپ: RMS بالا)",
+      "products": [
+        "JBL Club 6520",
+        "Kenwood KFC-PS1797"
+      ],
+      "style": "studio",
+      "music": "Roadtrip (Instrumental) — Sugartapes",
+      "folder": "posts/2026-11-03-amp",
+      "video": "amp-reel.mp4",
+      "metricool_id": 414919556
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "education",
+      "topic": "آموزش: توان باند RMS یا حداکثر توان؟ (RMS پیوسته، Peak لحظه ای، مثال JBL Club 6520 50W/150W، آمپ برابر یا کمی بیشتر از RMS)",
+      "products": [
+        "JBL Club 6520 (photo)"
+      ],
+      "sources": [
+        "https://orioncaraudio.com/blogs/car-audio/rms-power-explained-the-complete-car-audio-power-guide",
+        "https://lalehstore.com/jbl-club-6520/"
+      ],
+      "style": "slides",
+      "folder": "posts/2026-11-04-edu-rms",
+      "slides": "slides/slide_01..06.jpg",
+      "time": "13:00 (sent 13:07)"
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "میکروفون یقه ای اشتباه نخر: تک نفره یا دو نفره؟ (کدوم بویا برای کدوم ویدیو)",
+      "products": [
+        "BOYA BY-V10 V2.0",
+        "BOYA Mini 2-01"
+      ],
+      "style": "studio",
+      "music": "Mouse In A Kitchen (Instrumental) — Company Money",
+      "folder": "posts/2026-11-04-mic",
+      "video": "mic-reel.mp4",
+      "metricool_id": 416271686
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "education",
+      "topic": "آموزش: پاوربانک 10000mAh واقعا چند بار گوشی رو شارژ می کنه؟ (mAh انرژی نیست، Wh = mAh×3.7/1000، تلفات تبدیل و شارژ، حدود 1.4 بار برای گوشی 18.5Wh)",
+      "products": [],
+      "sources": [
+        "https://service.anker.com/article-description/Why-is-the-Rated-Capacity-of-Power-Banks-Lower-Than-Expected"
+      ],
+      "style": "slides",
+      "folder": "posts/2026-11-05-edu-powerbank",
+      "slides": [
+        "slide_01.jpg",
+        "slide_02.jpg",
+        "slide_03.jpg",
+        "slide_04.jpg",
+        "slide_05.jpg",
+        "slide_06.jpg"
+      ],
+      "time": "13:00"
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "evening",
+      "type": "reel",
+      "manual": true,
+      "category": "product",
+      "topic": "آمپ ماشین رو اشتباه نخر: 2 کانال یا 4 کانال؟ (فقط جلو = 802، سیستم کامل با ساب = 804)",
+      "products": [
+        "Kenwood KAC-PS802EX",
+        "Kenwood KAC-PS804EX"
+      ],
+      "music": "suggested: Drive Instrumental",
+      "folder": "posts/2026-11-05-amp24",
+      "video": "amp24-reel.mp4",
+      "style": "studio",
+      "time": "20:30"
+    },
+    {
+      "date": "2026-11-06",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "education",
+      "topic": "آموزش: صدای ویدیوی گوشی با میکروفون یقه ای (روی سینه 20-30cm از دهان، یقه بدون درز کنارتر، خش خش لباس و حلقه سیم، بادگیر خزدار و نصب برعکس، Omni و محیط ساکت)",
+      "products": [
+        "BOYA Mini 2-01 (photo)"
+      ],
+      "sources": [
+        "https://de.rode.com/blog/all/How-To-Use-Lavalier-Mic",
+        "https://rode.com/blog/all/lavalier-mounting-best-practices"
+      ],
+      "style": "slides",
+      "folder": "posts/2026-11-06-edu-lavmic",
+      "slides": "slides/slide_01..06.jpg",
+      "time": "13:00"
+    },
+    {
+      "date": "2026-11-06",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "پخش ماشین رو اشتباه نخر: ساده یا مانیتوردار؟ (فقط صدا و تماس = 720 / نقشه، کارپلی و دوربین = Z7250؛ هر دو تک دین)",
+      "products": [
+        "Pioneer DEH-S720DAB",
+        "Pioneer AVH-Z7250BT"
+      ],
+      "style": "studio",
+      "music": "Late Night Drive (Loop) — Marshall Rogalski",
+      "folder": "posts/2026-11-06-headunit",
+      "video": "headunit-reel.mp4",
+      "metricool_id": 418606379,
+      "time": "20:30"
+    },
+    {
+      "date": "2026-11-07",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "education",
+      "topic": "آموزش: چرا هر کابلی فست شارژ نمی کنه؟ (سرعت = شارژر + گوشی + کابل، USB-A به C حداکثر 15W بدون PD، C به C معمولی 60W/3A، 100W و 240W با 5A و E-marker، کابل بلند کمی کندتر، گواهی USB-IF)",
+      "products": [],
+      "sources": [
+        "https://www.belkin.com/company/blog/usb-cables-ultimate-guide/"
+      ],
+      "style": "slides",
+      "folder": "posts/2026-11-07-edu-cable",
+      "slides": [
+        "slide_01.jpg",
+        "slide_02.jpg",
+        "slide_03.jpg",
+        "slide_04.jpg",
+        "slide_05.jpg",
+        "slide_06.jpg"
+      ],
+      "time": "13:00",
+      "hook": "چرا هر کابلی فست شارژ نمی کنه؟",
+      "hook_type": "question"
+    },
+    {
+      "date": "2026-11-07",
+      "slot": "evening",
+      "type": "reel",
+      "manual": true,
+      "category": "product",
+      "topic": "جای باند ماشینت چند سانته؟ 13 یا 16 (1366 برای جای 13 سانت، عمق 43.7mm / 1666 برای جای 16 سانت، بیس بیشتر)",
+      "products": [
+        "Kenwood KFC-S1366",
+        "Kenwood KFC-S1666"
+      ],
+      "style": "studio",
+      "music": "suggested: Upbeat Drive (instrumental)",
+      "folder": "posts/2026-11-07-speaker-size",
+      "video": "speaker-size-reel.mp4",
+      "cover": "speaker-size-reel-cover.jpg",
+      "time": "20:30",
+      "hook": "جای باند ماشینت چند سانته؟ 13 یا 16؟",
+      "hook_type": "question + time-compressed"
+    },
+    {
+      "date": "2026-11-08",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "education",
+      "topic": "آموزش: فرق باند 2Way و 3Way (ووفر/تیوتر/میدرنج، کراس اوور، تعداد راه ملاک کیفیت نیست)",
+      "hook": "همه میگن 3Way بهتره؛ ولی همیشه نه!",
+      "hook_type": "contrarian",
+      "products": [
+        "Carozzeria CRX-616 (photo)"
+      ],
+      "sources": [
+        "https://ds18.com/pages/coaxials-and-components",
+        "https://www.ooberpad.com/blogs/audio-video-tips/a-customer-asked-us-what-is-the-difference-between-a-2-way-and-3-way-speaker-and-we-said"
+      ],
+      "style": "slides",
+      "folder": "posts/2026-11-08-edu-2way3way",
+      "slides": 6,
+      "time": "13:00"
+    },
+    {
+      "date": "2026-11-08",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "ساب زیر صندلی یا باکس صندوق؟ (بدون آمپ و صندوق لازم = Nakamichi NBF8.1A / آمپ داری و بیس قوی = JBL GT-X1500THI)",
+      "hook": "برای بیس لازم نیست صندوق رو بدی",
+      "hook_type": "simplify",
+      "products": [
+        "Nakamichi NBF8.1A",
+        "JBL GT-X1500THI"
+      ],
+      "style": "studio",
+      "music": "Walk (Instrumental) — Tony Dark Eyes",
+      "folder": "posts/2026-11-08-sub-seat-box",
+      "video": "sub-seat-box-reel.mp4",
+      "time": "20:30",
+      "metricool_id": 420533752
+    },
+    {
+      "date": "2026-11-09",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "education",
+      "topic": "آموزش: حساسیت (dB) باند یعنی چی؟ (1W/1m، هر 3dB یعنی دو برابر توان، پخش بدون آمپ، مثال JBL Club 6520 92dB و KFC-S1366 89dB)",
+      "hook": "با پخش فابریک، این عدد از وات مهم تره",
+      "hook_type": "insider",
+      "products": [
+        "JBL Club 6520 (photo)"
+      ],
+      "sources": [
+        "https://www.cambridgeaudio.com/eur/en/faqs/what-meant-speaker-sensitivity",
+        "https://bestcaraudio.com/car-audio-masterclass-101-8-speakers-power-and-spl",
+        "https://lalehstore.com/jbl-club-6520/",
+        "https://lalehstore.com/kenwood-kfc-s1366/"
+      ],
+      "style": "slides",
+      "folder": "posts/2026-11-09-edu-sensitivity",
+      "slides": 6,
+      "time": "13:00"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "اسپیکر برای دورهمی: سول یا وایب پرودو؟ (رادیو، فلش و 4 ساعت = Soul / 40 وات، شارژ گوشی و micro SD = Vibe)",
+      "hook": "اسپیکر برای دورهمی می خری؟ اول این 15 ثانیه رو ببین",
+      "hook_type": "pre-emptive",
+      "products": [
+        "Porodo SoundTec Soul",
+        "Porodo SoundTec Vibe PD-STVBPSPK-BK"
+      ],
+      "style": "studio",
+      "music": "Colors (Instrumental) — Yosi Mesbah",
+      "folder": "posts/2026-11-09-party-speaker",
+      "video": "party-speaker-reel.mp4",
+      "time": "20:30",
+      "metricool_uuid": "8638883819571134978"
+    },
+    {
+      "date": "2026-11-10",
+      "slot": "midday",
+      "type": "carousel",
+      "manual": true,
+      "category": "education",
+      "topic": "آموزش: تست درست سرعت اینترنت (اول با کابل، قطع مصرف بقیه دستگاه ها، 3 بار تست و میانگین، ساعت شلوغ و سرور دور، جای تست وای فای)",
+      "hook": "اینو برای کسی بفرست که میگه اینترنت کنده",
+      "hook_type": "send-this (DM-trigger)",
+      "products": [],
+      "sources": [
+        "https://www.tp-link.com/us/support/faq/3336",
+        "https://www.compareinternet.com/blog/why-do-speed-tests-give-different-results/"
+      ],
+      "style": "slides",
+      "folder": "posts/2026-11-10-edu-speedtest",
+      "slides": [
+        "slide_01.jpg",
+        "slide_02.jpg",
+        "slide_03.jpg",
+        "slide_04.jpg",
+        "slide_05.jpg",
+        "slide_06.jpg"
+      ],
+      "time": "13:00"
+    },
+    {
+      "date": "2026-11-10",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "ساب کم عمق 12 اینچ: جی بی ال یا اینفینیتی؟ (آمپ حدود 250 وات = JBL Club WS1200، 92dB / آمپ حدود 400 وات = Infinity Reference 123WSL، 85dB؛ هر دو حدود 8.3 سانت عمق و 2/4 اهم)",
+      "hook": "ساب 12 اینچ با 8.3 سانت عمق",
+      "hook_type": "result-first",
+      "products": [
+        "JBL Club WS1200",
+        "Infinity Reference 123WSL"
+      ],
+      "style": "studio",
+      "music": "Hypnotized (Instrumental) — Company Money",
+      "folder": "posts/2026-11-10-slim-sub",
+      "video": "slim-sub-reel.mp4",
+      "time": "20:30",
+      "metricool_id": 422806461
+    },
+    {
+      "date": "2026-11-11",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "کامپوننت جلو بعد از آمپ: جی بی ال 609 یا کنوود 170C؟ (جای 16 سانت و صدای بلندتر = JBL GTO609C، 92dB و 3 اهم، 90W RMS / جای 17 سانت و بیس پرتر = Kenwood KFC-PS170C، 80W RMS، 86dB، عمق 56mm)",
+      "hook": "آمپ بستی؟ حالا نوبت کامپوننته",
+      "hook_type": "scenario/POV",
+      "products": [
+        "JBL GTO609C",
+        "Kenwood KFC-PS170C"
+      ],
+      "style": "studio",
+      "music": "Made It Out (Instrumental) — Robin-Huws",
+      "folder": "posts/2026-11-11-component-609-170c",
+      "video": "component-reel.mp4",
+      "time": "20:30",
+      "metricool_id": 424329318
+    },
+    {
+      "date": "2026-11-12",
+      "slot": "evening",
+      "type": "reel",
+      "category": "guide",
+      "topic": "آمپ بدون تعویض پخش فابریک: ورودی سطح بلندگوی پایونیر GM-A6704 (حسگر سیگنال، 60W RMS x4 در 4 اهم) + دو باند جلو و ساب Infinity Alpha 121W روی کانال های بریج (190W RMS در 4 اهم) + چک لیست نصب (سیم 8 گیج، دو فیوز 25A، سیم منفی کوتاه، ملاک RMS)",
+      "hook": "برای آمپ لازم نیست پخش فابریک رو عوض کنی",
+      "hook_type": "simplify",
+      "products": [
+        "Pioneer GM-A6704",
+        "Infinity Alpha 121W"
+      ],
+      "sources": [
+        "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-6704/",
+        "https://lalehstore.com/infinity-alpha-121w/"
+      ],
+      "style": "studio",
+      "music": "suggested: deep house (instrumental)",
+      "folder": "posts/2026-11-12-amp-stock-headunit",
+      "video": "amp-reel.mp4",
+      "time": "20:30",
+      "manual": true
+    },
+    {
+      "date": "2026-11-13",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "آمپ 4 کانال: کنوود 8400 یا پایونیر 7004؟ (دو ساب یا پخش فابریک = Kenwood KAC-HQR8400: بریج 2×180W، ورودی سطح بلندگو، HPF/LPF 50-200Hz / چهار باند با توان بیشتر = Pioneer GM-E7004: 70W RMS هر کانال در 4 اهم، 4×95W در 2 اهم، کلاس AB؛ ملاک RMS نه 720W)",
+      "hook": "60 وات یا 70 وات؟ آمپ 4 کانال فقط وات نیست",
+      "hook_type": "spec showdown (split-screen)",
+      "products": [
+        "Kenwood KAC-HQR8400",
+        "Pioneer GM-E7004"
+      ],
+      "style": "studio",
+      "music": "Move Ur Body (Instrumental) — half.cool",
+      "folder": "posts/2026-11-13-amp4-8400-7004",
+      "video": "amp4-reel.mp4",
+      "metricool_uuid": "5973742050486862810"
+    },
+    {
+      "date": "2026-11-14",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "کامپوننت 16 سانت: اینفینیتی Alpha 650C یا جی بی ال Stage1 62CF؟ (روی رادیو پخش، آمپ بعدا = 650C: حساسیت 91dB، 45W RMS، تیوتر PEI و کراس اوور جدا / نصب ساده و توان بیشتر = 62CF: 80W RMS مجموع ست، کراس اوور داخل خطی، آداپتور تیوتر؛ تیوتر بالای درب، رکاب آینه یا داشبورد)",
+      "hook": "صدای خواننده از پایین پات میاد؟",
+      "hook_type": "question",
+      "products": [
+        "Infinity Alpha 650C",
+        "JBL Stage1 62CF"
+      ],
+      "sources": [
+        "https://lalehstore.com/infinity-alpha-650c/",
+        "https://lalehstore.com/jbl-stage1-62cf/"
+      ],
+      "style": "studio",
+      "music": "suggested: chill electronic instrumental",
+      "folder": "posts/2026-11-14-component-650c-62cf",
+      "video": "component-reel.mp4",
+      "time": "20:30",
+      "manual": true
+    },
+    {
+      "date": "2026-11-15",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "باند بیضی 6×9 عقب: وات بیشتر یعنی صدای بلندتر؟ (اینفینیتی Primus 693M: حساسیت 93dB، 3 اهم، 60W RMS، آمپ بعدا / کاروزریا CRX-6986: 110W RMS، 90dB، 4Way، از 40Hz، فقط رادیو پخش و نه آمپ؛ ملاک RMS نه 950W)",
+      "hook": "وات بیشتر یعنی صدای بلندتر؟ همیشه نه!",
+      "hook_type": "contrarian",
+      "products": [
+        "Infinity Primus 693M",
+        "Carozzeria CRX-6986"
+      ],
+      "sources": [
+        "https://lalehstore.com/infinity-primus-693m/",
+        "https://lalehstore.com/carozeria-crx-6986/"
+      ],
+      "style": "studio",
+      "music": "Motive (Instrumental) — Giulio Cercato",
+      "folder": "posts/2026-11-15-6x9-693m-6986",
+      "video": "6x9-reel.mp4",
+      "time": "20:30",
+      "metricool_id": 428659213,
+      "metricool_uuid": "6863464156119909835"
+    },
+    {
+      "date": "2026-11-16",
+      "slot": "evening",
+      "type": "reel",
+      "category": "product",
+      "topic": "ساب 12 اینچ اقتصادی: اینفینیتی Primus 1270 یا جی بی ال GX1200؟ (آمپ حدود 300 وات = 1270: 300W RMS، 91dB، کویل 2 اینچ / آمپ حدود 250 وات = GX1200: 250W RMS، 90dB، عمق 15 سانت؛ قانون RMS آمپ = RMS ساب، پیک 1200W/1000W ملاک نیست، LPF حدود 80Hz)",
+      "hook": "ساب 12 اینچ می خری؟ اول آمپت رو ببین",
+      "hook_type": "pre-emptive",
+      "products": [
+        "Infinity Primus 1270",
+        "JBL GX1200"
+      ],
+      "sources": [
+        "https://lalehstore.com/infinity-primus-1270/",
+        "https://lalehstore.com/jbl-gx1200/"
+      ],
+      "style": "studio",
+      "music": "Euphoria Rave (Instrumental) — bbox",
+      "folder": "posts/2026-11-16-sub12-1270-gx1200",
+      "video": "sub12-reel.mp4",
+      "metricool_id": 429676291
+    },
+    {
+      "date": "2026-11-19",
+      "slot": "evening",
+      "type": "reel",
+      "category": "guide",
+      "topic": "آمپ دو کانال پایونیر GM-E7002؛ کاربرد استریو برای یک جفت باند و بریج برای یک ساب ووفر",
+      "hook": "دو خروجی، یک ساب؛ چطوری وصل میشه؟",
+      "hook_type": "curiosity-gap",
+      "products": [
+        "Pioneer GM-E7002"
+      ],
+      "sources": [
+        "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/"
+      ],
+      "style": "studio",
+      "music": "suggested: Synthwave Drive Instrumental",
+      "folder": "posts/2026-11-19-amp-bridge",
+      "video": "amp-reel.mp4",
+      "manual": true,
+      "time": "20:30",
+      "status": "prepared for manual delivery"
+    },
+    {
+      "date": "2026-11-21",
+      "slot": "evening",
+      "manual": true,
+      "type": "reel",
+      "category": "car audio",
+      "topic": "تنظیم سطح تیوتر بر اساس محل نصب",
+      "products": [
+        "JBL Club 64CSQ"
+      ],
+      "hook": "تیوترت دوره؟ سه دسی بل دستته",
+      "hook_type": "result-first",
+      "sources": [
+        "https://lalehstore.com/jbl-club-64csq/"
+      ],
+      "style": "studio",
+      "music": "suggested: House Instrumental",
+      "folder": "posts/2026-11-21-jbl",
+      "video": "reel.mp4",
+      "goal": "sales",
+      "cta": "مدل آمپت رو دایرکت کن",
+      "stock_checked": "2026-11-21T18:23:16.337159+03:30",
+      "stock_evidence": "stock in-stock + add to cart",
+      "status": "prepared for manual delivery"
+    },
+    {
+      "date": "2026-11-22",
+      "slot": "evening",
+      "type": "reel",
+      "category": "car audio",
+      "products": [
+        "Kenwood KDC-X5200BT"
+      ],
+      "topic": "انتخاب پخش برای افزودن آمپ",
+      "hook": "بعداً آمپ می‌بندی؟ خروجی پخش رو بشمار",
+      "hook_type": "checklist",
+      "sources": [
+        "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/"
+      ],
+      "stock_checked": "2026-11-22T21:26:07+03:30",
+      "stock_evidence": "in stock and add-to-cart",
+      "style": "studio",
+      "goal": "sales",
+      "cta": "مدل آمپت رو دایرکت کن",
+      "folder": "posts/2026-11-22-kenwood",
+      "video": "publish.mp4",
+      "music": "Boundless — Eveningland",
+      "time": "21:30",
+      "metricool_id": 437797177,
+      "metricool_uuid": "-8386716506964735572",
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-11-24",
+      "slot": "evening",
+      "type": "reel",
+      "category": "car audio",
+      "topic": "تخفیف بلک‌فرایدی ساب جی‌بی‌ال Club WS1200",
+      "hook": "بلک‌فرایدی به سیستم ماشینت رسید!",
+      "hook_type": "event-announcement",
+      "products": [
+        "JBL Club WS1200"
+      ],
+      "sources": [
+        "https://lalehstore.com/jbl-club-ws1200/"
+      ],
+      "style": "black-friday-black-pink",
+      "music": "Real (Instrumental) — Tony Dark Eyes",
+      "folder": "posts/2026-11-24-black-friday-ws1200",
+      "video": "reel.mp4",
+      "metricool_id": 437856559,
+      "metricool_uuid": "1613278076460352994",
+      "status": "scheduled",
+      "time": "20:30",
+      "stock_checked": "2026-11-22T22:33:00.174698+03:30",
+      "stock_evidence": "stock in-stock; active del/ins sale price",
+      "approved_by_user": true
+    }
+  ],
+  "stories": [
+    {
+      "date": "2026-10-28",
+      "product": "JBL Club 64CSQ",
+      "url": "https://lalehstore.com/jbl-club-64csq/"
+    },
+    {
+      "date": "2026-10-29",
+      "product": "Porodo SoundTec Soul",
+      "url": "https://lalehstore.com/%d8%a7%d8%b3%d9%be%db%8c%da%a9%d8%b1-%d8%a8%d9%84%d9%88%d8%aa%d9%88%d8%ab%db%8c-%d9%82%d8%a7%d8%a8%d9%84-%d8%ad%d9%85%d9%84-%d8%b3%d8%a7%d9%86%d8%af%d8%aa%da%a9-%d9%be%d8%b1%d9%88%d8%af%d9%88-%d9%85%d8%af%d9%84-soundtec-soul/"
+    },
+    {
+      "date": "2026-10-30",
+      "product": "BOYA Mini 2-01",
+      "url": "https://lalehstore.com/boya-mini-2-01/"
+    },
+    {
+      "date": "2026-10-31",
+      "product": "Pioneer DMH-AP6650BT",
+      "url": "https://lalehstore.com/pioneer-dmh-ap6650bt/"
+    },
+    {
+      "date": "2026-11-01",
+      "product": "KEYANG KY-200W solar projector",
+      "url": "https://lalehstore.com/kiang-ky-200w-solar-projector/"
+    },
+    {
+      "date": "2026-11-02",
+      "product": "BOYA BY-V10 V2.0",
+      "url": "https://lalehstore.com/%d9%85%db%8c%da%a9%d8%b1%d9%88%d9%81%d9%88%d9%86-%db%8c%d9%82%d9%87-%d8%a7%db%8c-%d8%a8%d9%88%db%8c%d8%a7-%d9%85%d8%af%d9%84-by-v10-v2/"
+    },
+    {
+      "date": "2026-11-03",
+      "product": "JBL Concert A704",
+      "url": "https://lalehstore.com/jbl-concert-a704/"
+    },
+    {
+      "date": "2026-11-04",
+      "product": "Pioneer DEH-S720DAB",
+      "url": "https://lalehstore.com/pioneer-deh-s720dab/"
+    },
+    {
+      "date": "2026-11-05",
+      "product": "Porodo SoundTec Vibe PD-STVBPSPK-BK",
+      "url": "https://lalehstore.com/%d8%a7%d8%b3%d9%be%db%8c%da%a9%d8%b1-%d8%a8%d9%84%d9%88%d8%aa%d9%88%d8%ab%db%8c-%d9%82%d8%a7%d8%a8%d9%84-%d8%ad%d9%85%d9%84-%d9%be%d8%b1%d9%88%d8%af%d9%88-%d9%85%d8%af%d9%84-soundtec-pd-stvbpspk-bk/"
+    },
+    {
+      "date": "2026-11-06",
+      "product": "Nakamichi NBF8.1A",
+      "url": "https://lalehstore.com/nakamichi-nbf8-1a/"
+    },
+    {
+      "date": "2026-11-07",
+      "product": "Harman Kardon Aura Studio 5",
+      "url": "https://lalehstore.com/harman-kardon-aura-studio-5-speaker/",
+      "folder": "stories/2026-11-07"
+    },
+    {
+      "date": "2026-11-08",
+      "product": "BOYA Magic-05",
+      "url": "https://lalehstore.com/boya-magic-05/",
+      "folder": "stories/2026-11-08"
+    },
+    {
+      "date": "2026-11-09",
+      "product": "Infinity Alpha 603",
+      "url": "https://lalehstore.com/infinity-alpha-603/",
+      "folder": "stories/2026-11-09"
+    },
+    {
+      "date": "2026-11-10",
+      "product": "محافظ پکیج 10 آمپر پارت الکتریک",
+      "url": "https://lalehstore.com/%d9%85%d8%ad%d8%a7%d9%81%d8%b8-%d9%be%da%a9%db%8c%d8%ac-10-%d8%a2%d9%85%d9%be%d8%b1-%d9%be%d8%a7%d8%b1%d8%aa-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%db%8c%da%a9/",
+      "folder": "stories/2026-11-10"
+    },
+    {
+      "date": "2026-11-11",
+      "product": "TP-Link TD-W9960",
+      "url": "https://lalehstore.com/modem-tp-link-td-w9960/",
+      "folder": "stories/2026-11-11"
+    },
+    {
+      "date": "2026-11-12",
+      "product": "Kenwood KDC-X5200BT",
+      "url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/",
+      "folder": "stories/2026-11-12"
+    },
+    {
+      "date": "2026-11-13",
+      "product": "Pioneer GM-E7002",
+      "url": "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/",
+      "folder": "stories/2026-11-13",
+      "style": "classic (story.py)"
+    },
+    {
+      "date": "2026-11-14",
+      "product": "BOYA BY-V20 V2.0",
+      "url": "https://lalehstore.com/%d9%85%db%8c%da%a9%d8%b1%d9%88%d9%81%d9%88%d9%86-%db%8c%d9%82%d9%87-%d8%a7%db%8c-%d8%a8%d9%88%db%8c%d8%a7-%d9%85%d8%af%d9%84-by-v20-v2-0/",
+      "folder": "stories/2026-11-14",
+      "style": "callout"
+    },
+    {
+      "date": "2026-11-15",
+      "product": "Infinity Primus 693M",
+      "category": "car audio",
+      "url": "https://lalehstore.com/infinity-primus-693m/",
+      "folder": "stories/2026-11-15",
+      "style": "poster",
+      "note": "Replaced the JIUJI 63A story (story-jiuji.jpg) the same day at Mohammad's request: story must match today's reel",
+      "file": "creative/poster.jpg",
+      "alt_files": [
+        "creative/night.jpg",
+        "creative/versus.jpg",
+        "story.jpg (hud)"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "product": "Infinity Primus 1270",
+      "category": "car audio",
+      "url": "https://lalehstore.com/infinity-primus-1270/",
+      "folder": "stories/2026-11-16",
+      "style": "night",
+      "file": "story.jpg"
+    },
+    {
+      "date": "2026-11-19",
+      "product": "Pioneer GM-E7002",
+      "url": "https://lalehstore.com/%d8%a2%d9%85%d9%be%d9%84%db%8c-%d9%81%d8%a7%db%8c%d8%b1-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-7002/",
+      "folder": "stories/2026-11-19",
+      "style": "poster",
+      "file": "story.jpg"
+    },
+    {
+      "date": "2026-11-21",
+      "product": "JBL Club 64CSQ",
+      "url": "https://lalehstore.com/jbl-club-64csq/",
+      "tracked_url": "https://lalehstore.com/jbl-club-64csq/?utm_source=instagram&utm_medium=organic_social&utm_campaign=laleh_reels&utm_content=20261121_jbl_club_64csq",
+      "folder": "stories/2026-11-21",
+      "style": "night"
+    },
+    {
+      "date": "2026-11-22",
+      "product": "Kenwood KDC-X5200BT",
+      "url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/",
+      "tracked_url": "https://lalehstore.com/%d8%b6%d8%a8%d8%b7-%da%a9%d9%86%d9%88%d9%88%d8%af-5200/?utm_source=instagram&utm_medium=organic_social&utm_campaign=laleh_reels&utm_content=20261122_kenwood5200",
+      "folder": "stories/2026-11-22",
+      "style": "poster"
+    }
+  ],
+  "articles_used": [
+    "https://lalehstore.com/aura-studio-5-vs-4/"
+  ],
+  "planned_next": [
+    {
+      "idea": "مقاله: بهترین میکروفون بویا برای آیفون و اندروید",
+      "article": "https://lalehstore.com/best-boya-microphones-iphone-android-2025/"
+    },
+    {
+      "idea": "مقاله: معرفی برند بویا",
+      "article": "https://lalehstore.com/boya-brand-introduction/"
+    },
+    {
+      "idea": "سوئیچ شبکه تی پی لینک LS1005G / LS1008G: کی لازمه؟",
+      "note": "2026-11-04: LS1005G and LS1008G out of stock — skip until restocked"
+    },
+    {
+      "idea": "ساب ووفر 10 یا 12 اینچ؟ (از زاویه جدید، نه تکرار ریل راهنما)"
+    },
+    {
+      "idea": "کاربردهای اسپیکر هارمن کاردن در خانه"
+    },
+    {
+      "idea": "اعتمادسازی: بسته بندی و ارسال سفارش (نیاز به فیلم واقعی از محمد)"
+    },
+    {
+      "idea": "تلویزیون معمولی رو هوشمند کن: اندروید باکس (دسته android-tv-box، فقط موجودها)",
+      "note": "2026-11-09: all android boxes out of stock — skip until restocked"
+    },
+    {
+      "idea": "پاوربانک چند میلی آمپر؟ کدوم ظرفیت برای گوشی، کدوم برای سفر و قطعی برق (فقط مدل های موجود)",
+      "note": "2026-11-03: all power banks on the site out of stock — skip until restocked"
+    },
+    {
+      "idea": "سوئیچ شبکه یا مودم دوم؟ کی سوئیچ تی پی لینک لازمه (ادامه پست مودم، فرمت ریل 9:16)",
+      "note": "2026-11-04: LS1005G and LS1008G out of stock — skip until restocked"
+    },
+    {
+      "idea": "آمپ 4 کانال یا 2 کانال؟ کدوم آمپ برای کدوم سیستم (JBL Concert A704 و یک مدل 2 کانال موجود)",
+      "products": [
+        "JBL Concert A704"
+      ]
+    },
+    {
+      "idea": "آنتن یا بلوتوث پخش ضعیفه؟ پخش ساده رو با ساب اکتیو زیر صندلی کامل کن (Nakamichi NBF8.1A + پخش با خروجی ساب)"
+    },
+    {
+      "idea": "اسپیکر خونه: قابل حمل یا خانگی؟ (Harman Kardon Aura Studio در برابر یک اسپیکر قابل حمل موجود)"
+    },
+    {
+      "idea": "تیوتر جدا یا باند کواکسیال؟ کی تیوتر لازمه (فقط مدل های موجود)"
+    },
+    {
+      "idea": "باند جلو یا عقب؛ اول کدوم رو عوض کنم؟ (Kenwood 1676EX جلو + 1666/1366 عقب طبق صفحه محصول)",
+      "products": [
+        "Kenwood KFC-S1676EX",
+        "Kenwood KFC-S1666"
+      ]
+    },
+    {
+      "idea": "محافظ کولر یا محافظ پکیج؟ کدوم محافظ برای زمستون و گاز",
+      "products": [
+        "محافظ پکیج 10 آمپر پارت الکتریک"
+      ]
+    },
+    {
+      "idea": "دو باند 16 سانت با یه پخش: اینفینیتی Alpha 603 یا کنوود 1666؟ (مقایسه حساسیت و توان)",
+      "products": [
+        "Infinity Alpha 603",
+        "Kenwood KFC-S1666"
+      ]
+    },
+    {
+      "idea": "سیم پک آمپ: چرا ضخامت سیم و فیوز نزدیک باتری مهمه؟ (از صفحات محصول سیم پک موجود)"
+    },
+    {
+      "idea": "کامپوننت داری؟ تیوتر رو کجا نصب کنم: بالای درب، رکاب آینه یا داشبورد (از صفحه 170C/609؛ زاویه آموزشی در ریل)"
+    },
+    {
+      "idea": "آمپ 4 کانال برای کامپوننت جلو + باند عقب: کنوود 804 یا JBL A704؟ (بعد از 2026-12-03 برای A704)"
+    },
+    {
+      "idea": "پخش کنوود 5200 یا پایونیر 720؟ پخش تک دین برای سیستمی که بعدا آمپ و ساب میگیره (3 خروجی RCA هر دو؛ بعد از 2026-12-06 برای 720)",
+      "products": [
+        "Kenwood KDC-X5200BT",
+        "Pioneer DEH-S720DAB"
+      ]
+    },
+    {
+      "idea": "آنتن تلویزیون دیجیتال: شبکه ها برفکیه؟ سیماران SMA2013 رومیزی و هوایی (تقویت 32dB، DVB-T2) — دسته جدید",
+      "products": [
+        "Simaran SMA2013"
+      ]
+    },
+    {
+      "idea": "گین آمپ ولوم نیست: تنظیم درست گین و فیلتر HPF/LPF (ریل آموزشی با آمپ موجود)"
+    },
+    {
+      "idea": "آمپ مونو برای ساب چند وات بگیرم؟ (هماهنگ با RMS ساب و 2 یا 4 اهم)",
+      "note": "2026-11-13: no mono amps in stock (JBL/Kenwood/Pioneer/Infinity) — skip until restocked"
+    },
+    {
+      "idea": "محافظ تابلویی 63 آمپر یا محافظ پریزی؟ کی محافظ ورودی کل خونه لازمه (JIUJI 63A در برابر محافظ کولر 16 آمپر پارت؛ فقط از صفحه محصول)",
+      "products": [
+        "JIUJI 63A",
+        "محافظ کولر گازی 16 آمپر پارت الکتریک"
+      ]
+    },
+    {
+      "idea": "باند 16 سانت درب جلو روی پخش ساده: کاروزریا CRX-616 یا اینفینیتی Alpha 6530؟ (3Way در هر دو؛ حساسیت و RMS از صفحه)",
+      "products": [
+        "Carozzeria CRX-616",
+        "Infinity Alpha 6530"
+      ]
+    },
+    {
+      "idea": "ساب 10 اینچ برای صندوق کوچیک: جی بی ال Stage 102 یا یک ساب 10 اینچ موجود دیگه (فقط از صفحه محصول؛ زاویه: فضای صندوق و آمپ)"
+    },
+    {
+      "idea": "باکس بسته یا دریچه دار؟ ساب 12 اینچ توی کدوم باکس (از متن صفحات GX1200 و Primus 1270؛ هوک obscured/label reveal)"
+    },
+    {
+      "idea": "راهنمای انتخاب شارژر بر اساس پورت گوشی؛ فقط محصولات موجود و تکرارنشده"
+    }
+  ],
+  "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
+  "insights": [
+    {
+      "date": "2026-10-31",
+      "period": "2026-10-24..31",
+      "finding": "Best: power-protector 'mistake' reel (reach 234, 5 saves, 3 shares, view rate 43.9%, avg watch 8.4s). Weakest: Aura Studio article reel (reach 41, view rate 30%, avg watch 4.7s). Carousels reached 94-157.",
+      "apply": "Prefer problem/mistake hooks tied to a household or car need («X رو اشتباه نخر», «کدوم X برای کدوم ...») over plain comparisons; first frame must state the problem; keep reels ~15s."
+    },
+    {
+      "date": "2026-11-01",
+      "finding": "Yesterday (10-31) reach 152 / views 198 vs 6-day avg 107 / 195 (+42% / +2%), but identical to 10-30 so possibly incomplete; followers 10-31 no data; last 7 days +9 gained −12 lost. Manual oval comparison reel (JBL vs Carozzeria, 'amp or no amp' problem hook): best view rate yet 49.2%, avg watch 7.0s, reach 127, but 0 saves/0 shares. Power-protector mistake reel still top (reach 246, 3 saves, 5 shares). Aura article reel grew to reach 158 with 3 comments. Story reach returned 0 (data unreliable).",
+      "apply": "Problem hooks hold attention; comparisons need a stronger save/share trigger: end frame with a one-line rule-of-thumb + «ذخیره کن», and share-worthy household topics (power, home network, outages). Today's modem post already scheduled; apply to next post. Tip: re-share the modem reel to story with a poll «خطت ADSL یا VDSL؟» and answer comments in the first hour."
+    },
+    {
+      "date": "2026-11-02",
+      "finding": "Metricool revised 10-31 to reach 576 / views 988 / engaged 18 (7-day avg 177 / 314) and repeats it for 11-01 (likely incomplete); followers 11366. Format split is clear: 9:16 reels (power 604 reach, VR 51.6%; oval 520 reach, VR 53.6%) beat 4:5 post-videos (Aura 162, VR 35.5%; modem 130 after ~14h, VR 36.3%, avg watch 4.8s, 0 saves). Oval comparison drove the 10-31 spike but only 2 saves/0 shares; power-protector mistake reel still the only one with real shares (5).",
+      "apply": "Use 9:16 reel format by default (override the reel/post alternation) until a 4:5 video reaches comparable view rate. Today: household mistake-hook reel «برق رفت؟ چراغ شارژی اشتباه نخر» (3 lights, 3 places) with save CTA on the end frame. Tip for Mohammad: share the reel to story with a poll «برق محله تون زیاد میره؟» and answer comments in the first hour."
+    },
+    {
+      "date": "2026-11-03",
+      "finding": "11-01 (last complete day): reach 675 / views 2104 / +1 −0, vs 7-day avg ~120 / ~208 (×5.6 / ×10). 11-02 likely incomplete (reach repeats 675; views 1041). Power-protector mistake reel exploded late: reach 1610, views 1913, 20 saves, 23 shares, VR 55.1%, avg watch 7.7s — the household 'which X for which device' list is our most shareable format. Oval comparison 1232 reach, 4 saves. Modem 4:5 post weakest (178 reach, VR 33.3%). Outage reel slow start (reach 25 after ~14h, VR 43.3%). Midday carousels of 11-02 (IP, Buds On) not in Metricool data → not posted yet. Story reach 0 on 11-02.",
+      "apply": "Keep the 9:16 'mistake + which X for which situation' list format with a closing rule-of-thumb frame (save trigger). Today: evening «باند ماشین رو اشتباه نخر: آمپ داری یا نه؟» ending on a one-line rule; midday household Wi-Fi tip carousel (share-worthy). Power banks all out of stock, so that idea is parked. Tip for Mohammad: post the 13:00 carousel on time and re-share the power-protector reel to story (it is still growing)."
+    },
+    {
+      "date": "2026-11-04",
+      "finding": "11-03 (likely incomplete): reach 499 / views 723 vs 7-day avg (10-27..11-02) ~404 / ~570 (+24% / +27%). 11-02 revised: reach 936, +4 −8 followers (11365). Power-protector mistake reel still the leader (reach 1877, 25 saves, 26 shares, VR 55%); oval comparison 1434 reach. Amp reel (11-03) reach 153 after ~16h but highest view rate so far (59.3%, avg watch 6.8s). Router carousel (11-03 midday) was posted: reach 58, 1 save. Stories reach 0–9.",
+      "apply": "Keep the 'X رو اشتباه نخر + which X for which situation' reel with a closing rule frame; switch category from car audio (3 car posts in a row) to content-creator mics: «میکروفون یقه ای اشتباه نخر: تک نفره یا دو نفره؟» (BOYA BY-V10 V2.0 vs Mini 2-01). Midday: RMS vs peak explainer (save trigger). Tip for Mohammad: post the carousel promptly at 13:00 and answer comments in the first hour; carousels need the first-hour push to get reach."
+    },
+    {
+      "date": "2026-11-05",
+      "finding": "11-04 likely incomplete (repeats 11-03 672/847). 11-03 (last complete): reach 672 / views 847 / +9 −0 (11373) vs 7-day avg 10-27..11-02 ~404 / ~665 (+66% / +27%). Amp 'mistake' reel (11-03) took off: reach 1145, 18 saves, 2 shares, VR 58.4% (best VR yet). Power-protector reel 2082 reach, 30 saves, 26 shares; oval 1560. Mic reel (11-04) slow start: reach 74, VR 41.9%, avg watch 5.6s after ~14h. Carousels: router (11-03) reach 159, RMS (11-04) reach 42 — education carousels reach ~10-15% of the reels. Stories reach 0–8.",
+      "apply": "Car-audio 'X رو اشتباه نخر + which X for which system' with a rule frame is our best performer: today's manual evening reel «آمپ ماشین رو اشتباه نخر: 2 کانال یا 4 کانال؟» (Kenwood KAC-PS802EX vs PS804EX). Midday: household power-bank mAh/Wh explainer (share-worthy everyday topic). Tip: re-share the amp reel to story with a poll «آمپ داری؟» and pin the power-protector reel to the profile."
+    },
+    {
+      "date": "2026-11-06",
+      "finding": "11-05 likely incomplete (reach 121, views repeat 89, followers missing). 11-04 (last complete for reach): reach 791 / +1 −2 (11371) vs 7-day avg 10-28..11-03 ~576 (+37%); its views (89) look incomplete. 11-03 revised up to reach 1273 / views 1658. Car-audio 'mistake' reels lead: oval comparison 1632 reach (VR 54%), amp reel 1161 reach, 18 saves, 4 shares, VR 58% (best VR). Mic reel (11-04) weak: 137 reach, VR 38%, 0 saves — non-car product reels underperform. Carousels: router 237 reach / 7 saves, RMS 65 reach. 11-05 manual amp24 reel and power-bank carousel not in data yet (not posted or not synced). Stories reach 0–6.",
+      "apply": "Stay with the car-audio 'X رو اشتباه نخر + which X for which need' reel and a closing rule frame, new subcategory head units: «پخش ماشین رو اشتباه نخر: ساده یا مانیتوردار؟» (Pioneer 720 vs Z7250). Midday: lavalier-mic placement tips (practical how-to with save trigger). Tip: post yesterday's manual reel/carousel if not done, and put a poll «پخشت مانیتور داره؟» on the story re-share of tonight's reel."
+    },
+    {
+      "date": "2026-11-07",
+      "finding": "11-06 likely incomplete (reach 214 / views 276, followers missing). 11-05 revised to reach 167 / views 146 / +0 −0 (11371). Both days ~−70% vs the 7-day avg (~650-670 reach) — 2 days in a row >50% down. Cause: no new reel took off; 11-05 manual amp24 reel and the 11-05/11-06 midday carousels are not in Metricool data (probably not posted). Head-unit reel (11-06) reach 145, VR 51.8% after ~14h. Leaders still oval comparison (1695 reach) and amp 'mistake' reel (1178 reach, 18 saves, VR 58%). Mic reel weakest (150, VR 37.6%). Router carousel 248 reach / 7 saves; RMS 90.",
+      "apply": "Car-audio 'mistake + which X for which car' reel tonight: «سایز باند رو اشتباه نخر: 13 یا 16 سانت؟» (Kenwood 1366 vs 1666), problem in frame 1 + rule frame. Midday: fast-charge cable explainer (everyday topic). Tip: post the manual items on time — missing manual posts are the main reason reach dropped."
+    },
+    {
+      "date": "2026-11-07",
+      "weekly": true,
+      "finding": "Week 10-31..11-06: best = oval 6x9 comparison (1695 reach, VR 54.5%) and amp 'mistake' reel (1178 reach, 18 saves); worst = mic reel (150) and modem 4:5 post (192, VR 34%). Education carousels reach ~5-20% of the best reels (router 248/7 saves, RMS 90); other carousels not in data. Reach peaked 11-01..11-03 (936-1273/day) then fell to ~170-210 on 11-05/06; followers 11365 → 11371 (net +6).",
+      "apply": "Next week: every manual post on time (Thu/Sat reels and all 13:00 carousels), keep car-audio 'mistake' reels on auto days, and add a save trigger frame to every carousel cover."
+    },
+    {
+      "date": "2026-11-07",
+      "finding": "Mohammad banned the «اشتباه نخر» hook phrasing (overused: 7 of the last 8 evening reels).",
+      "apply": "From now on: daily hook research (part H), rotate hook types from hook_bank, never repeat a hook type within 5 feed posts. Today's reel re-rendered with «جای باند ماشینت چند سانته؟ 13 یا 16؟»."
+    },
+    {
+      "date": "2026-11-08",
+      "finding": "11-07 likely incomplete (reach 169 / views 213, followers missing). 11-06 revised to 169 / 364 / +1 -1 (11370). Reach ~-75% vs 7-day avg (~672) on 11-05, 11-06, 11-07. No new reel took off: 11-07 question-hook reel 133 reach, VR 42.7% after <1 day; 11-06 head-unit 183, VR 51%; leader still amp reel 11-03 (1187 reach, 18 saves, 5 shares, VR 58.1%). Manual 11-05 amp24 reel and 11-05/06/07 midday carousels absent from Metricool data.",
+      "apply": "Evening: car-audio category with a new angle (under-seat vs box sub, simplify hook, closing rule frame). Midday: contrarian myth-buster on 2Way/3Way with a save CTA. Tip: post manual items on time; re-share tonight's reel to story with a poll."
+    },
+    {
+      "date": "2026-11-09",
+      "finding": "11-08 likely incomplete (235/332 = identical to 11-07, followers missing). 11-07 revised 235/332/9 +3 -2 (11373); 11-06 260/364/7. Reach about -66% vs 7-day avg (~693) on 11-07 and 11-08; low since 11-05. Sub reel 11-08: reach 191, VR 62.7% (best VR of the week, young post); question reel 11-07 VR 39.2% reach 155. Leader still amp reel 11-03 (1189 reach, 18 saves, 5 shares, VR 58.2%). 11-06 mic carousel only appeared on 11-08 (35 reach); 11-07/11-08 midday carousels and 11-05 manual reel not in data. Last 4 evening reels all car audio with no breakout.",
+      "apply": "Tonight: change category to portable speakers with a pre-emptive hook (Soul vs Vibe, closing rule frame); midday: insider hook on sensitivity. Tip: post the 13:00 carousel on time and re-share the reel to story with a poll."
+    },
+    {
+      "date": "2026-11-10",
+      "finding": "11-09 likely incomplete (548/623 = identical to 11-08). 11-08 revised 548/623/17, followers 11377 (+4 vs 11-07); about -20% vs 7-day avg (~686) but well up from 189-260 on 11-05..11-07. Breakout: 11-08 under-seat vs box sub reel (simplify hook) now 1169 reach, 12 saves, VR 62.8% (best VR so far), close to the 11-03 amp reel leader (1196 reach, 18 saves). Party speaker reel 11-09: 76 reach, VR 48.8% after <1 day. Carousels: lavmic 11-06 61 reach; 11-07/08/09 carousels not in data. Story data only for 11-07.",
+      "apply": "Evening: stay on subwoofers (the winning category) with a new angle: two slim 12-inch subs JBL WS1200 vs Infinity 123WSL matched to amp power, result-first hook + closing rule frame. Midday: shareable DM-trigger hook on testing internet speed. Tip: re-share tonight's reel to story with a poll and answer comments in the first hour."
+    },
+    {
+      "date": "2026-11-11",
+      "finding": "11-10: reach 173 / views 250 (followers data missing), about -70% vs 7-day avg 582 (11-03..11-09); 11-09 revised 609/705 +3 (11385), 11-08 revised 783/987 +11 -1. Leaders: 11-03 speaker reel 1200 reach 18 saves 5 shares VR 58%; 11-08 under-seat vs box sub reel 1187 reach 12 saves VR 62.8%. 11-10 slim-sub reel 116 reach VR 36% (<1 day). Midday carousels stay small: 11-03 260, 11-04 99, 11-08 65, 11-10 43 reach. Story data: none returned.",
+      "apply": "Mohammad stopped midday carousels (2026-11-11). Evening: car-audio comparison of two well-known component sets (JBL GTO609C vs Kenwood KFC-PS170C) with a scenario/POV hook and a closing rule frame. Tip: re-share the reel to story with a poll and reply to comments in the first hour."
+    },
+    {
+      "date": "2026-11-12",
+      "finding": "11-11 likely incomplete (reach 150 = 11-10, followers missing). Last complete day 11-10: reach 150 / views 301 / 3 engaged, +0 -0 (11384), about -74% vs 7-day avg 582 (11-03..11-09); 11-11 also ~-64% vs 421. Second low streak after 11-05..11-07. Recent reels stuck at ~124-146 reach with VR 37-48% (11-09 party speaker, 11-10 slim sub, 11-11 component); the two breakouts (11-03 speaker 1200 reach, 11-08 under-seat vs box sub 1191 reach, 12 saves, VR 62.7%) solved a real car problem with a simplify/no-change angle. Stories: no data from Metricool.",
+      "apply": "Thursday manual reel: simplify hook (same type as the 11-08 breakout) on a real problem — amp without replacing the stock head unit (Pioneer GM-A6704 speaker-level input + Infinity Alpha 121W on bridged channels), save CTA. Tip: share the reel to story with a poll «پخش ماشینت فابریکه؟» in the first hour and answer comments fast."
+    },
+    {
+      "date": "2026-11-13",
+      "finding": "11-12 likely incomplete (identical to 11-11). 11-11: reach 1728 / views 1981 / 66 engaged, +0 -2 (11383) — about +300% vs 7-day avg 431 (11-04..11-10); 11-10 revised 216/301/10. Driver: the 11-05 manual amp reel «2 کانال یا 4 کانال» (Kenwood 802/804) that Mohammad posted (Metricool dates it 11-12): 1668 reach, 20 saves, 6 shares, VR 60.5% — best reel so far. 11-11 component reel 254 reach VR 55.6%; 11-10 slim sub 146 reach VR 37.4% weakest. 11-12 GM-A6704 reel not in data yet. Stories: no data.",
+      "apply": "Stay on amplifiers with a new angle: 4-channel comparison of two well-known brands (Kenwood KAC-HQR8400 vs Pioneer GM-E7004) with a simple rule frame and save CTA; new hook type spec showdown. Tip: pin a comment «سیستمت چند باند و ساب داره؟» and answer DMs in the first hour."
+    },
+    {
+      "date": "2026-11-14",
+      "finding": "11-13 likely incomplete (reach 453 = 11-12, followers missing). Last complete day 11-12: reach 453 (+29% vs 7-day avg 351, 11-05..11-11), views 2685 (about 6x avg 436), 14 engaged, +2 -4 (11383). 11-11 revised 235/279/6. Views driver: the «2 کانال یا 4 کانال» amp reel (Metricool date 11-12) now 2328 reach, 2651 views, 28 saves, 8 shares, VR 59.5% — best reel ever. 11-13 Kenwood 8400 vs Pioneer 7004 reel: 248 reach, 3 saves, VR 59.4% (<1 day). 11-12 GM-A6704 manual reel not in Metricool data (maybe not posted). Stories: no data.",
+      "apply": "Saturday manual reel: car audio comparison of two known brands with a real-problem question hook in frame 1 (component Infinity Alpha 650C vs JBL Stage1 62CF: «صدای خواننده از پایین پات میاد؟»), closing rule frame + save CTA. Tip: reply to every comment on the amp reel in the first hour and pin a comment «سیستمت فابریکه یا آمپ داره؟»."
+    },
+    {
+      "date": "2026-11-14",
+      "weekly": true,
+      "finding": "Week 11-08..11-14: best = «2 کانال یا 4 کانال» amp reel (2328 reach, 28 saves, 8 shares, question/comparison hook) and 11-08 under-seat vs box sub (1212 reach, 12 saves, simplify); worst = 11-10 slim sub (149 reach, VR 37.8%, result-first) and 11-09 party speaker (164 reach). Question/simplify hooks on a real car situation won; result-first and pure spec hooks were weak. Account reach swings 189-783 per day (avg ~350), views jumped on 11-12; followers flat (11370 -> 11383).",
+      "apply": "Next week: keep car-audio 'which one for which system' comparisons with a question hook naming the viewer's real situation, always a closing rule frame + save CTA; post the manual reels on time so they enter the data."
+    },
+    {
+      "date": "2026-11-15",
+      "finding": "11-14 likely incomplete (views/engaged identical to 11-13, followers missing). Metricool revised 11-12 to 2246 reach / 2686 views / 76 engaged. Last complete day 11-13: reach 1194 (+84% vs 7-day avg 648, 11-06..11-12), views 2384 (about 3x avg 798), 55 engaged, +4 -1 (11389). Reels: «2 کانال یا 4 کانال» 2360 reach/28 saves/8 shares VR 59.6%; 11-13 8400 vs 7004 1604 reach/23 saves VR 59.8%; 11-14 manual 650C vs 62CF already 1419 reach/11 saves/6.58s VR 60.9% in <1 day (question hook). 11-12 GM-A6704 manual reel not in data. Stories: 11-14 rows reach 0 (incomplete).",
+      "apply": "Car-audio comparison of two known brands kept, new sub-category (6×9 rear) and new hook type contrarian «وات بیشتر یعنی صدای بلندتر؟ همیشه نه!», rule frame 93dB + save CTA. Tip: pin a comment «باند عقب ماشینت فابریکه یا عوض کردی؟» and re-share the reel to story with a poll."
+    },
+    {
+      "date": "2026-11-16",
+      "finding": "11-15 likely incomplete (followers missing; reach 275, views 361). Metricool revised 11-14 to reach 2363 (+202% vs 7-day avg 782 of 11-07..11-13), 58 engaged, +5 -6 (11384); its views 361 equals 11-15 — likely wrong. 11-13 revised to 1194/1545/32. Reels: 11-12 «2 کانال یا 4 کانال» 2363 reach/28 saves/8 shares VR 59.6%; 11-14 manual 650C vs 62CF (question hook) 1715 reach/14 saves VR 61.2% — best view rate; 11-13 8400 vs 7004 1641 reach/22 saves; 11-15 6x9 contrarian 205 reach/3 saves VR 58.7% (<1 day). Weak: 11-10 slim sub 159 reach VR 39.2%, 11-09 party speaker 173. Stories 11-14/11-15: reach 0 (no data yet).",
+      "apply": "Keep car-audio comparisons of two known brands with closing rule frame + save CTA; today sub 12 Primus 1270 vs JBL GX1200 with a pre-emptive hook naming the viewer's amp («ساب 12 اینچ می خری؟ اول آمپت رو ببین»). Tip: pin a comment «آمپت چند وات RMS هست؟» and answer every comment in the first hour."
+    },
+    {
+      "date": "2026-11-19",
+      "finding": "11-18: reach45/views74/engaged1, followers missing and reach repeats 11-17: likely incomplete. 11-11..17 average reach1237/views1560. Best reel in range: 2 vs4 channel amp, reach2379/views2711/saves28/shares8. BOYALINK3, BOYALINK2 and MINI14 pages currently out of stock.",
+      "apply": "Use in-stock planned GM-E7002 stereo vs bridge guide, curiosity-gap hook and closing save rule. Ask poll stereo or bridge and re-share after20:30."
+    },
+    {
+      "date": "2026-11-21",
+      "weekly": true,
+      "finding": "آمپ پایونیر ۲۶۶۲ بازدید؛ داده فروش منتسب دریافت نشد.",
+      "apply": "معرفی کاربردی با یک سؤال خرید درباره مدل آمپ"
+    }
+  ],
+  "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
+  "daily_stats": [
+    {
+      "date": "2026-10-25",
+      "account_reach": 71,
+      "views": 164,
+      "accounts_engaged": 4,
+      "followers_gained": 0,
+      "followers_lost": 3
+    },
+    {
+      "date": "2026-10-26",
+      "account_reach": 61,
+      "views": 134,
+      "accounts_engaged": 4,
+      "followers_gained": 1,
+      "followers_lost": 3
+    },
+    {
+      "date": "2026-10-27",
+      "account_reach": 74,
+      "views": 177,
+      "accounts_engaged": 5,
+      "followers_gained": 1,
+      "followers_lost": 1
+    },
+    {
+      "date": "2026-10-28",
+      "account_reach": 247,
+      "views": 435,
+      "accounts_engaged": 9,
+      "followers_gained": 4,
+      "followers_lost": 1
+    },
+    {
+      "date": "2026-10-29",
+      "account_reach": 38,
+      "views": 60,
+      "accounts_engaged": 0,
+      "followers_gained": 2,
+      "followers_lost": 1
+    },
+    {
+      "date": "2026-10-30",
+      "account_reach": 170,
+      "views": 241,
+      "accounts_engaged": 7,
+      "followers_gained": 1,
+      "followers_lost": 1,
+      "followers": 11365
+    },
+    {
+      "date": "2026-10-31",
+      "account_reach": 176,
+      "views": 245,
+      "accounts_engaged": 6,
+      "followers_gained": 1,
+      "followers_lost": 0,
+      "note": "Revised again 2026-11-03: Metricool now 176/245/6 (earlier 576/988, before that 152/198)",
+      "followers": 11366
+    },
+    {
+      "date": "2026-11-01",
+      "account_reach": 1189,
+      "views": 2106,
+      "accounts_engaged": 41,
+      "followers_gained": 1,
+      "followers_lost": 0,
+      "followers": 11370,
+      "note": "Revised 2026-11-04 (Metricool now 1189/2106/41)"
+    },
+    {
+      "date": "2026-11-02",
+      "account_reach": 936,
+      "views": 1389,
+      "accounts_engaged": 38,
+      "followers_gained": 4,
+      "followers_lost": 8,
+      "followers": 11365,
+      "note": "Revised 2026-11-08 (Metricool views now 1389)"
+    },
+    {
+      "date": "2026-11-03",
+      "account_reach": 1273,
+      "views": 1658,
+      "accounts_engaged": 34,
+      "followers_gained": 9,
+      "followers_lost": 0,
+      "followers": 11373,
+      "note": "Revised 2026-11-06 (Metricool now 1273/1658/34)"
+    },
+    {
+      "date": "2026-11-04",
+      "account_reach": 791,
+      "views": 998,
+      "accounts_engaged": 25,
+      "followers_gained": 1,
+      "followers_lost": 2,
+      "followers": 11371,
+      "note": "Revised 2026-11-07 (Metricool now 791/998/25)"
+    },
+    {
+      "date": "2026-11-05",
+      "account_reach": 167,
+      "views": 149,
+      "accounts_engaged": 10,
+      "followers_gained": 0,
+      "followers_lost": 0,
+      "followers": 11371,
+      "note": "Revised 2026-11-08 (149 views, 10 engaged)"
+    },
+    {
+      "date": "2026-11-06",
+      "account_reach": 260,
+      "views": 364,
+      "accounts_engaged": 7,
+      "followers_gained": 1,
+      "followers_lost": 1,
+      "followers": 11370,
+      "note": "Revised 2026-11-09 (Metricool now 260/364/7)"
+    },
+    {
+      "date": "2026-11-07",
+      "account_reach": 189,
+      "views": 264,
+      "accounts_engaged": 9,
+      "followers_gained": 3,
+      "followers_lost": 2,
+      "followers": 11373,
+      "note": "Revised 2026-11-10 (Metricool now 189/264/9)"
+    },
+    {
+      "date": "2026-11-08",
+      "account_reach": 783,
+      "views": 987,
+      "accounts_engaged": 17,
+      "followers_gained": 11,
+      "followers_lost": 1,
+      "followers": 11377,
+      "note": "Revised 2026-11-11 (783/987/17 +11 -1)"
+    },
+    {
+      "date": "2026-11-09",
+      "account_reach": 609,
+      "views": 706,
+      "accounts_engaged": 13,
+      "followers_gained": 3,
+      "followers_lost": 0,
+      "followers": 11385,
+      "note": "Revised 2026-11-11 (609/705/10 +3 -0)"
+    },
+    {
+      "date": "2026-11-10",
+      "account_reach": 216,
+      "views": 301,
+      "accounts_engaged": 10,
+      "followers_gained": 0,
+      "followers_lost": 0,
+      "followers": 11384,
+      "note": "Revised 2026-11-13 (216/301/10)"
+    },
+    {
+      "date": "2026-11-11",
+      "account_reach": 235,
+      "views": 279,
+      "accounts_engaged": 6,
+      "followers_gained": 0,
+      "followers_lost": 2,
+      "followers": 11383,
+      "note": "Revised 2026-11-14 (235/279/6, +0 -2)"
+    },
+    {
+      "date": "2026-11-12",
+      "account_reach": 2246,
+      "views": 2686,
+      "accounts_engaged": 76,
+      "followers_gained": 2,
+      "followers_lost": 4,
+      "followers": 11383,
+      "note": "Revised 2026-11-15 (2246/2686/76, +2 -4)"
+    },
+    {
+      "date": "2026-11-13",
+      "account_reach": 1194,
+      "views": 1545,
+      "accounts_engaged": 32,
+      "followers_gained": 4,
+      "followers_lost": 1,
+      "followers": 11389,
+      "note": "Revised 2026-11-16 (1194/1545/32)"
+    },
+    {
+      "date": "2026-11-14",
+      "account_reach": 2363,
+      "views": 361,
+      "accounts_engaged": 58,
+      "followers_gained": 5,
+      "followers_lost": 6,
+      "followers": 11384,
+      "note": "Revised 2026-11-16 (2363/361/58 +5 -6); views 361 equals 11-15 views — views likely wrong"
+    },
+    {
+      "date": "2026-11-15",
+      "account_reach": 275,
+      "views": 361,
+      "accounts_engaged": 10,
+      "followers_gained": null,
+      "followers_lost": null,
+      "followers": null,
+      "note": "Likely incomplete: followers missing"
+    },
+    {
+      "date": "2026-11-17",
+      "account_reach": 45,
+      "views": 597,
+      "accounts_engaged": 10,
+      "followers_gained": 3,
+      "followers_lost": 2,
+      "followers": 11384,
+      "note": "Revised 2026-11-19"
+    },
+    {
+      "date": "2026-11-18",
+      "account_reach": 45,
+      "views": 74,
+      "accounts_engaged": 1,
+      "followers_gained": null,
+      "followers_lost": null,
+      "followers": null,
+      "note": "Likely incomplete"
+    }
+  ],
+  "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
+  "planned_midday": [
+    {
+      "idea": "آموزش: امپدانس باند (اهم) یعنی چی؟ 2، 3 یا 4 اهم و ربطش به پخش و آمپ",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: بلوتوث پخش ماشین قطع و وصل میشه؟ چند راه حل ساده",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: کانال آمپلی فایر و بریج کردن یعنی چی؟ (ساده، با یک شکل)",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: شارژر گوشی چند وات بگیرم؟ (W، PD و ربطش به کابل)",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: تایم آلاینمنت پخش ماشین یعنی چی و چطوری تنظیمش کنیم",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: کارپلی و اندروید اتو چیه؟ با سیم یا بی سیم و چی لازم داره",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: باتری گوشی رو چطوری سالم نگه داریم (دما، شارژ تا 80٪، شارژ شبانه) — فقط از صفحه پشتیبانی رسمی سازنده",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: فرق Bluetooth 5.x و Auracast چیه؟ پخش همزمان روی چند اسپیکر",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: کواکسیال یا کامپوننت؟ فرقشون چیه و نصب کدوم راحت تره",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: چرا محل نصب تیوتر روی صدا اثر داره؟",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: بلوتوث 10 متر یعنی چی و چرا دیوار بردش رو کم می کنه؟",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: 2.4GHz یا 5GHz؟ کدوم باند وای فای برای کجای خونه",
+      "type": "carousel"
+    },
+    {
+      "idea": "آموزش: گین آمپ ماشین چیه و چرا ولوم نیست؟ (تنظیم ساده و ایمن)",
+      "type": "carousel"
+    }
+  ],
+  "hook_rule": "Mohammad 2026-11-07: NEVER use «اشتباه نخر» / «اشتباه نکن» (or any «X رو اشتباه ...» phrasing) in hooks, titles, covers or captions. Every day research fresh hook formulas (part H) and use a hook TYPE not used in the last 5 feed entries; log 'hook' and 'hook_type' on every feed entry.",
+  "hook_bank": [
+    {
+      "type": "question",
+      "template": "جای/سایز/نوع X ماشینت/خونه ت چیه؟",
+      "example": "جای باند ماشینت چند سانته؟ 13 یا 16؟"
+    },
+    {
+      "type": "pre-emptive",
+      "template": "داری X می خری؟ اول اینو چک کن",
+      "example": "داری آمپ می خری؟ اول این عدد رو ببین"
+    },
+    {
+      "type": "contrarian",
+      "template": "همه میگن X، ولی ...",
+      "example": "همه میگن وات بیشتر بهتره؛ ولی برای پخش فابریک نه"
+    },
+    {
+      "type": "simplify",
+      "template": "برای Y لازم نیست X، فقط Z",
+      "example": "برای صدای بهتر لازم نیست پخش رو عوض کنی"
+    },
+    {
+      "type": "numbered",
+      "template": "2 عدد که قبل از خرید X باید بدونی",
+      "example": "2 عدد روی جعبه باند که مهمه"
+    },
+    {
+      "type": "result-first",
+      "template": "نتیجه رو اول بگو، بعد چطوری",
+      "example": "صدای بلندتر با همون پخش فابریک"
+    },
+    {
+      "type": "time-compressed",
+      "template": "X رو در 15 ثانیه یاد بگیر",
+      "example": "انتخاب ساب ووفر در 15 ثانیه"
+    },
+    {
+      "type": "insider",
+      "template": "چیزی که روی جعبه X نمی نویسن / کمتر کسی میگه",
+      "example": "این عدد روی جعبه باند از وات مهم تره"
+    },
+    {
+      "type": "scenario/POV",
+      "template": "وقتی X رو خریدی و ...",
+      "example": "باند 16 سانت خریدی و جا نشد؟"
+    },
+    {
+      "type": "quiz/interaction",
+      "template": "حدس بزن کدوم ...؟ / تو کدوم رو برمیداری؟",
+      "example": "کدوم برای ماشین تو؟ کامنت کن 1 یا 2"
+    },
+    {
+      "type": "checklist",
+      "template": "قبل از X: چک لیست N تایی",
+      "example": "قبل از خرید باند: چک لیست 3 تایی"
+    },
+    {
+      "type": "before-after",
+      "template": "قبل از X در برابر بعد از X",
+      "example": "صدای پخش فابریک، قبل و بعد از ساب"
+    },
+    {
+      "type": "cost-of-inaction",
+      "template": "هر بار X، داری Y رو از دست میدی",
+      "example": "هر بار با پخش فابریک بلند می کنی، داری توان رو هدر میدی"
+    },
+    {
+      "type": "curiosity-gap",
+      "template": "کسی بهت نمیگه X",
+      "example": "کسی بهت نمیگه اسپیکر کوچیک چطوری بلند میشه"
+    },
+    {
+      "type": "send-this (DM-trigger)",
+      "template": "اینو برای کسی بفرست که ...",
+      "example": "اینو برای کسی بفرست که میگه اینترنت کنده"
+    },
+    {
+      "type": "hyper-specific relatable",
+      "template": "اگه تا حالا X شده، این برای توئه",
+      "example": "اگه صندوقت جای ساب نداره، این برای توئه"
+    },
+    {
+      "type": "statistic-first",
+      "template": "یک عدد واقعی از صفحه محصول، بعد معنیش",
+      "example": "ساب 12 اینچ با 8.3 سانت عمق"
+    },
+    {
+      "type": "honest/vulnerability",
+      "template": "بذار رک بگم: X",
+      "example": "بذار رک بگم: کامپوننت بدون آمپ صدای کم جونی میده"
+    },
+    {
+      "type": "clear premise",
+      "template": "موضوع و نتیجه ویدیو رو صاف تو جمله اول بگو، بدون مقدمه",
+      "example": "یه آمپ برای باند جلو و ساب، روی همون پخش فابریک"
+    },
+    {
+      "type": "spec showdown (split-screen)",
+      "template": "«عدد A یا عدد B؟ X فقط <عدد> نیست» — دو مدل کنار هم، فرق واقعی در یک خط",
+      "example": "60 وات یا 70 وات؟ آمپ 4 کانال فقط وات نیست"
+    },
+    {
+      "type": "pattern-then-break",
+      "template": "اول یه الگوی آشنا رو نشون بده، بعد بشکنش: «همه باند رو عوض می کنن... ولی صدا هنوز از پایینه»",
+      "example": "باند نو گرفتی ولی صدا هنوز از پایین پاته؟"
+    },
+    {
+      "type": "what-if",
+      "template": "اگه بگم X که فکر می کنی، برعکسه چی؟",
+      "example": "اگه بگم باند پرواتتر همیشه بلندتر نیست چی؟"
+    },
+    {
+      "type": "obscured/label reveal",
+      "template": "روی جعبه نوشته X؛ واقعیش چنده؟ (بخشی از محصول/برچسب پوشیده و در کمتر از 2 ثانیه باز میشه)",
+      "example": "روی ساب نوشته 1000W؛ توان واقعیش چنده؟"
+    }
+  ],
+  "hook_bank_sources": [
+    "https://www.opus.pro/blog/instagram-reels-hook-formulas",
+    "https://instantdm.com/blog/10-instagram-hook-templates-that-get-500k-views-and-the-bad-versions-that-get-50",
+    "https://oakgen.ai/blog/instagram-carousel-first-slide-hooks",
+    "https://www.creatorsjet.com/blog/instagram-reel-hooks",
+    "https://blitzcutai.com/blog/best-instagram-reels-hooks-2026",
+    "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-11: vulnerability, pattern-then-break)",
+    "https://nestscale.com/?p=47200 (2026-11-12: clear premise, result-first, pattern interrupt)",
+    "https://www.influencers-time.com/spec-comparison-reels-the-split-screen-brief-driving-convers/ (2026-11-13: split-screen spec comparison)",
+    "https://www.opus.pro/blog/instagram-reels-hook-formulas (re-read 2026-11-14: question, pattern-then-break, cold open)",
+    "https://www.opus.pro/blog/instagram-reels-hook-formulas",
+    "https://blitzcutai.com/blog/visual-hooks-instagram-reels",
+    "https://easyreels.io/blog/reel-hooks-first-three-seconds"
+  ],
+  "midday_rule": "2026-11-11 Mohammad: «دیگه پست های اسلایدی نده برای صبح فقط همون ریل و استوری کافیه» — NO midday carousel any more (part E cancelled). Daily output = evening reel (auto or manual) + story only.",
+  "story_rule": "2026-11-13 Mohammad: daily story = product INFOGRAPHIC made with tools/infostory.py (1080x1920, Laleh colours, extra graphic elements). Only two styles, alternate day by day: 'callout' (BOYA Magic-05 look: product centre, 6 spec cards with leader lines) and 'hud' (Pioneer GM-E7002 look: title, HUD row [main value]+pulse+gauge, 5-bar hologram chart with last bar highlighted, product on grid floor with rings, 3-4 chips). Do not use story.py any more. Log 'style' on each story entry. | 2026-11-15 Mohammad: «استوری مرتبط با ریل امروز باشه برای هر روز مرتبط بده» — every daily story is about one product FROM TODAY'S EVENING REEL (tag «از ریل امشب»); the 21-day repeat and category-rotation rules no longer apply to stories. | 2026-11-15 Mohammad found the callout/hud infographics not creative enough («طرح خلاقانه تری نداری اصلا خوب نیست»); shown 3 new concepts from tools/creative.py (poster, versus, night) and chose «۲ و ۳ یکی درمیون»: from now on every daily story is rendered with tools/creative.py, alternating 'poster' and 'night' (samples: stories/2026-11-15/creative/poster.json, night.json). infostory.py callout/hud is no longer used. | 2026-11-15 Mohammad objected to the «از ریل امشب» pill on the story: no tag on stories (leave 'tag' empty); the poster now always shows brand + model under the headline."
 }
