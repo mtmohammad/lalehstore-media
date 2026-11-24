@@ -714,13 +714,15 @@
       "music": "Real (Instrumental) — Tony Dark Eyes",
       "folder": "posts/2026-11-24-black-friday-ws1200",
       "video": "reel.mp4",
-      "metricool_id": 437856559,
+      "metricool_id": 439912614,
       "metricool_uuid": "1613278076460352994",
       "status": "scheduled",
       "time": "20:30",
-      "stock_checked": "2026-11-22T22:33:00.174698+03:30",
+      "stock_checked": "2026-11-24T11:19:00+03:30",
       "stock_evidence": "stock in-stock; active del/ins sale price",
-      "approved_by_user": true
+      "approved_by_user": true,
+      "caption_hook": "ساب جی‌بی‌ال Club WS1200 تخفیف خورد!",
+      "caption_hook_type": "direct-offer"
     }
   ],
   "stories": [
