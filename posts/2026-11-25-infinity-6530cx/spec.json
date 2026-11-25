@@ -1,0 +1,18 @@
+{
+  "format": "reel",
+  "duration": 18,
+  "style": "black-friday-black-pink",
+  "hook": "منتظر تخفیف اینفینیتی بودی؟",
+  "hook_type": "question",
+  "products": [
+    "Infinity Reference 6530CX"
+  ],
+  "images": [
+    "product-0.png",
+    "product-1.png",
+    "product-2.png"
+  ],
+  "source": "https://lalehstore.com/infinity-reference-6530cx/",
+  "renderer": "render.py",
+  "cta": "همین حالا از سایت سفارش بده یا برای خرید دایرکت پیام بده."
+}
