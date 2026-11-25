@@ -745,13 +745,14 @@
       "metricool_id": 442087651,
       "metricool_uuid": "-4227673098626578007",
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7693953&openWithPostUuid=-4227673098626578007",
-      "status": "scheduled",
+      "status": "published",
       "time": "21:13",
       "time_override": "user requested immediate publication",
       "stock_checked": "2026-11-25T21:10:00+03:30",
       "stock_evidence": "stock in-stock and active del/ins sale price",
       "experiment": "opening-test-1-of-3",
-      "goal": "sales"
+      "goal": "sales",
+      "instagram_url": "https://www.instagram.com/reel/DgLGAQPj8Wx/"
     }
   ],
   "stories": [
