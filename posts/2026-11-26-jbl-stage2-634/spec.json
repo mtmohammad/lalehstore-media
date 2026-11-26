@@ -8,12 +8,13 @@
     "JBL Stage2 634"
   ],
   "images": [
-    "product-0.png",
-    "product-1.png",
-    "product-2.png",
-    "product-3.png"
+    "product-clean-0.webp",
+    "product-clean-1.webp",
+    "product-clean-2.webp",
+    "product-clean-3.webp"
   ],
   "source": "https://lalehstore.com/jbl-stage2-634/",
   "renderer": "render.py",
-  "cta": "همین حالا از سایت سفارش بده یا برای خرید دایرکت پیام بده."
+  "cta": "همین حالا از سایت سفارش بده یا برای خرید دایرکت پیام بده.",
+  "image_cleanup": "white background and floor removed with image editing"
 }

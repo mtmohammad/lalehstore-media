@@ -855,7 +855,7 @@
       "style": "black-friday-black-pink",
       "music": "suggested: Inceptum Instrumental Tony Dark Eyes",
       "folder": "posts/2026-11-26-jbl-stage2-634",
-      "video": "final.mp4",
+      "video": "final-clean.mp4",
       "manual": true,
       "time": "20:30",
       "status": "manual-ready",
@@ -863,7 +863,10 @@
       "stock_evidence": "stock in-stock; add-to-cart; active del/ins sale price",
       "experiment": "opening-test-2-of-3",
       "goal": "sales",
-      "cta": "همین حالا از سایت سفارش بده یا برای خرید دایرکت پیام بده."
+      "cta": "همین حالا از سایت سفارش بده یا برای خرید دایرکت پیام بده.",
+      "cover": "cover-clean.jpg",
+      "image_cleanup": "white floor/shadow removed from speakers and box; all outputs re-rendered",
+      "correction_date": "2026-11-26T21:43:37.258315+03:30"
     }
   ],
   "stories": [
@@ -1038,7 +1041,9 @@
       "url": "https://lalehstore.com/jbl-stage2-634/",
       "tracked_url": "https://lalehstore.com/jbl-stage2-634/?utm_source=instagram&utm_medium=organic_social&utm_campaign=black_friday_2026&utm_content=20261126_stage2634",
       "folder": "stories/2026-11-26",
-      "style": "night"
+      "style": "night",
+      "file": "story-clean.jpg",
+      "image_cleanup": "white floor removed"
     }
   ],
   "articles_used": [

@@ -39,7 +39,7 @@ strip=Image.fromarray(ar)
 
 products=[]
 for i in range(4):
- p=Image.open(out/f'product-{i}.png').convert('RGBA')
+ p=Image.open(out/f'product-clean-{i}.webp').convert('RGBA')
  ratio=min(860/p.width,640/p.height)
  products.append(p.resize((int(p.width*ratio),int(p.height*ratio)),Image.Resampling.LANCZOS))
 copy=[
@@ -109,6 +109,6 @@ for t in times:frame(t).save(out/f'preview-{t}.jpg',quality=92)
 if '--preview' in sys.argv:sys.exit()
 audio,_=music.make(18,[5,10,15],'house',2611)
 music.write_wav('/tmp/bfr/approved.wav',audio)
-p=subprocess.Popen(['ffmpeg','-y','-v','error','-f','rawvideo','-pix_fmt','rgb24','-s','1080x1920','-r','24','-i','-','-i','/tmp/bfr/approved.wav','-c:v','libx264','-threads','3','-preset','fast','-crf','21','-pix_fmt','yuv420p','-af','volume=0.7,afade=t=out:st=17:d=1','-c:a','aac','-t','18','-movflags','+faststart',str(out/'reel.mp4')],stdin=subprocess.PIPE)
+p=subprocess.Popen(['ffmpeg','-y','-v','error','-f','rawvideo','-pix_fmt','rgb24','-s','1080x1920','-r','24','-i','-','-i','/tmp/bfr/approved.wav','-c:v','libx264','-threads','3','-preset','fast','-crf','21','-pix_fmt','yuv420p','-af','volume=0.7,afade=t=out:st=17:d=1','-c:a','aac','-t','18','-movflags','+faststart',str(out/'reel-clean.mp4')],stdin=subprocess.PIPE)
 for k in range(432):p.stdin.write(frame(k/24).tobytes())
 p.stdin.close();sys.exit(p.wait())
