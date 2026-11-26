@@ -614,7 +614,21 @@
       "video": "amp-reel.mp4",
       "manual": true,
       "time": "20:30",
-      "status": "prepared for manual delivery"
+      "status": "prepared for manual delivery",
+      "metric_snapshots": [
+        {
+          "observed_at": "2026-11-26T16:46:37.758708+03:30",
+          "post_age_hours": 164.28,
+          "reach": 2379.0,
+          "views": 2731.0,
+          "likes": 40.0,
+          "comments": 0.0,
+          "saved": 45.0,
+          "shares": 9.0,
+          "avg_watch_time": 6.79,
+          "view_rate": 57.1
+        }
+      ]
     },
     {
       "date": "2026-11-21",
@@ -639,7 +653,21 @@
       "cta": "مدل آمپت رو دایرکت کن",
       "stock_checked": "2026-11-21T18:23:16.337159+03:30",
       "stock_evidence": "stock in-stock + add to cart",
-      "status": "prepared for manual delivery"
+      "status": "prepared for manual delivery",
+      "metric_snapshots": [
+        {
+          "observed_at": "2026-11-26T16:46:37.758708+03:30",
+          "post_age_hours": 116.28,
+          "reach": 1483.0,
+          "views": 1546.0,
+          "likes": 12.0,
+          "comments": 0.0,
+          "saved": 1.0,
+          "shares": 1.0,
+          "avg_watch_time": 4.923,
+          "view_rate": 53.4
+        }
+      ]
     },
     {
       "date": "2026-11-22",
@@ -666,7 +694,21 @@
       "time": "21:30",
       "metricool_id": 437797177,
       "metricool_uuid": "-8386716506964735572",
-      "status": "scheduled"
+      "status": "scheduled",
+      "metric_snapshots": [
+        {
+          "observed_at": "2026-11-26T16:46:37.758708+03:30",
+          "post_age_hours": 91.28,
+          "reach": 383.0,
+          "views": 438.0,
+          "likes": 6.0,
+          "comments": 0.0,
+          "saved": 2.0,
+          "shares": 1.0,
+          "avg_watch_time": 6.568,
+          "view_rate": 55.2
+        }
+      ]
     },
     {
       "date": "2026-11-23",
@@ -694,7 +736,21 @@
       "stock_checked": "2026-11-23T09:47:00.840149+03:30",
       "stock_evidence": "stock in-stock; add-to-cart enabled",
       "goal": "sales",
-      "cta": "مدل ماشینت رو دایرکت کن"
+      "cta": "مدل ماشینت رو دایرکت کن",
+      "metric_snapshots": [
+        {
+          "observed_at": "2026-11-26T16:46:37.758708+03:30",
+          "post_age_hours": 68.28,
+          "reach": 167.0,
+          "views": 182.0,
+          "likes": 3.0,
+          "comments": 0.0,
+          "saved": 0.0,
+          "shares": 0.0,
+          "avg_watch_time": 3.713,
+          "view_rate": 36.1
+        }
+      ]
     },
     {
       "date": "2026-11-24",
@@ -722,7 +778,21 @@
       "stock_evidence": "stock in-stock; active del/ins sale price",
       "approved_by_user": true,
       "caption_hook": "ساب جی‌بی‌ال Club WS1200 تخفیف خورد!",
-      "caption_hook_type": "direct-offer"
+      "caption_hook_type": "direct-offer",
+      "metric_snapshots": [
+        {
+          "observed_at": "2026-11-26T16:46:37.758708+03:30",
+          "post_age_hours": 44.28,
+          "reach": 259.0,
+          "views": 286.0,
+          "likes": 4.0,
+          "comments": 0.0,
+          "saved": 3.0,
+          "shares": 0.0,
+          "avg_watch_time": 4.915,
+          "view_rate": 41.5
+        }
+      ]
     },
     {
       "date": "2026-11-25",
@@ -752,7 +822,48 @@
       "stock_evidence": "stock in-stock and active del/ins sale price",
       "experiment": "opening-test-1-of-3",
       "goal": "sales",
-      "instagram_url": "https://www.instagram.com/reel/DgLGAQPj8Wx/"
+      "instagram_url": "https://www.instagram.com/reel/DgLGAQPj8Wx/",
+      "metric_snapshots": [
+        {
+          "observed_at": "2026-11-26T16:46:37.758708+03:30",
+          "post_age_hours": 19.56,
+          "reach": 127.0,
+          "views": 152.0,
+          "likes": 5.0,
+          "comments": 0.0,
+          "saved": 0.0,
+          "shares": 0.0,
+          "avg_watch_time": 4.774,
+          "view_rate": 40.3
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "slot": "evening",
+      "type": "reel",
+      "category": "car audio",
+      "topic": "تخفیف بلک‌فرایدی باند جی‌بی‌ال Stage2 634",
+      "hook": "باند جی‌بی‌ال تخفیف خورد!",
+      "hook_type": "direct-offer",
+      "products": [
+        "JBL Stage2 634"
+      ],
+      "sources": [
+        "https://lalehstore.com/jbl-stage2-634/"
+      ],
+      "style": "black-friday-black-pink",
+      "music": "suggested: Inceptum Instrumental Tony Dark Eyes",
+      "folder": "posts/2026-11-26-jbl-stage2-634",
+      "video": "final.mp4",
+      "manual": true,
+      "time": "20:30",
+      "status": "manual-ready",
+      "stock_checked": "2026-11-26T19:34:35.749732+03:30",
+      "stock_evidence": "stock in-stock; add-to-cart; active del/ins sale price",
+      "experiment": "opening-test-2-of-3",
+      "goal": "sales",
+      "cta": "همین حالا از سایت سفارش بده یا برای خرید دایرکت پیام بده."
     }
   ],
   "stories": [
@@ -920,6 +1031,14 @@
       "folder": "stories/2026-11-25",
       "style": "poster",
       "campaign_style": "black-pink"
+    },
+    {
+      "date": "2026-11-26",
+      "product": "JBL Stage2 634",
+      "url": "https://lalehstore.com/jbl-stage2-634/",
+      "tracked_url": "https://lalehstore.com/jbl-stage2-634/?utm_source=instagram&utm_medium=organic_social&utm_campaign=black_friday_2026&utm_content=20261126_stage2634",
+      "folder": "stories/2026-11-26",
+      "style": "night"
     }
   ],
   "articles_used": [
@@ -1053,7 +1172,10 @@
       "idea": "آمپ چهار کانال برای باند جلو و عقب با مدل‌های موجود و زاویه جدید"
     },
     {
-      "idea": "کمپین بلک‌فرایدی باند جی‌بی‌ال Stage2 634 با تخفیف و موجودی روز تأیید شود"
+      "idea": "بلک‌فرایدی باند جی‌بی‌ال Stage1 621F با تأیید موجودی و تخفیف روز"
+    },
+    {
+      "idea": "پاسخ به سؤال خرید باند اینفینیتی Alpha 603 با زاویه تازه و تأیید موجودی"
     }
   ],
   "schedule_rule": "Feed posts via Metricool (auto) on Sunday, Monday, Tuesday, Wednesday, Friday (Tehran) at 20:30, max 20 Metricool posts per calendar month. On Thursday and Saturday (and on post days once the monthly 20 are used) a MANUAL feed video is made and sent to Mohammad to post himself at 20:30; manual entries have \"manual\": true and do not count toward the 20. Stories every day. From 2026-11-02 (Mohammad's request): a SECOND daily feed post, MANUAL (\"slot\": \"midday\"), posted by him at 13:00 Tehran — non-promotional only: tech news (verified, last ~72h, source named), educational reels and educational carousels. Midday entries are manual and never count toward the Metricool 20. UPDATE 2026-11-02 (Mohammad): NO tech-news posts — the midday 13:00 slot is EDUCATION carousels only.",
@@ -1181,6 +1303,11 @@
       "date": "2026-11-25",
       "finding": "۲۴ نوامبر ریچ171 و بازدید196، دنبال‌کنندگان ناموجود و احتمال ناقص؛ میانگین ریچ هفت روز قبل746.1. در داده کامل روز22 ریچ419 نسبت به میانگین هفت روز قبل1029.9 بیش از50درصد افت و روز23 ریچ171 نیز بیش از50درصد افت دارد. ریل بلک‌فرایدی24نوامبر در اولین مشاهده145views،5.079s،37.6درصد و آمپ19نوامبر2728views،45save،9share. سن پست‌ها برابر نیست و علت قطعی افت روشن نیست.",
       "apply": "آزمایش1از3: محصول واقعی، مدل و تخفیف از فریم صفر؛ سؤال کوتاه خرید، تغییر عکس و متن و افکت نور، بدون مشخصات فنی. موضوع موجود و تخفیف‌دار جدید اینفینیتی6530CX. توصیه پاسخ به پیام خرید در ساعت اول."
+    },
+    {
+      "date": "2026-11-26",
+      "finding": "ریچ25نوامبر224 در برابر میانگین هفت روز قبل716.4 حدود68.7درصد کمتر؛ بازدید326 تکراری و دنبال‌کنندگان مفقود، احتمال ناقص. آخرین روز کامل24نوامبر ریچ250، +2/-1 دنبال‌کننده. افت بیش از50درصد ریچ روز23 و24 نسبت به میانگین هفت روز پیش هر روز ادامه دارد. بهترین ریل هفته آمپ پایونیر19نوامبر2731views/45save/9share؛ ضعیف‌ترین در snapshot اینفینیتی25نوامبر152views، اما کمتر از24ساعت گذشته و قضاوت نهایی معتبر نیست. استوری داده کم و پراکنده؛ مقایسه معتبر سبک‌ها ممکن نیست.",
+      "apply": "آزمایش دوم شروع سریع با باند JBL Stage2 634 موجود و تخفیف‌دار؛ محصول، مدل و پیام تخفیف از فریم صفر، تغییر نما حدود2.2ثانیه، CTA پایانی3ثانیه. انتشار دستی پنجشنبه20:30؛ پیشنهاد بازنشر به استوری و پاسخ فوری به دایرکت خرید."
     }
   ],
   "style_rule": "From 2026-10-31 (Mohammad's request): every reel/post is rendered with tools/studio.py — the light story look (logo, gradient pills, white cards, Vazirmatn) + cinematic motion (kinetic type, paper-wipe transitions, camera push, products sliding in and floating). NO 3D products (Mohammad tried it and rejected it). Midday news/education posts (from 2026-11-02): IMAGE CAROUSELS made with tools/slides.py (Zoomit/Digiato-like layout in the lalehstore light theme: gradient kicker pill, bold headline with brand-gradient highlights, big hero = store product photo or 3D icon from tools/icons, numbered inner slides, outro) — not reels.",
@@ -1463,23 +1590,34 @@
     },
     {
       "date": "2026-11-23",
-      "account_reach": 171.0,
+      "account_reach": 225.0,
       "views": 300.0,
-      "accounts_engaged": 3.0,
+      "accounts_engaged": 5.0,
       "followers_gained": 2.0,
       "followers_lost": 0.0,
       "followers": 11390.0
     },
     {
       "date": "2026-11-24",
-      "account_reach": 171.0,
-      "views": 196.0,
-      "accounts_engaged": 3.0,
+      "account_reach": 250.0,
+      "views": 326.0,
+      "accounts_engaged": 6.0,
+      "followers_gained": 2.0,
+      "followers_lost": 1.0,
+      "followers": 11392.0,
+      "likely_incomplete": true,
+      "note": "reach repeats 171; follower metrics missing"
+    },
+    {
+      "date": "2026-11-25",
+      "account_reach": 224.0,
+      "views": 326.0,
+      "accounts_engaged": 7.0,
       "followers_gained": null,
       "followers_lost": null,
       "followers": null,
       "likely_incomplete": true,
-      "note": "reach repeats 171; follower metrics missing"
+      "note": "views326 repeat previous day; follower metrics missing"
     }
   ],
   "daily_stats_note": "Instagram account-level stats per Tehran day from Metricool (IGEV06 reach, IGEV05 views, IGEV42 accounts engaged, IGEV43/44 followers gained/lost). Followers ~11365. The daily job appends yesterday every run and compares with the 7-day average.",
@@ -1653,6 +1791,11 @@
       "type": "obscured/label reveal",
       "template": "روی جعبه نوشته X؛ واقعیش چنده؟ (بخشی از محصول/برچسب پوشیده و در کمتر از 2 ثانیه باز میشه)",
       "example": "روی ساب نوشته 1000W؛ توان واقعیش چنده؟"
+    },
+    {
+      "type": "direct-offer",
+      "template": "[دسته + برند + مدل] تخفیف خورد!",
+      "example": "باند جی‌بی‌ال Stage2 634 تخفیف خورد!"
     }
   ],
   "hook_bank_sources": [
@@ -1670,7 +1813,8 @@
     "https://easyreels.io/blog/reel-hooks-first-three-seconds",
     "https://www.creator.kitchen/blog/how-to-write-a-reel-hook",
     "https://xertzproduction.com/blog/instagram-reels-hooks-for-brands.html",
-    "https://www.sendible.com/insights/black-friday-social-media-post-ideas"
+    "https://www.sendible.com/insights/black-friday-social-media-post-ideas",
+    "https://later.com/blog/black-friday-social-media-posts/"
   ],
   "midday_rule": "2026-11-11 Mohammad: «دیگه پست های اسلایدی نده برای صبح فقط همون ریل و استوری کافیه» — NO midday carousel any more (part E cancelled). Daily output = evening reel (auto or manual) + story only.",
   "story_rule": "2026-11-13 Mohammad: daily story = product INFOGRAPHIC made with tools/infostory.py (1080x1920, Laleh colours, extra graphic elements). Only two styles, alternate day by day: 'callout' (BOYA Magic-05 look: product centre, 6 spec cards with leader lines) and 'hud' (Pioneer GM-E7002 look: title, HUD row [main value]+pulse+gauge, 5-bar hologram chart with last bar highlighted, product on grid floor with rings, 3-4 chips). Do not use story.py any more. Log 'style' on each story entry. | 2026-11-15 Mohammad: «استوری مرتبط با ریل امروز باشه برای هر روز مرتبط بده» — every daily story is about one product FROM TODAY'S EVENING REEL (tag «از ریل امشب»); the 21-day repeat and category-rotation rules no longer apply to stories. | 2026-11-15 Mohammad found the callout/hud infographics not creative enough («طرح خلاقانه تری نداری اصلا خوب نیست»); shown 3 new concepts from tools/creative.py (poster, versus, night) and chose «۲ و ۳ یکی درمیون»: from now on every daily story is rendered with tools/creative.py, alternating 'poster' and 'night' (samples: stories/2026-11-15/creative/poster.json, night.json). infostory.py callout/hud is no longer used. | 2026-11-15 Mohammad objected to the «از ریل امشب» pill on the story: no tag on stories (leave 'tag' empty); the poster now always shows brand + model under the headline."

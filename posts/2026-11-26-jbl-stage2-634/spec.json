@@ -1,0 +1,19 @@
+{
+  "format": "reel",
+  "duration": 18,
+  "style": "black-friday-black-pink",
+  "hook": "باند جی‌بی‌ال تخفیف خورد!",
+  "hook_type": "direct-offer",
+  "products": [
+    "JBL Stage2 634"
+  ],
+  "images": [
+    "product-0.png",
+    "product-1.png",
+    "product-2.png",
+    "product-3.png"
+  ],
+  "source": "https://lalehstore.com/jbl-stage2-634/",
+  "renderer": "render.py",
+  "cta": "همین حالا از سایت سفارش بده یا برای خرید دایرکت پیام بده."
+}

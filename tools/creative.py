@@ -208,7 +208,7 @@ def night(sp, P):
   <div style="font-family:L;font-size:96px;line-height:1.1;text-shadow:0 0 30px rgba(236,85,129,.8)">{t(sp["headline"])}</div></div>
 <svg class="abs" style="left:0;top:0" width="1080" height="1000" viewBox="0 0 1080 1000">
   <defs><linearGradient id="ng" x1="0" x2="1"><stop offset="0" stop-color="#3E95F7"/><stop offset=".6" stop-color="#9B6FE0"/><stop offset="1" stop-color="#EC5581"/></linearGradient>
-  <filter id="gl"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <filter id="gl" filterUnits="userSpaceOnUse" x="0" y="0" width="1080" height="1000"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
   <path d="M {cx - R - 26} {cy} A {R + 26} {R + 26} 0 0 1 {cx + R + 26} {cy}" fill="none" stroke="rgba(255,255,255,.1)" stroke-width="18" stroke-linecap="round"/>
   <path d="M {cx - R - 26} {cy} A {R + 26} {R + 26} 0 0 1 {cx + R + 26} {cy}" fill="none" stroke="url(#ng)" stroke-width="18" stroke-linecap="round"
         stroke-dasharray="{arc_len * frac:.1f} 9999" filter="url(#gl)"/>
